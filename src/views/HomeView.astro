@@ -16,10 +16,13 @@ const regionKeys = [...new Set(posts.map((p) => p.data.region))];
 ---
 <BaseLayout lang={lang} title={siteConfig.name[lang]} description={siteConfig.tagline[lang]} path={localePath(lang, '/')} alternates={{ ko: '/', en: '/en/' }}>
   <section class="hero">
-    <div class="container">
-      <p class="eyebrow">{t(lang, 'scope.domestic')} · {t(lang, 'scope.overseas')}</p>
-      <h1>{siteConfig.name[lang]}</h1>
-      <p class="tagline">{siteConfig.tagline[lang]}</p>
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <p class="eyebrow">{t(lang, 'scope.domestic')} · {t(lang, 'scope.overseas')}</p>
+        <h1>{siteConfig.name[lang]}</h1>
+        <p class="tagline">{siteConfig.tagline[lang]}</p>
+      </div>
+      <img class="hero-art" src="/brand/hero.webp" alt={siteConfig.name.ko} width="1600" height="1751" loading="eager" fetchpriority="high" />
     </div>
   </section>
 
@@ -54,5 +57,8 @@ const regionKeys = [...new Set(posts.map((p) => p.data.region))];
   .eyebrow { color: var(--c-primary-deep); font-weight: 600; letter-spacing: .08em; font-size: .85rem; margin-bottom: .6em; }
   .hero h1 { font-size: clamp(2rem, 5vw, 3rem); margin-bottom: .3em; }
   .tagline { max-width: 40ch; color: var(--c-muted); font-size: 1.1rem; margin: 0; }
+  .hero-inner { display: grid; grid-template-columns: 1.1fr 1fr; align-items: center; gap: 2rem; }
+  .hero-art { width: 100%; height: auto; border-radius: var(--radius); }
+  @media (max-width: 760px) { .hero-inner { grid-template-columns: 1fr; } .hero-art { max-width: 420px; margin-inline: auto; } }
   .span-all { grid-column: 1 / -1; }
 </style>

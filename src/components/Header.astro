@@ -15,7 +15,8 @@ const nav = [
 <header class="site-header">
   <div class="container row">
     <a class="logo" href={localePath(lang, '/')}>
-      <span class="logo-dot"></span>{siteConfig.name[lang]}
+      <img src="/brand/logo-mark-192.png" alt="" width="36" height="36" />
+      {siteConfig.name[lang]}
     </a>
     <nav aria-label="main">
       {nav.map((n) => <a href={n.href}>{n.label}</a>)}
@@ -28,7 +29,7 @@ const nav = [
   .row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; height: 64px; }
   .logo { font-family: var(--font-head); font-weight: 700; font-size: 1.25rem; color: var(--c-text); display: flex; align-items: center; gap: .5rem; }
   .logo:hover { text-decoration: none; }
-  .logo-dot { width: 14px; height: 14px; border-radius: 50%; background: linear-gradient(135deg, var(--c-primary), var(--c-accent-2)); box-shadow: var(--shadow-sm); }
+  .logo img { width: 36px; height: 36px; }
   nav { display: flex; align-items: center; gap: 1.1rem; }
   nav a { color: var(--c-text); font-weight: 500; }
   @media (max-width: 640px) { nav { gap: .7rem; font-size: .92rem; } .logo { font-size: 1.05rem; } }

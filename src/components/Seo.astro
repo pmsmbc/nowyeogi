@@ -18,7 +18,7 @@ const base = siteConfig.url.replace(/\/$/, '');
 const abs = (p: string) => (p.startsWith('http') ? p : `${base}${p}`);
 const canonical = abs(path);
 const fullTitle = title === siteConfig.name[lang] ? title : `${title} | ${siteConfig.name[lang]}`;
-const ogImage = abs(image ?? '/images/sample/00.webp');
+const ogImage = abs(image ?? '/brand/hero.webp');
 const alt = { [lang]: path, ...alternates } as Partial<Record<Lang, string>>;
 const xDefault = alt.ko ?? path;
 ---
