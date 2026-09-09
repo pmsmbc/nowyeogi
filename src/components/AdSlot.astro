@@ -1,0 +1,17 @@
+---
+import siteConfig, { type Lang } from '../site.config';
+import { t } from '../i18n/ui';
+
+interface Props { lang: Lang; slot: 'top' | 'bottom' | 'list' }
+const { lang, slot } = Astro.props;
+const client = siteConfig.adsense.client.trim();
+const slotId = siteConfig.adsense.slots[slot]?.trim();
+const enabled = Boolean(client && slotId);
+---
+{enabled && (
+  <div class="ad" data-ad={slot}>
+    <span class="ad-label">{t(lang, 'ad.label')}</span>
+    <ins class="adsbygoogle" style="display:block" data-ad-client={client} data-ad-slot={slotId} data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+)}

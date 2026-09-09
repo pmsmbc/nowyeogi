@@ -1,0 +1,58 @@
+---
+import siteConfig, { type Lang } from '../site.config';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import RegionChips from '../components/RegionChips.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { getPosts } from '../lib/posts';
+import { t } from '../i18n/ui';
+import { localePath } from '../lib/postUtils';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const posts = await getPosts(lang);
+const latest = posts.slice(0, 9);
+const regionKeys = [...new Set(posts.map((p) => p.data.region))];
+---
+<BaseLayout lang={lang} title={siteConfig.name[lang]} description={siteConfig.tagline[lang]} path={localePath(lang, '/')} alternates={{ ko: '/', en: '/en/' }}>
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">{t(lang, 'scope.domestic')} · {t(lang, 'scope.overseas')}</p>
+      <h1>{siteConfig.name[lang]}</h1>
+      <p class="tagline">{siteConfig.tagline[lang]}</p>
+    </div>
+  </section>
+
+  <section class="section container">
+    <div class="section-title">
+      <h2>{t(lang, 'home.latest')}</h2>
+      <a class="small" href={localePath(lang, '/domestic/')}>{t(lang, 'home.more')} →</a>
+    </div>
+    {latest.length === 0 ? (
+      <p class="muted">{t(lang, 'list.empty')}</p>
+    ) : (
+      <div class="grid">
+        {latest.map((post, i) => (
+          <>
+            <PostCard post={post} lang={lang} eager={i < 3} />
+            {i === 5 && <div class="span-all"><AdSlot lang={lang} slot="list" /></div>}
+          </>
+        ))}
+      </div>
+    )}
+  </section>
+
+  {regionKeys.length > 0 && (
+    <section class="section container">
+      <div class="section-title"><h2>{t(lang, 'home.regions')}</h2></div>
+      <RegionChips lang={lang} keys={regionKeys} />
+    </section>
+  )}
+</BaseLayout>
+<style>
+  .hero { padding: 4rem 0 3rem; background: radial-gradient(ellipse at 20% 0%, var(--c-primary-soft), transparent 60%), radial-gradient(ellipse at 90% 20%, var(--c-accent-2), transparent 50%); }
+  .eyebrow { color: var(--c-primary-deep); font-weight: 600; letter-spacing: .08em; font-size: .85rem; margin-bottom: .6em; }
+  .hero h1 { font-size: clamp(2rem, 5vw, 3rem); margin-bottom: .3em; }
+  .tagline { max-width: 40ch; color: var(--c-muted); font-size: 1.1rem; margin: 0; }
+  .span-all { grid-column: 1 / -1; }
+</style>

@@ -1,0 +1,35 @@
+---
+import siteConfig, { type Lang } from '../site.config';
+import { t } from '../i18n/ui';
+import { localePath } from '../lib/postUtils';
+import LangSwitch from './LangSwitch.astro';
+
+interface Props { lang: Lang; alternates?: Partial<Record<Lang, string>> }
+const { lang, alternates } = Astro.props;
+const nav = [
+  { href: localePath(lang, '/domestic/'), label: t(lang, 'nav.domestic') },
+  { href: localePath(lang, '/overseas/'), label: t(lang, 'nav.overseas') },
+  { href: localePath(lang, '/about/'), label: t(lang, 'nav.about') },
+];
+---
+<header class="site-header">
+  <div class="container row">
+    <a class="logo" href={localePath(lang, '/')}>
+      <span class="logo-dot"></span>{siteConfig.name[lang]}
+    </a>
+    <nav aria-label="main">
+      {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+      <LangSwitch lang={lang} alternates={alternates} />
+    </nav>
+  </div>
+</header>
+<style>
+  .site-header { position: sticky; top: 0; z-index: 10; background: rgba(251, 250, 247, .85); backdrop-filter: blur(10px); border-bottom: 1px solid var(--c-line); }
+  .row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; height: 64px; }
+  .logo { font-family: var(--font-head); font-weight: 700; font-size: 1.25rem; color: var(--c-text); display: flex; align-items: center; gap: .5rem; }
+  .logo:hover { text-decoration: none; }
+  .logo-dot { width: 14px; height: 14px; border-radius: 50%; background: linear-gradient(135deg, var(--c-primary), var(--c-accent-2)); box-shadow: var(--shadow-sm); }
+  nav { display: flex; align-items: center; gap: 1.1rem; }
+  nav a { color: var(--c-text); font-weight: 500; }
+  @media (max-width: 640px) { nav { gap: .7rem; font-size: .92rem; } .logo { font-size: 1.05rem; } }
+</style>

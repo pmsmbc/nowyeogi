@@ -1,0 +1,11 @@
+---
+import type { Lang } from '../site.config';
+import { t } from '../i18n/ui';
+import { localePath } from '../lib/postUtils';
+
+interface Props { lang: Lang; alternates?: Partial<Record<Lang, string>> }
+const { lang, alternates = {} } = Astro.props;
+const other: Lang = lang === 'ko' ? 'en' : 'ko';
+const href = alternates[other] ?? localePath(other, '/');
+---
+<a class="lang-switch chip" href={href} hreflang={other} lang={other} title={t(lang, 'lang.switchTitle')}>{t(lang, 'lang.switch')}</a>

@@ -1,0 +1,14 @@
+---
+import type { Lang } from '../site.config';
+import { regionName } from '../data/regions';
+import { localePath } from '../lib/postUtils';
+
+interface Props { lang: Lang; keys: string[] }
+const { lang, keys } = Astro.props;
+---
+<div class="chips">
+  {keys.map((k) => <a class="chip" href={localePath(lang, `/regions/${k}/`)}>{regionName(k, lang)}</a>)}
+</div>
+<style>
+  .chips { display: flex; flex-wrap: wrap; gap: .6rem; }
+</style>
