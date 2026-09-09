@@ -4,7 +4,7 @@ const TOP_KEYS = {
   scope: ['구분', 'scope'],
   type: ['종류', 'type'],
   companions: ['동행', 'companions', 'with'],
-  memo: ['메모', 'memo', 'note'],
+  memo: ['메모', 'memo'],
 };
 const PLACE_KEYS = {
   name: ['이름', 'name'],
@@ -38,7 +38,7 @@ function normalizePrice(p) {
 export function parseMenu(s) {
   const text = String(s ?? '').trim();
   if (!text) return [];
-  return text.split(/\s*[\/,]\s*/).filter(Boolean).map((item) => {
+  return text.split(/\s*\/\s*|\s*,(?!\d)\s*/).filter(Boolean).map((item) => {
     const m = item.match(/^(.*?)\s+([\d,]+\s*\S*)$/);
     if (!m) return { name: item, price: '' };
     return { name: m[1].trim(), price: normalizePrice(m[2].trim()) };

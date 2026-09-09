@@ -43,4 +43,10 @@ describe('serializePost / noteToComment', () => {
     expect(c.endsWith('-->')).toBe(true);
     expect(c.slice(4, -3)).not.toContain('-->');
   });
+  it('연속된 --- 처럼 반복된 하이픈도 완전히 무력화한다', () => {
+    const c = noteToComment('제주공항 ---> 애월');
+    const inner = c.slice(4, -3);
+    expect(inner).not.toContain('-->');
+    expect(inner).not.toContain('--');
+  });
 });

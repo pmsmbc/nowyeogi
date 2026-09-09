@@ -29,7 +29,8 @@ export function buildFrontmatter({ note, regionKey, regionScope, images, today }
 }
 
 export function noteToComment(raw) {
-  const safe = String(raw ?? '').replace(/--/g, '- -');
+  let safe = String(raw ?? '');
+  while (safe.includes('--')) safe = safe.replace(/--/g, '- -');
   return `<!--\nnote.txt 원문 (글을 다 쓰면 이 주석은 지워도 됩니다)\n\n${safe}\n-->`;
 }
 
