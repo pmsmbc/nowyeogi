@@ -14,7 +14,7 @@
   --shadow: 0 8px 24px rgba(94, 150, 200, 0.12);
   --shadow-sm: 0 2px 8px rgba(94, 150, 200, 0.1);
   --font-body: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Roboto, sans-serif;
-  --font-head: 'Noto Serif KR', 'Apple SD Gothic Neo', Georgia, serif;
+  --font-head: var(--font-body);
   --max: 1080px;
   --measure: 720px;
 }
@@ -35,7 +35,7 @@ body {
 img { max-width: 100%; height: auto; display: block; }
 a { color: var(--c-primary-deep); text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: 3px; }
-h1, h2, h3 { font-family: var(--font-head); font-weight: 600; line-height: 1.35; margin: 0 0 .5em; }
+h1, h2, h3 { font-family: var(--font-head); font-weight: 700; letter-spacing: -0.01em; line-height: 1.35; margin: 0 0 .5em; }
 h1 { font-size: clamp(1.7rem, 4vw, 2.4rem); }
 h2 { font-size: clamp(1.3rem, 3vw, 1.7rem); }
 h3 { font-size: 1.15rem; }
