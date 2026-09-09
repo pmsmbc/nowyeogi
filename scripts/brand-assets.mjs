@@ -37,15 +37,11 @@ const heroExtended = await sharp(hero)
   .toBuffer();
 await sharp(heroExtended).resize({ width: 1600 }).webp({ quality: 85 }).toFile(join(OUT, 'hero.webp'));
 
-// 기본 OG 이미지: 1200x630 크림색 배경 위에 히어로 아트워크를 1000x560 안에 맞춰 가운데 배치.
-const ogArtwork = await sharp(hero)
-  .trim({ threshold: 20 })
-  .resize({ width: 1000, height: 560, fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
-  .png()
-  .toBuffer();
-await sharp({ create: { width: 1200, height: 630, channels: 4, background: '#fbfaf7' } })
-  .composite([{ input: ogArtwork, gravity: 'centre' }])
-  .jpeg({ quality: 85 })
+// 기본 OG 이미지: 사용자가 만든 이미지/og-img.jpeg (2848x1504) 를 1200x630 으로 가운데 크롭.
+const ogSource = join(SRC, 'og-img.jpeg');
+await sharp(ogSource)
+  .resize({ width: 1200, height: 630, fit: 'cover', position: 'centre' })
+  .jpeg({ quality: 85, mozjpeg: true })
   .toFile(join(OUT, 'og-default.jpg'));
 
 for (const f of ['logo-mark.png', 'logo-mark-192.png', 'hero.webp', 'og-default.jpg']) {

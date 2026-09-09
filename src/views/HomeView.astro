@@ -14,7 +14,7 @@ const posts = await getPosts(lang);
 const latest = posts.slice(0, 9);
 const regionKeys = [...new Set(posts.map((p) => p.data.region))];
 ---
-<BaseLayout lang={lang} title={siteConfig.name[lang]} description={siteConfig.tagline[lang]} path={localePath(lang, '/')} alternates={{ ko: '/', en: '/en/' }}>
+<BaseLayout lang={lang} title={siteConfig.homeTitle[lang]} description={siteConfig.description[lang]} path={localePath(lang, '/')} alternates={{ ko: '/', en: '/en/' }}>
   <section class="hero">
     <div class="container hero-inner">
       <div class="hero-text">

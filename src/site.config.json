@@ -4,9 +4,17 @@
     "ko": "지금 여기는",
     "en": "Now, Yeogi"
   },
+  "homeTitle": {
+    "ko": "지금 여기는 — 서울·한국 여행 숙소, 맛집, 관광 정보",
+    "en": "Now, Yeogi — Korea Travel Guides: Where to Stay, Eat and Shop"
+  },
+  "description": {
+    "ko": "처음 가는 여행자를 위한 한국 여행 정보. 서울의 동네별 추천 숙소와 걸어서 갈 수 있는 맛집, 관광지, 쇼핑을 가격과 교통 정보와 함께 정리합니다.",
+    "en": "Practical Korea travel guides for first-time visitors: the best Seoul neighborhoods and hotels, plus nearby restaurants, sights and shopping, with prices and transport tips."
+  },
   "tagline": {
-    "ko": "지금 여기서 보내는 하루. 국내와 해외의 여행지, 카페, 맛집 이야기",
-    "en": "A day spent right here. Travel spots, cafés and good food in Korea and abroad"
+    "ko": "처음 가는 한국 여행, 어디에 묵고 무엇을 먹을지 한곳에서",
+    "en": "Where to stay, eat and shop in Korea, all in one place"
   },
   "author": "지금 여기는",
   "email": "nowyeogi@gmail.com",

@@ -6,6 +6,8 @@ export const LANGS: Lang[] = ['ko', 'en'];
 export interface SiteConfig {
   url: string;
   name: Record<Lang, string>;
+  homeTitle: Record<Lang, string>;
+  description: Record<Lang, string>;
   tagline: Record<Lang, string>;
   author: string;
   email: string;

@@ -17,7 +17,7 @@ const { lang, title, description, path, alternates = {}, image, type = 'website'
 const base = siteConfig.url.replace(/\/$/, '');
 const abs = (p: string) => (p.startsWith('http') ? p : `${base}${p}`);
 const canonical = abs(path);
-const fullTitle = title === siteConfig.name[lang] ? title : `${title} | ${siteConfig.name[lang]}`;
+const fullTitle = title.startsWith(siteConfig.name[lang]) ? title : `${title} | ${siteConfig.name[lang]}`;
 const ogImage = abs(image ?? '/brand/og-default.jpg');
 const alt = { [lang]: path, ...alternates } as Partial<Record<Lang, string>>;
 // 해외 독자 대상 사이트이므로 언어가 맞지 않는 방문자는 영어판으로 보낸다
