@@ -1,0 +1,98 @@
+import type { Lang } from '../site.config';
+
+export const ui = {
+  ko: {
+    'nav.home': '홈',
+    'nav.domestic': '국내',
+    'nav.overseas': '해외',
+    'nav.about': '소개',
+    'nav.contact': '연락처',
+    'nav.privacy': '개인정보처리방침',
+    'home.latest': '최신 글',
+    'home.regions': '지역별로 보기',
+    'home.more': '더 보기',
+    'post.places': '이 글에 나온 장소',
+    'post.related': '함께 보면 좋은 글',
+    'post.updated': '수정',
+    'post.tags': '태그',
+    'list.page': '페이지',
+    'list.prev': '이전',
+    'list.next': '다음',
+    'list.empty': '아직 글이 없어요. 곧 채워질 거예요.',
+    'ad.label': '광고',
+    'lang.switch': 'English',
+    'lang.switchTitle': '영어로 보기',
+    'place.address': '위치',
+    'place.menu': '메뉴',
+    'place.hours': '영업시간',
+    'place.tip': '팁',
+    'place.map': '지도 보기',
+    'place.kind.restaurant': '식당',
+    'place.kind.cafe': '카페',
+    'place.kind.spot': '명소',
+    'place.kind.stay': '숙소',
+    'scope.domestic': '국내',
+    'scope.overseas': '해외',
+    'type.travel': '여행 후기',
+    'type.food': '맛집',
+    'notfound.title': '페이지를 찾을 수 없어요',
+    'notfound.body': '주소가 바뀌었거나 삭제된 글일 수 있어요.',
+    'notfound.home': '홈으로',
+    'footer.note': '가격과 영업시간은 방문 당시 기준입니다.',
+    'region.title': '{region} 여행과 맛집',
+    'tag.title': '#{tag}',
+  },
+  en: {
+    'nav.home': 'Home',
+    'nav.domestic': 'Korea',
+    'nav.overseas': 'Abroad',
+    'nav.about': 'About',
+    'nav.contact': 'Contact',
+    'nav.privacy': 'Privacy',
+    'home.latest': 'Latest posts',
+    'home.regions': 'Browse by region',
+    'home.more': 'See more',
+    'post.places': 'Places in this post',
+    'post.related': 'You might also like',
+    'post.updated': 'Updated',
+    'post.tags': 'Tags',
+    'list.page': 'Page',
+    'list.prev': 'Previous',
+    'list.next': 'Next',
+    'list.empty': 'No posts yet. Check back soon.',
+    'ad.label': 'Advertisement',
+    'lang.switch': '한국어',
+    'lang.switchTitle': 'Read in Korean',
+    'place.address': 'Address',
+    'place.menu': 'Menu',
+    'place.hours': 'Hours',
+    'place.tip': 'Tip',
+    'place.map': 'Open map',
+    'place.kind.restaurant': 'Restaurant',
+    'place.kind.cafe': 'Café',
+    'place.kind.spot': 'Spot',
+    'place.kind.stay': 'Stay',
+    'scope.domestic': 'Korea',
+    'scope.overseas': 'Abroad',
+    'type.travel': 'Travel',
+    'type.food': 'Food',
+    'notfound.title': 'Page not found',
+    'notfound.body': 'The address may have changed or the post was removed.',
+    'notfound.home': 'Back to home',
+    'footer.note': 'Prices and hours are as of our visit.',
+    'region.title': 'Travel and food in {region}',
+    'tag.title': '#{tag}',
+  },
+} as const;
+
+export type UiKey = keyof (typeof ui)['ko'];
+
+export function t(lang: Lang, key: UiKey, vars: Record<string, string> = {}): string {
+  let s: string = ui[lang][key] ?? ui.ko[key] ?? key;
+  for (const [k, v] of Object.entries(vars)) s = s.replace(`{${k}}`, v);
+  return s;
+}
+
+export function formatDate(lang: Lang, d: Date): string {
+  return new Intl.DateTimeFormat(lang === 'ko' ? 'ko-KR' : 'en-US', { year: 'numeric', month: 'long', day: 'numeric' }).format(d);
+}
