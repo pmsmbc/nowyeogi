@@ -14,6 +14,7 @@ export interface SiteConfig {
   postsPerPage: number;
   adsense: { client: string; slots: { top: string; inArticle: string; bottom: string; list: string } };
   verification: { google: string; bing: string };
+  gtm: { id: string };
 }
 
 const siteConfig: SiteConfig = config;

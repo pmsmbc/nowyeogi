@@ -31,5 +31,8 @@
   "verification": {
     "google": "",
     "bing": ""
+  },
+  "gtm": {
+    "id": "GTM-N2RBSLB2"
   }
 }
