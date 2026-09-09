@@ -55,13 +55,14 @@
 - `src/data/regions.json`: 지역 사전. 새 지역은 여기에 먼저 추가.
 - `src/content/pages/`: 소개, 개인정보처리방침, 연락처 본문.
 
-## 배포 (Cloudflare Pages)
+## 배포 (GitHub Pages)
 
-1. GitHub 에 저장소를 만들고 push.
-2. Cloudflare 대시보드 → Workers & Pages → Create → Pages → Connect to Git → 저장소 선택.
-3. 빌드 설정: Framework preset `Astro`, Build command `npm run build`, Output directory `dist`.
-4. 환경 변수: `NODE_VERSION` = `22`.
-5. 도메인 구매 후 Custom domains 에서 `nowyeogi.com` 연결.
+`main` 브랜치에 push 하면 GitHub Actions(`.github/workflows/deploy.yml`)가 빌드해서 GitHub Pages 에 올립니다. 1~2분 뒤 https://nowyeogi.com 에 반영됩니다.
+
+- 저장소: https://github.com/pmsmbc/nowyeogi
+- 도메인: `public/CNAME` 에 `nowyeogi.com` 이 들어 있어 자동으로 연결됩니다.
+- 가비아 DNS 설정(한 번만): A 레코드 4개 `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` (호스트 `@`), CNAME 레코드 `www` → `pmsmbc.github.io`.
+- 배포 상태는 저장소의 Actions 탭에서 확인합니다.
 
 ## 애드센스
 
