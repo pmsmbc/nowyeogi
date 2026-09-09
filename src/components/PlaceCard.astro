@@ -1,0 +1,32 @@
+---
+import type { Lang } from '../site.config';
+import type { Post } from '../lib/posts';
+import { t, type UiKey } from '../i18n/ui';
+
+type Place = Post['data']['places'][number];
+interface Props { place: Place; lang: Lang }
+const { place, lang } = Astro.props;
+const stars = place.rating ? '★'.repeat(Math.floor(place.rating)) + (place.rating % 1 ? '☆' : '') : '';
+---
+<div class="place">
+  <div class="head">
+    <span class="badge">{t(lang, `place.kind.${place.kind}` as UiKey)}</span>
+    <strong>{place.name}</strong>
+    {stars && <span class="stars" aria-label={`${place.rating}/5`}>{stars} <span class="small muted">{place.rating}</span></span>}
+  </div>
+  <dl>
+    {place.address && <><dt>{t(lang, 'place.address')}</dt><dd>{place.address}</dd></>}
+    {place.hours && <><dt>{t(lang, 'place.hours')}</dt><dd>{place.hours}</dd></>}
+    {place.menu.length > 0 && <><dt>{t(lang, 'place.menu')}</dt><dd>{place.menu.map((m) => `${m.name} ${m.price}`).join(' · ')}</dd></>}
+    {place.tip && <><dt>{t(lang, 'place.tip')}</dt><dd>{place.tip}</dd></>}
+  </dl>
+  {place.mapUrl && <a class="small" href={place.mapUrl} target="_blank" rel="noopener">{t(lang, 'place.map')} ↗</a>}
+</div>
+<style>
+  .place { background: var(--c-surface); border: 1px solid var(--c-line); border-radius: var(--radius); padding: 1rem 1.2rem; box-shadow: var(--shadow-sm); }
+  .head { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; margin-bottom: .5rem; }
+  .stars { color: #f0b34e; font-size: .95rem; }
+  dl { display: grid; grid-template-columns: max-content 1fr; gap: .25rem .9rem; margin: 0; font-size: .95rem; }
+  dt { color: var(--c-muted); }
+  dd { margin: 0; }
+</style>

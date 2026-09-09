@@ -1,0 +1,110 @@
+---
+import siteConfig, { type Lang } from '../site.config';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AdSlot from '../components/AdSlot.astro';
+import PostCard from '../components/PostCard.astro';
+import PlaceCard from '../components/PlaceCard.astro';
+import { render } from 'astro:content';
+import { getPosts, getTranslation, postPath, type Post } from '../lib/posts';
+import { pickRelated, localePath } from '../lib/postUtils';
+import { regionName } from '../data/regions';
+import { t, formatDate, type UiKey } from '../i18n/ui';
+
+interface Props { lang: Lang; post: Post }
+const { lang, post } = Astro.props;
+const { Content } = await render(post);
+const translation = await getTranslation(post);
+const alternates: Partial<Record<Lang, string>> = { [lang]: postPath(post) };
+if (translation) alternates[lang === 'ko' ? 'en' : 'ko'] = postPath(translation);
+const related = pickRelated(await getPosts(lang), post, 3);
+const cover = post.data.images.find((i) => i.src === post.data.cover);
+const base = siteConfig.url.replace(/\/$/, '');
+const foodPlaces = post.data.places.filter((p) => p.kind === 'restaurant' || p.kind === 'cafe');
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: post.data.title,
+    description: post.data.description,
+    image: `${base}${post.data.cover}`,
+    datePublished: post.data.pubDate.toISOString(),
+    dateModified: (post.data.updatedDate ?? post.data.pubDate).toISOString(),
+    inLanguage: lang === 'ko' ? 'ko-KR' : 'en-US',
+    author: { '@type': 'Person', name: siteConfig.author },
+    publisher: { '@type': 'Organization', name: siteConfig.name[lang] },
+    mainEntityOfPage: `${base}${postPath(post)}`,
+    keywords: post.data.tags.join(', '),
+    ...(foodPlaces.length > 0 && {
+      mentions: foodPlaces.map((p) => ({
+        '@type': p.kind === 'cafe' ? 'CafeOrCoffeeShop' : 'Restaurant',
+        name: p.name,
+        ...(p.address && { address: p.address }),
+      })),
+    }),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: siteConfig.name[lang], item: `${base}${localePath(lang, '/')}` },
+      { '@type': 'ListItem', position: 2, name: regionName(post.data.region, lang), item: `${base}${localePath(lang, `/regions/${post.data.region}/`)}` },
+      { '@type': 'ListItem', position: 3, name: post.data.title, item: `${base}${postPath(post)}` },
+    ],
+  },
+];
+---
+<BaseLayout lang={lang} title={post.data.title} description={post.data.description} path={postPath(post)} alternates={alternates} image={post.data.cover} type="article" jsonLd={jsonLd} publishedTime={post.data.pubDate} modifiedTime={post.data.updatedDate}>
+  <article class="container">
+    <header class="post-head prose">
+      <div class="meta">
+        <a class="badge" href={localePath(lang, `/regions/${post.data.region}/`)}>{regionName(post.data.region, lang)}</a>
+        <span class={`badge ${post.data.type === 'food' ? 'accent' : ''}`}>{t(lang, `type.${post.data.type}` as UiKey)}</span>
+        <time class="small muted" datetime={post.data.pubDate.toISOString()}>{formatDate(lang, post.data.pubDate)}</time>
+        {post.data.updatedDate && <span class="small muted">({t(lang, 'post.updated')} {formatDate(lang, post.data.updatedDate)})</span>}
+      </div>
+      <h1>{post.data.title}</h1>
+      <p class="lead muted">{post.data.description}</p>
+    </header>
+
+    <figure class="cover">
+      <img src={post.data.cover} alt={cover?.alt ?? ''} width={cover?.width ?? 1600} height={cover?.height ?? 1000} loading="eager" fetchpriority="high" />
+    </figure>
+
+    <div class="prose"><AdSlot lang={lang} slot="top" /></div>
+
+    {post.data.places.length > 0 && (
+      <section class="places prose">
+        <h2 class="places-title">{t(lang, 'post.places')}</h2>
+        <div class="place-list">{post.data.places.map((p) => <PlaceCard place={p} lang={lang} />)}</div>
+      </section>
+    )}
+
+    <div class="prose body"><Content /></div>
+
+    {post.data.tags.length > 0 && (
+      <div class="prose tags">
+        {post.data.tags.map((tag) => <a class="chip" href={localePath(lang, `/tags/${encodeURIComponent(tag)}/`)}>#{tag}</a>)}
+      </div>
+    )}
+
+    <div class="prose"><AdSlot lang={lang} slot="bottom" /></div>
+  </article>
+
+  {related.length > 0 && (
+    <section class="section container">
+      <div class="section-title"><h2>{t(lang, 'post.related')}</h2></div>
+      <div class="grid">{related.map((p) => <PostCard post={p} lang={lang} />)}</div>
+    </section>
+  )}
+</BaseLayout>
+<style>
+  .post-head { padding-top: 2.5rem; }
+  .meta { display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; margin-bottom: .8rem; }
+  .lead { font-size: 1.05rem; }
+  .cover { margin: 1.5rem auto 2rem; max-width: var(--max); }
+  .cover img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--radius); box-shadow: var(--shadow); }
+  .places-title { border: 0; margin-top: 0; font-size: 1.2rem; }
+  .place-list { display: grid; gap: .8rem; margin-bottom: 2rem; }
+  .tags { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 2rem; }
+</style>
