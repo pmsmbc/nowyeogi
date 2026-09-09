@@ -23,6 +23,8 @@ const client = siteConfig.adsense.client.trim();
 const gsc = siteConfig.verification.google.trim();
 const bing = siteConfig.verification.bing.trim();
 const gtm = siteConfig.gtm.id.trim();
+const ga = siteConfig.ga.id.trim();
+const gaScript = ga ? "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', '" + ga + "');" : '';
 const gtmScript = gtm
   ? "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','" + gtm + "');"
   : '';
@@ -36,6 +38,8 @@ const gtmNoscript = gtm
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     {gtm && <script is:inline set:html={gtmScript} />}
+    {ga && <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${ga}`}></script>}
+    {ga && <script is:inline set:html={gaScript} />}
     {gsc && <meta name="google-site-verification" content={gsc} />}
     {bing && <meta name="msvalidate.01" content={bing} />}
     <link rel="icon" href="/favicon.png" type="image/png" sizes="64x64" />

@@ -15,6 +15,7 @@ export interface SiteConfig {
   adsense: { client: string; slots: { top: string; inArticle: string; bottom: string; list: string } };
   verification: { google: string; bing: string };
   gtm: { id: string };
+  ga: { id: string };
 }
 
 const siteConfig: SiteConfig = config;
