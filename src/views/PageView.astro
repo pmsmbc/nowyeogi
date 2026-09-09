@@ -1,0 +1,22 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { render } from 'astro:content';
+import type { Lang } from '../site.config';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { localePath } from '../lib/postUtils';
+
+interface Props { lang: Lang; entry: CollectionEntry<'pages'> }
+const { lang, entry } = Astro.props;
+const { Content } = await render(entry);
+const pageId = entry.id.split('/')[1];
+const alternates = { ko: localePath('ko', `/${pageId}/`), en: localePath('en', `/${pageId}/`) };
+---
+<BaseLayout lang={lang} title={entry.data.title} description={entry.data.description} path={localePath(lang, `/${pageId}/`)} alternates={alternates}>
+  <article class="container prose page">
+    <h1>{entry.data.title}</h1>
+    <Content />
+  </article>
+</BaseLayout>
+<style>
+  .page { padding-top: 2.5rem; }
+</style>

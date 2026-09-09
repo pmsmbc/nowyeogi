@@ -1,0 +1,11 @@
+---
+import { getCollection } from 'astro:content';
+import PageView from '../views/PageView.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('pages', ({ id }) => id.startsWith('ko/'));
+  return entries.map((entry) => ({ params: { pageId: entry.id.split('/')[1] }, props: { entry } }));
+}
+const { entry } = Astro.props;
+---
+<PageView lang="ko" entry={entry} />
