@@ -20,7 +20,7 @@ const stars = place.rating ? '★'.repeat(Math.floor(place.rating)) + (place.rat
     {place.menu.length > 0 && <><dt>{t(lang, 'place.menu')}</dt><dd>{place.menu.map((m) => `${m.name} ${m.price}`).join(' · ')}</dd></>}
     {place.tip && <><dt>{t(lang, 'place.tip')}</dt><dd>{place.tip}</dd></>}
   </dl>
-  {place.mapUrl && <a class="small" href={place.mapUrl} target="_blank" rel="noopener">{t(lang, 'place.map')} ↗</a>}
+  {place.mapUrl && <a class="small" href={place.mapUrl} target="_blank" rel="noopener noreferrer">{t(lang, 'place.map')} ↗</a>}
 </div>
 <style>
   .place { background: var(--c-surface); border: 1px solid var(--c-line); border-radius: var(--radius); padding: 1rem 1.2rem; box-shadow: var(--shadow-sm); }

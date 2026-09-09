@@ -34,43 +34,51 @@ if (only && targets.length === 0) {
 const summary = { done: [], skipped: [], warnings: [] };
 
 for (const slug of targets) {
-  const v = validateSlug(slug);
-  if (!v.ok) { summary.skipped.push(`${slug}: ${v.reason}`); continue; }
+  try {
+    const v = validateSlug(slug);
+    if (!v.ok) { summary.skipped.push(`${slug}: ${v.reason}`); continue; }
 
-  const koPath = join(POSTS, 'ko', `${slug}.md`);
-  const enPath = join(POSTS, 'en', `${slug}.md`);
-  if (existsSync(koPath) && !force) { summary.skipped.push(`${slug}: 이미 처리됨 (--force 로 다시 생성)`); continue; }
-
-  const dir = join(INPUT, slug);
-  const files = readdirSync(dir);
-  const notePath = join(dir, 'note.txt');
-  const noteText = existsSync(notePath) ? readFileSync(notePath, 'utf8') : '';
-  if (!noteText) summary.warnings.push(`${slug}: note.txt 가 없거나 비어 있습니다. 사진만으로 뼈대를 만듭니다.`);
-  const note = parseNote(noteText);
-
-  const outDir = join(PUBLIC_IMAGES, slug);
-  mkdirSync(outDir, { recursive: true });
-  const images = [];
-  for (const item of planImages(files)) {
-    try {
-      const { width, height } = await convertImage(join(dir, item.source), join(outDir, item.target));
-      images.push({ src: `/images/${slug}/${item.target}`, alt: '', width, height, isCover: item.isCover });
-    } catch (err) {
-      summary.warnings.push(`${slug}: 이미지 변환 실패 ${item.source} (${err.message})`);
+    const koPath = join(POSTS, 'ko', `${slug}.md`);
+    const enPath = join(POSTS, 'en', `${slug}.md`);
+    if (existsSync(koPath) && !force) { summary.skipped.push(`${slug}: 이미 처리됨 (--force 로 다시 생성)`); continue; }
+    if (force && (existsSync(koPath) || existsSync(enPath))) {
+      summary.warnings.push(`${slug}: --force 로 기존 글을 덮어씁니다`);
     }
+
+    const dir = join(INPUT, slug);
+    const files = readdirSync(dir);
+    const notePath = join(dir, 'note.txt');
+    const noteText = existsSync(notePath) ? readFileSync(notePath, 'utf8') : '';
+    if (!noteText) summary.warnings.push(`${slug}: note.txt 가 없거나 비어 있습니다. 사진만으로 뼈대를 만듭니다.`);
+    const note = parseNote(noteText);
+
+    const outDir = join(PUBLIC_IMAGES, slug);
+    mkdirSync(outDir, { recursive: true });
+    const images = [];
+    for (const item of planImages(files)) {
+      try {
+        const { width, height } = await convertImage(join(dir, item.source), join(outDir, item.target));
+        images.push({ src: `/images/${slug}/${item.target}`, alt: '', width, height, isCover: item.isCover });
+      } catch (err) {
+        summary.warnings.push(`${slug}: 이미지 변환 실패 ${item.source} (${err.message})`);
+      }
+    }
+    if (images.length === 0) summary.warnings.push(`${slug}: 변환된 이미지가 없습니다. cover 가 비어 있으니 직접 채워야 합니다.`);
+
+    const regionKey = guessRegion(note.region ?? '', regions);
+    if (!regionKey) summary.warnings.push(`${slug}: 지역을 찾지 못했습니다 ("${note.region ?? ''}"). src/data/regions.json 에 추가한 뒤 frontmatter 의 region 을 채우세요.`);
+
+    const fm = buildFrontmatter({ note, regionKey, regionScope: regionKey ? regions[regionKey].scope : undefined, images, today });
+    const body = `${noteToComment(note.raw)}\n\n(본문을 여기에 작성)`;
+    mkdirSync(join(POSTS, 'ko'), { recursive: true });
+    mkdirSync(join(POSTS, 'en'), { recursive: true });
+    writeFileSync(koPath, serializePost(fm, body));
+    writeFileSync(enPath, serializePost(fm, body));
+    summary.done.push(`${slug}: 이미지 ${images.length}장, 장소 ${note.places.length}곳, 지역 ${regionKey ?? 'UNKNOWN'}`);
+  } catch (err) {
+    summary.warnings.push(`${slug}: 처리 중 오류 (${err.message})`);
+    continue;
   }
-  if (images.length === 0) summary.warnings.push(`${slug}: 변환된 이미지가 없습니다. cover 가 비어 있으니 직접 채워야 합니다.`);
-
-  const regionKey = guessRegion(note.region ?? '', regions);
-  if (!regionKey) summary.warnings.push(`${slug}: 지역을 찾지 못했습니다 ("${note.region ?? ''}"). src/data/regions.json 에 추가한 뒤 frontmatter 의 region 을 채우세요.`);
-
-  const fm = buildFrontmatter({ note, regionKey, regionScope: regionKey ? regions[regionKey].scope : undefined, images, today });
-  const body = `${noteToComment(note.raw)}\n\n(본문을 여기에 작성)`;
-  mkdirSync(join(POSTS, 'ko'), { recursive: true });
-  mkdirSync(join(POSTS, 'en'), { recursive: true });
-  writeFileSync(koPath, serializePost(fm, body));
-  writeFileSync(enPath, serializePost(fm, body));
-  summary.done.push(`${slug}: 이미지 ${images.length}장, 장소 ${note.places.length}곳, 지역 ${regionKey ?? 'UNKNOWN'}`);
 }
 
 for (const s of summary.done) console.log(`✔ ${s}`);

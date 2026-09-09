@@ -5,17 +5,29 @@ import siteConfig from '../../../site.config';
 import { getPosts } from '../../../lib/posts';
 import { regionName } from '../../../data/regions';
 import { t } from '../../../i18n/ui';
+import { localePath } from '../../../lib/postUtils';
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getPosts('ko');
+  const otherPosts = await getPosts('en');
   const keys = [...new Set(posts.map((p) => p.data.region))];
-  return keys.flatMap((region) =>
-    paginate(posts.filter((p) => p.data.region === region), { params: { region }, pageSize: siteConfig.postsPerPage }),
-  );
+  return keys.flatMap((region) => {
+    const hasOther = otherPosts.some((p) => p.data.region === region);
+    return paginate(posts.filter((p) => p.data.region === region), {
+      params: { region },
+      pageSize: siteConfig.postsPerPage,
+      props: { hasOther },
+    });
+  });
 }) satisfies GetStaticPaths;
 
-const { page } = Astro.props;
+const { page, hasOther } = Astro.props;
 const { region } = Astro.params;
 const name = regionName(region!, 'ko');
+const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
+const alternates = {
+  ko: localePath('ko', `/regions/${region}/${suffix}`),
+  ...(hasOther ? { en: localePath('en', `/regions/${region}/${suffix}`) } : {}),
+};
 ---
-<ListView lang="ko" title={t('ko', 'region.title', { region: name })} description={`${name}에서 다녀온 여행지, 카페, 맛집을 모았어요.`} page={page} basePath={`/regions/${region}/`} />
+<ListView lang="ko" title={t('ko', 'region.title', { region: name })} description={`${name}에서 다녀온 여행지, 카페, 맛집을 모았어요.`} page={page} basePath={`/regions/${region}/`} alternates={alternates} />

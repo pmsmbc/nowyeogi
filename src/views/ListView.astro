@@ -9,11 +9,19 @@ import type { Post } from '../lib/posts';
 import { t } from '../i18n/ui';
 import { localePath } from '../lib/postUtils';
 
-interface Props { lang: Lang; title: string; description: string; page: Page<Post>; basePath: string }
-const { lang, title, description, page, basePath } = Astro.props;
+interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  page: Page<Post>;
+  basePath: string;
+  alternates?: Partial<Record<Lang, string>>;
+}
+const { lang, title, description, page, basePath, alternates: alternatesProp } = Astro.props;
 const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
 const path = localePath(lang, `${basePath}${suffix}`);
-const alternates = { ko: localePath('ko', `${basePath}${suffix}`), en: localePath('en', `${basePath}${suffix}`) };
+const alternates =
+  alternatesProp ?? { ko: localePath('ko', `${basePath}${suffix}`), en: localePath('en', `${basePath}${suffix}`) };
 ---
 <BaseLayout lang={lang} title={title} description={description} path={path} alternates={alternates}>
   <section class="section container">

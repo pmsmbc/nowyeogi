@@ -5,7 +5,6 @@
 // 육안으로 확인해 내용(투명 핀 마크 / 핀+커플+비행기 / 핀+"지금 여기는" 워드마크)으로
 // 대응되는 실제 파일명을 아래처럼 매핑했다:
 //   mark -> 파비콘.png (핀만, 투명 배경; 사용자가 지정한 파비콘 원본, 2400x1309)
-//   full -> nowyeogi.png (핀+커플+비행기, 투명 배경; jrki...-Photoroom.png와 바이트 동일)
 //   hero -> 상단 이미지-Photoroom.png (핀 + "지금 여기는" 워드마크, 투명 배경)
 import { mkdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -18,7 +17,6 @@ const OUT = join(ROOT, 'public', 'brand');
 mkdirSync(OUT, { recursive: true });
 
 const mark = join(SRC, '파비콘.png');
-const full = join(SRC, 'nowyeogi.png');
 const hero = join(SRC, '상단 이미지-Photoroom.png');
 
 // 투명 여백을 잘라낸 뒤 크기를 맞춘다
@@ -26,7 +24,6 @@ const hero = join(SRC, '상단 이미지-Photoroom.png');
 await sharp(mark).trim().resize({ width: 512, height: 512, fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } }).png({ compressionLevel: 9, effort: 10 }).toFile(join(OUT, 'logo-mark.png'));
 await sharp(mark).trim().resize({ width: 192, height: 192, fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } }).png({ compressionLevel: 9, effort: 10 }).toFile(join(OUT, 'logo-mark-192.png'));
 await sharp(mark).trim().resize({ width: 64, height: 64, fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } }).png({ compressionLevel: 9, effort: 10 }).toFile(join(ROOT, 'public', 'favicon.png'));
-await sharp(full).trim().resize({ width: 800, withoutEnlargement: true }).webp({ quality: 85 }).toFile(join(OUT, 'logo-full.webp'));
 // 히어로는 워드마크가 포함된 이미지. 여백을 조금 남기고 잘라 1600px 로.
 // 실제 원본(상단 이미지-Photoroom.png)은 2400x1309 캔버스 안에 796x926 크기로만 그려져 있어
 // trim 후 확대가 필요하다. width가 1600에 도달하도록 withoutEnlargement를 주지 않는다.
@@ -40,7 +37,18 @@ const heroExtended = await sharp(hero)
   .toBuffer();
 await sharp(heroExtended).resize({ width: 1600 }).webp({ quality: 85 }).toFile(join(OUT, 'hero.webp'));
 
-for (const f of ['logo-mark.png', 'logo-mark-192.png', 'logo-full.webp', 'hero.webp']) {
+// 기본 OG 이미지: 1200x630 크림색 배경 위에 히어로 아트워크를 1000x560 안에 맞춰 가운데 배치.
+const ogArtwork = await sharp(hero)
+  .trim({ threshold: 20 })
+  .resize({ width: 1000, height: 560, fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
+  .png()
+  .toBuffer();
+await sharp({ create: { width: 1200, height: 630, channels: 4, background: '#fbfaf7' } })
+  .composite([{ input: ogArtwork, gravity: 'centre' }])
+  .jpeg({ quality: 85 })
+  .toFile(join(OUT, 'og-default.jpg'));
+
+for (const f of ['logo-mark.png', 'logo-mark-192.png', 'hero.webp', 'og-default.jpg']) {
   const m = await sharp(join(OUT, f)).metadata();
   console.log(`${f}: ${m.width}x${m.height}`);
 }

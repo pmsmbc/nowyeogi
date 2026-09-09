@@ -16,9 +16,9 @@ const place = z.object({
   address: z.string().optional(),
   menu: z.array(z.object({ name: z.string(), price: z.string() })).default([]),
   hours: z.string().optional(),
-  rating: z.number().min(1).max(5).optional(),
+  rating: z.number().min(1).max(5).multipleOf(0.5).optional(),
   tip: z.string().optional(),
-  mapUrl: z.string().optional(),
+  mapUrl: z.string().url().optional(),
 });
 
 const posts = defineCollection({

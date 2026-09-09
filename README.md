@@ -45,6 +45,7 @@
 | `npm run build` | 배포용 빌드 + 산출물 검사 |
 | `npm run prepare-post` | input → 이미지 변환 + 글 뼈대 |
 | `npm test` | 스크립트 테스트 |
+| `npm run check` | 타입/템플릿 검사, 배포 전 실행 |
 
 미리보기가 예전 내용을 보여 주면 `rm -rf .astro` 후 다시 `npm run dev`.
 
@@ -74,3 +75,8 @@
 - `npm run build` 실패 시 오류 메시지의 파일과 필드를 확인 (대부분 frontmatter 오타).
 - 사진 변환 실패 시 파일이 손상되지 않았는지 확인하고 jpg 로 다시 저장.
 - 지역을 못 찾으면 `src/data/regions.json` 에 추가.
+- `region: UNKNOWN` 인 글이 있으면 `npm run build` 와 `npm run dev` 가 모두 막힌다. `src/data/regions.json` 에 지역을 추가하고 frontmatter 의 `region` 을 채워야 풀린다.
+
+## 브랜드 이미지
+
+원본은 `이미지/` 폴더(git 제외)에 두고 `node scripts/brand-assets.mjs` 로 `public/brand/` 를 다시 만든다.

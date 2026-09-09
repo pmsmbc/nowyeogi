@@ -30,6 +30,9 @@ for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
 }
 
 for (const w of warnings) console.warn(`⚠ ${w}`);
+if (ko.length === 0 && en.length === 0) {
+  console.warn('⚠ 발행된 글이 0편입니다 — draft: false 로 바꿨는지 확인하세요');
+}
 if (errors.length) {
   for (const e of errors) console.error(`✖ ${e}`);
   process.exit(1);

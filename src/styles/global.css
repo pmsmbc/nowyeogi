@@ -52,7 +52,6 @@ p { margin: 0 0 1.2em; }
 .prose table { width: 100%; border-collapse: collapse; font-size: .95rem; }
 .prose th, .prose td { padding: .6em .8em; border-bottom: 1px solid var(--c-line); text-align: left; }
 .prose th { background: var(--c-primary-soft); }
-.prose .table-wrap { overflow-x: auto; }
 
 .badge { display: inline-block; padding: .15em .7em; border-radius: 999px; font-size: .8rem; font-weight: 600; background: var(--c-primary-soft); color: var(--c-primary-deep); }
 .badge.accent { background: var(--c-accent-2); color: #b04a63; }

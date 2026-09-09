@@ -3,17 +3,28 @@ import type { GetStaticPaths } from 'astro';
 import ListView from '../../../views/ListView.astro';
 import siteConfig from '../../../site.config';
 import { getPosts } from '../../../lib/posts';
-import { collectTags } from '../../../lib/postUtils';
+import { collectTags, localePath } from '../../../lib/postUtils';
 import { t } from '../../../i18n/ui';
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getPosts('ko');
-  return collectTags(posts).flatMap(({ tag }) =>
-    paginate(posts.filter((p) => p.data.tags.includes(tag)), { params: { tag }, pageSize: siteConfig.postsPerPage }),
-  );
+  const otherTags = collectTags(await getPosts('en'));
+  return collectTags(posts).flatMap(({ tag }) => {
+    const hasOther = otherTags.some((x) => x.tag === tag);
+    return paginate(posts.filter((p) => p.data.tags.includes(tag)), {
+      params: { tag },
+      pageSize: siteConfig.postsPerPage,
+      props: { hasOther },
+    });
+  });
 }) satisfies GetStaticPaths;
 
-const { page } = Astro.props;
+const { page, hasOther } = Astro.props;
 const { tag } = Astro.params;
+const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
+const alternates = {
+  ko: localePath('ko', `/tags/${encodeURIComponent(tag!)}/${suffix}`),
+  ...(hasOther ? { en: localePath('en', `/tags/${encodeURIComponent(tag!)}/${suffix}`) } : {}),
+};
 ---
-<ListView lang="ko" title={t('ko', 'tag.title', { tag: tag! })} description={`'${tag}' 태그가 붙은 글`} page={page} basePath={`/tags/${encodeURIComponent(tag!)}/`} />
+<ListView lang="ko" title={t('ko', 'tag.title', { tag: tag! })} description={`'${tag}' 태그가 붙은 글`} page={page} basePath={`/tags/${encodeURIComponent(tag!)}/`} alternates={alternates} />

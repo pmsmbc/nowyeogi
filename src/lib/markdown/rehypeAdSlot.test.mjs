@@ -8,12 +8,27 @@ const tags = (tree) => tree.children.map((c) => c.tagName);
 describe('rehypeAdSlot', () => {
   it('client와 slot이 있으면 두 번째 h2 앞에 광고를 넣는다', () => {
     const tree = { type: 'root', children: [p(), h2('a'), p(), h2('b'), p()] };
-    rehypeAdSlot({ client: 'ca-pub-1', slot: '123' })(tree);
+    rehypeAdSlot({ client: 'ca-pub-1', slot: '123' })(tree, { path: '/x/src/content/posts/ko/a.md' });
     expect(tags(tree)).toEqual(['p', 'h2', 'p', 'div', 'h2', 'p']);
     const ad = tree.children[3];
     expect(ad.properties.className).toContain('ad');
     const ins = ad.children.find((c) => c.tagName === 'ins');
     expect(ins.properties).toMatchObject({ dataAdClient: 'ca-pub-1', dataAdSlot: '123' });
+    const label = ad.children.find((c) => c.tagName === 'span');
+    expect(label.children[0].value).toBe('광고');
+
+    const tree2 = { type: 'root', children: [p(), h2('a'), p(), h2('b'), p()] };
+    rehypeAdSlot({ client: 'ca-pub-1', slot: '123' })(tree2);
+    const ad2 = tree2.children[3];
+    const label2 = ad2.children.find((c) => c.tagName === 'span');
+    expect(label2.children[0].value).toBe('광고');
+  });
+  it('en 경로면 Advertisement 라벨을 쓴다', () => {
+    const tree = { type: 'root', children: [p(), h2('a'), p(), h2('b'), p()] };
+    rehypeAdSlot({ client: 'ca-pub-1', slot: '123' })(tree, { path: '/x/src/content/posts/en/a.md' });
+    const ad = tree.children[3];
+    const label = ad.children.find((c) => c.tagName === 'span');
+    expect(label.children[0].value).toBe('Advertisement');
   });
   it('h2가 하나뿐이면 넣지 않는다', () => {
     const tree = { type: 'root', children: [p(), h2('a'), p()] };

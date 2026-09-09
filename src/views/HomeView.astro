@@ -22,7 +22,7 @@ const regionKeys = [...new Set(posts.map((p) => p.data.region))];
         <h1>{siteConfig.name[lang]}</h1>
         <p class="tagline">{siteConfig.tagline[lang]}</p>
       </div>
-      <img class="hero-art" src="/brand/hero.webp" alt={siteConfig.name.ko} width="1600" height="1751" loading="eager" fetchpriority="high" />
+      <img class="hero-art" src="/brand/hero.webp" alt={siteConfig.name[lang]} width="1600" height="1751" loading="eager" fetchpriority="high" />
     </div>
   </section>
 

@@ -18,7 +18,7 @@ const base = siteConfig.url.replace(/\/$/, '');
 const abs = (p: string) => (p.startsWith('http') ? p : `${base}${p}`);
 const canonical = abs(path);
 const fullTitle = title === siteConfig.name[lang] ? title : `${title} | ${siteConfig.name[lang]}`;
-const ogImage = abs(image ?? '/brand/hero.webp');
+const ogImage = abs(image ?? '/brand/og-default.jpg');
 const alt = { [lang]: path, ...alternates } as Partial<Record<Lang, string>>;
 const xDefault = alt.ko ?? path;
 ---
@@ -40,4 +40,4 @@ const xDefault = alt.ko ?? path;
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={ogImage} />
-{jsonLd.map((obj) => <script type="application/ld+json" set:html={JSON.stringify(obj)} />)}
+{jsonLd.map((obj) => <script type="application/ld+json" is:inline set:html={JSON.stringify(obj).replace(/</g, '\\u003c')} />)}
