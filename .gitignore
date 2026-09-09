@@ -1,7 +1,8 @@
 node_modules/
 dist/
 .astro/
-input/
+input/*
+!input/.gitkeep
 .env
 .DS_Store
 .idea/
