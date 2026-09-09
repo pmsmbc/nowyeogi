@@ -4,7 +4,7 @@
 // 로고.png, 상단 이미지.png)이 실제 이미지/ 폴더에는 존재하지 않았다. 폴더 안의 파일들을
 // 육안으로 확인해 내용(투명 핀 마크 / 핀+커플+비행기 / 핀+"지금 여기는" 워드마크)으로
 // 대응되는 실제 파일명을 아래처럼 매핑했다:
-//   mark -> Gemini_Generated_Image_rwf583rwf583rwf5-removebg-preview.png (핀만, 투명 배경)
+//   mark -> 파비콘.png (핀만, 투명 배경; 사용자가 지정한 파비콘 원본, 2400x1309)
 //   full -> nowyeogi.png (핀+커플+비행기, 투명 배경; jrki...-Photoroom.png와 바이트 동일)
 //   hero -> 상단 이미지-Photoroom.png (핀 + "지금 여기는" 워드마크, 투명 배경)
 import { mkdirSync } from 'node:fs';
@@ -17,7 +17,7 @@ const SRC = join(ROOT, '이미지');
 const OUT = join(ROOT, 'public', 'brand');
 mkdirSync(OUT, { recursive: true });
 
-const mark = join(SRC, 'Gemini_Generated_Image_rwf583rwf583rwf5-removebg-preview.png');
+const mark = join(SRC, '파비콘.png');
 const full = join(SRC, 'nowyeogi.png');
 const hero = join(SRC, '상단 이미지-Photoroom.png');
 
