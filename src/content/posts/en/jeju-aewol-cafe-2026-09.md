@@ -1,6 +1,6 @@
 ---
 title: "Three Sea-View Cafés on Jeju's Aewol Coast"
-description: "Three cafés along the Aewol coastal road on Jeju Island, with window seats, parking and waiting times as of our visit."
+description: "Three cafés along the Aewol coastal road on Jeju Island, with window seats, parking and waiting times at the time of writing."
 pubDate: 2026-09-01
 scope: domestic
 region: jeju
@@ -41,7 +41,7 @@ Sit by the window and the sea sits at eye level. The americano was mild with lit
 
 ## Practical notes
 
-- Parking: public lot in front of the café, free at the time of our visit
+- Parking: public lot in front of the café, free at the time of writing
 - Waiting: about 30 minutes after 3 pm
 
 ## Wrapping up

@@ -82,6 +82,20 @@ const jsonLd = [
 
     <div class="prose body"><Content /></div>
 
+    <aside class="prose notice">
+      <p class="small muted">{t(lang, 'post.disclaimer')}</p>
+      {post.data.sources.length > 0 && (
+        <div class="small">
+          <strong>{t(lang, 'post.sources')}</strong>
+          <ul>
+            {post.data.sources.map((s) => (
+              <li>{s.url ? <a href={s.url} target="_blank" rel="noopener noreferrer nofollow">{s.title ?? s.url}</a> : s.title}</li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </aside>
+
     {post.data.tags.length > 0 && (
       <div class="prose tags">
         {post.data.tags.map((tag) => <a class="chip" href={localePath(lang, `/tags/${encodeURIComponent(tag)}/`)}>#{tag}</a>)}
@@ -107,4 +121,7 @@ const jsonLd = [
   .places-title { border: 0; margin-top: 0; font-size: 1.2rem; }
   .place-list { display: grid; gap: .8rem; margin-bottom: 2rem; }
   .tags { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 2rem; }
+  .notice { margin-top: 2.5rem; padding: 1rem 1.2rem; background: var(--c-primary-soft); border-radius: var(--radius); }
+  .notice p { margin: 0 0 .5em; }
+  .notice ul { margin: .3em 0 0; padding-left: 1.2em; }
 </style>

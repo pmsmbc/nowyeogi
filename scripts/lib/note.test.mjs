@@ -57,6 +57,18 @@ describe('parseNote', () => {
   });
 });
 
+describe('parseNote 출처', () => {
+  it('출처 줄을 모으고 장소 블록을 닫는다', () => {
+    const n = parseNote('지역: 제주\n[장소]\n이름: A\n출처: 여행 유튜브 https://youtu.be/abc\n참고: https://example.com/page\n메모: 끝');
+    expect(n.sources).toEqual(['여행 유튜브 https://youtu.be/abc', 'https://example.com/page']);
+    expect(n.places[0]).toMatchObject({ name: 'A' });
+    expect(n.memo).toBe('끝');
+  });
+  it('출처가 없으면 빈 배열', () => {
+    expect(parseNote('지역: 제주').sources).toEqual([]);
+  });
+});
+
 describe('parseMenu', () => {
   it('구분자 / 또는 , 로 나누고 가격을 정규화한다', () => {
     expect(parseMenu('아메리카노 6000 / 케이크 7500원')).toEqual([{ name: '아메리카노', price: '6,000원' }, { name: '케이크', price: '7,500원' }]);

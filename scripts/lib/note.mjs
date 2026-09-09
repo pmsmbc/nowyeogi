@@ -5,6 +5,7 @@ const TOP_KEYS = {
   type: ['종류', 'type'],
   companions: ['동행', 'companions', 'with'],
   memo: ['메모', 'memo'],
+  sources: ['출처', '참고', 'source', 'sources', 'ref'],
 };
 const PLACE_KEYS = {
   name: ['이름', 'name'],
@@ -58,7 +59,7 @@ function mapType(v) {
 
 export function parseNote(text) {
   const raw = String(text ?? '');
-  const note = { places: [], memo: '', extra: {}, raw };
+  const note = { places: [], memo: '', sources: [], extra: {}, raw };
   const memoLines = [];
   let current = null;
   let lastTop = null; // 이어지는 줄을 붙일 곳: 'memo' | null
@@ -94,6 +95,7 @@ export function parseNote(text) {
     const id = topId;
     lastTop = id === 'memo' ? 'memo' : null;
     if (id === 'memo') memoLines.push(v.trim());
+    else if (id === 'sources') { if (v.trim()) note.sources.push(v.trim()); }
     else if (id === 'scope') note.scope = mapScope(v);
     else if (id === 'type') note.type = mapType(v);
     else if (id) note[id] = v.trim();

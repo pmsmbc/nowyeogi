@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { buildFrontmatter, serializePost, noteToComment } from './frontmatter.mjs';
+import { buildFrontmatter, serializePost, noteToComment, parseSource } from './frontmatter.mjs';
 import { parseNote } from './note.mjs';
 
 const images = [
@@ -27,6 +27,21 @@ describe('buildFrontmatter', () => {
   it('종류가 없고 장소가 전부 식당/카페면 food', () => {
     const note = parseNote('[장소]\n이름: A\n종류: 식당');
     expect(buildFrontmatter({ note, regionKey: 'jeju', regionScope: 'domestic', images, today: '2026-09-09' }).type).toBe('food');
+  });
+});
+
+describe('parseSource / sources', () => {
+  it('제목과 URL 을 분리한다', () => {
+    expect(parseSource('여행 유튜브 https://youtu.be/abc')).toEqual({ title: '여행 유튜브', url: 'https://youtu.be/abc' });
+    expect(parseSource('https://example.com/page')).toEqual({ url: 'https://example.com/page' });
+    expect(parseSource('공식 홈페이지 - https://a.b/c).')).toEqual({ title: '공식 홈페이지', url: 'https://a.b/c' });
+    expect(parseSource('현지 안내 책자')).toEqual({ title: '현지 안내 책자' });
+  });
+  it('buildFrontmatter 가 sources 를 넣는다', () => {
+    const note = parseNote('지역: 제주\n출처: 공식 https://a.b/');
+    const fm = buildFrontmatter({ note, regionKey: 'jeju', regionScope: 'domestic', images, today: '2026-09-09' });
+    expect(fm.sources).toEqual([{ title: '공식', url: 'https://a.b/' }]);
+    expect(buildFrontmatter({ note: parseNote(''), regionKey: 'jeju', regionScope: 'domestic', images, today: '2026-09-09' }).sources).toEqual([]);
   });
 });
 

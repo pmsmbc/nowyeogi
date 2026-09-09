@@ -37,6 +37,7 @@ const posts = defineCollection({
     images: z.array(image).default([]),
     tags: z.array(z.string()).default([]),
     places: z.array(place).default([]),
+    sources: z.array(z.object({ title: z.string().optional(), url: z.string().url().optional() })).default([]),
     draft: z.boolean().default(false),
   }),
 });

@@ -1,6 +1,6 @@
 ---
 title: "A Day in Shibuya, Tokyo: Walk, Eat, Repeat"
-description: "From the Shibuya Scramble to a back-alley ramen shop. Transport, budget and route as of our visit."
+description: "From the Shibuya Scramble to a back-alley ramen shop. Transport, budget and route at the time of writing."
 pubDate: 2026-08-15
 scope: overseas
 region: tokyo

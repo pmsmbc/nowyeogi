@@ -1,5 +1,15 @@
 import { stringify } from 'yaml';
 
+/** "제목 https://..." 또는 URL 만 있는 출처 문자열을 { title?, url? } 로 바꾼다. */
+export function parseSource(s) {
+  const text = String(s ?? '').trim();
+  const m = text.match(/(https?:\/\/\S+)/);
+  if (!m) return { title: text };
+  const url = m[1].replace(/[),.]+$/, '');
+  const title = text.replace(m[0], '').replace(/[\s\-–—:|]+$/, '').trim();
+  return title ? { title, url } : { url };
+}
+
 export function buildFrontmatter({ note, regionKey, regionScope, images, today }) {
   const cover = images.find((i) => i.isCover) ?? images[0];
   const allFood = note.places.length > 0 && note.places.every((p) => p.kind === 'restaurant' || p.kind === 'cafe');
@@ -24,6 +34,7 @@ export function buildFrontmatter({ note, regionKey, regionScope, images, today }
     images: images.map(({ src, alt, width, height }) => ({ src, alt: alt ?? '', width, height })),
     tags: [],
     places,
+    sources: (note.sources ?? []).map(parseSource),
     draft: true,
   };
 }
