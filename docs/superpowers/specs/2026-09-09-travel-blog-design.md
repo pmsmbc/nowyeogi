@@ -248,3 +248,4 @@ Claude Code가 따르는 절차:
 - 목록 페이지(지역·태그)의 hreflang은 상대 언어에 같은 페이지가 실제로 존재할 때만 출력한다(§10 보완).
 - 기본 OG 이미지는 1200×630 JPEG(`/brand/og-default.jpg`). 히어로 WebP는 OG로 쓰지 않는다.
 - 본문 중간 광고 라벨은 글 언어에 따라 "광고"/"Advertisement"로 출력한다(§9 보완).
+- 서체는 본문·제목 모두 Pretendard로 통일(사용자 요청, 2026-09-09). Noto Serif KR 제거.
