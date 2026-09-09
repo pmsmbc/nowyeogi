@@ -12,8 +12,9 @@ interface Props {
   jsonLd?: object[];
   publishedTime?: Date;
   modifiedTime?: Date;
+  keywords?: string[];
 }
-const { lang, title, description, path, alternates = {}, image, type = 'website', jsonLd = [], publishedTime, modifiedTime } = Astro.props;
+const { lang, title, description, path, alternates = {}, image, type = 'website', jsonLd = [], publishedTime, modifiedTime, keywords = [] } = Astro.props;
 const base = siteConfig.url.replace(/\/$/, '');
 const abs = (p: string) => (p.startsWith('http') ? p : `${base}${p}`);
 const canonical = abs(path);
@@ -25,6 +26,7 @@ const xDefault = alt.en ?? alt.ko ?? path;
 ---
 <title>{fullTitle}</title>
 <meta name="description" content={description} />
+{keywords.length > 0 && <meta name="keywords" content={keywords.join(', ')} />}
 <link rel="canonical" href={canonical} />
 {Object.entries(alt).map(([l, p]) => <link rel="alternate" hreflang={l} href={abs(p!)} />)}
 <link rel="alternate" hreflang="x-default" href={abs(xDefault)} />

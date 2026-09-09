@@ -54,7 +54,7 @@ const jsonLd = [
   },
 ];
 ---
-<BaseLayout lang={lang} title={post.data.title} description={post.data.description} path={postPath(post)} alternates={alternates} image={post.data.cover} type="article" jsonLd={jsonLd} publishedTime={post.data.pubDate} modifiedTime={post.data.updatedDate}>
+<BaseLayout lang={lang} title={post.data.title} description={post.data.description} path={postPath(post)} alternates={alternates} image={post.data.cover} type="article" jsonLd={jsonLd} publishedTime={post.data.pubDate} modifiedTime={post.data.updatedDate} keywords={[regionName(post.data.region, lang), ...post.data.tags]}>
   <article class="container">
     <header class="post-head prose">
       <div class="meta">

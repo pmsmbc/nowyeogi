@@ -16,6 +16,7 @@ interface Props {
   jsonLd?: object[];
   publishedTime?: Date;
   modifiedTime?: Date;
+  keywords?: string[];
 }
 const { lang, alternates, ...seo } = Astro.props;
 const client = siteConfig.adsense.client.trim();
