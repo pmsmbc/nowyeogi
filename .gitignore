@@ -5,3 +5,4 @@ input/
 .env
 .DS_Store
 .idea/
+.superpowers/

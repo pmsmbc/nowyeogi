@@ -590,7 +590,7 @@ export function isPublished(data: { draft: boolean }, isDev: boolean): boolean {
 - [ ] **Step 4: 테스트 통과 확인**
 
 Run: `npx vitest run src/lib/postUtils.test.ts`
-Expected: 9 passed
+Expected: 8 passed
 
 - [ ] **Step 5: 컬렉션 스키마**
 
@@ -1116,7 +1116,7 @@ export function postPath(post: Post): string {
 - [ ] **Step 11: 빌드와 테스트**
 
 Run: `npm test && npm run build 2>&1 | tail -15`
-Expected: vitest 9 passed. 빌드 성공(컬렉션은 아직 어느 페이지에서도 쓰지 않으므로 스키마 검증은 dev/빌드 시 로딩 단계에서만 일어남). 스키마 오류가 나면 메시지의 파일 이름을 보고 frontmatter를 고친다.
+Expected: vitest 8 passed. 빌드 성공(컬렉션은 아직 어느 페이지에서도 쓰지 않으므로 스키마 검증은 dev/빌드 시 로딩 단계에서만 일어남). 스키마 오류가 나면 메시지의 파일 이름을 보고 frontmatter를 고친다.
 
 Run: `npx astro check 2>&1 | tail -5`
 Expected: 오류 0. (`.astro/types.d.ts`가 없으면 `npx astro sync` 먼저.)
@@ -1364,7 +1364,7 @@ const client = siteConfig.adsense.client.trim();
 import type { Lang } from '../site.config';
 import type { Post } from '../lib/posts';
 import { postPath } from '../lib/posts';
-import { t, formatDate } from '../i18n/ui';
+import { t, formatDate, type UiKey } from '../i18n/ui';
 import { regionName } from '../data/regions';
 
 interface Props { post: Post; lang: Lang; eager?: boolean }
@@ -1378,7 +1378,7 @@ const cover = post.data.images.find((i) => i.src === post.data.cover);
   <div class="body">
     <div class="meta">
       <span class="badge">{regionName(post.data.region, lang)}</span>
-      <span class={`badge ${post.data.type === 'food' ? 'accent' : ''}`}>{t(lang, `type.${post.data.type}`)}</span>
+      <span class={`badge ${post.data.type === 'food' ? 'accent' : ''}`}>{t(lang, `type.${post.data.type}` as UiKey)}</span>
     </div>
     <h3><a href={postPath(post)}>{post.data.title}</a></h3>
     <p class="small muted">{post.data.description}</p>
@@ -1679,7 +1679,7 @@ Expected: 6 passed
 ---
 import type { Lang } from '../site.config';
 import type { Post } from '../lib/posts';
-import { t } from '../i18n/ui';
+import { t, type UiKey } from '../i18n/ui';
 
 type Place = Post['data']['places'][number];
 interface Props { place: Place; lang: Lang }
@@ -1688,7 +1688,7 @@ const stars = place.rating ? '★'.repeat(Math.floor(place.rating)) + (place.rat
 ---
 <div class="place">
   <div class="head">
-    <span class="badge">{t(lang, `place.kind.${place.kind}`)}</span>
+    <span class="badge">{t(lang, `place.kind.${place.kind}` as UiKey)}</span>
     <strong>{place.name}</strong>
     {stars && <span class="stars" aria-label={`${place.rating}/5`}>{stars} <span class="small muted">{place.rating}</span></span>}
   </div>
@@ -1723,7 +1723,7 @@ import { render } from 'astro:content';
 import { getPosts, getTranslation, postPath, type Post } from '../lib/posts';
 import { pickRelated, localePath } from '../lib/postUtils';
 import { regionName } from '../data/regions';
-import { t, formatDate } from '../i18n/ui';
+import { t, formatDate, type UiKey } from '../i18n/ui';
 
 interface Props { lang: Lang; post: Post }
 const { lang, post } = Astro.props;
@@ -1774,7 +1774,7 @@ const jsonLd = [
     <header class="post-head prose">
       <div class="meta">
         <a class="badge" href={localePath(lang, `/regions/${post.data.region}/`)}>{regionName(post.data.region, lang)}</a>
-        <span class={`badge ${post.data.type === 'food' ? 'accent' : ''}`}>{t(lang, `type.${post.data.type}`)}</span>
+        <span class={`badge ${post.data.type === 'food' ? 'accent' : ''}`}>{t(lang, `type.${post.data.type}` as UiKey)}</span>
         <time class="small muted" datetime={post.data.pubDate.toISOString()}>{formatDate(lang, post.data.pubDate)}</time>
         {post.data.updatedDate && <span class="small muted">({t(lang, 'post.updated')} {formatDate(lang, post.data.updatedDate)})</span>}
       </div>
@@ -1865,7 +1865,7 @@ Expected: figure 개수 3 이상(커버 1 + 본문 2), hreflang en/ko/x-default,
 - [ ] **Step 9: 빌드 및 커밋**
 
 Run: `npm test && npm run build 2>&1 | tail -5`
-Expected: 15 passed, 빌드 성공.
+Expected: 14 passed, 빌드 성공.
 
 ```bash
 git add -A
@@ -2185,8 +2185,10 @@ export async function GET(context: APIContext) {
 ```js
 import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-const dist = new URL('../dist/', import.meta.url).pathname;
+// 경로에 한글이 있으므로 URL.pathname(퍼센트 인코딩됨)을 쓰지 않는다.
+const dist = fileURLToPath(new URL('../dist/', import.meta.url));
 const errors = [];
 const warnings = [];
 
@@ -2562,11 +2564,14 @@ export function parseNote(text) {
     }
     const m = t.match(/^([^:：]+?)\s*[:：]\s*(.*)$/);
     if (!m) {
-      if (current) current.tip = current.tip ? `${current.tip}\n${t}` : t;
-      else memoLines.push(t);
+      if (lastTop === 'memo' || !current) memoLines.push(t);
+      else current.tip = current.tip ? `${current.tip}\n${t}` : t;
       continue;
     }
     const [, k, v] = m;
+    // 장소 블록 안에서도 메모/지역/날짜/구분/동행 키가 나오면 블록을 닫는다 (종류는 장소 안에서 kind 로 쓰이므로 제외)
+    const topId = keyOf(TOP_KEYS, k.trim());
+    if (current && topId && topId !== 'type') current = null;
     if (current) {
       const id = keyOf(PLACE_KEYS, k.trim());
       if (id === 'menu') current.menu = parseMenu(v);
@@ -2576,8 +2581,9 @@ export function parseNote(text) {
       else current[k.trim()] = v.trim();
       continue;
     }
-    const id = keyOf(TOP_KEYS, k.trim());
-    if (id === 'memo') { memoLines.push(v.trim()); lastTop = 'memo'; }
+    const id = topId;
+    lastTop = id === 'memo' ? 'memo' : null;
+    if (id === 'memo') memoLines.push(v.trim());
     else if (id === 'scope') note.scope = mapScope(v);
     else if (id === 'type') note.type = mapType(v);
     else if (id) note[id] = v.trim();
@@ -2773,13 +2779,14 @@ Expected: 5 passed
 #!/usr/bin/env node
 import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync, statSync } from 'node:fs';
 import { join, resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { validateSlug } from './lib/slug.mjs';
 import { parseNote } from './lib/note.mjs';
 import { guessRegion } from './lib/region.mjs';
 import { buildFrontmatter, serializePost, noteToComment } from './lib/frontmatter.mjs';
 import { planImages, convertImage } from './lib/images.mjs';
 
-const ROOT = resolve(new URL('..', import.meta.url).pathname);
+const ROOT = resolve(fileURLToPath(new URL('..', import.meta.url))); // 한글 경로 대응
 const INPUT = join(ROOT, 'input');
 const POSTS = join(ROOT, 'src', 'content', 'posts');
 const PUBLIC_IMAGES = join(ROOT, 'public', 'images');
