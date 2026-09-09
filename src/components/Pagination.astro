@@ -1,0 +1,18 @@
+---
+import type { Page } from 'astro';
+import type { Lang } from '../site.config';
+import { t } from '../i18n/ui';
+
+interface Props { page: Page<any>; lang: Lang }
+const { page, lang } = Astro.props;
+---
+{page.lastPage > 1 && (
+  <nav class="pagination" aria-label="pagination">
+    {page.url.prev ? <a class="chip" href={page.url.prev}>← {t(lang, 'list.prev')}</a> : <span />}
+    <span class="small muted">{t(lang, 'list.page')} {page.currentPage} / {page.lastPage}</span>
+    {page.url.next ? <a class="chip" href={page.url.next}>{t(lang, 'list.next')} →</a> : <span />}
+  </nav>
+)}
+<style>
+  .pagination { display: flex; justify-content: space-between; align-items: center; margin-top: 2.5rem; }
+</style>

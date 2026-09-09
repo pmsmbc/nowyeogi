@@ -1,0 +1,19 @@
+---
+import type { GetStaticPaths } from 'astro';
+import ListView from '../../../../views/ListView.astro';
+import siteConfig from '../../../../site.config';
+import { getPosts } from '../../../../lib/posts';
+import { collectTags } from '../../../../lib/postUtils';
+import { t } from '../../../../i18n/ui';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await getPosts('en');
+  return collectTags(posts).flatMap(({ tag }) =>
+    paginate(posts.filter((p) => p.data.tags.includes(tag)), { params: { tag }, pageSize: siteConfig.postsPerPage }),
+  );
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const { tag } = Astro.params;
+---
+<ListView lang="en" title={t('en', 'tag.title', { tag: tag! })} description={`Posts tagged '${tag}'`} page={page} basePath={`/tags/${encodeURIComponent(tag!)}/`} />

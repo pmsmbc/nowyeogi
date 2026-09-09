@@ -1,0 +1,43 @@
+---
+import type { Page } from 'astro';
+import type { Lang } from '../site.config';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import AdSlot from '../components/AdSlot.astro';
+import Pagination from '../components/Pagination.astro';
+import type { Post } from '../lib/posts';
+import { t } from '../i18n/ui';
+import { localePath } from '../lib/postUtils';
+
+interface Props { lang: Lang; title: string; description: string; page: Page<Post>; basePath: string }
+const { lang, title, description, page, basePath } = Astro.props;
+const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
+const path = localePath(lang, `${basePath}${suffix}`);
+const alternates = { ko: localePath('ko', `${basePath}${suffix}`), en: localePath('en', `${basePath}${suffix}`) };
+---
+<BaseLayout lang={lang} title={title} description={description} path={path} alternates={alternates}>
+  <section class="section container">
+    <header class="list-head">
+      <h1>{title}</h1>
+      <p class="muted">{description}</p>
+    </header>
+    {page.data.length === 0 ? (
+      <p class="muted">{t(lang, 'list.empty')}</p>
+    ) : (
+      <div class="grid">
+        {page.data.map((post, i) => (
+          <>
+            <PostCard post={post} lang={lang} eager={i < 3} />
+            {i === 5 && <div class="span-all"><AdSlot lang={lang} slot="list" /></div>}
+          </>
+        ))}
+      </div>
+    )}
+    <Pagination page={page} lang={lang} />
+  </section>
+</BaseLayout>
+<style>
+  .list-head { margin-bottom: 1.5rem; }
+  .list-head p { margin: 0; }
+  .span-all { grid-column: 1 / -1; }
+</style>

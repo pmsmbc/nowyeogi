@@ -1,0 +1,15 @@
+---
+import type { GetStaticPaths } from 'astro';
+import ListView from '../../views/ListView.astro';
+import siteConfig from '../../site.config';
+import { getPosts } from '../../lib/posts';
+import { t } from '../../i18n/ui';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = (await getPosts('ko')).filter((p) => p.data.scope === 'domestic');
+  return paginate(posts, { pageSize: siteConfig.postsPerPage });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+---
+<ListView lang="ko" title={t('ko', 'scope.domestic')} description="국내 여행지와 맛집 이야기" page={page} basePath="/domestic/" />

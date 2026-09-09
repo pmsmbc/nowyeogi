@@ -1,0 +1,21 @@
+---
+import type { GetStaticPaths } from 'astro';
+import ListView from '../../../views/ListView.astro';
+import siteConfig from '../../../site.config';
+import { getPosts } from '../../../lib/posts';
+import { regionName } from '../../../data/regions';
+import { t } from '../../../i18n/ui';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await getPosts('ko');
+  const keys = [...new Set(posts.map((p) => p.data.region))];
+  return keys.flatMap((region) =>
+    paginate(posts.filter((p) => p.data.region === region), { params: { region }, pageSize: siteConfig.postsPerPage }),
+  );
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const { region } = Astro.params;
+const name = regionName(region!, 'ko');
+---
+<ListView lang="ko" title={t('ko', 'region.title', { region: name })} description={`${name}에서 다녀온 여행지, 카페, 맛집을 모았어요.`} page={page} basePath={`/regions/${region}/`} />
