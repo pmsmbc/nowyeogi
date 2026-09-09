@@ -1,9 +1,9 @@
 ---
 title: "About"
-description: "Now, Yeogi is a travel guide blog that compiles information about places, cafés and restaurants in Korea and abroad from public sources."
+description: "Now, Yeogi is a travel guide blog that compiles hotel, sightseeing, café and restaurant information for cities around the world from public sources."
 ---
 
-"Now, Yeogi" (지금 여기는, "right here, right now") gathers travel, café and restaurant information for Korea and destinations abroad in one place.
+"Now, Yeogi" (지금 여기는, "right here, right now") gathers hotel, travel, café and restaurant information for cities around the world in one place. We start with Korea (Seoul) and add cities one by one.
 
 ## How the guides are made
 
