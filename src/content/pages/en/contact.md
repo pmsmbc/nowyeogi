@@ -5,6 +5,6 @@ description: "How to reach Now, Yeogi with questions, corrections or partnership
 
 For questions, corrections or partnership proposals, email us.
 
-**Email:** hello@nowyeogi.com
+**Email:** nowyeogi@gmail.com
 
 We usually reply within three days.
