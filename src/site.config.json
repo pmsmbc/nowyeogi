@@ -1,6 +1,9 @@
 {
   "url": "https://nowyeogi.com",
-  "name": { "ko": "지금 여기는", "en": "Now, Yeogi" },
+  "name": {
+    "ko": "지금 여기는",
+    "en": "Now, Yeogi"
+  },
   "tagline": {
     "ko": "지금 여기서 보내는 하루. 국내와 해외의 여행지, 카페, 맛집 이야기",
     "en": "A day spent right here. Travel spots, cafés and good food in Korea and abroad"
@@ -10,6 +13,15 @@
   "postsPerPage": 12,
   "adsense": {
     "client": "",
-    "slots": { "top": "", "inArticle": "", "bottom": "", "list": "" }
+    "slots": {
+      "top": "",
+      "inArticle": "",
+      "bottom": "",
+      "list": ""
+    }
+  },
+  "verification": {
+    "google": "",
+    "bing": ""
   }
 }
