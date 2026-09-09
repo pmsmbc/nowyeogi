@@ -230,3 +230,13 @@ Claude Code가 따르는 절차:
 - 웹 관리 화면.
 - Claude API를 통한 글 자동 생성(사용자가 세션 내 생성을 선택함).
 - 네이버 블로그 연동.
+
+## 15. 계획 단계에서 확정된 변경 (2026-09-09)
+
+- Astro 7.3 사용. Node 22 이상 필요. Markdown 플러그인은 `@astrojs/markdown-remark`의 `unified()` 프로세서로 실행.
+- 글의 언어는 frontmatter `lang` 대신 파일 경로(`ko/`, `en/`)에서 유도한다.
+- 이미지 항목에 `width`, `height`를 추가해 레이아웃 이동을 막는다.
+- 설정 원본은 `src/site.config.json`(스크립트와 Astro가 함께 읽음). `src/site.config.ts`는 타입 래퍼.
+- AdSense는 `adsense.client`가 있으면 자동 광고 스크립트를 넣고, `slots`에 슬롯 ID가 있는 위치에만 수동 광고 단위를 추가한다.
+- 준비 스크립트 명령은 `npm run prepare-post` (npm의 `prepare` 훅과 충돌 방지).
+- 사이트 이름 「지금 여기는」 / "Now, Yeogi", 도메인 `nowyeogi.com`.
