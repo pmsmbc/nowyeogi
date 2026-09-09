@@ -3042,6 +3042,113 @@ git commit -m "docs: /newpost 스킬, README 운영 안내"
 
 ---
 
+### Task 11: 브랜드 이미지 적용 (로고, 파비콘, 홈 히어로)
+
+**Files:**
+- Create: `scripts/brand-assets.mjs`, `public/brand/logo-mark.png`, `public/brand/logo-mark-192.png`, `public/brand/logo-full.webp`, `public/brand/hero.webp`, `public/favicon.png`
+- Modify: `src/components/Header.astro`, `src/layouts/BaseLayout.astro`, `src/components/Seo.astro`, `src/views/HomeView.astro`
+- Delete: `public/favicon.svg`
+
+**Interfaces:**
+- Consumes: 사용자가 `이미지/` 폴더(git 제외)에 넣은 원본 3장: `이미지/Gemini_Generated_Image_rwf583rwf583rwf5-Photoroom.png` (투명 배경 핀 마크, 2400×1309), `이미지/로고.png` (핀+커플+비행기 마크, 투명, 2400×1309), `이미지/상단 이미지.png` (마크 + "지금 여기는" 워드마크, 2816×1536).
+- Produces: `public/brand/*` 정적 파일. 스크립트는 한 번 실행해 산출물을 커밋한다(원본은 커밋하지 않음).
+
+- [ ] **Step 1: 변환 스크립트**
+
+`scripts/brand-assets.mjs`:
+```js
+// 이미지/ 폴더의 원본을 웹용 브랜드 자산으로 변환한다. 한 번 실행해 public/brand 를 커밋한다.
+import { mkdirSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { join } from 'node:path';
+import sharp from 'sharp';
+
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
+const SRC = join(ROOT, '이미지');
+const OUT = join(ROOT, 'public', 'brand');
+mkdirSync(OUT, { recursive: true });
+
+const mark = join(SRC, 'Gemini_Generated_Image_rwf583rwf583rwf5-Photoroom.png');
+const full = join(SRC, '로고.png');
+const hero = join(SRC, '상단 이미지.png');
+
+// 투명 여백을 잘라낸 뒤 크기를 맞춘다
+await sharp(mark).trim().resize({ width: 512, height: 512, fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } }).png().toFile(join(OUT, 'logo-mark.png'));
+await sharp(mark).trim().resize({ width: 192, height: 192, fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } }).png().toFile(join(OUT, 'logo-mark-192.png'));
+await sharp(mark).trim().resize({ width: 64, height: 64, fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } }).png().toFile(join(ROOT, 'public', 'favicon.png'));
+await sharp(full).trim().resize({ width: 800, withoutEnlargement: true }).webp({ quality: 85 }).toFile(join(OUT, 'logo-full.webp'));
+// 히어로는 워드마크가 포함된 이미지. 여백을 조금 남기고 잘라 1600px 로.
+await sharp(hero).trim({ threshold: 20 }).extend({ top: 60, bottom: 60, left: 80, right: 80, background: '#fbfaf7' }).resize({ width: 1600, withoutEnlargement: true }).webp({ quality: 85 }).toFile(join(OUT, 'hero.webp'));
+
+for (const f of ['logo-mark.png', 'logo-mark-192.png', 'logo-full.webp', 'hero.webp']) {
+  const m = await sharp(join(OUT, f)).metadata();
+  console.log(`${f}: ${m.width}x${m.height}`);
+}
+```
+
+Run: `node scripts/brand-assets.mjs && ls -la public/brand public/favicon.png`
+Expected: 4개 파일 크기 출력, `hero.webp` 폭 1600, 각 파일 300KB 이하.
+
+- [ ] **Step 2: 헤더 로고와 파비콘**
+
+`src/components/Header.astro`의 로고 부분을 다음으로 바꾼다 (`.logo-dot` span과 그 CSS는 삭제):
+```astro
+    <a class="logo" href={localePath(lang, '/')}>
+      <img src="/brand/logo-mark-192.png" alt="" width="36" height="36" />
+      {siteConfig.name[lang]}
+    </a>
+```
+CSS: `.logo img { width: 36px; height: 36px; }` 를 추가하고 `.logo-dot` 규칙을 지운다.
+
+`src/layouts/BaseLayout.astro`의 favicon 링크를 다음 두 줄로 바꾼다:
+```astro
+    <link rel="icon" href="/favicon.png" type="image/png" sizes="64x64" />
+    <link rel="apple-touch-icon" href="/brand/logo-mark-192.png" />
+```
+`public/favicon.svg`를 삭제한다.
+
+`src/components/Seo.astro`의 기본 OG 이미지를 `/brand/hero.webp`로 바꾼다:
+```ts
+const ogImage = abs(image ?? '/brand/hero.webp');
+```
+
+- [ ] **Step 3: 홈 히어로**
+
+`src/views/HomeView.astro`의 `<section class="hero">`를 다음으로 바꾼다:
+```astro
+  <section class="hero">
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <p class="eyebrow">{t(lang, 'scope.domestic')} · {t(lang, 'scope.overseas')}</p>
+        <h1>{siteConfig.name[lang]}</h1>
+        <p class="tagline">{siteConfig.tagline[lang]}</p>
+      </div>
+      <img class="hero-art" src="/brand/hero.webp" alt={siteConfig.name.ko} width="1600" height="880" loading="eager" fetchpriority="high" />
+    </div>
+  </section>
+```
+(`height`는 Step 1 출력의 실제 hero.webp 높이로 바꾼다.)
+
+스타일에 추가:
+```css
+  .hero-inner { display: grid; grid-template-columns: 1.1fr 1fr; align-items: center; gap: 2rem; }
+  .hero-art { width: 100%; height: auto; border-radius: var(--radius); }
+  @media (max-width: 760px) { .hero-inner { grid-template-columns: 1fr; } .hero-art { max-width: 420px; margin-inline: auto; } }
+```
+
+- [ ] **Step 4: 확인, 커밋**
+
+Run: `npm run build 2>&1 | tail -4 && grep -c 'brand/logo-mark-192' dist/index.html && grep -c 'brand/hero.webp' dist/index.html && npx astro check 2>&1 | tail -2`
+Expected: 빌드 통과, 두 grep 모두 1 이상, astro check 오류 0.
+
+```bash
+git add scripts/brand-assets.mjs public/brand public/favicon.png src/components/Header.astro src/layouts/BaseLayout.astro src/components/Seo.astro src/views/HomeView.astro
+git rm -q public/favicon.svg
+git commit -m "feat: 로고, 파비콘, 홈 히어로 브랜드 이미지 적용"
+```
+
+---
+
 ## Self-Review
 
 **Spec coverage**
