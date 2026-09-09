@@ -5,4 +5,6 @@ input/
 .env
 .DS_Store
 .idea/
+public/ads.txt
+public/robots.txt
 .superpowers/
