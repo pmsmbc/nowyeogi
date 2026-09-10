@@ -16,7 +16,7 @@
   --font-body: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Roboto, sans-serif;
   --font-head: var(--font-body);
   --max: 1080px;
-  --measure: 720px;
+  --measure: 1080px;
 }
 
 * { box-sizing: border-box; }
