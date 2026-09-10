@@ -9,7 +9,7 @@ const year = new Date().getFullYear();
 ---
 <footer class="site-footer">
   <div class="container">
-    <nav>
+    <nav aria-label={t(lang, 'a11y.footerNav')}>
       <a href={localePath(lang, '/about/')}>{t(lang, 'nav.about')}</a>
       <a href={localePath(lang, '/privacy/')}>{t(lang, 'nav.privacy')}</a>
       <a href={localePath(lang, '/contact/')}>{t(lang, 'nav.contact')}</a>

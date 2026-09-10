@@ -17,11 +17,22 @@ export function guessBusType(no) {
   return 'blue';
 }
 
+const BADGE_DARK = '#1a1a1a';
+const srgb = (h) => { h = h.replace('#', ''); return [0, 2, 4].map((i) => parseInt(h.slice(i, i + 2), 16)); };
+const channel = (c) => { c /= 255; return c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4; };
+const luminance = (hex) => { const [r, g, b] = srgb(hex).map(channel); return 0.2126 * r + 0.7152 * g + 0.0722 * b; };
+const contrast = (a, b) => { const x = luminance(a), y = luminance(b); return (Math.max(x, y) + 0.05) / (Math.min(x, y) + 0.05); };
+
+/** 배지 배경색에 대해 WCAG 대비가 더 높은 글자색(흰색 또는 짙은 회색)을 고른다. */
+export function badgeForeground(color) {
+  return contrast(BADGE_DARK, color) > contrast('#ffffff', color) ? BADGE_DARK : '#ffffff';
+}
+
 function badge(color, label, title) {
   return {
     type: 'element',
     tagName: 'span',
-    properties: { className: ['tline'], style: `--tline:${color}`, title },
+    properties: { className: ['tline'], style: `--tline:${color};--tline-fg:${badgeForeground(color)}`, title },
     children: [{ type: 'text', value: label }],
   };
 }

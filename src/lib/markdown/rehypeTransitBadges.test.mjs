@@ -1,5 +1,7 @@
 import { describe, it, expect } from 'vitest';
-import { rehypeTransitBadges, guessBusType } from './rehypeTransitBadges.mjs';
+import { rehypeTransitBadges, guessBusType, badgeForeground } from './rehypeTransitBadges.mjs';
+import subway from '../../data/subway.json' with { type: 'json' };
+import bus from '../../data/bus.json' with { type: 'json' };
 
 const p = (text) => ({ type: 'element', tagName: 'p', properties: {}, children: [{ type: 'text', value: text }] });
 const run = (text, path = '/x/src/content/posts/ko/a.md') => {
@@ -13,7 +15,7 @@ describe('rehypeTransitBadges — 지하철', () => {
     const kids = run('이촌역은 [[line:4]] 이에요');
     expect(kids.map((k) => k.type)).toEqual(['text', 'element', 'text']);
     expect(kids[1].properties.className).toContain('tline');
-    expect(kids[1].properties.style).toBe('--tline:#00A5DE');
+    expect(kids[1].properties.style).toBe('--tline:#00A5DE;--tline-fg:#1a1a1a');
     expect(kids[1].children[0].value).toBe('4호선');
   });
   it('영어 경로면 영어 라벨', () => {
@@ -44,20 +46,20 @@ describe('guessBusType', () => {
 describe('rehypeTransitBadges — 버스', () => {
   it('[[bus:6001]] 을 공항버스 색 배지로 바꾼다', () => {
     const kids = run('공항에서 [[bus:6001]] 을 타요');
-    expect(kids[1].properties.style).toBe('--tline:#1B3A6B');
+    expect(kids[1].properties.style).toBe('--tline:#1B3A6B;--tline-fg:#ffffff');
     expect(kids[1].properties.title).toBe('공항버스');
     expect(kids[1].children[0].value).toBe('6001번');
   });
   it('종류를 직접 지정할 수 있다', () => {
     const kids = run('[[bus:green:6002]] 확인');
-    expect(kids[0].properties.style).toBe('--tline:#53B332');
+    expect(kids[0].properties.style).toBe('--tline:#53B332;--tline-fg:#1a1a1a');
     expect(kids[0].children[0].value).toBe('6002번');
   });
   it('영어 경로면 Bus 번호 형식', () => {
     const kids = run('Take [[bus:400]] there', '/x/src/content/posts/en/a.md');
     expect(kids[1].children[0].value).toBe('Bus 400');
     expect(kids[1].properties.title).toBe('Trunk bus');
-    expect(kids[1].properties.style).toBe('--tline:#3D5BAB');
+    expect(kids[1].properties.style).toBe('--tline:#3D5BAB;--tline-fg:#ffffff');
   });
   it('모르는 종류는 그대로 둔다', () => {
     expect(run('[[bus:purple:1]] 끝')[0].value).toBe('[[bus:purple:1]] 끝');
@@ -66,5 +68,25 @@ describe('rehypeTransitBadges — 버스', () => {
     const kids = run('[[line:2]] 또는 [[bus:6002]]');
     expect(kids[0].children[0].value).toBe('2호선');
     expect(kids[2].children[0].value).toBe('6002번');
+  });
+});
+
+const srgb = (h) => { h = h.replace('#', ''); return [0, 2, 4].map((i) => parseInt(h.slice(i, i + 2), 16)); };
+const channel = (c) => { c /= 255; return c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4; };
+const luminance = (hex) => { const [r, g, b] = srgb(hex).map(channel); return 0.2126 * r + 0.7152 * g + 0.0722 * b; };
+const contrast = (a, b) => { const x = luminance(a), y = luminance(b); return (Math.max(x, y) + 0.05) / (Math.min(x, y) + 0.05); };
+
+describe('badgeForeground — 웹 접근성 색 대비', () => {
+  it('어두운 배경에는 흰 글자를, 밝은 배경에는 짙은 글자를 고른다', () => {
+    expect(badgeForeground('#0052A4')).toBe('#ffffff');
+    expect(badgeForeground('#F99D1C')).toBe('#1a1a1a');
+  });
+  it('모든 지하철·버스 노선 색이 WCAG AA(4.5:1)를 넘는다', () => {
+    const lines = { ...subway, ...bus };
+    expect(Object.keys(lines).length).toBeGreaterThan(20);
+    for (const [key, line] of Object.entries(lines)) {
+      const ratio = contrast(badgeForeground(line.color), line.color);
+      expect(ratio, `${key} (${line.color})`).toBeGreaterThanOrEqual(4.5);
+    }
   });
 });

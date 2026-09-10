@@ -35,7 +35,7 @@ const alternates =
       <div class="grid">
         {page.data.map((post, i) => (
           <>
-            <PostCard post={post} lang={lang} eager={i < 3} />
+            <PostCard post={post} lang={lang} eager={i < 3} headingLevel={2} />
             {i === 5 && <div class="span-all"><AdSlot lang={lang} slot="list" /></div>}
           </>
         ))}

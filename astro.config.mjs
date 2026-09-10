@@ -4,6 +4,7 @@ import { unified } from '@astrojs/markdown-remark';
 import remarkGfm from 'remark-gfm';
 import siteConfig from './src/site.config.json';
 import { rehypeFigures } from './src/lib/markdown/rehypeFigures.mjs';
+import { rehypeTables } from './src/lib/markdown/rehypeTables.mjs';
 import { rehypeAdSlot } from './src/lib/markdown/rehypeAdSlot.mjs';
 import { rehypeTransitBadges } from './src/lib/markdown/rehypeTransitBadges.mjs';
 
@@ -26,6 +27,7 @@ export default defineConfig({
       rehypePlugins: [
         rehypeTransitBadges,
         rehypeFigures,
+        rehypeTables,
         [rehypeAdSlot, { client: siteConfig.adsense.client, slot: siteConfig.adsense.slots.inArticle }],
       ],
     }),

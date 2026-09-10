@@ -4,6 +4,7 @@ import siteConfig, { type Lang } from '../site.config';
 import Seo from '../components/Seo.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { t } from '../i18n/ui';
 
 interface Props {
   lang: Lang;
@@ -52,8 +53,9 @@ const gtmNoscript = gtm
   </head>
   <body>
     {gtm && <Fragment set:html={gtmNoscript} />}
+    <a class="skip-link" href="#main">{t(lang, 'a11y.skip')}</a>
     <Header lang={lang} alternates={alternates} />
-    <main>
+    <main id="main">
       <slot />
     </main>
     <Footer lang={lang} />

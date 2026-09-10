@@ -22,7 +22,7 @@
   "5": {
     "ko": "5호선",
     "en": "Line 5",
-    "color": "#996CAC"
+    "color": "#9066A2"
   },
   "6": {
     "ko": "6호선",
@@ -32,12 +32,12 @@
   "7": {
     "ko": "7호선",
     "en": "Line 7",
-    "color": "#747F00"
+    "color": "#717C00"
   },
   "8": {
     "ko": "8호선",
     "en": "Line 8",
-    "color": "#E6186C"
+    "color": "#E3186A"
   },
   "9": {
     "ko": "9호선",
@@ -67,7 +67,7 @@
   "gyeongchun": {
     "ko": "경춘선",
     "en": "Gyeongchun Line",
-    "color": "#0C8E72"
+    "color": "#0B856B"
   },
   "uisinseol": {
     "ko": "우이신설선",
@@ -82,12 +82,12 @@
   "gimpogold": {
     "ko": "김포골드라인",
     "en": "Gimpo Goldline",
-    "color": "#A17800"
+    "color": "#967000"
   },
   "seohae": {
     "ko": "서해선",
     "en": "Seohae Line",
-    "color": "#6B8C10"
+    "color": "#617F0F"
   },
   "gyeonggang": {
     "ko": "경강선",

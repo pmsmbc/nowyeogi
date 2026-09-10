@@ -87,7 +87,7 @@ const jsonLd = [
         <strong>{t(lang, 'post.sources')}</strong>
         <ul>
           {post.data.sources.map((s) => (
-            <li>{s.url ? <a href={s.url} target="_blank" rel="noopener noreferrer nofollow">{s.title ?? s.url}</a> : s.title}</li>
+            <li>{s.url ? <a href={s.url} target="_blank" rel="noopener noreferrer nofollow">{s.title ?? s.url}<span class="visually-hidden"> ({t(lang, 'a11y.newWindow')})</span></a> : s.title}</li>
           ))}
         </ul>
       </aside>

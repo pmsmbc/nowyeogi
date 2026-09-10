@@ -18,7 +18,7 @@ const nav = [
       <img src="/brand/logo-mark-192.png" alt="" width="36" height="36" />
       {siteConfig.name[lang]}
     </a>
-    <nav aria-label="main">
+    <nav aria-label={t(lang, 'a11y.mainNav')}>
       {nav.map((n) => <a href={n.href}>{n.label}</a>)}
       <LangSwitch lang={lang} alternates={alternates} />
     </nav>
