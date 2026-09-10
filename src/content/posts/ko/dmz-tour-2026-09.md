@@ -30,7 +30,7 @@ images:
     width: 1600
     height: 1200
     credit: "JoshBerglund19, CC BY 2.0, via Wikimedia Commons"
-    creditUrl: "https://commons.wikimedia.org/wiki/File:Imjingak.jpg"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Imjingak_Park_%26_the_Freedom_Bridge.jpg"
   - src: /images/dmz-tour-2026-09/05.webp
     alt: "제3땅굴 입구 통로에 줄지어 놓인 노란 안전모"
     width: 1600
@@ -42,7 +42,7 @@ images:
     width: 1600
     height: 1200
     credit: "Sanmosa, CC BY-SA 4.0, via Wikimedia Commons"
-    creditUrl: "https://commons.wikimedia.org/wiki/File:Dorasan_Station.jpg"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Dorasan_Station_20190630.jpg"
 tags: ["DMZ", "임진각", "파주 여행", "제3땅굴", "도라전망대", "서울 근교 당일치기"]
 places:
   - name: "임진각 평화누리"
