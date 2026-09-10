@@ -84,14 +84,14 @@ Prices below are rough per-night bands for a double room in low-to-mid season, t
 
 | Area | Best for | Subway | From Incheon Airport | Typical hotel |
 |---|---|---|---|---|
-| Myeongdong | First-timers, shopping | [[line:4]] [[line:2]] | Bus 6001 direct, or [[line:arex]] to Seoul Station + 1 stop | ₩90,000–220,000 |
+| Myeongdong | First-timers, shopping | [[line:4]] [[line:2]] | [[bus:6001]] direct, or [[line:arex]] to Seoul Station + 1 stop | ₩90,000–220,000 |
 | Hongdae | Nightlife, budget | [[line:2]] [[line:gyeongui]] [[line:arex]] | [[line:arex]] all-stop, direct | ₩60,000–160,000 |
-| Jongno / Bukchon | Palaces, culture | [[line:1]] [[line:3]] [[line:5]] | Bus 6002, or [[line:arex]] + [[line:1]] | ₩70,000–250,000 |
-| Gangnam | Shopping, K-pop | [[line:2]] [[line:9]] [[line:sinbundang]] | Bus 6103 to COEX, or [[line:arex]] + [[line:9]] | ₩150,000–500,000 |
-| Itaewon / Hannam | Food, bars | [[line:6]] | [[line:arex]] + [[line:4]] + [[line:6]], or bus 6010 to Hannam | ₩90,000–350,000 |
+| Jongno / Bukchon | Palaces, culture | [[line:1]] [[line:3]] [[line:5]] | [[bus:6002]], or [[line:arex]] + [[line:1]] | ₩70,000–250,000 |
+| Gangnam | Shopping, K-pop | [[line:2]] [[line:9]] [[line:sinbundang]] | [[bus:6103]] to COEX, or [[line:arex]] + [[line:9]] | ₩150,000–500,000 |
+| Itaewon / Hannam | Food, bars | [[line:6]] | [[line:arex]] + [[line:4]] + [[line:6]], or [[bus:6010]] to Hannam | ₩90,000–350,000 |
 | Seongsu | Cafés, design | [[line:2]] [[line:suinbundang]] | [[line:arex]] + [[line:2]] | ₩100,000–200,000 |
-| Jamsil | Families, theme park | [[line:2]] [[line:8]] | Bus 6006, or [[line:arex]] + [[line:2]] | ₩120,000–450,000 |
-| Dongdaemun | Late shopping, budget | [[line:1]] [[line:2]] [[line:4]] [[line:5]] | Bus 6001, or [[line:arex]] + [[line:1]] | ₩60,000–200,000 |
+| Jamsil | Families, theme park | [[line:2]] [[line:8]] | [[bus:6006]], or [[line:arex]] + [[line:2]] | ₩120,000–450,000 |
+| Dongdaemun | Late shopping, budget | [[line:1]] [[line:2]] [[line:4]] [[line:5]] | [[bus:6001]], or [[line:arex]] + [[line:1]] | ₩60,000–200,000 |
 
 ## Myeongdong — the safe first choice
 
@@ -101,7 +101,7 @@ If this is your first trip and you do not want to overthink it, stay here. Myeon
 
 **Within walking distance**: Namdaemun Market, the cable car up to N Seoul Tower, Cheonggyecheon stream, the Olive Young flagship, several duty-free floors. Gyeongbokgung Palace is two stops away.
 
-**Airport access is the best in the city.** Bus 6001 drops you on the main street, and if you take the AREX train to Seoul Station you are one stop from your hotel.
+**Airport access is the best in the city.** [[bus:6001]] drops you on the main street, and if you take the AREX train to Seoul Station you are one stop from your hotel.
 
 **The catch**: it is loud, crowded and priced for tourists. Restaurants on the main drag are not where locals eat. Step one or two streets back toward Chungmuro and prices drop noticeably.
 

@@ -96,8 +96,8 @@ For Hongdae this is the obvious choice: the express train does not stop there, a
 
 The airport buses are comfortable coaches with luggage bays under the floor, which makes them the easiest option if you have two big suitcases or are travelling with children.
 
-- **Bus 6002** goes to **Hongik University Station** (stopping near the Mercure and L7 hotels, and the RYSE hotel in Seogyo-dong) and continues toward Jongno, Dongdaemun and Cheongnyangni.
-- **Bus 6001** goes to **Seoul Station** and **Myeongdong**, continuing to Dongdaemun.
+- **[[bus:6002]]** goes to **Hongik University Station** (stopping near the Mercure and L7 hotels, and the RYSE hotel in Seogyo-dong) and continues toward Jongno, Dongdaemun and Cheongnyangni.
+- **[[bus:6001]]** goes to **Seoul Station** and **Myeongdong**, continuing to Dongdaemun.
 
 The official Airport Limousine site lists the fare as **₩17,000 for adults and ₩12,000 for children** on both routes. At the airport you buy a ticket at the limousine bus counters, then board at the numbered stop outside Terminal 1 (first floor) or in the Terminal 2 transportation center on the basement level. Boarding is first come, first served. Inside the city you can pay with a transit card or cash when boarding.
 
@@ -107,8 +107,8 @@ Buses take longer than the train in traffic, usually 60–90 minutes, so the tra
 
 | Staying near | Fastest | Cheapest | Easiest with luggage |
 |---|---|---|---|
-| Hongdae | AREX all-stop (about 1 hr) | AREX all-stop (up to ₩5,350) | Bus 6002 (₩17,000) |
-| Seoul Station | AREX express (43–51 min) | AREX all-stop (up to ₩5,350) | Bus 6001 (₩17,000) |
+| Hongdae | AREX all-stop (about 1 hr) | AREX all-stop (up to ₩5,350) | [[bus:6002]] (₩17,000) |
+| Seoul Station | AREX express (43–51 min) | AREX all-stop (up to ₩5,350) | [[bus:6001]] (₩17,000) |
 
 ## Step 3: Get a Climate Card at Hongdae or Seoul Station
 

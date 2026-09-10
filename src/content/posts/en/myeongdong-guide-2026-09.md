@@ -48,7 +48,7 @@ Both are inside the fare zone covered by the Climate Card pass. Almost every hot
 
 Three options, in order of how easy they are with luggage:
 
-1. **Airport limousine bus 6001** — ₩17,000, drops you on the main street near several hotels. Buy the ticket at the counter in the arrivals hall.
+1. **Airport limousine [[bus:6001]]** — ₩17,000, drops you on the main street near several hotels. Buy the ticket at the counter in the arrivals hall.
 2. **AREX express train to Seoul Station** (₩13,000, 43–51 minutes) then one stop on [[line:4]] to Myeongdong.
 3. **AREX all-stop train to Seoul Station** (up to ₩5,350) then the same one stop. Cheapest, but no luggage racks.
 

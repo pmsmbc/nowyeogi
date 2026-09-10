@@ -1,0 +1,8 @@
+{
+  "airport": { "ko": "공항버스", "en": "Airport bus", "color": "#1B3A6B" },
+  "blue":    { "ko": "간선버스", "en": "Trunk bus",   "color": "#3D5BAB" },
+  "green":   { "ko": "지선버스", "en": "Branch bus",  "color": "#53B332" },
+  "red":     { "ko": "광역버스", "en": "Express bus", "color": "#E8112D" },
+  "yellow":  { "ko": "순환버스", "en": "Circular bus","color": "#F99D1C" },
+  "village": { "ko": "마을버스", "en": "Village bus", "color": "#53B332" }
+}

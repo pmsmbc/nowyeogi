@@ -5,7 +5,7 @@ import remarkGfm from 'remark-gfm';
 import siteConfig from './src/site.config.json';
 import { rehypeFigures } from './src/lib/markdown/rehypeFigures.mjs';
 import { rehypeAdSlot } from './src/lib/markdown/rehypeAdSlot.mjs';
-import { rehypeSubwayLines } from './src/lib/markdown/rehypeSubwayLines.mjs';
+import { rehypeTransitBadges } from './src/lib/markdown/rehypeTransitBadges.mjs';
 
 export default defineConfig({
   site: siteConfig.url,
@@ -24,7 +24,7 @@ export default defineConfig({
       gfm: false,
       remarkPlugins: [[remarkGfm, { singleTilde: false }]],
       rehypePlugins: [
-        rehypeSubwayLines,
+        rehypeTransitBadges,
         rehypeFigures,
         [rehypeAdSlot, { client: siteConfig.adsense.client, slot: siteConfig.adsense.slots.inArticle }],
       ],

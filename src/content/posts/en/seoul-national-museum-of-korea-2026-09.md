@@ -85,7 +85,7 @@ Ichon Station is inside Seoul, so a **Climate Card** short-term pass covers the 
 
 ### Bus
 
-City buses **400** and **502** stop at "National Museum of Korea · Yongsan Family Park" (국립중앙박물관·용산가족공원). Both pass Seobinggo Station on the way. The bus is handy from the Itaewon and Hannam side.
+City [[bus:400]] and [[bus:502]] stop at "National Museum of Korea · Yongsan Family Park" (국립중앙박물관·용산가족공원). Both pass Seobinggo Station on the way. The bus is handy from the Itaewon and Hannam side.
 
 ### Car and taxi
 
