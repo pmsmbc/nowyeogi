@@ -41,6 +41,22 @@ for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
   }
 }
 
+// 글에서 참조한 이미지가 실제로 배포에 포함됐는지 검사한다.
+for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
+  for (const slug of slugs) {
+    const html = readFileSync(join(dist, rel, slug, 'index.html'), 'utf8');
+    const refs = new Set();
+    for (const m of html.matchAll(/(?:src|content)="((?:https:\/\/[^"]*)?\/(?:images|brand)\/[^"]+)"/g)) {
+      refs.add(m[1].replace(/^https?:\/\/[^/]+/, ''));
+    }
+    for (const ref of refs) {
+      if (!existsSync(join(dist, decodeURIComponent(ref).replace(/^\//, '')))) {
+        errors.push(`이미지 파일이 없습니다: ${ref} (${rel}/${slug})`);
+      }
+    }
+  }
+}
+
 for (const w of warnings) console.warn(`⚠ ${w}`);
 if (ko.length === 0 && en.length === 0) {
   console.warn('⚠ 발행된 글이 0편입니다 — draft: false 로 바꿨는지 확인하세요');
