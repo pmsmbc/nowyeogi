@@ -82,19 +82,16 @@ const jsonLd = [
 
     <div class="prose body"><Content /></div>
 
-    <aside class="prose notice">
-      <p class="small muted">{t(lang, 'post.disclaimer')}</p>
-      {post.data.sources.length > 0 && (
-        <div class="small">
-          <strong>{t(lang, 'post.sources')}</strong>
-          <ul>
-            {post.data.sources.map((s) => (
-              <li>{s.url ? <a href={s.url} target="_blank" rel="noopener noreferrer nofollow">{s.title ?? s.url}</a> : s.title}</li>
-            ))}
-          </ul>
-        </div>
-      )}
-    </aside>
+    {post.data.sources.length > 0 && (
+      <aside class="prose notice small">
+        <strong>{t(lang, 'post.sources')}</strong>
+        <ul>
+          {post.data.sources.map((s) => (
+            <li>{s.url ? <a href={s.url} target="_blank" rel="noopener noreferrer nofollow">{s.title ?? s.url}</a> : s.title}</li>
+          ))}
+        </ul>
+      </aside>
+    )}
 
     {post.data.tags.length > 0 && (
       <div class="prose tags">
