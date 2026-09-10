@@ -34,7 +34,8 @@ for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
 for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
   for (const slug of slugs) {
     const html = readFileSync(join(dist, rel, slug, 'index.html'), 'utf8');
-    const body = html.split('<div class="prose body">')[1]?.split('</article>')[0] ?? '';
+    // Astro 가 <div class="prose body" data-astro-cid-...> 처럼 속성을 붙이므로 정규식으로 찾는다.
+    const body = html.split(/<div class="prose body"[^>]*>/)[1]?.split('</article>')[0] ?? '';
     if (body.includes('**')) errors.push(`본문에 닫히지 않은 ** 가 있습니다: ${rel}/${slug} (닫는 ** 뒤에 한글이 붙지 않게 고치세요)`);
     if (body.includes('[[line:')) errors.push(`알 수 없는 지하철 노선 키가 있습니다: ${rel}/${slug} (src/data/subway.json 에 추가하세요)`);
   }
