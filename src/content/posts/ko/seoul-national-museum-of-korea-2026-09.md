@@ -31,6 +31,18 @@ images:
     height: 654
     credit: "Republic of Korea (Korea.net), CC BY-SA 2.0, via Wikimedia Commons"
     creditUrl: "https://commons.wikimedia.org/wiki/File:Korea_Yongsan_Family_Park_20140421_09_(13939729362).jpg"
+  - src: /images/seoul-national-museum-of-korea-2026-09/05.webp
+    alt: "역사의 길 끝에 선 경천사 십층석탑과 중앙 홀"
+    width: 940
+    height: 626
+    credit: "한국관광공사 (공공누리 제1유형)"
+    creditUrl: "https://kto.visitkorea.or.kr/"
+  - src: /images/seoul-national-museum-of-korea-2026-09/06.webp
+    alt: "박물관 입구 옆 뮷즈(MU:DS) 기념품 매장"
+    width: 940
+    height: 626
+    credit: "한국관광공사 (공공누리 제1유형)"
+    creditUrl: "https://kto.visitkorea.or.kr/"
 tags: ["국립중앙박물관", "용산", "이촌역", "서울 박물관", "서울 무료 관광", "비 오는 날 서울"]
 places:
   - name: "국립중앙박물관"
@@ -95,6 +107,8 @@ Beyond Seoul 안내에 따르면 **무료 영어 해설이 매일 10:30과 13:00
 
 ## 두 시간 코스 추천
 
+![역사의 길 끝에 선 경천사 십층석탑과 중앙 홀](/images/seoul-national-museum-of-korea-2026-09/05.webp)
+
 건물이 길어서 동선을 정해 두는 게 좋아요. 박물관 추천 코스는 한 시간쯤 걸리고, 아래는 방문객 평이 좋은 방을 더한 순서예요.
 
 1. **1층 역사의 길**: 중앙 통로 끝의 **경천사 십층석탑**(국보 86호)
@@ -117,6 +131,9 @@ Beyond Seoul 안내에 따르면 **무료 영어 해설이 매일 10:30과 13:00
 - **가방**: 배낭은 전시품 보호를 위해 **1층 물품보관함**에 넣어야 해요.
 - **식사**: 1.5층 카페, 3층 사유 공간 옆 찻집, 야외 푸드코트가 있어요. 전시실 안에서는 먹을 수 없어요.
 - **기념품**: 입구 근처 뮷즈(MU:DS) 매장이 선물 사기 좋아요.
+
+![박물관 입구 옆 뮷즈(MU:DS) 기념품 매장](/images/seoul-national-museum-of-korea-2026-09/06.webp)
+
 - **야간 관람**: 수·토요일 저녁이 사유의 방을 가장 조용히 볼 수 있는 시간이고, 박물관 앞 거울못 너머로 남산타워가 보여요.
 - **바로 옆**: **국립한글박물관**(무료)이 같은 부지에 있고, **용산가족공원**이 걸어서 5분이에요.
 - **소요 시간**: 핵심만 두 시간, 특별전과 한글박물관까지 보면 반나절

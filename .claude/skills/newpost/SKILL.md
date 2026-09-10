@@ -12,7 +12,9 @@ description: input/<slug>/ 폴더의 사진과 note.txt(장소 정보, 출처)�
 1. `npm run prepare-post` 를 실행하고 출력을 읽는다.
    - `⚠ 지역을 찾지 못했습니다` 가 있으면 `src/data/regions.json` 에 항목을 추가하고(키는 영문 소문자, `ko`/`en`/`scope`/`country`/`aliases`), 해당 글의 `region` 을 채운다.
    - `⚠ 이미지 변환 실패` 는 사용자에게 파일 이름과 함께 알린다.
-2. 사진이 없으면 `npm run fetch-images -- <slug> "<장소 영어 이름>" --limit 6` 을 실행해 후보를 받고, Read 로 보고 고른다(아래 '출처와 저작권' 참고).
+2. 사진이 없으면 아래 순서로 받고, Read 도구로 직접 본 뒤 글과 맞는 것만 남긴다(아래 '출처와 저작권' 참고).
+   - 한국 장소: `npm run fetch-tour -- <slug> "<장소 정식 명칭>" --list` 로 후보를 확인하고 `--index N --limit 4` 로 받는다. 관광공사 사진은 공공누리 1유형만 받아지고, 실행 결과에 주소·영업시간·요금·전화·홈페이지가 함께 출력되니 **사실 확인에 쓴다**(문장은 그대로 베끼지 않는다). 영어 글에 쓸 때는 `--credit en` 을 붙인다.
+   - 관광공사에 사진이 없거나 해외 장소: `npm run fetch-images -- <slug> "<영어 검색어>" --limit 6` (위키미디어 공용).
 3. `src/content/posts/ko/<slug>.md` 를 연다. 주석 안의 note 원문, `places`, `sources`, 그리고 `public/images/<slug>/` 의 사진들을 Read 도구로 직접 본다.
 4. **정보 확인**: note 에 있는 장소 이름·주소·영업시간·메뉴를 WebSearch 로 한 번 확인한다(공식 사이트, 지도 서비스, 최근 후기). 확인된 정보만 쓰고, 확인되지 않는 정보는 "확인 필요"로 사용자에게 보고하고 글에서는 뺀다. 확인에 쓴 페이지는 `sources` 에 추가한다.
 5. **한국어 글**을 쓴다. 아래 작성 규칙을 따른다. `title`, `description`, 각 이미지의 `alt`, `tags`(3~6개), `sources` 를 채운다. 사진은 `![캡션](/images/<slug>/NN.webp)` 로 넣는다. 다 쓰면 note 주석을 지우고 `draft: false` 로 바꾼다.
@@ -42,7 +44,7 @@ description: input/<slug>/ 폴더의 사진과 note.txt(장소 정보, 출처)�
 - `sources` 에는 실제로 참고한 자료만 넣는다(영상 URL, 공식 사이트, 지도, 후기 페이지). 제목이 있으면 `title` 도 채운다.
 - 유튜브 영상을 요약할 때는 **내용을 내 문장으로 다시 쓴다.** 자막이나 나레이션을 그대로 옮기지 않고, 영상 화면을 캡처해 쓰지 않는다. 영상 제목과 채널을 `sources` 에 밝힌다.
 - 다른 블로그·후기 글의 문장을 복사하지 않는다. 사실(주소, 가격, 메뉴)은 가져와도 되지만 표현은 새로 쓴다.
-- 사진은 (1) 사용자가 `input/` 에 넣은 것, (2) `npm run fetch-images -- <slug> "<영어 검색어>"` 로 위키미디어 공용에서 받은 자유 라이선스 사진(CC0·CC BY·CC BY-SA)만 쓴다. 받은 사진은 Read 도구로 직접 보고 글과 맞는 것만 남기며, frontmatter `images` 에 스크립트가 출력한 `credit`/`creditUrl` 을 그대로 넣는다(캡션에 출처가 자동으로 붙는다). 쓰지 않는 파일은 지운다. 인터넷 사진, 영상 캡처, 지도 캡처는 넣지 않는다. 사진이 하나도 없으면 `cover` 는 `/brand/og-default.jpg`.
+- 사진은 (1) 사용자가 `input/` 에 넣은 것, (2) `npm run fetch-tour` 로 받은 한국관광공사 사진(공공누리 제1유형), (3) `npm run fetch-images` 로 받은 위키미디어 공용 사진(CC0·CC BY·CC BY-SA)만 쓴다. 받은 사진은 Read 도구로 직접 보고 글과 맞는 것만 남기며, frontmatter `images` 에 스크립트가 출력한 `credit`/`creditUrl` 을 그대로 넣는다(캡션에 출처가 자동으로 붙는다). 쓰지 않는 파일은 지운다. 인터넷 사진, 영상 캡처, 지도 캡처는 넣지 않는다. 사진이 하나도 없으면 `cover` 는 `/brand/og-default.jpg`.
 - 협찬·제공을 받은 글은 note 에 "협찬:" 이 있으면 도입 첫 줄에 "이 글은 ○○의 지원을 받아 작성했습니다." 를 넣는다.
 
 ## 영어 글

@@ -31,6 +31,18 @@ images:
     height: 654
     credit: "Republic of Korea (Korea.net), CC BY-SA 2.0, via Wikimedia Commons"
     creditUrl: "https://commons.wikimedia.org/wiki/File:Korea_Yongsan_Family_Park_20140421_09_(13939729362).jpg"
+  - src: /images/seoul-national-museum-of-korea-2026-09/05.webp
+    alt: "The Path of History hall with the Gyeongcheonsa pagoda at the far end"
+    width: 940
+    height: 626
+    credit: "Korea Tourism Organization (KOGL Type 1)"
+    creditUrl: "https://kto.visitkorea.or.kr/"
+  - src: /images/seoul-national-museum-of-korea-2026-09/06.webp
+    alt: "The MU:DS museum shop near the entrance"
+    width: 940
+    height: 626
+    credit: "Korea Tourism Organization (KOGL Type 1)"
+    creditUrl: "https://kto.visitkorea.or.kr/"
 tags: ["National Museum of Korea", "Yongsan", "Ichon Station", "Seoul museums", "free things to do in Seoul", "rainy day Seoul"]
 places:
   - name: "National Museum of Korea (국립중앙박물관)"
@@ -103,6 +115,8 @@ Per the Beyond Seoul guide, **free English-language tours run daily at 10:30 and
 
 ## What to see if you have two hours
 
+![The Path of History hall with the Gyeongcheonsa pagoda at the far end](/images/seoul-national-museum-of-korea-2026-09/05.webp)
+
 The building is long, so plan a route rather than wandering. The museum's own recommended loop takes about an hour; this version adds the rooms most visitors rate highest.
 
 1. **1F, Path of History**: walk the long central hall to the **Ten-Story Stone Pagoda from Gyeongcheonsa Temple** (National Treasure 86), the museum's landmark.
@@ -124,6 +138,9 @@ The building is long, so plan a route rather than wandering. The museum's own re
 - **Bags**: backpacks must go in the **lockers on the first floor** to protect the exhibits. Bring a coin or card for the locker.
 - **Food**: there is a café on the mezzanine (1.5F) and a tea house next to the contemplation space on 3F, plus a food court on the grounds. Eating inside galleries is not allowed.
 - **Museum shop**: the "MU:DS" shop near the entrance sells well-designed souvenirs, a good stop for gifts.
+
+![The MU:DS museum shop near the entrance](/images/seoul-national-museum-of-korea-2026-09/06.webp)
+
 - **Evening visits**: Wednesday and Saturday nights are the quietest time to see the Pensive Bodhisattvas, and the reflecting pond in front of the museum frames **N Seoul Tower** after dark.
 - **Next door**: the **National Hangeul Museum** (free) shares the grounds, and **Yongsan Family Park** is a five-minute walk for a lawn break.
 - **Time needed**: two hours for the highlights, half a day if you add a special exhibition and the Hangeul Museum.
