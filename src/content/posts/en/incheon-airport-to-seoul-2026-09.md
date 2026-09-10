@@ -50,7 +50,7 @@ If it is your first time landing at Incheon International Airport, here is the s
 
 ## Option 1: AREX train
 
-AREX (Airport Railroad Express) runs from both terminals into the city. There are two kinds of trains, and they leave from the same underground station in each terminal's transportation center.
+AREX ([[line:arex]], the Airport Railroad Express) runs from both terminals into the city. There are two kinds of trains, and they leave from the same underground station in each terminal's transportation center.
 
 ### Express train: airport → Seoul Station, non-stop
 
@@ -100,7 +100,7 @@ The plastic card itself is a one-time **₩3,000**, so a 3-day pass costs ₩13,
 
 ### Where to buy it
 
-Both Hongik University Station and Seoul Station are on Seoul Metro Line 2 and Line 1/4 respectively, which puts them inside the network of station **vending machines on Lines 1–8** that sell and load the card. The official site also lists convenience stores near stations (GS25, CU, 7-Eleven) and tourist information centers such as Myeongdong as places to buy the physical card. Per the Seoul Government page, the machines have accepted **international credit and debit cards** since March 2025, so you do not need Korean cash.
+Both Hongik University Station ([[line:2]], [[line:gyeongui]], [[line:arex]]) and Seoul Station ([[line:1]], [[line:4]], [[line:arex]]) are inside Seoul, which puts them inside the network of station **vending machines on Lines 1–8** that sell and load the card. The official site also lists convenience stores near stations (GS25, CU, 7-Eleven) and tourist information centers such as Myeongdong as places to buy the physical card. Per the Seoul Government page, the machines have accepted **international credit and debit cards** since March 2025, so you do not need Korean cash.
 
 ### How it works
 

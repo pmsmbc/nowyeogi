@@ -4,6 +4,7 @@ import { unified } from '@astrojs/markdown-remark';
 import siteConfig from './src/site.config.json';
 import { rehypeFigures } from './src/lib/markdown/rehypeFigures.mjs';
 import { rehypeAdSlot } from './src/lib/markdown/rehypeAdSlot.mjs';
+import { rehypeSubwayLines } from './src/lib/markdown/rehypeSubwayLines.mjs';
 
 export default defineConfig({
   site: siteConfig.url,
@@ -18,6 +19,7 @@ export default defineConfig({
   markdown: {
     processor: unified({
       rehypePlugins: [
+        rehypeSubwayLines,
         rehypeFigures,
         [rehypeAdSlot, { client: siteConfig.adsense.client, slot: siteConfig.adsense.slots.inArticle }],
       ],

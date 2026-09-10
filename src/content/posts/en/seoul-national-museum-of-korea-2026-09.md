@@ -34,14 +34,14 @@ The National Museum of Korea is the country's largest museum and one of the most
 
 ### Subway (easiest)
 
-Take **Line 4** or the **Gyeongui-Jungang Line** to **Ichon Station** and leave through **Exit 2**. The exit feeds straight into the "Museum Underpass" (박물관 나들길), a covered walkway with moving sidewalks that brings you to the museum's main plaza in about five minutes. You never step outside, which makes this the best rainy-day plan in the city.
+Take [[line:4]] or [[line:gyeongui]] to **Ichon Station** and leave through **Exit 2**. The exit feeds straight into the "Museum Underpass" (박물관 나들길), a covered walkway with moving sidewalks that brings you to the museum's main plaza in about five minutes. You never step outside, which makes this the best rainy-day plan in the city.
 
 From the neighborhoods most visitors stay in:
 
-- **Myeongdong**: Line 4 from Myeongdong Station, about 10 minutes, no transfer.
-- **Seoul Station**: Line 4, two stops, about 6 minutes.
-- **Hongdae**: Gyeongui-Jungang Line from Hongik Univ. Station, about 15 minutes, no transfer.
-- **Gangnam**: Line 2 to Sadang, then Line 4, roughly 30–35 minutes.
+- **Myeongdong**: [[line:4]] from Myeongdong Station, about 10 minutes, no transfer.
+- **Seoul Station**: [[line:4]], two stops, about 6 minutes.
+- **Hongdae**: [[line:gyeongui]] from Hongik Univ. Station, about 15 minutes, no transfer.
+- **Gangnam**: [[line:2]] to Sadang, then [[line:4]], roughly 30–35 minutes.
 
 Ichon Station is inside Seoul, so a **Climate Card** short-term pass covers the ride. If you have not bought one yet, see our [Incheon Airport to Seoul guide](/en/posts/incheon-airport-to-seoul-2026-09/).
 
