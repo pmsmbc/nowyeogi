@@ -9,6 +9,7 @@
   "yeosu": { "ko": "여수", "en": "Yeosu", "scope": "domestic", "country": "KR", "aliases": [] },
   "tongyeong": { "ko": "통영", "en": "Tongyeong", "scope": "domestic", "country": "KR", "aliases": [] },
   "incheon": { "ko": "인천", "en": "Incheon", "scope": "domestic", "country": "KR", "aliases": [] },
+  "paju": { "ko": "파주·DMZ", "en": "Paju & the DMZ", "scope": "domestic", "country": "KR", "aliases": ["파주", "DMZ", "비무장지대", "임진각", "판문점", "도라산", "제3땅굴"] },
   "tokyo": { "ko": "도쿄", "en": "Tokyo", "scope": "overseas", "country": "JP", "aliases": ["동경"] },
   "osaka": { "ko": "오사카", "en": "Osaka", "scope": "overseas", "country": "JP", "aliases": [] },
   "kyoto": { "ko": "교토", "en": "Kyoto", "scope": "overseas", "country": "JP", "aliases": [] },
