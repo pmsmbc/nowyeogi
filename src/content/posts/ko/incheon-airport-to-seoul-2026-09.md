@@ -5,8 +5,26 @@ pubDate: 2026-09-09
 scope: domestic
 region: seoul
 type: travel
-cover: /brand/og-default.jpg
-images: []
+cover: /images/incheon-airport-to-seoul-2026-09/02.webp
+images:
+  - src: /images/incheon-airport-to-seoul-2026-09/01.webp
+    alt: "공항철도 직통열차 객실 내부"
+    width: 1600
+    height: 900
+    credit: "Nesnad, CC BY 4.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Arex-train-inside-2007-6-7.jpg"
+  - src: /images/incheon-airport-to-seoul-2026-09/02.webp
+    alt: "인천공항 2터미널역의 공항철도 안내 표지"
+    width: 1600
+    height: 900
+    credit: "LERK, CC BY-SA 4.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:AREX-A11-Incheon-international-airport-terminal-2-station-sign-20181120-175312.jpg"
+  - src: /images/incheon-airport-to-seoul-2026-09/03.webp
+    alt: "인천공항 1터미널 입국장"
+    width: 1600
+    height: 1200
+    credit: "ノボホショコロトソ, CC BY 4.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_2.jpg"
 tags: ["인천공항", "공항철도", "공항버스", "홍대", "서울역", "기후동행카드", "서울 교통"]
 places:
   - name: "공항철도 AREX (인천공항 → 서울역)"
@@ -48,6 +66,8 @@ draft: false
 
 이 글은 영어판 가이드의 한국어 요약본이에요. 외국인 친구나 가족이 처음 인천공항에 내릴 때 알려 주기 좋은 내용으로 정리했습니다. 요금은 2026년 9월 작성 시점 기준이에요.
 
+![인천공항 1터미널 입국장](/images/incheon-airport-to-seoul-2026-09/03.webp)
+
 ## 결론부터
 
 - **홍대**에 묵는다면 공항철도 **일반열차**가 가장 싸고 간단해요.
@@ -59,9 +79,13 @@ draft: false
 
 공항철도 [[line:arex]]는 두 터미널 모두 지하 교통센터에서 탑니다. 직통열차와 일반열차가 같은 역에서 출발해요.
 
+![공항철도 직통열차 객실 내부](/images/incheon-airport-to-seoul-2026-09/01.webp)
+
 **직통열차**는 서울역까지 무정차예요. Creatrip 안내에 따르면 1터미널에서 약 43분, 2터미널에서 약 51분이 걸리고, 성인 요금은 **13,000원**(온라인 예매 시 약 11,600원)이에요. 좌석이 지정되며 교통카드로는 탈 수 없고 승차권을 사야 합니다. 2터미널 기준 첫차 05:16, 막차 22:40으로 안내되어 있어요.
 
 **일반열차**는 모든 역에 서는 전철이라 **홍대입구역**에 정차하고 종점은 **서울역**이에요. 요금은 거리제로 성인 최대 **5,350원**, 서울역까지 59~66분이 걸려요. 교통카드나 지원되는 신용카드로 개찰구를 통과하면 됩니다. 직통열차는 홍대에 서지 않으므로 홍대 숙소라면 일반열차가 정답이에요.
+
+![인천공항 2터미널역의 공항철도 안내 표지](/images/incheon-airport-to-seoul-2026-09/02.webp)
 
 ## 공항 리무진 버스
 

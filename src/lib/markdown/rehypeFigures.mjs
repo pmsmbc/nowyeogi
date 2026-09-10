@@ -19,7 +19,16 @@ export function rehypeFigures() {
       }
       const alt = String(img.properties.alt ?? '').trim();
       const children = [img];
-      if (alt) children.push({ type: 'element', tagName: 'figcaption', properties: {}, children: [{ type: 'text', value: alt }] });
+      const cap = [];
+      if (alt) cap.push({ type: 'text', value: alt });
+      if (meta?.credit) {
+        if (cap.length) cap.push({ type: 'text', value: ' · ' });
+        const label = { type: 'text', value: `사진: ${meta.credit}` };
+        cap.push(meta.creditUrl
+          ? { type: 'element', tagName: 'a', properties: { href: meta.creditUrl, target: '_blank', rel: 'noopener noreferrer nofollow', className: ['credit'] }, children: [label] }
+          : { type: 'element', tagName: 'span', properties: { className: ['credit'] }, children: [label] });
+      }
+      if (cap.length) children.push({ type: 'element', tagName: 'figcaption', properties: {}, children: cap });
       parent.children[index] = { type: 'element', tagName: 'figure', properties: {}, children };
     });
   };

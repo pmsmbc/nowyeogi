@@ -47,6 +47,7 @@ p { margin: 0 0 1.2em; }
 .prose figure { margin: 1.8em 0; }
 .prose figure img { border-radius: var(--radius); box-shadow: var(--shadow); width: 100%; }
 .prose figcaption { margin-top: .6em; font-size: .9rem; color: var(--c-muted); text-align: center; }
+.prose figcaption .credit { font-size: .8rem; color: var(--c-muted); }
 .prose blockquote { margin: 1.5em 0; padding: 1em 1.2em; background: var(--c-primary-soft); border-left: 4px solid var(--c-primary); border-radius: var(--radius-sm); }
 .prose ul, .prose ol { padding-left: 1.4em; }
 .prose table { width: 100%; border-collapse: collapse; font-size: .95rem; }

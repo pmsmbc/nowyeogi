@@ -5,8 +5,32 @@ pubDate: 2026-09-10
 scope: domestic
 region: seoul
 type: travel
-cover: /brand/og-default.jpg
-images: []
+cover: /images/seoul-national-museum-of-korea-2026-09/01.webp
+images:
+  - src: /images/seoul-national-museum-of-korea-2026-09/01.webp
+    alt: "거울못 너머로 본 국립중앙박물관 전경"
+    width: 1600
+    height: 1009
+    credit: "Jinah78, CC BY-SA 3.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Front_view_of_national_museum_of_korea.jpg"
+  - src: /images/seoul-national-museum-of-korea-2026-09/02.webp
+    alt: "사유의 방에 전시된 금동 반가사유상"
+    width: 1067
+    height: 1600
+    credit: "Gary Lee Todd, CC0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Gilt_Bronze_%22Pensive_Bodhisattva,%22_Three_Kingdoms_Period,_Late_6th_Century_1d.jpg"
+  - src: /images/seoul-national-museum-of-korea-2026-09/03.webp
+    alt: "경천사 십층석탑의 조각 세부"
+    width: 1067
+    height: 1600
+    credit: "Ethan Doyle White, CC BY-SA 4.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Detail_of_the_Gyeongcheonsa_Pagoda_in_the_National_Museum_of_Korea_(II).jpg"
+  - src: /images/seoul-national-museum-of-korea-2026-09/04.webp
+    alt: "박물관 옆 용산가족공원 잔디밭"
+    width: 1600
+    height: 654
+    credit: "Republic of Korea (Korea.net), CC BY-SA 2.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Korea_Yongsan_Family_Park_20140421_09_(13939729362).jpg"
 tags: ["국립중앙박물관", "용산", "이촌역", "서울 박물관", "서울 무료 관광", "비 오는 날 서울"]
 places:
   - name: "국립중앙박물관"
@@ -29,6 +53,8 @@ sources:
 ---
 
 국립중앙박물관은 우리나라에서 가장 큰 박물관이고 상설전시는 **무료**예요. 지하철역이 건물과 지하 통로로 바로 이어져 있어서 비 오는 날에도 편하게 갈 수 있어요. 이 글은 영어판 가이드의 한국어 요약본이며, 정보는 2026년 9월 작성 시점 기준이에요.
+
+![거울못 너머로 본 국립중앙박물관 전경](/images/seoul-national-museum-of-korea-2026-09/01.webp)
 
 ## 가는 방법
 
@@ -74,12 +100,19 @@ Beyond Seoul 안내에 따르면 **무료 영어 해설이 매일 10:30과 13:00
 1. **1층 역사의 길**: 중앙 통로 끝의 **경천사 십층석탑**(국보 86호)
 2. **1층 신라실**: **금관과 금 허리띠**
 3. **2층 사유의 방**: 어둡고 조용한 방에 **반가사유상** 두 점(국보 78호·83호). 많은 분이 이곳을 최고로 꼽으니 10분은 여유 있게
+
+![사유의 방에 전시된 금동 반가사유상](/images/seoul-national-museum-of-korea-2026-09/02.webp)
+
+![경천사 십층석탑의 조각 세부](/images/seoul-national-museum-of-korea-2026-09/03.webp)
+
 4. **2층 불교회화실**: 빈백에 앉아 보는 대형 괘불
 5. **3층 청자실**: 청자 칠보무늬 향로 등 고려청자
 6. **3층 불교조각실**: 감산사 석조 불상
 7. 나가는 길에 1층·2층 **디지털 실감 영상관**에서 앉아서 쉬기
 
 ## 실용 팁
+
+![박물관 옆 용산가족공원 잔디밭](/images/seoul-national-museum-of-korea-2026-09/04.webp)
 
 - **가방**: 배낭은 전시품 보호를 위해 **1층 물품보관함**에 넣어야 해요.
 - **식사**: 1.5층 카페, 3층 사유 공간 옆 찻집, 야외 푸드코트가 있어요. 전시실 안에서는 먹을 수 없어요.

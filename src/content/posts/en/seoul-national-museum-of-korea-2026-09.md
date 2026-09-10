@@ -5,8 +5,32 @@ pubDate: 2026-09-10
 scope: domestic
 region: seoul
 type: travel
-cover: /brand/og-default.jpg
-images: []
+cover: /images/seoul-national-museum-of-korea-2026-09/01.webp
+images:
+  - src: /images/seoul-national-museum-of-korea-2026-09/01.webp
+    alt: "The National Museum of Korea seen across the reflecting pond"
+    width: 1600
+    height: 1009
+    credit: "Jinah78, CC BY-SA 3.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Front_view_of_national_museum_of_korea.jpg"
+  - src: /images/seoul-national-museum-of-korea-2026-09/02.webp
+    alt: "A gilt-bronze Pensive Bodhisattva in the Room of Quiet Contemplation"
+    width: 1067
+    height: 1600
+    credit: "Gary Lee Todd, CC0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Gilt_Bronze_%22Pensive_Bodhisattva,%22_Three_Kingdoms_Period,_Late_6th_Century_1d.jpg"
+  - src: /images/seoul-national-museum-of-korea-2026-09/03.webp
+    alt: "Carved detail of the Gyeongcheonsa ten-story pagoda"
+    width: 1067
+    height: 1600
+    credit: "Ethan Doyle White, CC BY-SA 4.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Detail_of_the_Gyeongcheonsa_Pagoda_in_the_National_Museum_of_Korea_(II).jpg"
+  - src: /images/seoul-national-museum-of-korea-2026-09/04.webp
+    alt: "The lawn at Yongsan Family Park next to the museum"
+    width: 1600
+    height: 654
+    credit: "Republic of Korea (Korea.net), CC BY-SA 2.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Korea_Yongsan_Family_Park_20140421_09_(13939729362).jpg"
 tags: ["National Museum of Korea", "Yongsan", "Ichon Station", "Seoul museums", "free things to do in Seoul", "rainy day Seoul"]
 places:
   - name: "National Museum of Korea (국립중앙박물관)"
@@ -29,6 +53,8 @@ sources:
 ---
 
 The National Museum of Korea is the country's largest museum and one of the most visited museums in the world, and the permanent collection is **free**. It sits in Yongsan, between Itaewon and the Han River, with a subway station wired directly into the building. If you have one museum day in Seoul, this is the one. Hours, directions and fees below are as of September 2026.
+
+![The National Museum of Korea seen across the reflecting pond](/images/seoul-national-museum-of-korea-2026-09/01.webp)
 
 ## How to get there
 
@@ -82,12 +108,18 @@ The building is long, so plan a route rather than wandering. The museum's own re
 1. **1F, Path of History**: walk the long central hall to the **Ten-Story Stone Pagoda from Gyeongcheonsa Temple** (National Treasure 86), the museum's landmark.
 2. **1F, Silla gallery**: the **gold crowns and belts** from the Silla kingdom.
 3. **2F, Room of Quiet Contemplation (사유의 방)**: two gilt-bronze **Pensive Bodhisattva** statues (National Treasures 78 and 83) in a dark, silent room. Many visitors call this the highlight; give it ten unhurried minutes.
+![A gilt-bronze Pensive Bodhisattva in the Room of Quiet Contemplation](/images/seoul-national-museum-of-korea-2026-09/02.webp)
+
+![Carved detail of the Gyeongcheonsa ten-story pagoda](/images/seoul-national-museum-of-korea-2026-09/03.webp)
+
 4. **2F, Buddhist Paintings hall**: giant hanging scrolls viewed from bean-bag seats.
 5. **3F, Celadon gallery**: Goryeo celadon, including the openwork incense burner with a seven-jewel pattern.
 6. **3F, Buddhist Sculpture hall**: the stone Buddhas from Gamsansa Temple.
 7. On the way out, the **Digital Immersive Theater** rooms on 1F and 2F for a break with a seat.
 
 ## Practical tips
+
+![The lawn at Yongsan Family Park next to the museum](/images/seoul-national-museum-of-korea-2026-09/04.webp)
 
 - **Bags**: backpacks must go in the **lockers on the first floor** to protect the exhibits. Bring a coin or card for the locker.
 - **Food**: there is a café on the mezzanine (1.5F) and a tea house next to the contemplation space on 3F, plus a food court on the grounds. Eating inside galleries is not allowed.

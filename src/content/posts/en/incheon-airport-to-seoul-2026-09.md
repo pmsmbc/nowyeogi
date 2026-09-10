@@ -5,8 +5,26 @@ pubDate: 2026-09-09
 scope: domestic
 region: seoul
 type: travel
-cover: /brand/og-default.jpg
-images: []
+cover: /images/incheon-airport-to-seoul-2026-09/02.webp
+images:
+  - src: /images/incheon-airport-to-seoul-2026-09/01.webp
+    alt: "Inside an AREX express train"
+    width: 1600
+    height: 900
+    credit: "Nesnad, CC BY 4.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Arex-train-inside-2007-6-7.jpg"
+  - src: /images/incheon-airport-to-seoul-2026-09/02.webp
+    alt: "AREX signage at Incheon Airport Terminal 2 station"
+    width: 1600
+    height: 900
+    credit: "LERK, CC BY-SA 4.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:AREX-A11-Incheon-international-airport-terminal-2-station-sign-20181120-175312.jpg"
+  - src: /images/incheon-airport-to-seoul-2026-09/03.webp
+    alt: "The arrivals hall at Incheon Airport Terminal 1"
+    width: 1600
+    height: 1200
+    credit: "ノボホショコロトソ, CC BY 4.0, via Wikimedia Commons"
+    creditUrl: "https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_2.jpg"
 tags: ["Incheon Airport", "AREX", "airport bus", "Hongdae", "Seoul Station", "Climate Card", "Seoul transport"]
 places:
   - name: "AREX Airport Railroad (Incheon Airport → Seoul Station)"
@@ -48,11 +66,15 @@ draft: false
 
 If it is your first time landing at Incheon International Airport, here is the short answer: take the **AREX all-stop train** if you are staying in Hongdae, take the **AREX express train** if you are staying near Seoul Station and want the fastest ride, and take the **airport limousine bus** if you have heavy luggage or your hotel is right on a bus stop. Once you are in the city, a **Climate Card** short-term pass gives you unlimited subway and city bus rides for a flat price. Below is how each option works, with fares as of September 2026.
 
+![The arrivals hall at Incheon Airport Terminal 1](/images/incheon-airport-to-seoul-2026-09/03.webp)
+
 ## Option 1: AREX train
 
 AREX ([[line:arex]], the Airport Railroad Express) runs from both terminals into the city. There are two kinds of trains, and they leave from the same underground station in each terminal's transportation center.
 
 ### Express train: airport → Seoul Station, non-stop
+
+![Inside an AREX express train](/images/incheon-airport-to-seoul-2026-09/01.webp)
 
 The express train goes straight to Seoul Station with no stops. According to the Creatrip guide, it takes about **43 minutes from Terminal 1** and **51 minutes from Terminal 2**, and the adult fare is **₩13,000** (about $10) at the station, with online booking sites selling it for around ₩11,600. Seats are reserved. Sample times listed for Terminal 2 are a first departure at 05:16 and a last departure at 22:40.
 
@@ -67,6 +89,8 @@ The all-stop train is a regular commuter line. It stops at every station, includ
 You pay with a **T-money card** or an accepted credit card at the gate, just like the subway. There are no reserved seats, and the trains are busy at rush hour, so keep bags close.
 
 For Hongdae this is the obvious choice: the express train does not stop there, and the bus is three times the price.
+
+![AREX signage at Incheon Airport Terminal 2 station](/images/incheon-airport-to-seoul-2026-09/02.webp)
 
 ## Option 2: Airport limousine bus
 

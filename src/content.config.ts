@@ -8,6 +8,8 @@ const image = z.object({
   alt: z.string().default(''),
   width: z.number().int().positive().optional(),
   height: z.number().int().positive().optional(),
+  credit: z.string().optional(),
+  creditUrl: z.string().url().optional(),
 });
 
 const place = z.object({
