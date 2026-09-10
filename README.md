@@ -65,7 +65,7 @@
 | `npm run fetch-images -- <slug> "<영어 검색어>"` | 위키미디어 공용에서 자유 라이선스 사진 받기 |
 | `npm run check` | 타입/템플릿 검사, 배포 전 실행 |
 
-미리보기가 예전 내용을 보여 주면 `rm -rf .astro` 후 다시 `npm run dev`.
+미리보기가 예전 내용을 보여 주면 `rm -rf .astro node_modules/.astro` 후 다시 `npm run dev`.
 
 ## 설정
 

@@ -20,7 +20,7 @@ description: input/<slug>/ 폴더의 사진과 note.txt(장소 정보, 출처)�
 5. **한국어 글**을 쓴다. 아래 작성 규칙을 따른다. `title`, `description`, 각 이미지의 `alt`, `tags`(3~6개), `sources` 를 채운다. 사진은 `![캡션](/images/<slug>/NN.webp)` 로 넣는다. 다 쓰면 note 주석을 지우고 `draft: false` 로 바꾼다.
 6. **영어 글**(`en/<slug>.md`)을 쓴다. 직역이 아니라 해외 독자용으로 다시 쓴다. 규칙은 아래 "영어 글" 참고.
 7. `npm run build` 를 실행한다. 실패하면 오류 메시지의 파일과 필드를 고친다. `⚠ 영어 글 없음` 경고가 있으면 5번을 마쳤는지 확인한다.
-   - 빌드나 개발 서버가 이전 결과를 보여 주면 `rm -rf .astro` 후 다시 실행한다(콘텐츠 캐시).
+   - 빌드나 개발 서버가 이전 결과를 보여 주면 `rm -rf .astro node_modules/.astro` 후 다시 실행한다(콘텐츠 렌더 캐시). `npm run build` 는 플러그인·데이터 변경을 감지해 자동으로 지운다.
 8. 커밋하고 push 한다: `git add -A && git commit -m "post: <slug>" && git push`.
 9. 사용자에게 보고한다: 글 제목(한/영), 배포 후 URL(`https://nowyeogi.com/posts/<slug>/`, `/en/posts/<slug>/`), 확인이 필요한 항목(지역 추가, 변환 실패 사진, 확인 못 한 정보, 출처가 없는 장소).
 
