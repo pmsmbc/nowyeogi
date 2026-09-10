@@ -14,7 +14,7 @@ const posts = await getPosts(lang);
 const latest = posts.slice(0, 9);
 const regionKeys = [...new Set(posts.map((p) => p.data.region))];
 const heroArt = lang === 'en'
-  ? { src: '/brand/hero-en.webp', width: 1600, height: 873 }
+  ? { src: '/brand/hero-en.webp', width: 1200, height: 1314 }
   : { src: '/brand/hero.webp', width: 1600, height: 1751 };
 ---
 <BaseLayout lang={lang} title={siteConfig.homeTitle[lang]} description={siteConfig.description[lang]} path={localePath(lang, '/')} alternates={{ ko: '/', en: '/en/' }}>
