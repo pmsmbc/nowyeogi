@@ -57,6 +57,23 @@ for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
   }
 }
 
+// 글 사이 내부 링크가 실제로 존재하는 페이지를 가리키는지 검사한다.
+const pageExists = (href) => {
+  const clean = decodeURIComponent(href.split('#')[0].split('?')[0]);
+  if (!clean.startsWith('/')) return true;
+  const rel = clean.replace(/^\//, '').replace(/\/$/, '');
+  return existsSync(join(dist, rel)) || existsSync(join(dist, rel, 'index.html')) || existsSync(join(dist, `${rel}.html`));
+};
+for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
+  for (const slug of slugs) {
+    const html = readFileSync(join(dist, rel, slug, 'index.html'), 'utf8');
+    const body = html.split(/<div class="prose body"[^>]*>/)[1]?.split('</article>')[0] ?? '';
+    for (const m of body.matchAll(/href="(\/[^"]*)"/g)) {
+      if (!pageExists(m[1])) errors.push(`내부 링크가 깨졌습니다: ${m[1]} (${rel}/${slug})`);
+    }
+  }
+}
+
 for (const w of warnings) console.warn(`⚠ ${w}`);
 if (ko.length === 0 && en.length === 0) {
   console.warn('⚠ 발행된 글이 0편입니다 — draft: false 로 바꿨는지 확인하세요');
