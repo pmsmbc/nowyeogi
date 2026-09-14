@@ -103,5 +103,35 @@
     "ko": "인천 2호선",
     "en": "Incheon Line 2",
     "color": "#ED8B00"
+  },
+  "busan1": {
+    "ko": "부산 1호선",
+    "en": "Busan Line 1",
+    "color": "#F06A00"
+  },
+  "busan2": {
+    "ko": "부산 2호선",
+    "en": "Busan Line 2",
+    "color": "#81BF48"
+  },
+  "busan3": {
+    "ko": "부산 3호선",
+    "en": "Busan Line 3",
+    "color": "#BB8C00"
+  },
+  "busan4": {
+    "ko": "부산 4호선",
+    "en": "Busan Line 4",
+    "color": "#2079C5"
+  },
+  "donghae": {
+    "ko": "동해선",
+    "en": "Donghae Line",
+    "color": "#0066B3"
+  },
+  "gimhaelrt": {
+    "ko": "부산김해경전철",
+    "en": "Busan-Gimhae LRT",
+    "color": "#8451A0"
   }
 }

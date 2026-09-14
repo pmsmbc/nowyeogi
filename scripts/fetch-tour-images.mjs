@@ -111,7 +111,14 @@ for (const img of chosen) {
   if (!res.ok) { console.warn(`⚠ 다운로드 실패: ${img.imgname} (${res.status})`); continue; }
   const buf = Buffer.from(await res.arrayBuffer());
   const target = `${String(next).padStart(2, '0')}.webp`;
-  const meta = await sharp(buf).rotate().resize({ width: 1600, height: 1600, fit: 'inside', withoutEnlargement: true }).webp({ quality: 80 }).toFile(join(outDir, target));
+  // 깨진 파일 하나 때문에 전체가 멈추지 않도록 개별로 건너뛴다
+  let meta;
+  try {
+    meta = await sharp(buf).rotate().resize({ width: 1600, height: 1600, fit: 'inside', withoutEnlargement: true }).webp({ quality: 80 }).toFile(join(outDir, target));
+  } catch (err) {
+    console.warn(`⚠ 변환 실패, 건너뜁니다: ${img.imgname || img.originimgurl} (${err.message})`);
+    continue;
+  }
   entries.push({ src: `/images/${slug}/${target}`, alt: '', width: meta.width, height: meta.height, credit: CREDIT[creditLang] ?? CREDIT.ko, creditUrl: CREDIT_URL, name: img.imgname });
   console.log(`✔ ${target}  ${meta.width}x${meta.height}  ${img.imgname || ''}`);
   next += 1;
