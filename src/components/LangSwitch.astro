@@ -10,7 +10,7 @@ const { lang, alternates = {} } = Astro.props;
 const LABEL: Record<Lang, string> = { ko: '한국어', en: 'English', ja: '日本語' };
 const others = LANGS.filter((l) => l !== lang);
 ---
-<nav class="lang-switch" aria-label={t(lang, 'a11y.langNav')}>
+<nav class="lang-switch" aria-label={t(lang, 'a11y.langNav')} data-lang-switch>
   {others.map((other) => (
     <a
       class="chip"
@@ -20,6 +20,14 @@ const others = LANGS.filter((l) => l !== lang);
     >{LABEL[other]}</a>
   ))}
 </nav>
+<script is:inline>
+  // 방문자가 언어를 직접 고르면 기억한다. LangRedirect 가 이 값을 최우선으로 따른다.
+  document.querySelectorAll('[data-lang-switch] a[hreflang]').forEach(function (a) {
+    a.addEventListener('click', function () {
+      try { localStorage.setItem('nowyeogi:lang', a.getAttribute('hreflang')); } catch (e) {}
+    });
+  });
+</script>
 <style>
   .lang-switch { display: flex; gap: .4rem; }
   .lang-switch .chip { font-size: .85rem; padding: .3em .8em; }

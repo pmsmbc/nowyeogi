@@ -1,0 +1,52 @@
+---
+/**
+ * 첫 화면에 들어온 방문자를 브라우저 언어에 맞는 홈으로 한 번만 보낸다.
+ *
+ * 외국인 대상 사이트인데 기본 언어가 한국어라, 도메인을 직접 치고 들어오면
+ * 한국어 화면을 만나게 된다. 검색 유입은 x-default(=/en/)가 처리하지만
+ * 직접 방문·SNS 링크는 처리되지 않아서 이 스크립트가 필요하다.
+ *
+ * 지키는 원칙:
+ * - 홈(`/`)에서만 동작한다. 글 페이지는 건드리지 않는다.
+ * - 언어를 직접 고른 적이 있으면(LangSwitch 가 기록) 영원히 그 선택을 따른다.
+ * - 세션당 한 번만 동작한다. 되돌아왔을 때 다시 튕기지 않는다.
+ * - 검색엔진에서 온 방문은 보내지 않는다. 그쪽은 hreflang 으로 이미 맞는 판을 골랐다.
+ * - replace() 라서 뒤로 가기가 깨지지 않는다.
+ */
+import { LANGS, DEFAULT_LANG } from '../site.config';
+
+const script = `(function(){
+  try {
+    if (location.pathname !== '/') return;
+    var LANGS = ${JSON.stringify(LANGS)};
+    var DEFAULT = ${JSON.stringify(DEFAULT_LANG)};
+    var KEY = 'nowyeogi:lang';
+
+    var chosen = null;
+    try { chosen = localStorage.getItem(KEY); } catch (e) {}
+    if (chosen && LANGS.indexOf(chosen) !== -1) {
+      if (chosen !== DEFAULT) location.replace('/' + chosen + '/');
+      return;
+    }
+
+    try { if (sessionStorage.getItem(KEY + ':auto')) return; } catch (e) {}
+
+    var ref = document.referrer || '';
+    if (/^https?:\\/\\/([^/]*\\.)?(google|bing|duckduckgo|yahoo|naver|daum)\\./i.test(ref)) return;
+
+    var tags = navigator.languages && navigator.languages.length
+      ? navigator.languages
+      : [navigator.language || ''];
+    var target = 'en';
+    for (var i = 0; i < tags.length; i++) {
+      var base = String(tags[i]).toLowerCase().split('-')[0];
+      if (base === 'ko') { target = DEFAULT; break; }
+      if (LANGS.indexOf(base) !== -1) { target = base; break; }
+    }
+
+    try { sessionStorage.setItem(KEY + ':auto', '1'); } catch (e) {}
+    if (target !== DEFAULT) location.replace('/' + target + '/');
+  } catch (e) {}
+})();`;
+---
+<script is:inline set:html={script} />

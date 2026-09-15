@@ -82,7 +82,7 @@ Sightseeing in Jinju is concentrated in one place. **Jinjuseong** (진주성), t
 
 ## Jinjuseong
 
-The address is 626 Namgang-ro and the wall runs **1,760 metres** around. It was designated a Historic Site on 21 January 1963; originally an earthwork, it was rebuilt in stone in 1379, the fifth year of King U of Goryeo, by the Jinju magistrate Kim Jung-gwang.
+The address is 626 Namgang-ro and the wall runs **1,760 metres** around. Designated a Historic Site on 21 January 1963, it began as an earthwork and was rebuilt in stone in 1379 by the Jinju magistrate Kim Jung-gwang.
 
 **The gates open at 05:00**, closing at 23:00 from March to October and 22:00 from November to February. But **the paid viewing hours are 09:00–18:00**, which is a different thing: early in the morning or late in the evening, some sections are only open to walk through.
 
@@ -100,19 +100,19 @@ Taken at face value this is a well-restored wall. Knowing the story changes it.
 
 **June 1593, the second battle.** The Japanese came back with around 100,000 men and the fortress fell. The records say **70,000 soldiers and civilians died**.
 
-The site kept its official role long afterwards: the Right Gyeongsang provincial military command moved here in 1604, the Gyeongsangnam-do provincial office was here from 1896, and **the provincial government sat here until 1925**. What you see today was completed by the reconstruction of Chokseongmun gate in 1972 and Gongbukmun gate in 2002.
+The site kept its official role long afterwards: the Right Gyeongsang military command moved here in 1604 and **the Gyeongsangnam-do provincial government sat here until 1925**. What you see today was completed by rebuilding Chokseongmun gate in 1972 and Gongbukmun gate in 2002.
 
 ## Chokseongnu
 
-This is the **first** of the Eight Scenic Views of Jinju, built in 1241, the 28th year of King Gojong of Goryeo, by the magistrate Kim Ji-dae. In wartime it was the command post for the southern side of the fortress; in peacetime a place of scholarly leisure and a civil service examination hall — hence its other names, **Namjangdae** and **Jangwollu**. It is five bays across and four deep under a hipped-and-gabled roof, and was designated Gyeongsangnam-do Tangible Cultural Heritage on 11 June 2020, an upgrade from cultural heritage material.
+The **first** of the Eight Scenic Views of Jinju, built in 1241 by the magistrate Kim Ji-dae. In wartime it was the command post for the southern side of the fortress; in peacetime a place of scholarly leisure and a civil service examination hall — hence its other names, **Namjangdae** and **Jangwollu**. Five bays by four under a hipped-and-gabled roof, designated Gyeongsangnam-do Tangible Cultural Heritage on 11 June 2020.
 
-One thing is worth knowing before you go. **The building standing there now was built in 1960.** The original burned in the Imjin War and was rebuilt in 1618; it was designated a National Treasure in 1948, then **burned again in the Korean War in 1950**. The present pavilion was reconstructed in 1960 by the Jinju Historic Site Preservation Society, using national, provincial and city funds together with **donations from citizens**.
+One thing is worth knowing before you go. **The building standing there now was built in 1960.** The original burned in the Imjin War and was rebuilt in 1618; it was designated a National Treasure in 1948, then **burned again in the Korean War in 1950**. The present pavilion was reconstructed in 1960 by the Jinju Historic Site Preservation Society, with national, provincial and city funds plus **donations from citizens**.
 
 ## Uiam and Nongae
 
-At the water's edge below Chokseongnu is a rock called **Uiam**, the second of the Eight Scenic Views, designated a Gyeongsangnam-do Monument in 2001. Its surface measures 3.65 by 3.3 metres.
+At the water's edge below Chokseongnu is a rock called **Uiam**, the second Scenic View, a Gyeongsangnam-do Monument since 2001, its surface measuring 3.65 by 3.3 metres.
 
-After the fortress fell in the second battle of 1593, **Nongae is said to have seized a Japanese commander and jumped with him from this rock into the river**. In 1629, the seventh year of King Injo, a Jinju scholar named Jeong Dae-ryung carved the two characters 義巖 into the rock's west face; on the cliff beside it is the inscription "Ildae janggang, cheonchu uiyeol". Next to Chokseongnu stands **Uigisa**, the shrine to Nongae, founded in 1740 and rebuilt in its present form in 1956 with citizen donations.
+After the fortress fell in 1593, **Nongae is said to have seized a Japanese commander and jumped with him from this rock into the river**. In 1629 a Jinju scholar, Jeong Dae-ryung, carved the two characters 義巖 into the rock's west face; on the cliff beside it is the inscription "Ildae janggang, cheonchu uiyeol". Next to Chokseongnu stands **Uigisa**, the shrine to Nongae, founded in 1740 and rebuilt in 1956 with citizen donations.
 
 The Nongae story has to be read in two parts.
 
@@ -157,8 +157,8 @@ Missing it is not fatal. The **Jinju Namgang Yudeung Exhibition Hall** opened in
 - **Jinjuseong alone takes half a day.** The walls, Chokseongnu, Uiam, Uigisa and the museum are all inside the fortress or directly below it.
 - **Hanbok gets you into Jinjuseong free.** Whether there are rental shops in town is something we could not confirm.
 - **Avoid Mondays**, when the museum and the Yudeung Exhibition Hall both close. The zoo closes Tuesdays instead.
-- Five tourist information centres, including one in Jinju Daecheop History Park (7 Nongae-gil), the Manggyeong-dong Travel Lounge, **Jinju Station** and the Jinyangho observation tower.
-- The fortress grounds are not flat. Four wheelchairs and three pushchairs can be borrowed at the Gongbukmun ticket office.
+- Five tourist information centres, among them Jinju Daecheop History Park (7 Nongae-gil), the Manggyeong-dong Travel Lounge, **Jinju Station** and the Jinyangho observation tower.
+- The grounds are not flat. Four wheelchairs and three pushchairs can be borrowed at the Gongbukmun ticket office.
 
 ## Wrapping up
 
