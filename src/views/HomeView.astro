@@ -14,7 +14,7 @@ const posts = await getPosts(lang);
 const latest = posts.slice(0, 9);
 const regionKeys = [...new Set(posts.map((p) => p.data.region))];
 // 한/영 상단 이미지는 brand-assets.mjs 에서 같은 캔버스(1200x1314)로 생성한다
-const heroSrc = lang === 'en' ? '/brand/hero-en.webp' : '/brand/hero.webp';
+const heroSrc = lang === 'ko' ? '/brand/hero.webp' : '/brand/hero-en.webp';
 ---
 <BaseLayout lang={lang} title={siteConfig.homeTitle[lang]} description={siteConfig.description[lang]} path={localePath(lang, '/')} alternates={{ ko: '/', en: '/en/' }}>
   <section class="hero">

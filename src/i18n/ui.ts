@@ -167,6 +167,8 @@ export function t(lang: Lang, key: UiKey, vars: Record<string, string> = {}): st
   return s;
 }
 
+const LOCALE: Record<Lang, string> = { ko: 'ko-KR', en: 'en-US', ja: 'ja-JP' };
+
 export function formatDate(lang: Lang, d: Date): string {
-  return new Intl.DateTimeFormat(lang === 'ko' ? 'ko-KR' : 'en-US', { year: 'numeric', month: 'long', day: 'numeric' }).format(d);
+  return new Intl.DateTimeFormat(LOCALE[lang], { year: 'numeric', month: 'long', day: 'numeric' }).format(d);
 }
