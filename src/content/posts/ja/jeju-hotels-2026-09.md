@@ -25,7 +25,7 @@ sources:
   - { title: "済州特別自治道 — 農漁村民泊 安全認証制", url: "https://www.jeju.go.kr/jeju/local/bnb2.htm" }
   - { title: "済州特別自治道 — 認証民泊リスト", url: "https://www.jeju.go.kr/jeju/local/bnb.htm" }
   - { title: "西帰浦市 — 観光エリア案内", url: "https://www.seogwipo.go.kr/tourismculture/destination/ataglance.htm" }
-  - { title: "Visit Jeju — 済州観光公式サイト", url: "https://www.visitjeju.net/en" }
+  - { title: "Visit Jeju — 済州観光公式サイト", url: "https://www.visitjeju.net/jp" }
 draft: false
 ---
 

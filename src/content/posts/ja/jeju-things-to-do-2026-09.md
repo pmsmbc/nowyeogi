@@ -59,7 +59,7 @@ places:
       - { name: "子ども・青少年", price: "1,500ウォン" }
     hours: "09:00〜18:00、最終入場17:00、通年営業"
     tip: "樹齢を重ねたカヤの森で、道は平坦です。ペットと飲食物の持ち込みは禁止されています。"
-    mapUrl: "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270"
+    mapUrl: "https://www.visitjeju.net/jp/detail/view?contentsid=CONT_000000000500270"
   - name: "牛島"
     kind: spot
     address: "城山港（西帰浦市 城山邑 城山登龍路 112-7）からフェリー"
@@ -72,8 +72,8 @@ sources:
   - { title: "済州特別自治道 世界遺産本部 — 城山日出峰", url: "https://www.jeju.go.kr/jejuwnh/heritage/seongsan.htm" }
   - { title: "済州特別自治道 世界遺産本部 — 万丈窟", url: "https://www.jeju.go.kr/jejuwnh/heritage/lavatube/manjanggul.htm" }
   - { title: "西帰浦市 電子チケット — 滝", url: "https://eticket.seogwipo.go.kr/contents?bmcode=cheonjiyeon" }
-  - { title: "Visit Jeju — 榧子林", url: "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270" }
-  - { title: "Visit Jeju — 思連伊の森の道", url: "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500281" }
+  - { title: "Visit Jeju — 榧子林", url: "https://www.visitjeju.net/jp/detail/view?contentsid=CONT_000000000500270" }
+  - { title: "Visit Jeju — 思連伊の森の道", url: "https://www.visitjeju.net/jp/detail/view?contentsid=CONT_000000000500281" }
 draft: false
 ---
 
