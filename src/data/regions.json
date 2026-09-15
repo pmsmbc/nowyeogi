@@ -299,5 +299,16 @@
     "scope": "overseas",
     "country": "AU",
     "aliases": []
+  },
+  "jinju": {
+    "ko": "진주",
+    "en": "Jinju",
+    "ja": "晋州",
+    "scope": "domestic",
+    "country": "KR",
+    "aliases": [
+      "진주시",
+      "남강유등축제"
+    ]
   }
 }
