@@ -1,18 +1,18 @@
 import type { Lang } from '../site.config';
-import { LANGS } from '../site.config';
+import { LANGS, DEFAULT_LANG } from '../site.config';
 
 export function splitId(id: string): { lang: Lang; slug: string } {
   const i = id.indexOf('/');
   const lang = i === -1 ? '' : id.slice(0, i);
   if (!LANGS.includes(lang as Lang)) {
-    throw new Error(`글 id "${id}"에서 언어를 찾을 수 없습니다. ko/ 또는 en/ 폴더에 두세요.`);
+    throw new Error(`글 id "${id}"에서 언어를 찾을 수 없습니다. ${LANGS.join("/")} 폴더 중 하나에 두세요.`);
   }
   return { lang: lang as Lang, slug: id.slice(i + 1) };
 }
 
 export function localePath(lang: Lang, path: string): string {
   const p = path.startsWith('/') ? path : `/${path}`;
-  return lang === 'ko' ? p : `/en${p}`;
+  return lang === DEFAULT_LANG ? p : `/${lang}${p}`;
 }
 
 export function sortByDateDesc<T extends { data: { pubDate: Date } }>(items: T[]): T[] {

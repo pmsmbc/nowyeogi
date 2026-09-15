@@ -12,11 +12,11 @@ export default defineConfig({
   site: siteConfig.url,
   i18n: {
     defaultLocale: 'ko',
-    locales: ['ko', 'en'],
+    locales: ['ko', 'en', 'ja'],
     routing: { prefixDefaultLocale: false },
   },
   integrations: [
-    sitemap({ i18n: { defaultLocale: 'ko', locales: { ko: 'ko-KR', en: 'en-US' } } }),
+    sitemap({ i18n: { defaultLocale: 'ko', locales: { ko: 'ko-KR', en: 'en-US', ja: 'ja-JP' } } }),
   ],
   markdown: {
     // gfm 기본값 대신 remark-gfm 을 직접 넣는다. singleTilde:false 로 두어야

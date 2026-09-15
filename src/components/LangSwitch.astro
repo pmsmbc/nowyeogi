@@ -1,11 +1,27 @@
 ---
-import type { Lang } from '../site.config';
+import { LANGS, type Lang } from '../site.config';
 import { t } from '../i18n/ui';
 import { localePath } from '../lib/postUtils';
 
 interface Props { lang: Lang; alternates?: Partial<Record<Lang, string>> }
 const { lang, alternates = {} } = Astro.props;
-const other: Lang = lang === 'ko' ? 'en' : 'ko';
-const href = alternates[other] ?? localePath(other, '/');
+
+/** 언어 이름은 그 언어로 적는다. 자기 언어를 찾기 쉬워진다. */
+const LABEL: Record<Lang, string> = { ko: '한국어', en: 'English', ja: '日本語' };
+const others = LANGS.filter((l) => l !== lang);
 ---
-<a class="lang-switch chip" href={href} hreflang={other} lang={other} title={t(lang, 'lang.switchTitle')}>{t(lang, 'lang.switch')}</a>
+<nav class="lang-switch" aria-label={t(lang, 'a11y.langNav')}>
+  {others.map((other) => (
+    <a
+      class="chip"
+      href={alternates[other] ?? localePath(other, '/')}
+      hreflang={other}
+      lang={other}
+    >{LABEL[other]}</a>
+  ))}
+</nav>
+<style>
+  .lang-switch { display: flex; gap: .4rem; }
+  .lang-switch .chip { font-size: .85rem; padding: .3em .8em; }
+  @media (max-width: 640px) { .lang-switch .chip { font-size: .8rem; padding: .25em .6em; } }
+</style>

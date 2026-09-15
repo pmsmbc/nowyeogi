@@ -1,6 +1,7 @@
 import { visit } from 'unist-util-visit';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { langFromPath } from './lang.mjs';
 
 const read = (rel) => JSON.parse(readFileSync(fileURLToPath(new URL(rel, import.meta.url)), 'utf8'));
 const LINES = read('../../data/subway.json');
@@ -43,8 +44,7 @@ function badge(color, label, title) {
  */
 export function rehypeTransitBadges() {
   return (tree, file) => {
-    const p = String(file?.path ?? file?.history?.[0] ?? '');
-    const lang = /[\\/]en[\\/]/.test(p) ? 'en' : 'ko';
+    const lang = langFromPath(file);
     visit(tree, 'text', (node, index, parent) => {
       if (!parent || index === undefined || !PATTERN.test(node.value)) return;
       PATTERN.lastIndex = 0;
@@ -62,7 +62,7 @@ export function rehypeTransitBadges() {
           const typeKey = (b ? a : guessBusType(no)).toLowerCase();
           const type = BUSES[typeKey];
           if (type) {
-            const label = lang === 'en' ? `Bus ${no}` : `${no}번`;
+            const label = lang === 'ko' ? `${no}번` : lang === 'ja' ? `${no}番` : `Bus ${no}`;
             node2 = badge(type.color, label, type[lang]);
           }
         }

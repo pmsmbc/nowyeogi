@@ -73,6 +73,10 @@ p { margin: 0 0 1.2em; }
 .ad { margin: 2rem auto; text-align: center; }
 .ad-label { display: block; font-size: .7rem; letter-spacing: .1em; color: var(--c-muted); margin-bottom: .3em; }
 
+/* 일본어 본문은 한자와 가나가 제대로 나오도록 Noto Sans JP 를 앞에 둔다 */
+body.lang-ja { font-family: 'Noto Sans JP', 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic', Meiryo, sans-serif; }
+body.lang-ja h1, body.lang-ja h2, body.lang-ja h3 { font-family: inherit; }
+
 /* 접근성 */
 .skip-link { position: absolute; left: 50%; top: 0; transform: translate(-50%, -120%); z-index: 100; padding: .7em 1.4em; background: var(--c-primary-darker); color: #fff; font-weight: 600; border-radius: 0 0 var(--radius-sm) var(--radius-sm); }
 .skip-link:focus { transform: translate(-50%, 0); text-decoration: none; }

@@ -2,6 +2,7 @@
   "seoul": {
     "ko": "서울",
     "en": "Seoul",
+    "ja": "ソウル",
     "scope": "domestic",
     "country": "KR",
     "aliases": []
@@ -9,6 +10,7 @@
   "busan": {
     "ko": "부산",
     "en": "Busan",
+    "ja": "釜山",
     "scope": "domestic",
     "country": "KR",
     "aliases": []
@@ -16,6 +18,7 @@
   "jeju": {
     "ko": "제주",
     "en": "Jeju",
+    "ja": "済州",
     "scope": "domestic",
     "country": "KR",
     "aliases": [
@@ -28,6 +31,7 @@
   "gangneung": {
     "ko": "강릉",
     "en": "Gangneung",
+    "ja": "江陵",
     "scope": "domestic",
     "country": "KR",
     "aliases": []
@@ -35,6 +39,7 @@
   "sokcho": {
     "ko": "속초",
     "en": "Sokcho",
+    "ja": "束草",
     "scope": "domestic",
     "country": "KR",
     "aliases": []
@@ -42,6 +47,7 @@
   "gyeongju": {
     "ko": "경주",
     "en": "Gyeongju",
+    "ja": "慶州",
     "scope": "domestic",
     "country": "KR",
     "aliases": []
@@ -49,6 +55,7 @@
   "jeonju": {
     "ko": "전주",
     "en": "Jeonju",
+    "ja": "全州",
     "scope": "domestic",
     "country": "KR",
     "aliases": []
@@ -56,6 +63,7 @@
   "yeosu": {
     "ko": "여수",
     "en": "Yeosu",
+    "ja": "麗水",
     "scope": "domestic",
     "country": "KR",
     "aliases": []
@@ -63,6 +71,7 @@
   "tongyeong": {
     "ko": "통영",
     "en": "Tongyeong",
+    "ja": "統営",
     "scope": "domestic",
     "country": "KR",
     "aliases": []
@@ -70,6 +79,7 @@
   "incheon": {
     "ko": "인천",
     "en": "Incheon",
+    "ja": "仁川",
     "scope": "domestic",
     "country": "KR",
     "aliases": []
@@ -77,6 +87,7 @@
   "paju": {
     "ko": "파주·DMZ",
     "en": "Paju & the DMZ",
+    "ja": "坡州・DMZ",
     "scope": "domestic",
     "country": "KR",
     "aliases": [
@@ -92,6 +103,7 @@
   "gapyeong": {
     "ko": "가평·남이섬",
     "en": "Gapyeong & Nami Island",
+    "ja": "加平・南怡島",
     "scope": "domestic",
     "country": "KR",
     "aliases": [
@@ -106,6 +118,7 @@
   "tokyo": {
     "ko": "도쿄",
     "en": "Tokyo",
+    "ja": "東京",
     "scope": "overseas",
     "country": "JP",
     "aliases": [
@@ -115,6 +128,7 @@
   "osaka": {
     "ko": "오사카",
     "en": "Osaka",
+    "ja": "大阪",
     "scope": "overseas",
     "country": "JP",
     "aliases": []
@@ -122,6 +136,7 @@
   "kyoto": {
     "ko": "교토",
     "en": "Kyoto",
+    "ja": "京都",
     "scope": "overseas",
     "country": "JP",
     "aliases": []
@@ -129,6 +144,7 @@
   "fukuoka": {
     "ko": "후쿠오카",
     "en": "Fukuoka",
+    "ja": "福岡",
     "scope": "overseas",
     "country": "JP",
     "aliases": []
@@ -136,6 +152,7 @@
   "sapporo": {
     "ko": "삿포로",
     "en": "Sapporo",
+    "ja": "札幌",
     "scope": "overseas",
     "country": "JP",
     "aliases": [
@@ -145,6 +162,7 @@
   "okinawa": {
     "ko": "오키나와",
     "en": "Okinawa",
+    "ja": "沖縄",
     "scope": "overseas",
     "country": "JP",
     "aliases": []
@@ -152,6 +170,7 @@
   "taipei": {
     "ko": "타이베이",
     "en": "Taipei",
+    "ja": "台北",
     "scope": "overseas",
     "country": "TW",
     "aliases": [
@@ -162,6 +181,7 @@
   "bangkok": {
     "ko": "방콕",
     "en": "Bangkok",
+    "ja": "バンコク",
     "scope": "overseas",
     "country": "TH",
     "aliases": []
@@ -169,6 +189,7 @@
   "chiangmai": {
     "ko": "치앙마이",
     "en": "Chiang Mai",
+    "ja": "チェンマイ",
     "scope": "overseas",
     "country": "TH",
     "aliases": []
@@ -176,6 +197,7 @@
   "danang": {
     "ko": "다낭",
     "en": "Da Nang",
+    "ja": "ダナン",
     "scope": "overseas",
     "country": "VN",
     "aliases": [
@@ -185,6 +207,7 @@
   "hanoi": {
     "ko": "하노이",
     "en": "Hanoi",
+    "ja": "ハノイ",
     "scope": "overseas",
     "country": "VN",
     "aliases": []
@@ -192,6 +215,7 @@
   "singapore": {
     "ko": "싱가포르",
     "en": "Singapore",
+    "ja": "シンガポール",
     "scope": "overseas",
     "country": "SG",
     "aliases": []
@@ -199,6 +223,7 @@
   "hongkong": {
     "ko": "홍콩",
     "en": "Hong Kong",
+    "ja": "香港",
     "scope": "overseas",
     "country": "HK",
     "aliases": []
@@ -206,6 +231,7 @@
   "bali": {
     "ko": "발리",
     "en": "Bali",
+    "ja": "バリ島",
     "scope": "overseas",
     "country": "ID",
     "aliases": []
@@ -213,6 +239,7 @@
   "paris": {
     "ko": "파리",
     "en": "Paris",
+    "ja": "パリ",
     "scope": "overseas",
     "country": "FR",
     "aliases": []
@@ -220,6 +247,7 @@
   "london": {
     "ko": "런던",
     "en": "London",
+    "ja": "ロンドン",
     "scope": "overseas",
     "country": "GB",
     "aliases": []
@@ -227,6 +255,7 @@
   "rome": {
     "ko": "로마",
     "en": "Rome",
+    "ja": "ローマ",
     "scope": "overseas",
     "country": "IT",
     "aliases": []
@@ -234,6 +263,7 @@
   "barcelona": {
     "ko": "바르셀로나",
     "en": "Barcelona",
+    "ja": "バルセロナ",
     "scope": "overseas",
     "country": "ES",
     "aliases": []
@@ -241,6 +271,7 @@
   "newyork": {
     "ko": "뉴욕",
     "en": "New York",
+    "ja": "ニューヨーク",
     "scope": "overseas",
     "country": "US",
     "aliases": []
@@ -248,6 +279,7 @@
   "hawaii": {
     "ko": "하와이",
     "en": "Hawaii",
+    "ja": "ハワイ",
     "scope": "overseas",
     "country": "US",
     "aliases": []
@@ -255,6 +287,7 @@
   "guam": {
     "ko": "괌",
     "en": "Guam",
+    "ja": "グアム",
     "scope": "overseas",
     "country": "US",
     "aliases": []
@@ -262,6 +295,7 @@
   "sydney": {
     "ko": "시드니",
     "en": "Sydney",
+    "ja": "シドニー",
     "scope": "overseas",
     "country": "AU",
     "aliases": []

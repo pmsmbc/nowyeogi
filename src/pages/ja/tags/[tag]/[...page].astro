@@ -1,0 +1,30 @@
+---
+import type { GetStaticPaths } from 'astro';
+import ListView from '../../../../views/ListView.astro';
+import siteConfig from '../../../../site.config';
+import { getPosts } from '../../../../lib/posts';
+import { collectTags, localePath } from '../../../../lib/postUtils';
+import { t } from '../../../../i18n/ui';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await getPosts('ja');
+  const otherTags = collectTags(await getPosts('ko'));
+  return collectTags(posts).flatMap(({ tag }) => {
+    const hasOther = otherTags.some((x) => x.tag === tag);
+    return paginate(posts.filter((p) => p.data.tags.includes(tag)), {
+      params: { tag },
+      pageSize: siteConfig.postsPerPage,
+      props: { hasOther },
+    });
+  });
+}) satisfies GetStaticPaths;
+
+const { page, hasOther } = Astro.props;
+const { tag } = Astro.params;
+const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
+const alternates = {
+  ja: localePath('ja', `/tags/${encodeURIComponent(tag!)}/${suffix}`),
+  ...(hasOther ? { ko: localePath('ko', `/tags/${encodeURIComponent(tag!)}/${suffix}`) } : {}),
+};
+---
+<ListView lang="ja" title={t('ja', 'tag.title', { tag: tag! })} description={`「${tag}」タグの記事`} page={page} basePath={`/tags/${encodeURIComponent(tag!)}/`} alternates={alternates} />

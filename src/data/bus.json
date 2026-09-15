@@ -1,8 +1,38 @@
 {
-  "airport": { "ko": "공항버스", "en": "Airport bus", "color": "#1B3A6B" },
-  "blue":    { "ko": "간선버스", "en": "Trunk bus",   "color": "#3D5BAB" },
-  "green":   { "ko": "지선버스", "en": "Branch bus",  "color": "#53B332" },
-  "red":     { "ko": "광역버스", "en": "Express bus", "color": "#E8112D" },
-  "yellow":  { "ko": "순환버스", "en": "Circular bus","color": "#F99D1C" },
-  "village": { "ko": "마을버스", "en": "Village bus", "color": "#53B332" }
+  "airport": {
+    "ko": "공항버스",
+    "en": "Airport bus",
+    "ja": "空港バス",
+    "color": "#1B3A6B"
+  },
+  "blue": {
+    "ko": "간선버스",
+    "en": "Trunk bus",
+    "ja": "幹線バス",
+    "color": "#3D5BAB"
+  },
+  "green": {
+    "ko": "지선버스",
+    "en": "Branch bus",
+    "ja": "支線バス",
+    "color": "#53B332"
+  },
+  "red": {
+    "ko": "광역버스",
+    "en": "Express bus",
+    "ja": "広域バス",
+    "color": "#E8112D"
+  },
+  "yellow": {
+    "ko": "순환버스",
+    "en": "Circular bus",
+    "ja": "循環バス",
+    "color": "#F99D1C"
+  },
+  "village": {
+    "ko": "마을버스",
+    "en": "Village bus",
+    "ja": "村バス",
+    "color": "#53B332"
+  }
 }

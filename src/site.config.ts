@@ -1,7 +1,8 @@
 import config from './site.config.json';
 
-export type Lang = 'ko' | 'en';
-export const LANGS: Lang[] = ['ko', 'en'];
+export type Lang = 'ko' | 'en' | 'ja';
+export const LANGS: Lang[] = ['ko', 'en', 'ja'];
+export const DEFAULT_LANG: Lang = 'ko';
 
 export interface SiteConfig {
   url: string;

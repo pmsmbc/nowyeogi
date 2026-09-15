@@ -1,15 +1,16 @@
 import { visit } from 'unist-util-visit';
+import { langFromPath } from './lang.mjs';
 
 const LABELS = {
   ko: { credit: '사진', newWindow: '새 창에서 열림' },
   en: { credit: 'Photo', newWindow: 'opens in a new window' },
+  ja: { credit: '写真', newWindow: '新しいウィンドウで開きます' },
 };
 
 /** p > img 만 있는 문단을 figure로 바꾸고 lazy/width/height를 붙인다. */
 export function rehypeFigures() {
   return (tree, file) => {
-    const path = String(file?.path ?? file?.history?.[0] ?? '');
-    const L = LABELS[/[\\/]en[\\/]/.test(path) ? 'en' : 'ko'];
+    const L = LABELS[langFromPath(file)];
     const images = file?.data?.astro?.frontmatter?.images ?? [];
     const dims = new Map(images.map((i) => [i.src, i]));
     visit(tree, 'element', (node, index, parent) => {

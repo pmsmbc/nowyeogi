@@ -1,8 +1,10 @@
 import { visit } from 'unist-util-visit';
+import { langFromPath } from './lang.mjs';
 
 const LABELS = {
   ko: '표, 좌우로 스크롤할 수 있습니다',
   en: 'Table, scrollable horizontally',
+  ja: '表、左右にスクロールできます',
 };
 
 /**
@@ -11,8 +13,7 @@ const LABELS = {
  */
 export function rehypeTables() {
   return (tree, file) => {
-    const path = String(file?.path ?? file?.history?.[0] ?? '');
-    const label = LABELS[/[\\/]en[\\/]/.test(path) ? 'en' : 'ko'];
+    const label = LABELS[langFromPath(file)];
     visit(tree, 'element', (node, index, parent) => {
       if (node.tagName !== 'table' || !parent || index === undefined) return;
       if (parent.tagName === 'div' && (parent.properties?.className ?? []).includes('table-wrap')) return;

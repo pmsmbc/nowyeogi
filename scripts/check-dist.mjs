@@ -7,7 +7,14 @@ const dist = fileURLToPath(new URL('../dist/', import.meta.url));
 const errors = [];
 const warnings = [];
 
-const required = ['index.html', 'en/index.html', 'sitemap-index.xml', 'robots.txt', 'ads.txt', 'rss.xml', 'en/rss.xml', '404.html', 'about/index.html', 'privacy/index.html', 'contact/index.html', 'en/about/index.html', 'en/privacy/index.html', 'en/contact/index.html'];
+const LANGS = ['ko', 'en', 'ja'];
+const DEFAULT_LANG = 'ko';
+const prefix = (lang) => (lang === DEFAULT_LANG ? '' : `${lang}/`);
+const required = ['sitemap-index.xml', 'robots.txt', 'ads.txt', '404.html'];
+for (const lang of LANGS) {
+  const p = prefix(lang);
+  required.push(`${p}index.html`, `${p}rss.xml`, `${p}about/index.html`, `${p}privacy/index.html`, `${p}contact/index.html`);
+}
 for (const f of required) if (!existsSync(join(dist, f))) errors.push(`없음: dist/${f}`);
 
 function postDirs(rel) {
@@ -15,12 +22,21 @@ function postDirs(rel) {
   if (!existsSync(dir)) return [];
   return readdirSync(dir).filter((d) => statSync(join(dir, d)).isDirectory());
 }
-const ko = postDirs('posts');
-const en = postDirs('en/posts');
-for (const slug of ko) if (!en.includes(slug)) warnings.push(`영어 글 없음: ${slug}`);
-for (const slug of en) if (!ko.includes(slug)) warnings.push(`한국어 글 없음: ${slug}`);
+const bySlugs = Object.fromEntries(LANGS.map((l) => [l, postDirs(`${prefix(l)}posts`)]));
+// 기본 언어에만 있는 글은 번역이 아직 없다는 뜻이라 경고로만 알린다
+for (const slug of bySlugs[DEFAULT_LANG]) {
+  const missing = LANGS.filter((l) => l !== DEFAULT_LANG && !bySlugs[l].includes(slug));
+  if (missing.length) warnings.push(`${missing.join('/')} 번역 없음: ${slug}`);
+}
+for (const lang of LANGS) {
+  if (lang === DEFAULT_LANG) continue;
+  for (const slug of bySlugs[lang]) {
+    if (!bySlugs[DEFAULT_LANG].includes(slug)) warnings.push(`한국어 원문 없음: ${lang}/${slug}`);
+  }
+}
+const pairs = LANGS.map((l) => [`${prefix(l)}posts`, bySlugs[l]]);
 
-for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
+for (const [rel, slugs] of pairs) {
   for (const slug of slugs) {
     const html = readFileSync(join(dist, rel, slug, 'index.html'), 'utf8');
     if (!html.includes('hreflang=')) errors.push(`hreflang 없음: ${rel}/${slug}`);
@@ -31,7 +47,7 @@ for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
 
 // 마크다운이 닫히지 않아 본문에 별표가 그대로 남았는지 검사한다.
 // 한국어에서는 `**굵게(괄호)**조사` 처럼 닫는 별표 뒤에 한글이 붙으면 CommonMark 가 닫지 않는다.
-for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
+for (const [rel, slugs] of pairs) {
   for (const slug of slugs) {
     const html = readFileSync(join(dist, rel, slug, 'index.html'), 'utf8');
     // Astro 가 <div class="prose body" data-astro-cid-...> 처럼 속성을 붙이므로 정규식으로 찾는다.
@@ -42,7 +58,7 @@ for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
 }
 
 // 글에서 참조한 이미지가 실제로 배포에 포함됐는지 검사한다.
-for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
+for (const [rel, slugs] of pairs) {
   for (const slug of slugs) {
     const html = readFileSync(join(dist, rel, slug, 'index.html'), 'utf8');
     const refs = new Set();
@@ -64,7 +80,7 @@ const pageExists = (href) => {
   const rel = clean.replace(/^\//, '').replace(/\/$/, '');
   return existsSync(join(dist, rel)) || existsSync(join(dist, rel, 'index.html')) || existsSync(join(dist, `${rel}.html`));
 };
-for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
+for (const [rel, slugs] of pairs) {
   for (const slug of slugs) {
     const html = readFileSync(join(dist, rel, slug, 'index.html'), 'utf8');
     const body = html.split(/<div class="prose body"[^>]*>/)[1]?.split('</article>')[0] ?? '';
@@ -75,11 +91,11 @@ for (const [rel, slugs] of [['posts', ko], ['en/posts', en]]) {
 }
 
 for (const w of warnings) console.warn(`⚠ ${w}`);
-if (ko.length === 0 && en.length === 0) {
+if (LANGS.every((l) => bySlugs[l].length === 0)) {
   console.warn('⚠ 발행된 글이 0편입니다 — draft: false 로 바꿨는지 확인하세요');
 }
 if (errors.length) {
   for (const e of errors) console.error(`✖ ${e}`);
   process.exit(1);
 }
-console.log(`check-dist: 통과 (한국어 글 ${ko.length}, 영어 글 ${en.length})`);
+console.log(`check-dist: 통과 (${LANGS.map((l) => `${l} ${bySlugs[l].length}편`).join(', ')})`);
