@@ -73,6 +73,7 @@ sources:
   - { title: "Jinju National Museum — visitor information", url: "https://jinju.museum.go.kr/kor/html/sub01/0101.html" }
   - { title: "Jinju City — the Eight Scenic Views of Jinju", url: "https://www.jinju.go.kr/02232/02244.web" }
   - { title: "Jinju City — Jinyangho Zoo visitor information", url: "https://www.jinju.go.kr/park/00290/00320.web" }
+  - { title: "Jinju City press release — 2026 Jinju Namgang Yudeung Festival dates (3 Sept 2026)", url: "https://www.jinju.go.kr/00130/02730/00138.web?amode=view&gcode=1004&idx=39617781" }
 draft: false
 ---
 
@@ -138,7 +139,9 @@ Foreign-language access is limited: the 25 audio guides lent out free of charge 
 
 Jinju's signature festival takes place around Bonseong-dong and **entry is free**, with large lanterns floated on the Namgang and more set up inside the fortress.
 
-**The 2026 dates have not been confirmed.** The period shown on the city's tourism page is the 2025 one, 4–19 October, and has not been updated; the festival's own site is unreachable. It is usually held in October, but if you are timing a trip around it, check with the organising committee on 055-761-9111.
+**The 2026 dates are 3 to 18 October**, confirmed in a Jinju city press release. The site is Jinjuseong and the Namgang riverside, and the festival was named a Ministry of Culture "global festival" for 2026. It **overlaps the Gaecheon Arts Festival (9–18 October) by ten days**.
+
+The **admission fee for 2026 could not be confirmed**, though: the press release is silent on pricing and the festival's own site is unreachable. The "free" on the city's tourism database is the 2025 figure. Check with the organising committee on 055-761-9111.
 
 Missing it is not fatal. The **Jinju Namgang Yudeung Exhibition Hall** opened in 2023 and **shows lanterns year-round**, at 207 Manggyeong-ro: ₩2,000 adults, ₩1,000 teenagers and soldiers, ₩500 children, open 10:00–21:00 March to November and 10:00–18:00 December to February, closed Mondays. To make a lantern yourself, the **Yudeung Experience Hall** at 15 Manggyeongbuk-gil 43beon-gil runs 09:00–17:00 on weekdays; weekends need a booking for 10 or more.
 

@@ -30,6 +30,7 @@ sources:
   - { title: "Korea Airports Corporation — Sacheon Airport schedule", url: "https://www.airport.co.kr/sacheon/cms/frCon/index.do?MENU_ID=110" }
   - { title: "Gaecheon Arts Festival — 2026 event information", url: "https://www.gaecheonart.com/sub2026/sub2_1.php" }
   - { title: "Jinju Namgang Yudeung Exhibition Hall — origins of the lanterns", url: "https://www.jinju.go.kr/yudeung/sub/sub6_6.php" }
+  - { title: "Jinju City press release — 2026 Jinju Namgang Yudeung Festival dates (3 Sept 2026)", url: "https://www.jinju.go.kr/00130/02730/00138.web?amode=view&gcode=1004&idx=39617781" }
 draft: false
 ---
 
@@ -107,7 +108,11 @@ The exception is the train station, out in Gajwa-dong, nowhere near any of this.
 
 **The Gaecheon Arts Festival has confirmed 2026 dates.** The 75th edition runs **Friday 9 October to Sunday 18 October 2026**, at venues across the city. It is described as **Korea's first regional general arts festival**, founded in 1949 as the Yeongnam Arts Festival and renamed at its tenth edition in 1959. At its core are competitions in gugak, dance, literature, fine art, photography, theatre and sijo singing.
 
-**The Jinju Namgang Yudeung (lantern) Festival dates for 2026 could not be confirmed.** The city's tourism material still shows 4 to 19 October 2025 and has not been updated, and the festival's own website has an expired certificate and serves no content even when you get through. One city notice does list a **side event on 4 October 2026**, so the festival may include that stretch, but the only reliable check is the organising committee on 055-761-9111. The site is Bonseong-dong, the fortress area, and **admission was free in 2025**.
+**The Jinju Namgang Yudeung (lantern) Festival now has 2026 dates too.** A city press release puts it at **3 to 18 October, across Jinjuseong and the Namgang riverside**. It was named a Ministry of Culture "global festival" for 2026.
+
+**That overlaps the Gaecheon Arts Festival by ten days.** Come between 9 and 18 October and you get both at once.
+
+One gap remains: **the 2026 admission fee could not be confirmed.** The press release says nothing about pricing, and the festival's own site is unreachable. The "free" shown on the city's tourism database page is the 2025 figure and should not be relied on. Check with the organising committee on 055-761-9111.
 
 On the lanterns' origin: the city says that during the Jinju Fortress battles of the Imjin War, **sky lanterns were flown and lanterns floated on the Namgang** as military signals and to send word to families — though it writes "it is said", so treat that as tradition rather than record. Officially, lanterns were floated to honour the 70,000 who died when the fortress fell in 1593, and the practice continued from there.
 

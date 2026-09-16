@@ -53,8 +53,6 @@ Restaurants and department stores close, but **the palaces and national museums 
 
 ## First: there is no substitute holiday
 
-The most misunderstood point, so it goes first.
-
 Of the three statutory Chuseok days — 24, 25 and 26 September — **the 26th is a Saturday**, and a Saturday holiday usually generates a substitute day off. **Seollal (Lunar New Year) and Chuseok are the exception.** Article 3, clause 1 of the Presidential Decree on Public Holidays for Government Offices splits it:
 
 - **Item 2**: Seollal and Chuseok generate a substitute day **only when they overlap a Sunday**.
@@ -66,7 +64,7 @@ No Chuseok day falls on a Sunday in 2026, so **there is no substitute holiday**.
 
 The Royal Palaces and Tombs Center closes sites on fixed weekdays. **Closed Mondays**: Changdeokgung, Deoksugung, Changgyeonggung, the Joseon Royal Tombs, Sungnyemun. **Closed Tuesdays**: Gyeongbokgung, Jongmyo, Chilgung.
 
-The holiday runs Thursday to Sunday, so **neither a Monday nor a Tuesday falls inside it** and all five sites open normally throughout. Afterwards: Changdeokgung, Deoksugung and Changgyeonggung close **Monday 28 September**, Gyeongbokgung and Jongmyo **Tuesday 29 September**.
+The holiday runs Thursday to Sunday, so **neither a Monday nor a Tuesday falls inside it** and all five sites open normally throughout. Afterwards, Changdeokgung, Deoksugung and Changgyeonggung close **Monday 28 September**, Gyeongbokgung and Jongmyo **Tuesday 29 September**.
 
 ### Free admission is confirmed at two sites only
 
@@ -77,7 +75,7 @@ The holiday runs Thursday to Sunday, so **neither a Monday nor a Tuesday falls i
 
 **Not yet announced**
 
-For Gyeongbokgung, Changdeokgung and Changgyeonggung, **no 2026 Chuseok free-admission notice had been published as of 16 September** — a full check of Korea Heritage Service releases found none. A five-day free opening was announced for Seollal 2026, and such notices tend to appear shortly before the holiday, so it looks likely. But **it is not confirmed**: check the Royal Palaces and Tombs Center site before you go.
+For Gyeongbokgung, Changdeokgung and Changgyeonggung, **no 2026 Chuseok free-admission notice had been published as of 16 September** — a full check of Korea Heritage Service releases found none. A five-day free opening was announced for Seollal 2026 and such notices tend to appear shortly beforehand, so it looks likely. But **it is not confirmed**: check the Royal Palaces and Tombs Center site before you go.
 
 Otherwise: Gyeongbokgung ₩3,000 (about $2.25), Changdeokgung ₩3,000 with the Huwon garden a separate ₩5,000, Changgyeonggung and Deoksugung around ₩1,000 each.
 
@@ -85,18 +83,16 @@ Otherwise: Gyeongbokgung ₩3,000 (about $2.25), Changdeokgung ₩3,000 with the
 
 ### Hanbok always gets you in free
 
-Separately from any holiday opening, **anyone wearing hanbok — the traditional Korean dress — enters the palaces free, all year round**, and the Center's guidelines state this applies **regardless of nationality**, the aim being to popularise hanbok internationally. Rental shops cluster around Gyeongbokgung, so there is no need to wait on the announcement.
+Separately from any holiday opening, **anyone wearing hanbok — the traditional Korean dress — enters the palaces free, all year round**, and the Center's guidelines state this applies **regardless of nationality**. Rental shops cluster around Gyeongbokgung, so there is no need to wait on the announcement.
 
 ### Palace programmes over the holiday
 
 - **Gyeongbokgung night viewing** — 2 September to 2 October, 19:00–21:30, last entry 20:30. Closed Mondays and Tuesdays, so it **runs all four holiday days**. Online sales are capped at 3,000 a day, but **foreign visitors can buy same-day at the Gwanghwamun ticket office with a passport**: 300 tickets a day, 2 per person.
 - **Changing of the Royal Guard** — 10:00 and 14:00 daily except Tuesday, 20 minutes.
-- **Royal Guard patrol ceremony** — 15:00–16:00, weekends and holidays September to November, so **all four days qualify**. Saturdays inside Gyeongbokgung; otherwise it marches from the Gwanghwamun woldae to Insadong, and photos with the guards are allowed.
-- **Changgyeonggung Yayeon** — 24 September to 4 October, Mondays excluded. The experience ticket is ₩50,000, but **ordinary visitors can watch free, first come first served, 70 per session**.
+- **Royal Guard patrol ceremony** — 15:00–16:00 on weekends and holidays, September to November, so **all four days qualify**. Saturdays inside Gyeongbokgung, otherwise marching from the Gwanghwamun woldae to Insadong; photos with the guards allowed.
+- **Changgyeonggung Yayeon** — 24 September to 4 October, Mondays excluded. The experience ticket is ₩50,000, but **ordinary visitors can watch free, 70 per session, first come first served**.
 
 ## The museums close on Chuseok day only
-
-Not for the whole four days — easy to get wrong.
 
 - **National Museum of Korea** — **closed Friday 25 September only**; open and free on the 24th, 26th and 27th, and open **until 21:00 on Saturday the 26th**.
 - **National Folk Museum of Korea** — **closed the 25th only**, otherwise 09:00–18:00, free.
@@ -109,9 +105,9 @@ Not for the whole four days — easy to get wrong.
 
 Chuseok centres on charye, the rite at which food is laid out for ancestors at home, so it looks private. Public institutions run plenty in the open.
 
-- **National Folk Museum of Korea, "2026 Chuseok Hanmadang"** — 26 and 27 September, 10:00–17:00, **all 20 programmes free and walk-in**: ssireum wrestling (class 13:00, tournament 15:00), ganggangsullae circle dance taught after a demonstration (11:30, 14:00, 16:30), jegichagi, tuho and top spinning (10:30, 13:00, 15:30), a photo booth and straw craft, plus performances at 12:00 on both days and 14:00 on the 27th.
-- **Incheon Airport, "Heritage Holiday Connection"** — 23 and 24 September, 09:00–15:00, Node Garden east side, **Terminal 2**, explicitly for Korean and foreign passengers alike. Crafts, folk games, drum and crane dances, a Joseon officers' procession. **Useful if you land or fly out with time to kill.**
-- **Seoul Museum of History, "Five-Colour Hangawi"** — 26 September, 12:00–16:00, billed as greatly expanding activities for adults and foreign visitors, and **all exhibitions are free during the holiday**.
+- **National Folk Museum of Korea, "2026 Chuseok Hanmadang"** — 26 and 27 September, 10:00–17:00. **All 20 programmes free and walk-in**: ssireum wrestling (class 13:00, tournament 15:00), ganggangsullae circle dance taught after a demonstration (11:30, 14:00, 16:30), folk games (10:30, 13:00, 15:30), and special performances at 12:00 on both days plus 14:00 on the 27th.
+- **Incheon Airport, "Heritage Holiday Connection"** — 23 and 24 September, 09:00–15:00, Node Garden east side, **Terminal 2**, explicitly for Korean and foreign passengers alike: craft-making, folk games, traditional dances and a Joseon officers' procession. **Useful if you land or fly out with time to kill.**
+- **Seoul Museum of History, "Five-Colour Hangawi"** — 26 September, 12:00–16:00, with activities aimed at adults and foreign visitors, and **all exhibitions free during the holiday**.
 - **Korean Folk Village** — 24 to 27 September per the official banner, though its detail page gives different dates. Confirm before travelling out.
 
 ## What closes
@@ -134,7 +130,7 @@ Myeongdong needs care: **Lotte main closes on the 24th and 25th, Shinsegae main 
 
 **Bank branches are effectively shut from 24 to 27 September.** The joint Financial Services Commission and Korea Federation of Banks notice advises moving transactions earlier, since counter exchange and remittance will also be hard.
 
-**Airport exchange counters do open**: at Incheon Terminals 1 and 2, Woori, Hana and KB Kookmin run 06:00–22:00, some counters 24 hours; Gimpo has Shinhan 07:00–21:00, and Busan Bank at Gimhae and counters at Jeju also operate. **One warning** — the counters in the Incheon **concourse are not 24 hours**: Hana 12:00–19:00, Woori 08:00–16:30. Ordinary branches inside the airport close on holidays too. ATMs and internet banking run normally, with no maintenance scheduled.
+**Airport exchange counters do open**: at Incheon Terminals 1 and 2, Woori, Hana and KB Kookmin run 06:00–22:00, some counters 24 hours; Gimpo has Shinhan 07:00–21:00, with Busan Bank at Gimhae and counters at Jeju too. **One warning** — the counters in Incheon's satellite concourse building are **not 24 hours**: Hana 12:00–19:00, Woori 08:00–16:30. Ordinary branches inside the airport close on holidays too. ATMs and internet banking run normally, with no maintenance scheduled.
 
 ### What could not be verified
 
@@ -144,7 +140,7 @@ Myeongdong needs care: **Lotte main closes on the 24th and 25th, Shinsegae main 
 
 ### The late-night extension covers two nights, not four
 
-Possibly the most useful line here. Seoul extends last services on **Saturday 26 and Sunday 27 September only**: final trains on subway lines 1 to 8 (Seoul Metro sections), line 9, the Ui-Sinseol line and the Sillim line reach their terminals at 01:00, with 128 extra runs across the two days, and last city buses serving major stations and terminals shift to 01:00.
+Seoul extends last services on **Saturday 26 and Sunday 27 September only**: final trains on subway lines 1 to 8 (Seoul Metro sections), line 9, the Ui-Sinseol line and the Sillim line reach their terminals at 01:00, with 128 extra runs across the two days, and last city buses serving major stations and terminals shift to 01:00.
 
 **There is no extension on the nights of the 24th and 25th** — those are normal last trains. Late-night N buses run normally throughout.
 
@@ -154,7 +150,7 @@ Possibly the most useful line here. Seoul extends last services on **Saturday 26
 
 Korail and SRT **merged on 1 September 2026** onto one reservation system, adding roughly 15,000 seats a day on weekdays and up to 17,000 at weekends. But **the Chuseok ticket release date and whether trains are sold out could not be confirmed** — the Korail site would not serve its notices. Check today if you are leaving Seoul. Express and intercity buses from Seoul add **751 extra departures a day** from 23 to 27 September.
 
-On tolls: past waivers lead many to expect another, but **as of 16 September the Ministry of Land, Infrastructure and Transport had not published a 2026 Chuseok special transport plan**, and the Korea Expressway Corporation notice board has nothing either. So this post will not say tolls are waived. Driving a rental car, check before setting off.
+On tolls: past waivers lead many to expect another, but **as of 16 September the Ministry of Land, Infrastructure and Transport had not published a 2026 Chuseok special transport plan**, and the Korea Expressway Corporation notice board has nothing either. So this post will not say tolls are waived. Check before setting off in a rental car.
 
 ## Practical notes
 
@@ -169,6 +165,6 @@ On tolls: past waivers lead many to expect another, but **as of 16 September the
 
 ## Wrapping up
 
-Being in Korea for Chuseok is no loss: four days of **empty palaces, free museums and a quiet city**. Three things to remember — **most closures land on 25 September alone**, **the late-night transport extension covers only the 26th and 27th**, and **bank counters are shut all four days**.
+Being in Korea for Chuseok is no loss: four days of **empty palaces, free museums and a quiet city**. Three things to remember — **most closures land on 25 September alone**, **the late-night extension covers only the 26th and 27th**, and **bank counters are shut all four days**.
 
 Free admission at Gyeongbokgung, Changdeokgung and Changgyeonggung is still unannounced, so check the Royal Palaces and Tombs Center site before you head out.
