@@ -7,8 +7,7 @@ description: "Now, Yeogi is a travel guide blog that compiles hotel, sightseeing
 
 ## How the guides are made
 
-- Guides are **compiled from public sources** such as official listings, visitor reviews and travel videos. They are not first-hand visit reports.
-- We write **with the help of AI tools**, and list the sources we used at the end of each guide.
+- Guides are **compiled from public sources** such as official listings, visitor reviews and travel videos. They are not first-hand visit reports. The sources used are listed at the end of each guide.
 - Prices and opening hours are as of the time of writing and may change. Please check official channels before you go.
 - Posts may include ads and affiliate links. They do not influence which places we cover. Sponsored posts are labeled as such.
 
