@@ -55,7 +55,7 @@ For a foreign visitor, two things stand out. **There is a separate fishing area 
 The most useful thing to know here. Its official name is the **Foreigners & FAM Tourists Ice Fishing Area**, downstream of the suspension bridge, in a zone separate from the general areas.
 
 - **Open 09:00–18:00** (ticketing 09:00–17:00). Unlike the general areas, there is no weekday or weekend split.
-- Capacity 1,300 at a time.
+- Capacity 1,300.
 - **Individual foreign travellers (FIT) pay ₩10,000 (about $7.50)** and get ₩5,000 (about $3.75) back as a Hwacheon local gift voucher. Overseas travel-agency groups (MOU) pay ₩15,000 (about $11) with a ₩10,000 voucher.
 - Children under 4 are free.
 
@@ -67,7 +67,7 @@ Oddly, **the price table for this area appears only on the English site, not the
 
 ## Bring your passport
 
-Even if you skip the dedicated area, bring it. The festival's fee table lists **"foreigners (holders of a foreign passport)"** among its discount categories, covering ice fishing, lure fishing, bare-hand catching, night fishing and the indoor ice sculpture hall. **Programmes that cost ₩15,000 drop to ₩10,000.**
+Even if you skip the dedicated area, bring it. The festival's fee table lists "foreigners (holders of a foreign passport)" among its discount categories, covering ice fishing, lure fishing, bare-hand catching, night fishing and the indoor ice sculpture hall. **Programmes that cost ₩15,000 drop to ₩10,000.**
 
 The official text says **proof must be presented and discounts cannot be combined**, so bring the physical passport, not a photo.
 
