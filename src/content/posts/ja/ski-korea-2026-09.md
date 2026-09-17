@@ -41,7 +41,7 @@ places:
       - { name: "26/27 全日シーズン券（大人）", price: "210,000ウォン" }
       - { name: "26/27 全日シーズン券（未成年）", price: "160,000ウォン" }
     hours: "2026年12月11日 開業〜2027年2月20日 終了（変更の可能性あり）"
-    tip: "五か所のうち、今シーズンの開業日が発表された唯一のリゾートです。"
+    tip: "調べた10か所のうち、今シーズンの開業日が発表された唯一のリゾートです。"
 sources:
   - { title: "エリシアン江村 — アクセス案内", url: "https://www.elysian.co.kr/about-gangchon/way-to-come" }
   - { title: "エリシアン江村 — スキー場案内", url: "https://www.elysian.co.kr/about-gangchon/ski" }
