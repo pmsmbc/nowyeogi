@@ -60,9 +60,9 @@ Skiing is one of the main reasons visitors who have never seen snow come to Kore
 
 ![Wide snowfields and slopes running down the mountainside at Yongpyong Resort under a clear sky, with resort buildings on the right](/images/ski-korea-2026-09/09.webp)
 
-## This season's information is mostly not out yet
+## This season's information is not out yet
 
-As of 17 September 2026, **nine of the ten resorts surveyed have not announced their 2026-27 opening dates.** The exception is **Oak Valley**, open from Friday 11 December 2026 to 20 February 2027 — though its own notice adds that the dates may change with weather and operating conditions.
+As of 17 September 2026, **nine of the ten resorts surveyed have not announced their 2026–27 opening dates.** The exception is **Oak Valley**, open from Friday 11 December 2026 to 20 February 2027 — though its own notice adds that the dates may change with weather and operating conditions.
 
 **Prices are the same story.** Alpensia's fee page reads "26/27 season in preparation" with every number blank, and Muju's is a single image promising a better 26/27 season.
 
@@ -70,7 +70,7 @@ So **every price below is last season's (25/26)** except Oak Valley's season pas
 
 ## Without a car, the answer is Elysian Gangchon
 
-This is **the only ski resort in Korea with a train station inside it**: **Baegyangri Station** on the Gyeongchun Line sits on resort grounds. Sangbong Station to Baegyangri takes about 60 minutes, and from the station a **free shuttle loops every 20 minutes** — on the hour, at :20 and at :40.
+This is **the only ski resort in Korea with a train station inside it**: **Baegyangri Station** on the Gyeongchun Line sits on resort grounds, about 60 minutes from Sangbong Station, and from there a **free shuttle loops every 20 minutes** — on the hour, at :20 and at :40.
 
 ### There is one trap you need to know about
 
@@ -82,7 +82,7 @@ The consolation: **ITX-Cheongchun passengers get 40 percent off lift tickets and
 
 ### It also suits beginners
 
-**Eight of its ten slopes are beginner or intermediate.** The beginner runs, Panda (255 m) and Rabbit (342 m), are short and gentle. Last season a four-hour lift ticket was **₩72,000 (about $54)** on weekdays and ₩85,000 at weekends, with a full equipment set at ₩33,000 and clothing at ₩25,000, both for four hours.
+**Eight of its ten slopes are beginner or intermediate.** The beginner runs, Panda (255 m) and Rabbit (342 m), are short and gentle. Last season four hours cost **₩72,000 (about $54)** on weekdays and ₩85,000 at weekends for the lift, ₩33,000 for a full equipment set and ₩25,000 for clothing.
 
 ## Where English lessons actually exist
 
@@ -90,17 +90,17 @@ The consolation: **ITX-Cheongchun passengers get 40 percent off lift tickets and
 
 **Elysian Gangchon** — the Premium Ski School offers an option to assign a **native-speaker instructor in English or Chinese**, at ₩50,000 (about $38) per student.
 
-**Mona Yongpyong** — publishes a separate fee table for foreigners, the **clearest of any resort surveyed**. Last season a beginner group lesson (1:7, no lift, age 8 and over) was **₩70,000 (about $53) per person** for a half day, minimum four people for the class to run; a private lesson (1:1 to 1:3) was **₩300,000 (about $225) per team** for a half day. Half-days run 10:00-12:00, 14:00-16:00 or 19:00-21:00.
+**Mona Yongpyong** — publishes a separate foreigner fee table, the **clearest of any resort surveyed**. Last season a beginner group lesson (1:7, no lift, age 8 and over) was **₩70,000 (about $53) per person** per half day, minimum four to run; a private lesson (1:1 to 1:3) was **₩300,000 (about $225) per team**. Half-days run 10:00–12:00, 14:00–16:00 or 19:00–21:00.
 
-**Alpensia** has a foreigner lesson menu too, but its price data stops in November 2023, so current rates could not be confirmed. Phone **033-339-0337**.
+**Alpensia** has a foreigner lesson menu too, but its price data stops in November 2023, so current rates are unconfirmed. Phone **033-339-0337**.
 
 ### Konjiam's "foreigner lesson" is easy to misread
 
-Konjiam Resort sells a **"foreigner lesson" that is not taught by a foreign instructor.** The official text says so plainly: **"Foreigner lessons can only be booked by phone or in person, and are not a lesson by a foreign instructor, but a product for foreigner applicants only."** Book it on the name alone and you will sit through a lesson in Korean. High1, Muju, Jisan, Welli Hilli and Vivaldi Park mention no foreign-language instruction at all.
+Konjiam Resort sells a **"foreigner lesson" that is not taught by a foreign instructor.** The official text says so plainly: **"Foreigner lessons can only be booked by phone or in person, and are not a lesson by a foreign instructor, but a product for foreigner applicants only."** Book on the name alone and you will sit through a lesson in Korean. High1, Muju, Jisan, Welli Hilli and Vivaldi Park mention no foreign-language instruction at all.
 
 ## The two foreigner-only shuttles
 
-Two shuttles from Seoul are **run for foreign visitors and bookable in English**.
+Two Seoul shuttles are **run for foreign visitors and bookable in English**.
 
 **Vivaldi Park** — ₩10,000 (about $7.50) one way, ₩20,000 return; children ₩8,000 and ₩16,000. Last season's route left Hongik Univ. Station 06:30, Dongdaemun History and Culture Park 07:00, Konkuk Univ. and Sports Complex 07:20, returning at 13:00 and 17:00. This season's routes still say "Coming Soon".
 
@@ -129,13 +129,13 @@ The Seoul-area slopes are short. For a proper mountain, go to Pyeongchang or Jeo
 - **High1 is not on the KTX Gangneung Line.** It is **Cheongnyangni to Gohan on the Taebaek Line, about 3 hours 30 minutes**, or about 2 hours 40 minutes by intercity bus from Seoul to the Gohan-Sabuk terminal.
 - **Muju** — Nambu Terminal to Muju terminal is about 2 hours 30 minutes, then a **free shuttle** into the resort four times a day. It is a 15-seat van, so seats can run out.
 
-## Two things that define Korean ski resorts
+## Two Korean quirks
 
 ![The snow park at Phoenix Park, with a halfpipe, a jump and a snowboarder coming down](/images/ski-korea-2026-09/14.webp)
 
-**First, people ski at night.** Most resorts open in the evening, and Konjiam, Jisan and Vivaldi Park run **until two or three in the morning** — so sightseeing in Seoul by day and skiing at night is a workable plan.
+**First, people ski at night.** Most resorts open in the evening, and Konjiam, Jisan and Vivaldi Park run **until two or three in the morning**, so sightseeing by day and skiing at night is a workable plan.
 
-**Second, tickets are sold by the hour**, in blocks of two, four or six rather than only full days. Beginners tire quickly, so a short block is the better call.
+**Second, tickets are sold by the hour**, in blocks of two, four or six rather than only full days — useful, since beginners tire quickly.
 
 ## Practical notes
 
@@ -143,12 +143,12 @@ The Seoul-area slopes are short. For a proper mountain, go to Pyeongchang or Jeo
 - **Rent the clothing.** Most resorts rent jacket and trousers, last season in the low ₩20,000s for four hours; gloves and goggles are usually extra.
 - **Book online.** Konjiam runs **no on-site ticket window at all**: book online, collect from a kiosk. Jisan is 25 percent cheaper online.
 - **The X6+ season pass** covers Yongpyong, High1, Jisan, Welli Hilli, Elysian and Alpensia, on sale since 9 September 2026 — worth it only if you ski all season.
-- **Most resort shuttles require advance booking**; turning up to a full bus happens.
-- **If you do not ski**, the Pyeongchang Olympic and Paralympic Memorial Museum is **free**, 10:00-18:00, closed Mondays, in Hoenggye near Alpensia.
+- **Most resort shuttles require advance booking**; buses do fill up.
+- **If you do not ski**, the Pyeongchang Olympic and Paralympic Memorial Museum is **free**, 10:00–18:00, closed Mondays, in Hoenggye near Alpensia.
 
 ## In one line
 
-- **A day trip without a car** — Elysian Gangchon.
+- **No car, one day** — Elysian Gangchon.
 - **English lessons** — Yongpyong or Elysian.
 - **A shuttle from Seoul** — Vivaldi Park or Welli Hilli.
 - **A real mountain** — Yongpyong, High1, Muju.
@@ -158,4 +158,4 @@ The Seoul-area slopes are short. For a proper mountain, go to Pyeongchang or Jeo
 
 The strength of skiing in Korea is **access**, not the size of the mountains: out of Seoul in the morning, back by evening, with equipment, clothing and lessons all sorted on site. For a first-timer that beats Europe or Japan.
 
-In mid-September, though, **most opening dates and prices are still unannounced**. They come out through November, so check again then — and book the shuttle early.
+In mid-September, though, **most opening dates and prices are still unannounced**. They come out through November — check again then, and book the shuttle early.
