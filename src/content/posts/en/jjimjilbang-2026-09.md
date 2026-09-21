@@ -45,13 +45,13 @@ sources:
   - { title: "Visit Seoul — Park Habio Water Kingdom & Jjimjil Spa", url: "https://english.visitseoul.net/entertainment/ParkHabio-WaterKingdom/ENP0jakmu" }
 draft: false
 ---
-A **jjimjilbang** is a Korean bathhouse with hot rooms attached: you bathe, then sit in a heated common area in an outfit the place issues you. Foreign visitors want to try it and dread trying it, because nobody tells them where you undress, what you put on, or whether tattoos will get you turned away. This post answers that **from the law** — from what the Public Health Control Act and its Enforcement Rule actually say.
+A **jjimjilbang** is a Korean bathhouse with hot rooms attached: you bathe, then sit in a heated common area in an outfit the place issues you. Foreign visitors want to try it and dread trying it, because nobody tells them where you undress, what you put on, or whether tattoos will get you turned away. This post answers that **from the law** — from the Public Health Control Act and its Enforcement Rule.
 
 ![A jjimjilbang counter, pink and yellow towels stacked in every pigeonhole, with a price board and coupon notice posted above](/images/jjimjilbang-2026-09/03.webp)
 
 ## The law has no word for "jjimjilbang"
 
-The Act does not separate bathhouses, saunas and jjimjilbang. **They are one legal business category, 목욕장업, the bathhouse business.** The word "jjimjilbang" never appears in the statute; the term the Enforcement Rule uses is **발한실**, a sweating room.
+The Act does not separate bathhouses, saunas and jjimjilbang. **They are one legal business category, 목욕장업, the bathhouse business.** The word "jjimjilbang" never appears in the statute; the Enforcement Rule's term is **발한실**, a sweating room.
 
 What the law divides is not businesses but two services:
 
@@ -62,11 +62,11 @@ A bathhouse is (a), a jjimjilbang is (b), and most jjimjilbang have both.
 
 ## Where you undress and where you dress is set by law
 
-The part visitors find hardest, and it is **a legal provision, not a house custom**.
+This is the part visitors find hardest, and it is **law, not house custom**.
 
 ### The bathing area — separated by sex, and naked
 
-The Enforcement Rule provides that **bathing rooms and changing rooms must not admit men and women together from the age of 4**, which it gives as 48 months. So the tubs and the changing room are **separated by sex as a matter of law**, and in there you take everything off. It is not a place you wear swimwear.
+The Enforcement Rule provides that **bathing rooms and changing rooms must not admit men and women together from the age of 4**, given as 48 months. So the tubs and the changing room are **separated by sex as a matter of law**, and in there you take everything off. Swimwear is not the norm.
 
 The same goes for staff: only men may work in the men's side, only women in the women's. That includes the **seshin** attendants, who for a fee scrub the dead skin off you on a table.
 
@@ -78,9 +78,9 @@ The provision itself:
 
 The **발한복** is the jjimjil outfit you have seen in photographs, usually a short-sleeved T-shirt and shorts.
 
-Put plainly: **a mixed-sex sweating area may be operated only on condition that people wear the outfit**. The shop is not being generous by handing it over; without it, it cannot legally run a mixed-sex area at all.
+Put plainly: **a mixed-sex sweating area may be operated only on condition that people wear the outfit**. The shop is not being generous; without it, it cannot legally run a mixed-sex area at all.
 
-**So the sequence is this.** Strip completely, wash and bathe, then change into the issued outfit for the common area. The naked part and the clothed part are two different spaces.
+**So the sequence is this.** Strip completely, wash and bathe, then change into the issued outfit for the common area — two different spaces.
 
 ## Will tattoos stop you getting in
 
@@ -89,7 +89,7 @@ The conclusion first. **No provision of Korean law gives any basis for refusing 
 > (a) persons recognised as having an infectious disease
 > (c) persons recognised as unable to use the bathhouse properly because of intoxication or the like
 
-Item (b) in between is a deleted provision: it was the **"mentally ill persons" clause**, removed in June 2022, and had nothing to do with tattoos. In the whole body of law, 문신 (tattoo) appears only among the acts prohibited to beauty-salon operators, unrelated to bathhouses.
+Item (b) between them is a deleted provision: the **"mentally ill persons" clause**, removed in June 2022, nothing to do with tattoos. In the whole body of law, 문신 (tattoo) appears only among the acts prohibited to beauty-salon operators, unrelated to bathhouses.
 
 **So any tattoo ban is entirely the individual business's own rule.** Which is why it differs from place to place, and why the only reliable move is to phone ahead.
 
@@ -97,9 +97,9 @@ Item (b) in between is a deleted provision: it was the **"mentally ill persons" 
 
 No decision of the National Human Rights Commission of Korea specifically about tattoos was found, but there is **a precedent on refusal of bathhouse entry because of appearance**.
 
-In 2012 the Commission ruled on a case in which a naturalised woman originally from Uzbekistan was refused entry to a sauna in Busan **on the grounds that she looked foreign and might transmit HIV**. The Commission found this **racial discrimination without reasonable cause** and recommended the owner not refuse use of bathhouse facilities on grounds such as race in future.
+In 2012 the Commission found that a Busan sauna refusing entry to a naturalised woman from Uzbekistan — **because she looked foreign and might transmit HIV** — was **racial discrimination without reasonable cause**, and recommended the owner not refuse bathhouse use on grounds such as race.
 
-The National Human Rights Commission of Korea Act lists **physical conditions such as appearance** among the grounds of discrimination, and treats exclusion from commercial facilities as a violation of the right to equality.
+The National Human Rights Commission of Korea Act lists **physical conditions such as appearance** among the grounds of discrimination, and treats exclusion from commercial facilities as an equality violation.
 
 ### One more thing — hair dye
 
@@ -109,17 +109,19 @@ The counter photograph carries a large notice saying **people who have just dyed
 
 ![A jjimjilbang price board hanging from the ceiling, with separate prices for bathing and for jjimjil, and outfit rental and sleep towels listed on their own](/images/jjimjilbang-2026-09/02.webp)
 
-**Posting the price list at the counter is a legal obligation.** Note that **bathing and jjimjil are priced separately**, with outfit rental and sleep towels itemised on their own. The Seoul Tourism Organization's own listings show the variation: one venue charges sauna ₩13,000 (about $9.75) and jjimjilbang ₩15,000 (about $11.25), rising to ₩17,000 (about $12.75) at night; another charges **₩2,000 (about $1.50) for outfit rental on top of admission**.
+**Posting the price list at the counter is a legal obligation.**
+
+**Bathing and jjimjil are priced separately**, with outfit rental and sleep towels itemised on their own. Seoul Tourism Organization listings show the variation: one venue charges sauna ₩13,000 (about $9.75) and jjimjilbang ₩15,000 (about $11.25), or ₩17,000 (about $12.75) at night; another charges **₩2,000 (about $1.50) for outfit rental on top of admission**.
 
 **You cannot generalise that the outfit and towel are included.** The law requires only that anything provided be freshly laundered.
 
 **And there is no government statistic for "jjimjilbang admission" at all.** The official series is "bathing: one adult visit to a general public bath", whose Seoul figure went from ₩6,538 (about $4.90) in August 2016 to **₩11,000 (about $8.25) in August 2026** — a public bath, not a jjimjilbang.
 
-One venue's official page also describes **a post-payment system in which everything except admission is charged to the locker key and settled on the way out**. That is one venue's description, not a universal rule.
+One venue's official page also describes **a post-payment system in which everything except admission is charged to the locker key and settled on the way out**. One venue's description, not a universal rule.
 
 ## Can you sleep the night
 
-Backpackers do it constantly. Legally it is stranger than they realise.
+Backpackers do it constantly, and legally it is stranger than they realise.
 
 **A jjimjilbang is not a lodging business.** And the Enforcement Rule **prohibits keeping bedding**; what is permitted goes as far as large towels and pillows. What the law envisages is "temporary sleep or rest". So it is **a floor and a towel, not a room with a bed**.
 
@@ -127,7 +129,7 @@ Yet the Seoul Tourism Organization's own article writes that jjimjilbang are **s
 
 The Enforcement Rule does assume 24-hour businesses exist, since it sets a late-night curfew for young people at them, within a 22:00 to 05:00 range.
 
-**Not every jjimjilbang is 24 hours, though.** One Seoul Tourism Organization listing shows hours of 07:00 to 22:00, and the price board above says jjimjil customers check out at noon the next day.
+**Not every jjimjilbang is 24 hours, though.** One Seoul Tourism Organization listing shows hours of 07:00 to 22:00, and the price board above says jjimjil customers check out at noon the next day. Check first.
 
 ## What you do inside
 
@@ -139,7 +141,7 @@ The facilities the law recognises are **the bathing room, changing room, sweatin
 
 **Sikhye** is a sweet drink made from rice, served cold — the emblem of the whole institution.
 
-One design feature is worth knowing. The Enforcement Rule **forbids making sweating rooms and rest areas into closed rooms** and requires the interior to be visible. That is why everything is so open.
+One design feature: the Enforcement Rule **forbids making sweating rooms and rest areas into closed rooms** and requires the interior to be visible. That is why everything is so open.
 
 ## Health and safety
 
@@ -151,28 +153,28 @@ One design feature is worth knowing. The Enforcement Rule **forbids making sweat
 
 There is, however, **no legal upper limit on the temperature of a sweating room**.
 
-The Korea Consumer Agency reported that bathhouse injury reports rose from **151 in 2021 to 574 in 2024**, an average **56.1% a year** over four years, of which **89.3% were slips and falls** and **62.9% of the injured were aged 60 or over**. Walk slowly.
+The Korea Consumer Agency reported bathhouse injury reports rising from **151 in 2021 to 574 in 2024**, an average **56.1% a year** over four years, of which **89.3% were slips and falls** and **62.9% of the injured were aged 60 or over**. Walk slowly.
 
 As for the water: **testing at least once a year**; with filtration plus chlorine, **weekly measurement of temperature and free residual chlorine**; and **a Legionella test once a year**.
 
 ## They are disappearing
 
-Registered bathhouse businesses nationwide peaked at **10,098 in 2001** and stood at **5,668 in 2025**, down roughly 44%. Seoul is worse: from **2,163 in 1999 to 668 in 2025**, down about 69%. And in Seoul only **189 of the 673 operating bathhouses — 28.1% — actually have sweating facilities**.
+Registered bathhouse businesses nationwide peaked at **10,098 in 2001** and stood at **5,668 in 2025**, down roughly 44%. Seoul is worse: **2,163 in 1999 to 668 in 2025**, down about 69%. And in Seoul only **189 of the 673 operating bathhouses — 28.1% — have sweating facilities**.
 
-So **do not assume the bathhouse near your hotel has a jjimjilbang in it**. Check first.
+So **do not assume the bathhouse near your hotel has a jjimjilbang in it**.
 
 ## Practical summary
 
-- **The order** — shoes in the shoe locker, outfit and towels at the counter, undress completely, wash and bathe, then change into the jjimjil outfit for the common area.
+- **The order** — shoes in the shoe locker, outfit and towels at the counter, undress, wash and bathe, then change into the jjimjil outfit for the common area.
 - **No swimwear in the bathing area.** Naked is the rule.
 - **The jjimjil outfit is compulsory** in the mixed-sex area.
 - **With tattoos, phone ahead.** No law bans them; some businesses do.
 - **After alcohol, wait two hours.** It is named in the law.
-- **Check the posted price list** for whether the outfit is included, and check the closing time before planning to sleep there.
+- **Check the posted price list** for whether the outfit is included, and the closing time before planning to sleep there.
 
 ## Wrapping up
 
-A jjimjilbang **needs almost no language**. You are handed clothes, you undress, you wash, you dress, you sit down.
+A jjimjilbang **needs almost no language**: you are handed clothes, you undress, you wash, you dress, you sit down.
 
 What confuses people is not the rules but **where you take clothes off and where you put them on**, and that is settled by law. Tubs: separated by sex, naked. Sweating area: mixed sex, outfit on. Remember that and the rest follows.
 

@@ -42,7 +42,8 @@ sources:
   - { title: "National Folk Museum of Korea — visitor information", url: "https://www.nfm.go.kr/home/subIndex/1239.do" }
   - { title: "Financial Services Commission and Korea Federation of Banks — Chuseok holiday banking notice", url: "https://www.fsc.go.kr/no010101/87706" }
   - { title: "AREX — extended last-train sections for the Chuseok holiday", url: "https://www.arex.or.kr/contentView.do?menuNo=MN202602270000000001&contentNo=CT202609160000000001&etcNo=" }
-  - { title: "Korea Heritage Service Agency — 2026 Heritage Holiday Connection", url: "https://www.kh.or.kr/brd/board/715/L/menu/373?brdType=R&bbIdx=119827" }
+  - { title: "Korea Heritage Service Agency — 2026 Heritage Holiday Connection", url: "https://www.kh.or.kr/brd/board/715/L/menu/373?brdType=R&bbIdx=119827" }  - { title: "Korea Heritage Service press release — free palace opening for Chuseok (18 Sept 2026)", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
+
 draft: false
 ---
 **Chuseok 2026 falls on Friday 25 September, and the holiday runs four days, Thursday 24 to Sunday 27 September.** Monday 28 September is a normal working day. Chuseok is the autumn harvest festival, sometimes introduced as Korean Thanksgiving; families travel to their hometowns for it.
@@ -68,16 +69,20 @@ The holiday runs Thursday to Sunday, so **neither a Monday nor a Tuesday falls i
 
 ### Free admission is confirmed at two sites only
 
-**Confirmed by official notice**
+**A Korea Heritage Service press release on 18 September confirmed it.** From Thursday 24 to Sunday 27 September, **Gyeongbokgung, Changdeokgung, Deoksugung, Changgyeonggung, Jongmyo and the Joseon Royal Tombs are all free**.
+
+**One exception: the Huwon garden at Changdeokgung stays paid.** The release says so explicitly.
+
+Two of them published their own notices with more detail.
 
 - **Jongmyo** — free 24 to 27 September. Entry is normally by timed guided tour only, but **for these four days it switches to self-guided**. 09:00–18:00, last entry 17:00. **There is no foreign-language commentary from the 24th to the 26th**; Korean commentary runs five times daily (10:00, 11:00, 13:00, 14:00, 15:00), and normal commentary resumes on the 27th.
 - **Deoksugung** — free 24 to 27 September, with **English commentary at 11:50 and 14:50**, walk-in, no reservation.
 
-**Not yet announced**
+**The guard ceremonies need no reservation either.** The release states that the Gyeongbokgung **changing of the guard** (10:00, 14:00), the **gate-watch ceremony** (11:00, 13:00) and the **patrol ceremony** (15:00) can all be watched without booking.
 
-For Gyeongbokgung, Changdeokgung and Changgyeonggung, **no 2026 Chuseok free-admission notice had been published as of 16 September** — a full check of Korea Heritage Service releases found none. A five-day free opening was announced for Seollal 2026 and such notices tend to appear shortly beforehand, so it looks likely. But **it is not confirmed**: check the Royal Palaces and Tombs Center site before you go.
+One thing that does not run: the **Gyeonghoeru and Hyangwonjeong special tours at Gyeongbokgung are suspended for all four days**.
 
-Otherwise: Gyeongbokgung ₩3,000 (about $2.25), Changdeokgung ₩3,000 with the Huwon garden a separate ₩5,000, Changgyeonggung and Deoksugung around ₩1,000 each.
+For reference, outside the holiday admission is ₩3,000 (about $2.25) at Gyeongbokgung, ₩3,000 at Changdeokgung with the Huwon garden a separate ₩5,000, and around ₩1,000 each at Changgyeonggung and Deoksugung.
 
 ![Two people in hanbok standing in front of Gyeonghoeru pavilion at Gyeongbokgung, with the pond and Inwangsan behind them](/images/chuseok-2026-09/11.webp)
 
@@ -167,4 +172,4 @@ On tolls: past waivers lead many to expect another, but **as of 16 September the
 
 Being in Korea for Chuseok is no loss: four days of **empty palaces, free museums and a quiet city**. Three things to remember — **most closures land on 25 September alone**, **the late-night extension covers only the 26th and 27th**, and **bank counters are shut all four days**.
 
-Free admission at Gyeongbokgung, Changdeokgung and Changgyeonggung is still unannounced, so check the Royal Palaces and Tombs Center site before you head out.
+When this post first went up on 17 September, free admission at Gyeongbokgung, Changdeokgung and Changgyeonggung was still unannounced. **The Korea Heritage Service press release of 18 September confirmed it**, and this post has been updated.
