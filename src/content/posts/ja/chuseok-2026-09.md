@@ -42,7 +42,8 @@ sources:
   - { title: "国立民俗博物館 — 観覧案内", url: "https://www.nfm.go.kr/home/subIndex/1239.do" }
   - { title: "金融委員会・全国銀行連合会 — 秋夕連休の金融取引案内", url: "https://www.fsc.go.kr/no010101/87706" }
   - { title: "空港鉄道 — 秋夕連休の終電運行区間の延長", url: "https://www.arex.or.kr/contentView.do?menuNo=MN202602270000000001&contentNo=CT202609160000000001&etcNo=" }
-  - { title: "国家遺産振興院 — 2026 国家遺産 名節イウム", url: "https://www.kh.or.kr/brd/board/715/L/menu/373?brdType=R&bbIdx=119827" }  - { title: "国家遺産庁 報道資料 — 秋夕に合わせ宮・陵を無料開放（2026年9月18日）", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
+  - { title: "国家遺産振興院 — 2026 国家遺産 名節イウム", url: "https://www.kh.or.kr/brd/board/715/L/menu/373?brdType=R&bbIdx=119827" }
+  - { title: "国家遺産庁 報道資料 — 秋夕に合わせ宮・陵を無料開放（2026年9月18日）", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
 
 draft: false
 ---

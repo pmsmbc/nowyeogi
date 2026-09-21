@@ -42,7 +42,8 @@ sources:
   - { title: "National Folk Museum of Korea — visitor information", url: "https://www.nfm.go.kr/home/subIndex/1239.do" }
   - { title: "Financial Services Commission and Korea Federation of Banks — Chuseok holiday banking notice", url: "https://www.fsc.go.kr/no010101/87706" }
   - { title: "AREX — extended last-train sections for the Chuseok holiday", url: "https://www.arex.or.kr/contentView.do?menuNo=MN202602270000000001&contentNo=CT202609160000000001&etcNo=" }
-  - { title: "Korea Heritage Service Agency — 2026 Heritage Holiday Connection", url: "https://www.kh.or.kr/brd/board/715/L/menu/373?brdType=R&bbIdx=119827" }  - { title: "Korea Heritage Service press release — free palace opening for Chuseok (18 Sept 2026)", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
+  - { title: "Korea Heritage Service Agency — 2026 Heritage Holiday Connection", url: "https://www.kh.or.kr/brd/board/715/L/menu/373?brdType=R&bbIdx=119827" }
+  - { title: "Korea Heritage Service press release — free palace opening for Chuseok (18 Sept 2026)", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
 
 draft: false
 ---
