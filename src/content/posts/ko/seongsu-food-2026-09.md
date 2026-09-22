@@ -255,4 +255,4 @@ draft: false
 
 성수동에 가시면 카페거리만 보고 오지 마세요. **두 블록만 걸어 나가면 아직 공장이 돌아가고, 그 옆에서 8,000원짜리 백반을 팝니다.** 그게 이 동네의 진짜 모습이에요.
 
-함께 보면 좋은 글: [서울 단풍 명소 정리](/posts/seoul-autumn-foliage-2026-09/), [한국 음식 처음 드시는 분께](/posts/korean-food-for-beginners-2026-09/)
+함께 보면 좋은 글: [성수동 여행 총정리](/posts/seongsu-guide-2026-09/), [성수동 볼거리](/posts/seongsu-things-to-do-2026-09/), [성수동 숙소](/posts/seongsu-hotels-2026-09/)
