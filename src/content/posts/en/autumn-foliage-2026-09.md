@@ -1,7 +1,8 @@
 ---
-title: "Korea's Autumn Foliage in 2026: There Is Still No Official Forecast"
-description: "No Korean government body has published a 2026 foliage forecast. Here is where the dates circulating online actually come from, how to work out your own timing from the rule that foliage starts at Seoraksan and moves south 20–25 km a day, and which national park trails need a reservation in foliage season."
+title: "Korea's Autumn Foliage in 2026: The Official Peak Forecast Is Out"
+description: "On 22 September 2026 the Korea Forest Service published its 2026 foliage peak prediction map. Here are the official peak dates mountain by mountain, where the dates that were circulating before that came from, how to work out your own timing from the rule that foliage starts at Seoraksan and moves south 20–25 km a day, and which national park trails need a reservation in foliage season."
 pubDate: 2026-09-21
+updatedDate: 2026-09-22
 scope: domestic
 region: korea
 type: travel
@@ -63,6 +64,7 @@ sources:
   - { title: "Korea Meteorological Administration — press releases (no 2026 foliage forecast)", url: "https://www.kma.go.kr/kma/news/press.jsp" }
   - { title: "Korea Meteorological Administration — foliage begins at Seoraksan today, the 2nd (2025-10-02)", url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156713396" }
   - { title: "Korea Meteorological Administration — summer 2026 climate characteristics (2026-09-03)", url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780105" }
+  - { title: "Korea Forest Service — Red maples, yellow ginkgos: when does autumn peak on the Korean peninsula? (2026 Korean peninsula autumn foliage peak prediction map, 2026-09-22)", url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782827" }
   - { title: "Korea Forest Service — 2025 forest foliage prediction map", url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156716569" }
   - { title: "Korea Forest Service, Korea National Arboretum — this year's first foliage observed on Jeombongsan (2026-09-17)", url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782097" }
   - { title: "Weatheri — 2026 expected foliage dates (private forecaster)", url: "https://www.weatheri.co.kr/board/board03_read.php?id=325" }
@@ -90,9 +92,9 @@ draft: false
 
 If you are thinking of coming to Korea for the autumn foliage, there is something you need to know first.
 
-**As of 21 September 2026, no Korean government body has published a foliage forecast for this autumn.** Not the Korea Meteorological Administration, not the Korea Forest Service, not the Korea National Park Service. The dates going round online — Seoraksan on 30 September, or 3 October — are **all forecasts from private weather companies**, and the companies do not even agree with each other.
+**On 22 September 2026 the Korea Forest Service published its 2026 Korean Peninsula Autumn Foliage Peak Prediction Map.** Those are this year's official government figures. The dates that had been going round online until then — Seoraksan on 30 September, or 3 October — were **forecasts from private weather companies**, and the companies did not even agree with each other.
 
-So instead of naming one date, this post sets out **how to work the timing out yourself**.
+This post sets out the official figures, and also **how to judge the timing without leaning on a single date**.
 
 ![A ridge turned orange and red beyond the white boulders of a Seoraksan valley](/images/autumn-foliage-2026-09/01.webp)
 
@@ -115,17 +117,23 @@ Weatheri put it this way.
 
 **If you are booking flights to a specific day or two, do not lean on these numbers.** Plan a range instead.
 
-## An official forecast may be out soon
+## The official figures are out
 
-The Korea Forest Service publishes a **forest foliage prediction map** every year, produced jointly by the Korea National Arboretum, nine regional public arboretums and the National Institute of Forest Science.
+The Korea Forest Service publishes a **forest foliage prediction map** every year, produced jointly by the Korea National Arboretum, the public arboretums around the country and the National Institute of Forest Science.
 
 Here is when it has appeared.
 
-- 2024 — **23 September**
-- 2025 — **1 October**
-- 2026 — **not yet**
+- 2024 — 23 September
+- 2025 — 1 October
+- **2026 — 22 September**, under the title "Red maples, yellow ginkgos: when does autumn peak on the Korean peninsula?"
 
-On past form it lands **between late September and early October**. If your travel dates are still flexible, it is worth waiting for this before you fix them.
+The key sentences of the press release.
+
+> By species, the forecast is maples 31 October, oaks 31 October and ginkgos 30 October.
+
+> By mountain, the forecast is Seoraksan 20 October, Songnisan 28 October, Naejangsan 4 November, Hallasan 6 November and so on. **Set against the peak foliage timing of the last five years, that works out about 0.8 days later.**
+
+Note the wording. It says **0.8 days later than the last five years**, not later than normal. That is less than a single day. Some outlets rendered it as "later than usual", but the original phrase is 최근 5년간 — the last five years.
 
 The KMA works differently. **It does not issue an advance forecast; it reports observations after the fact.** Last year it put out a release headed "foliage begins at Seoraksan today, the 2nd" on the actual day it started. In other words, by the time the KMA announces something, it has already happened.
 
@@ -145,18 +153,32 @@ On top of that, **mountains turn from the top down.** When the summit is at its 
 
 ### How far apart the mountains are
 
-These are the peak dates from the Korea Forest Service's 2025 prediction map. They are **last year's prediction**, not this year's, but they are useful for seeing the spacing between mountains.
+These are the per-mountain peak dates in the Korea Forest Service's **2026 prediction map**. The basis is **the date on which each species reaches 50 percent turned**.
 
-| Mountain | Predicted peak, 2025 |
-| --- | --- |
-| Seoraksan | around 25 October |
-| Songnisan | 27 October |
-| Naejangsan | 6 November |
-| Gayasan | 11 November |
+| Mountain | Maples | Oaks | Ginkgo |
+| --- | --- | --- | --- |
+| Seoraksan | **20 October** | 25 October | — |
+| Hwaaksan | 20 October | 23 October | 21 October |
+| Sobaeksan | 20 October | 16 October | — |
+| Jeombongsan | 21 October | 21 October | — |
+| Yongmunsan | 23 October | 24 October | 29 October |
+| Juwangsan | 26 October | 6 November | 29 October |
+| Jirisan | 27 October | 25 October | 26 October |
+| Songnisan | **28 October** | 30 October | 23 October |
+| Palgongsan | 30 October | 1 November | — |
+| Gyeryongsan | 1 November | 28 October | 25 October |
+| Surisan | 2 November | 3 November | 4 November |
+| Naejangsan | **4 November** | 26 October | — |
+| Byeonsanbando | 4 November | — | — |
+| Hallasan (the 1100-ro station) | **6 November** | 25 October | — |
+| Wolchulsan | 9 November | 11 November | 28 October |
+| Duryunsan | 11 November | — | — |
 
-**Seoraksan and Gayasan are 17 days apart.** There is no single block of time called the Korean foliage season; it is a wave moving south for over a month.
+**Seoraksan and Duryunsan are 22 days apart.** There is no single block of time called the Korean foliage season; the colour moves south over more than three weeks.
 
-Tree species differ too. In the same data, the national average peak was **1 November for maples, 31 October for oaks and 28 October for ginkgos**.
+**The national averages are 31 October for maples, 31 October for oaks and 30 October for ginkgos.** Those are separate numbers from the per-mountain ones.
+
+A dash means that species' map has no station at that mountain. Nothing has been invented. And **Odaesan, Chiaksan, Bukhansan, Mudeungsan, Woraksan and Deogyusan are not observation points on this year's map at all.**
 
 ## Why this year is expected to be late
 
@@ -356,8 +378,8 @@ Stated plainly.
 
 ## In short
 
-- **There is no official 2026 government forecast yet.** Wait for the Korea Forest Service prediction map in late September or early October.
-- **The dates circulating are all private forecasts**, and the companies disagree.
+- **The official 2026 government forecast is out.** The Korea Forest Service published it on 22 September: Seoraksan 20 October, Songnisan 28 October, Naejangsan 4 November, Hallasan 6 November.
+- **The dates that were circulating before that were all private forecasts**, and the companies disagree.
 - **Seoraksan starts in late September, the colour moves south 20–25 km a day, peak comes two to three weeks after first foliage, and the south runs to early or mid-November.**
 - **There is no park admission fee, and most temple fees are gone** — but **Haeinsa still charges ₩3,000.**
 - **The Gwongeumseong cable car is ₩16,000 return, counter sales only, with no discounts in foliage season.**
