@@ -38,7 +38,6 @@ sources:
   - { title: "Ministry of the Interior and Safety - the good price scheme", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
   - { title: "Seoul Tourism Organization - Ikseon-dong", url: "https://korean.visitseoul.net/" }
   - { title: "Seoul Future Heritage - the Jongno 3-ga Nakwon-dong braised monkfish street", url: "https://futureheritage.seoul.go.kr/" }
-  - { title: "Jongno-gu - food and drink", url: "https://tour.jongno.go.kr/tour/main/contents.do?menuNo=400136" }
   - { title: "Jongno-gu - notice on visiting-hour restrictions in the Bukchon special management area", url: "https://www.jongno.go.kr/" }
 draft: false
 ---
@@ -125,7 +124,7 @@ This is not a criticism. Most of Ikseon-dong's businesses are recently opened ca
 
 It is right next to Ikseon-dong and completely different in character.
 
-**"The Jongno 3-ga Nakwon-dong braised monkfish street" is the official name**, written out on the Seoul Future Heritage certificate. Jongno-gu also gives it an entry on its food and drink page.
+**"The Jongno 3-ga Nakwon-dong braised monkfish street" is the official name**, written out on the Seoul Future Heritage certificate.
 
 **The Seoul style of braised monkfish** differs from the Masan style. It **uses fresh monkfish and is thickened with starch**, so it keeps a shallow pool of sauce. Midodeok sea squirts and bean sprouts go in, and you finish with fried rice made in the pan.
 
@@ -149,7 +148,7 @@ Honestly stated.
 
 **No guarantee can be given about whether any individual shop in Ikseon-dong is still trading.** One dumpling restaurant introduced on the Seoul Tourism Organization page was already marked **"Closed"**. Businesses turn over quickly here.
 
-**Jongno-gu's food and drink page is out of date.** It appears not to have been updated since around 2015, and its directions **use as a landmark a cinema that closed in 2021**.
+**Jongno-gu's food and drink page has gone.** As of September 2026 that address now serves a page about hanok instead, so this post does not cite it.
 
 **The safe restaurant list stops at the 2020 edition.** It was a temporary Covid-era programme.
 
