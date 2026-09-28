@@ -5,14 +5,14 @@ pubDate: 2026-09-28
 scope: domestic
 region: seoul
 type: travel
-cover: /images/yeonnam-hotels-2026-09/02.webp
+cover: /images/yeonnam-hotels-2026-09/17.webp
 images:
-  - src: /images/yeonnam-hotels-2026-09/02.webp
-    alt: "A narrow alley between houses in Yeonnam-dong, with a car under a silver cover parked between old walls"
-    width: 1600
-    height: 1100
-    credit: "Paul Keller, CC BY 2.0, via Wikimedia Commons"
-    creditUrl: "https://commons.wikimedia.org/wiki/File:Covered_car_in_an_alley_in_Yeonnam-dong,_Mapo-gu,_Seoul.jpg"
+  - src: /images/yeonnam-hotels-2026-09/17.webp
+    alt: "A grey stone building in Yeonnam-dong's workshop street, its large upstairs windows half hidden behind green leaves, with a café entrance below"
+    width: 940
+    height: 626
+    credit: "한국관광공사 (공공누리 제1유형)"
+    creditUrl: "https://kto.visitkorea.or.kr/"
   - src: /images/yeonnam-hotels-2026-09/03.webp
     alt: "Exit 1 of Mangwon Station on Seoul Subway Line 6, a dark stone entrance with a pedestrian crossing and a taxi in front"
     width: 1600
@@ -69,7 +69,7 @@ Search for a place to stay in Yeonnam-dong and you get hundreds of results. Coun
 
 In short, nearly every bed in Yeonnam-dong and Mangwon-dong is **a room in a house where the host also lives**. For most international visitors that is fine, and it is what the law intends. If you want a front desk, you walk five minutes south to Donggyo-dong, just below Hongik University Station.
 
-![A narrow alley between houses in Yeonnam-dong, with a car under a silver cover parked between old walls](/images/yeonnam-hotels-2026-09/02.webp)
+![A grey stone building in Yeonnam-dong's workshop street, its large upstairs windows half hidden behind green leaves, with a café entrance below](/images/yeonnam-hotels-2026-09/17.webp)
 
 ## How I counted
 

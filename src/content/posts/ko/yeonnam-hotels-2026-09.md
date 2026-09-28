@@ -5,14 +5,14 @@ pubDate: 2026-09-28
 scope: domestic
 region: seoul
 type: travel
-cover: /images/yeonnam-hotels-2026-09/02.webp
+cover: /images/yeonnam-hotels-2026-09/17.webp
 images:
-  - src: /images/yeonnam-hotels-2026-09/02.webp
-    alt: "연남동 주택 사이 좁은 골목 안쪽에 은색 차량 덮개를 씌운 승용차가 서 있고, 양옆은 오래된 담장과 건물 벽이다"
-    width: 1600
-    height: 1100
-    credit: "Paul Keller, CC BY 2.0, via Wikimedia Commons"
-    creditUrl: "https://commons.wikimedia.org/wiki/File:Covered_car_in_an_alley_in_Yeonnam-dong,_Mapo-gu,_Seoul.jpg"
+  - src: /images/yeonnam-hotels-2026-09/17.webp
+    alt: "연남동 공방거리, 초록 나뭇잎 사이로 큰 유리창을 낸 회색 석조 2층 건물과 1층 카페 입구가 보인다"
+    width: 940
+    height: 626
+    credit: "한국관광공사 (공공누리 제1유형)"
+    creditUrl: "https://kto.visitkorea.or.kr/"
   - src: /images/yeonnam-hotels-2026-09/03.webp
     alt: "지하철 6호선 망원역 1번 출구, 검은 석재 외벽의 출입구 앞 횡단보도와 택시, 오른쪽 위로 병원 간판이 보인다"
     width: 1600
@@ -69,7 +69,7 @@ draft: false
 
 결론부터 말하면 연남동·망원동 숙소는 **거의 전부 "주인이 사는 집의 방"** 이고, 이 형태는 **법적으로 외국인 전용**입니다. 호텔이 필요하거나 내국인이라면 홍대입구역 남쪽 동교동으로 가셔야 해요.
 
-![연남동 주택 사이 좁은 골목 안쪽에 은색 차량 덮개를 씌운 승용차가 서 있고, 양옆은 오래된 담장과 건물 벽이다](/images/yeonnam-hotels-2026-09/02.webp)
+![연남동 공방거리, 초록 나뭇잎 사이로 큰 유리창을 낸 회색 석조 2층 건물과 1층 카페 입구가 보인다](/images/yeonnam-hotels-2026-09/17.webp)
 
 ## 어떻게 셌나
 

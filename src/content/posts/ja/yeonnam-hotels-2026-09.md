@@ -5,14 +5,14 @@ pubDate: 2026-09-28
 scope: domestic
 region: seoul
 type: travel
-cover: /images/yeonnam-hotels-2026-09/02.webp
+cover: /images/yeonnam-hotels-2026-09/17.webp
 images:
-  - src: /images/yeonnam-hotels-2026-09/02.webp
-    alt: "延南洞の住宅のあいだの細い路地。奥に銀色のカバーをかけた乗用車が止まり、両側は古い塀と建物の壁"
-    width: 1600
-    height: 1100
-    credit: "Paul Keller, CC BY 2.0, via Wikimedia Commons"
-    creditUrl: "https://commons.wikimedia.org/wiki/File:Covered_car_in_an_alley_in_Yeonnam-dong,_Mapo-gu,_Seoul.jpg"
+  - src: /images/yeonnam-hotels-2026-09/17.webp
+    alt: "延南洞の工房通り。緑の葉のあいだに、大きなガラス窓のある灰色の石造りの建物と1階のカフェの入口が見える"
+    width: 940
+    height: 626
+    credit: "한국관광공사 (공공누리 제1유형)"
+    creditUrl: "https://kto.visitkorea.or.kr/"
   - src: /images/yeonnam-hotels-2026-09/03.webp
     alt: "地下鉄6号線・望遠駅の1番出口。黒い石張りの出入口の前に横断歩道とタクシーがあり、右上に病院の看板が見える"
     width: 1600
@@ -69,7 +69,7 @@ draft: false
 
 先に結論を言うと、延南洞・望遠洞（マンウォンドン）の宿は、**ほぼすべてが「ホストが住んでいる家の部屋」** です。この形は法律上**外国人観光客向け**なので、日本からの旅行者には選択肢が多い町です。フロントのあるホテルが必要なら、弘大入口駅のすぐ南、東橋洞（トンギョドン）へ行くことになります。
 
-![延南洞の住宅のあいだの細い路地。奥に銀色のカバーをかけた乗用車が止まり、両側は古い塀と建物の壁](/images/yeonnam-hotels-2026-09/02.webp)
+![延南洞の工房通り。緑の葉のあいだに、大きなガラス窓のある灰色の石造りの建物と1階のカフェの入口が見える](/images/yeonnam-hotels-2026-09/17.webp)
 
 ## どう数えたか
 

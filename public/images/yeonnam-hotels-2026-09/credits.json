@@ -1,14 +1,5 @@
 [
   {
-    "src": "/images/yeonnam-hotels-2026-09/02.webp",
-    "alt": "",
-    "width": 1600,
-    "height": 1100,
-    "credit": "Paul Keller, CC BY 2.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Covered_car_in_an_alley_in_Yeonnam-dong,_Mapo-gu,_Seoul.jpg",
-    "description": "Covered car in an alley in Yeonnam-dong, Mapo-gu, Seoul"
-  },
-  {
     "src": "/images/yeonnam-hotels-2026-09/03.webp",
     "alt": "",
     "width": 1600,
@@ -25,5 +16,14 @@
     "credit": "LERK, CC BY-SA 4.0, via Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-621-Mangwon-station-sign-20191022-083534.jpg",
     "description": "A sign of Mangwon Station on Seoul Subway Line 6"
+  },
+  {
+    "src": "/images/yeonnam-hotels-2026-09/17.webp",
+    "alt": "",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_연남동 공방거리 (2)"
   }
 ]
