@@ -27,6 +27,7 @@ const { lang, alternates, autoLang = false, ...seo } = Astro.props;
 const client = siteConfig.adsense.client.trim();
 const gsc = siteConfig.verification.google.trim();
 const bing = siteConfig.verification.bing.trim();
+const naver = siteConfig.verification.naver.trim();
 const gtm = siteConfig.gtm.id.trim();
 const ga = siteConfig.ga.id.trim();
 const gaScript = ga ? "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', '" + ga + "');" : '';
@@ -47,6 +48,7 @@ const gtmNoscript = gtm
     {ga && <script is:inline set:html={gaScript} />}
     {gsc && <meta name="google-site-verification" content={gsc} />}
     {bing && <meta name="msvalidate.01" content={bing} />}
+    {naver && <meta name="naver-site-verification" content={naver} />}
     <link rel="icon" href="/favicon.png" type="image/png" sizes="64x64" />
     <link rel="apple-touch-icon" href="/brand/logo-mark-192.png" />
     <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
