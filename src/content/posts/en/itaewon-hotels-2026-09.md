@@ -2,6 +2,7 @@
 title: "Where to Stay in Itaewon and Hannam: Hotels by Budget (2026)"
 description: "Itaewon and Hannam-dong accommodation: the Grand Hyatt and Mondrian, boutique hotels and guesthouses, which slope to book on, and whether the hills and the slow subway line are worth it."
 pubDate: 2026-09-14
+updatedDate: 2026-09-30
 scope: domestic
 region: seoul
 type: travel
@@ -16,6 +17,7 @@ images:
 tags: ["Itaewon hotels", "Hannam-dong", "where to stay in Seoul", "Grand Hyatt Seoul"]
 places: []
 sources:
+  - { title: "K공항리무진 — 6702 (인천공항 ↔ 남산/동대문) 노선 및 정류장별 시간표", url: "https://www.klimousine.com/bus/limousine.php?bus_no=6702" }
   - { title: "Hotel Price Watch — Seoul hotel prices by neighbourhood (2026)", url: "https://www.hotelpricewatch.com/city/seoul/" }
   - { title: "Seoul Metropolitan Government — official English travel guide", url: "https://english.visitseoul.net/" }
 draft: false
@@ -64,7 +66,8 @@ Hongdae still has more and better budget beds — see our [Hongdae hotel guide](
 ## Getting there from the airport
 
 - **AREX to Seoul Station**, then [[line:4]] one stop to Samgakji, then [[line:6]] two stops to Itaewon. About 90 minutes.
-- **Airport bus 6010** serves Hannam, useful if you are staying on that side with luggage.
+- **Airport bus [[bus:6702]] (K Limousine)** stops at the Grand Hyatt Seoul and at Itaewon 2-dong Community Center, the closest airport bus for Itaewon itself. Adult fare ₩18,000 (about $13.50); departures from Incheon run 06:05–23:05 from Terminal 1 and 05:45–22:45 from Terminal 2 (as of writing).
+- **Airport bus [[bus:6010]]** serves Hannam-daero and Hannam Station, useful if you are staying on the Hannam side with luggage.
 - **Taxi** — ₩65,000–85,000, 60–75 minutes.
 
 Full fares in our [Incheon Airport to Seoul guide](/en/posts/incheon-airport-to-seoul-2026-09/).

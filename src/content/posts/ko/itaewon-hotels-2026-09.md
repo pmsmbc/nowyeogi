@@ -2,6 +2,7 @@
 title: "이태원·한남동 숙소: 예산별 호텔 정리 (2026)"
 description: "이태원과 한남동 숙소를 정리했어요. 그랜드 하얏트와 몬드리안, 부티크 호텔과 게스트하우스, 어느 비탈에 잡아야 하는지, 언덕과 느린 6호선을 감수할 만한지 안내합니다."
 pubDate: 2026-09-14
+updatedDate: 2026-09-30
 scope: domestic
 region: seoul
 type: travel
@@ -16,6 +17,7 @@ images:
 tags: ["이태원 호텔", "한남동", "서울 숙소", "그랜드 하얏트 서울"]
 places: []
 sources:
+  - { title: "K공항리무진 — 6702 (인천공항 ↔ 남산/동대문) 노선 및 정류장별 시간표", url: "https://www.klimousine.com/bus/limousine.php?bus_no=6702" }
   - { title: "서울시 공식 관광 안내(영문)", url: "https://english.visitseoul.net/" }
   - { title: "Hotel Price Watch — 서울 지역별 호텔 가격(2026)", url: "https://www.hotelpricewatch.com/city/seoul/" }
 draft: false
@@ -64,7 +66,8 @@ draft: false
 ## 공항에서 오는 법
 
 - **공항철도로 서울역** 후 [[line:4]] 한 정거장(삼각지), [[line:6]] 두 정거장이에요. 90분쯤
-- **공항버스 6010번**이 한남으로 가요. 그쪽에 짐 들고 갈 때 편해요
+- **공항버스 [[bus:6702]] (K리무진)** 이 그랜드 하얏트 서울과 이태원2동주민센터에 서요. 이태원 쪽 숙소라면 이 버스가 가장 가까워요. 성인 18,000원, 인천공항 출발 1터미널 06:05~23:05, 2터미널 05:45~22:45 (작성 시점 기준)
+- **공항버스 [[bus:6010]]** 은 한남대로·한남역 쪽으로 가요. 한남동 쪽에 짐 들고 갈 때 편해요
 - **택시** — 6만 5천~8만 5천 원, 60~75분
 
 자세한 요금은 [인천공항에서 서울 가기 글](/posts/incheon-airport-to-seoul-2026-09/)에 있어요.
