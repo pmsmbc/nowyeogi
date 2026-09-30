@@ -114,7 +114,7 @@ Room totals add up what the tourism list records; six hostels with a blank room 
 - **Somerset Palace Seoul** gives 7 Yulgok-ro 2-gil as its address, where **284 rooms of serviced lodging** (*saenghwal sukbak*) are registered under a company branch name. It is licensed as serviced lodging, not as a tourist hotel
 - The other seven are **hostels in Dangju-dong, Cheongjin-dong and Sinmun-no 1-ga**, and **all seven were registered in 2025–2026**. One building at 32-5 Jongno 5-gil in Cheongjin-dong has three different hostels on floors 4, 5 and 6
 
-All ten homestays in the Gwanghwamun area are in the residential streets behind Gyeonghuigung Palace, in **Sinmun-no 2-ga (8) and Naesu-dong (2)**. **Seven of the eight in Sinmun-no 2-ga are separate flats in one building** on Gyeonghuigung 1-gil. Under the Tourism Promotion Act enforcement decree, this licence lets **a resident host foreign tourists in the home they live in**, so **Korean nationals generally cannot book them**.
+All ten homestays in the Gwanghwamun area are in the residential streets behind Gyeonghuigung Palace, in **Sinmun-no 2-ga (8) and Naesu-dong (2)**. Under the Tourism Promotion Act enforcement decree, this licence lets **a resident host foreign tourists in the home they live in**, so **Korean nationals generally cannot book them**.
 
 ### Cheongjin-dong: 22 closed inns
 
