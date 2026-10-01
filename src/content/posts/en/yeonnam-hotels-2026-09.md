@@ -164,7 +164,7 @@ There are none in Yeonnam-dong, so head **just south of Hongik University Statio
 | Holiday Inn Express Seoul Hongdae | 188 Yanghwa-ro (Aekyung Tower) | 294 |
 | Mercure Ambassador Seoul Hongdae | 144 Yanghwa-ro | 270 |
 
-**Holiday Inn Express** is registered in Aekyung Tower, the building attached to Hongik University Station. For the other two, RYSE in Seogyo-dong and a budget breakdown, see [where to stay in Hongdae](/en/posts/hongdae-hotels-2026-09/).
+**Holiday Inn Express** is registered in Aekyung Tower, the building attached to Hongik University Station. For the other two, RYSE in Seogyo-dong and counts by neighborhood, see [where to stay in Hongdae](/en/posts/hongdae-hotels-2026-09/).
 
 Donggyo-dong also has **several small hostels registered in 2025 and 2026**; three of them share one building at 19 World Cup buk-ro 2-gil, each with six or seven rooms.
 

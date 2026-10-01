@@ -1,29 +1,56 @@
 [
   {
-    "src": "/images/hongdae-things-to-do-2026-09/01.webp",
-    "alt": "",
-    "width": 940,
-    "height": 627,
-    "credit": "Korea Tourism Organization (KOGL Type 1)",
-    "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "서울_경의선숲길 (6).jpg"
-  },
-  {
     "src": "/images/hongdae-things-to-do-2026-09/02.webp",
     "alt": "",
     "width": 940,
-    "height": 627,
-    "credit": "Korea Tourism Organization (KOGL Type 1)",
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
     "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "서울_경의선숲길 (2).jpg"
+    "name": "서울_KT&G 상상마당(홍대) (2)"
   },
   {
-    "src": "/images/hongdae-things-to-do-2026-09/03.webp",
+    "src": "/images/hongdae-things-to-do-2026-09/05.webp",
+    "alt": "",
+    "width": 940,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "경의선책거리_2"
+  },
+  {
+    "src": "/images/hongdae-things-to-do-2026-09/08.webp",
+    "alt": "",
+    "width": 940,
+    "height": 606,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "경의선책거리_5"
+  },
+  {
+    "src": "/images/hongdae-things-to-do-2026-09/11.webp",
     "alt": "",
     "width": 940,
     "height": 626,
-    "credit": "Korea Tourism Organization (KOGL Type 1)",
+    "credit": "한국관광공사 (공공누리 제1유형)",
     "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "서울_망원시장 (2)"
+    "name": "서울_절두산 순교성지 (4)"
+  },
+  {
+    "src": "/images/hongdae-things-to-do-2026-09/13.webp",
+    "alt": "",
+    "width": 1200,
+    "height": 1600,
+    "credit": "Sgroey, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Hongdae_1.jpg",
+    "description": "Hongdae"
+  },
+  {
+    "src": "/images/hongdae-things-to-do-2026-09/16.webp",
+    "alt": "",
+    "width": 1499,
+    "height": 1600,
+    "credit": "U0894629, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Street_hongdae_Seoul.jpg",
+    "description": "depicts people as they walk a busy street in Hongdae, Seoul, South Korea"
   }
 ]

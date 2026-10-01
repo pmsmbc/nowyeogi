@@ -9,12 +9,30 @@
     "description": "A street in the Hongdae district at night, lined with neon signs, shops, and pedestrians, with a phone case kiosk and Pink's bar visible."
   },
   {
-    "src": "/images/hongdae-guide-2026-09/02.webp",
+    "src": "/images/hongdae-guide-2026-09/03.webp",
     "alt": "",
-    "width": 1600,
-    "height": 901,
-    "credit": "Ken Eckert, CC BY-SA 4.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Hongdae_Party_District_at_Night,_Seoul.jpg",
-    "description": "Hongdae Party District at Night, Seoul"
+    "width": 1200,
+    "height": 1600,
+    "credit": "Sgroey, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Hongdae_1.jpg",
+    "description": "Hongdae"
+  },
+  {
+    "src": "/images/hongdae-guide-2026-09/08.webp",
+    "alt": "",
+    "width": 1109,
+    "height": 1600,
+    "credit": "Minseong Kim, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Eoulmadangro_z.jpg",
+    "description": "South side of Eoulmadangro"
+  },
+  {
+    "src": "/images/hongdae-guide-2026-09/10.webp",
+    "alt": "",
+    "width": 1499,
+    "height": 1600,
+    "credit": "U0894629, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Street_hongdae_Seoul.jpg",
+    "description": "depicts people as they walk a busy street in Hongdae, Seoul, South Korea"
   }
 ]

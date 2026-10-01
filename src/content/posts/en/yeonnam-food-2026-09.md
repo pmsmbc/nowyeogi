@@ -105,7 +105,7 @@ sources:
 draft: false
 ---
 
-Our [Hongdae food guide](/en/posts/hongdae-food-2026-09/) gives Yeonnam-dong one paragraph as "the café neighbourhood" and Mangwon Market one paragraph as "where locals shop". This post looks only at those two neighbourhoods, and sticks to **places that appear in official or published lists** rather than influencer rankings.
+Our [Hongdae food guide](/en/posts/hongdae-food-2026-09/) covers Seogyo-dong, Hapjeong and Sangsu. This post looks only at Yeonnam-dong and Mangwon, and sticks to **places that appear in official or published lists** rather than influencer rankings.
 
 The short version: in Yeonnam-dong the documented story is a **Chinese-Korean restaurant street** and **two Michelin Bib Gourmand ramen shops**. In Mangwon-dong it is **the market and very cheap noodle soup in the lane beside it**.
 
