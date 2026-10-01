@@ -143,7 +143,7 @@ Useful phrases: **덜 맵게 해 주세요** (deol maepge hae juseyo, "less spic
 - Most Korean **soups and side dishes use anchovy or beef stock** by default, even when they look plant-based. Ask; do not assume.
 - **Temple food** (사찰음식) restaurants are fully vegetarian and worth seeking out.
 - Reliable vegetarian orders: japchae without meat, vegetable gimbap, sundubu without seafood if the kitchen confirms, and bibimbap without the beef and egg.
-- **Halal**: Itaewon has Seoul's largest concentration of certified restaurants, and Myeongdong has several. Look for the certification sticker rather than the word "halal" on a sign.
+- **Halal**: Itaewon has Seoul's largest concentration of certified restaurants. Look for the certification sticker rather than the word "halal" on a sign.
 
 ## Practical notes
 

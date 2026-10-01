@@ -75,7 +75,7 @@ Gwanghwamun, City Hall and Jonggak sit side by side in the middle of Seoul, but 
 - **Gwanghwamun and City Hall have big hotels; Jonggak (Gwancheol-dong) has small hostels.** Gwancheol-dong's 24 operating hostels are **the most of any neighbourhood in Seoul**
 - **Sejong-no, the neighbourhood that contains Gwanghwamun Square itself, has no registered accommodation at all**
 
-Hotels sorted by budget are in [where to stay in Jongno](/en/posts/jongno-hotels-2026-09/) and [Myeongdong hotels by budget](/en/posts/myeongdong-hotels-2026-09/). This post sticks to the data and the airport run.
+Hotels sorted by budget are in [where to stay in Jongno](/en/posts/jongno-hotels-2026-09/) and [where to stay in Myeongdong](/en/posts/myeongdong-hotels-2026-09/). This post sticks to the data and the airport run.
 
 ![Mojeongyo bridge over Cheonggyecheon beside the Mugyo-dong intersection, with purple light on the water, pots of chrysanthemums and lit office towers behind](/images/gwanghwamun-hotels-2026-09/01.webp)
 
@@ -169,7 +169,7 @@ Gwancheol-dong also has more than 20 lodgings outside the tourism list, which is
 | UH Continental Seoul Center | Sogong-dong · 116 Sogong-ro | 108 | 2026 |
 | Seoul Hotel Shinshin | Bukchang-dong · 17-5 Namdaemun-ro 5-gil | 75 | 2013 |
 
-Lotte Hotel Seoul and The Westin Josun are covered in [Myeongdong hotels by budget](/en/posts/myeongdong-hotels-2026-09/), so here are just the numbers.
+Lotte Hotel Seoul and The Westin Josun are often sold as Myeongdong hotels, but their registered addresses are in Sogong-dong. Here are just the numbers; Myeongdong itself is in [where to stay in Myeongdong](/en/posts/myeongdong-hotels-2026-09/).
 
 - **Four hotels with "Myeongdong" in their name (Sotetsu, Crown Park, Clarben, Thomas) are actually in Bukchang-dong or Sogong-dong**, the City Hall and Euljiro 1-ga side. Check the walking distance to the Myeongdong shopping streets on a map
 - **Crown Park Hotel** had one registration closed on 18 March 2026 and **a new one opened the same day at the same address with the same 204 rooms**. It looks like a change of operator, but we could not confirm why

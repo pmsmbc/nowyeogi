@@ -111,7 +111,7 @@ Avoid eating on Insadong's main pedestrian street if you can. One alley either s
 
 - **Temple food restaurants** in Insadong are the strongest vegan option in the whole city.
 - Ordinary Korean stews and side dishes usually contain anchovy or beef stock. Ask.
-- **Halal**: limited in Jongno. Itaewon is 20 minutes away on [[line:3]] then [[line:6]], and Myeongdong has several certified restaurants — see our [Myeongdong food guide](/en/posts/myeongdong-food-2026-09/).
+- **Halal**: limited in Jongno. Itaewon is 20 minutes away on [[line:3]] then [[line:6]] — see our [Itaewon food guide](/en/posts/itaewon-food-2026-09/).
 
 ## Practical notes
 

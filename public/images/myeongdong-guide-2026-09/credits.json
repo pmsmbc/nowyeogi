@@ -1,20 +1,56 @@
 [
   {
-    "src": "/images/myeongdong-guide-2026-09/01.webp",
+    "src": "/images/myeongdong-guide-2026-09/11.webp",
     "alt": "",
-    "width": 1600,
-    "height": 1064,
-    "credit": "Tristan Surtel, CC BY-SA 4.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Namdaemun-ro_and_Aloft_Seoul_Myeongdong_by_night.jpg",
-    "description": "Namdaemun-ro in Myeongdong, Seoul by night. Visible are Aloft Seoul Myeongdong, a Starbucks coffee shop, an H&amp;M store, and a Zara store."
+    "width": 1200,
+    "height": 1600,
+    "credit": "Izzatfikry99, CC BY 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Myeongdong_street.jpg",
+    "description": "Myeongdong street"
   },
   {
-    "src": "/images/myeongdong-guide-2026-09/02.webp",
+    "src": "/images/myeongdong-guide-2026-09/15.webp",
     "alt": "",
-    "width": 1195,
+    "width": 1600,
+    "height": 1200,
+    "credit": "Sgroey, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Myeongdong_night_market_seoul_3.jpg",
+    "description": "Myeongdong night market"
+  },
+  {
+    "src": "/images/myeongdong-guide-2026-09/20.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1067,
+    "credit": "lumoplank, CC0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Myeongdong,_Seoul_-_Myeongdong3165.jpg",
+    "description": "The façade of Myeongdong Theater (명동예술극장) at dusk."
+  },
+  {
+    "src": "/images/myeongdong-guide-2026-09/31.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1200,
+    "credit": "Sgroey, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Namdaemun_shopping_street.jpg",
+    "description": "Namdaemun market"
+  },
+  {
+    "src": "/images/myeongdong-guide-2026-09/71.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1200,
+    "credit": "圍棋一級, CC BY-SA 3.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Myeongdong_overview_201502.JPG",
+    "description": "Myeongdong overview from N Seoul Tower"
+  },
+  {
+    "src": "/images/myeongdong-guide-2026-09/62.webp",
+    "alt": "",
+    "width": 1200,
     "height": 1600,
-    "credit": "JiroS., CC BY-SA 3.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Shopping_street_at_Myondon_,_Seoul_-_panoramio.jpg",
-    "description": "Shopping street at Myondon , Seoul"
+    "credit": "RonanHoogmoed, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Myeongdong_Cathedral_2022-09-10.jpg",
+    "description": "Myeongdong Cathedral during a sunny September day, photographed from down the stairway."
   }
 ]

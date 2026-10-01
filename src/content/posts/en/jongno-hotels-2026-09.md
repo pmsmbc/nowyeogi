@@ -84,7 +84,7 @@ For one or two nights it is one of the most memorable stays in Korea. For a week
 
 - **Four Seasons Hotel Seoul** — at Gwanghwamun, opposite the palace, generally rated the best hotel in the city.
 - **JW Marriott Dongdaemun Square** — at the eastern edge of Jongno by the old city gate, with the wall walk outside.
-- **Lotte Hotel Seoul** and **The Westin Josun** are twenty minutes' walk south in Myeongdong — see the [Myeongdong hotel guide](/en/posts/myeongdong-hotels-2026-09/).
+- **Lotte Hotel Seoul** and **The Westin Josun** are twenty minutes' walk south in Sogong-dong, next to Myeongdong — for Myeongdong itself see the [Myeongdong hotel guide](/en/posts/myeongdong-hotels-2026-09/).
 
 ## Getting there from the airport
 

@@ -71,11 +71,11 @@ Everything today is within a 25-minute walk. Full detail in our [Jongno guide](/
 **09:30 · Myeongdong before the crowds**
 The main street is quiet in the morning, which is the best time to shop. Olive Young Myeongdong Town gives an instant tax refund on purchases over ₩15,000 with your passport.
 
-**11:00 · Myeongdong Cathedral** (free, closed to sightseers on Mondays)
+**11:00 · Myeongdong Cathedral** (free)
 Ten minutes, and the only quiet corner in the neighborhood.
 
 **12:00 · Lunch at Myeongdong Kyoja**
-Kalguksu noodles, ₩11,000, a Michelin Bib Gourmand listing. The queue moves in fifteen minutes.
+Kalguksu noodles, ₩12,000 (from December 2025), a Michelin Guide Selected restaurant. In 2026 it moved to 129 Toegye-ro, in front of Myeongdong Station exit 8. More in [where to eat in Myeongdong](/en/posts/myeongdong-food-2026-09/).
 
 **13:30 · Namdaemun Market**
 Five minutes west. Cheaper and more chaotic than Myeongdong, with better food alleys.

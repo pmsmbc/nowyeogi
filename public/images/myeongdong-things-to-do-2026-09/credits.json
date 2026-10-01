@@ -1,32 +1,5 @@
 [
   {
-    "src": "/images/myeongdong-things-to-do-2026-09/01.webp",
-    "alt": "",
-    "width": 940,
-    "height": 627,
-    "credit": "Korea Tourism Organization (KOGL Type 1)",
-    "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "[아시아중동]남산공원6(남산타워)_기획_1유형"
-  },
-  {
-    "src": "/images/myeongdong-things-to-do-2026-09/02.webp",
-    "alt": "",
-    "width": 940,
-    "height": 627,
-    "credit": "Korea Tourism Organization (KOGL Type 1)",
-    "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "[아시아중동]남산공원2(남산타워)_초고화질_1유형"
-  },
-  {
-    "src": "/images/myeongdong-things-to-do-2026-09/03.webp",
-    "alt": "",
-    "width": 940,
-    "height": 627,
-    "credit": "Korea Tourism Organization (KOGL Type 1)",
-    "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "서울_남산케이블카 (1)"
-  },
-  {
     "src": "/images/myeongdong-things-to-do-2026-09/04.webp",
     "alt": "",
     "width": 1600,
@@ -43,5 +16,68 @@
     "credit": "Adbar, CC BY-SA 3.0, via Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Namdaemun_Market_Alley.jpg",
     "description": "An alley in Namdaemun Market, Seoul."
+  },
+  {
+    "src": "/images/myeongdong-things-to-do-2026-09/06.webp",
+    "alt": "",
+    "width": 940,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "[아시아중동]남산공원1(남산타워)_초고화질_1유형"
+  },
+  {
+    "src": "/images/myeongdong-things-to-do-2026-09/07.webp",
+    "alt": "",
+    "width": 940,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "[아시아중동]남산공원9(자물쇠)_기획_1유형"
+  },
+  {
+    "src": "/images/myeongdong-things-to-do-2026-09/08.webp",
+    "alt": "",
+    "width": 940,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "남산서울타워 (1)"
+  },
+  {
+    "src": "/images/myeongdong-things-to-do-2026-09/11.webp",
+    "alt": "",
+    "width": 940,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "남산골한옥마을 (1)"
+  },
+  {
+    "src": "/images/myeongdong-things-to-do-2026-09/14.webp",
+    "alt": "",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_화폐박물관 (3)"
+  },
+  {
+    "src": "/images/myeongdong-things-to-do-2026-09/17.webp",
+    "alt": "",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_우표박물관(구.우표문화누리) (3)"
+  },
+  {
+    "src": "/images/myeongdong-things-to-do-2026-09/19.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1123,
+    "credit": "DoulosCore, CC BY-SA 3.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sungnyemun_Gate,_front,_2013.jpg",
+    "description": "Sungnyemun (Namdaemun) Gate, Seoul"
   }
 ]
