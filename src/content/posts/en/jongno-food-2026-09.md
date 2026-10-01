@@ -2,6 +2,7 @@
 title: "What to Eat in Jongno: Gwangjang Market, Ikseon-dong and Old Seoul Restaurants"
 description: "Where to eat around Jongno and Insadong: Gwangjang Market stalls and what to order, Ikseon-dong's hanok cafés, temple food, traditional tea houses and the makgeolli alleys of Jongno 3-ga."
 pubDate: 2026-09-12
+updatedDate: 2026-10-01
 scope: domestic
 region: seoul
 type: food
@@ -89,11 +90,11 @@ Alley cafés here are also the best rainy-day option in Jongno.
 
 **Jogyesa temple** itself is free, two minutes from Insadong, and worth ten minutes.
 
-## Jongno 3-ga: grilled fish and makgeolli
+## Jongno 3-ga: makgeolli and pojangmacha
 
 The alleys around Jongno 3-ga Station hold the oldest drinking streets in Seoul. This is where office workers have gone after work for fifty years.
 
-- **Grilled fish alley** — mackerel and hairtail grilled over charcoal, ₩12,000–18,000 with rice and side dishes.
+- **Grilled fish alley** — not in Jongno 3-ga but further east at Jongno 5-ga (Jongno 40-ga-gil), listed as a Seoul Future Heritage site. Shops and prices are in [where to eat in Dongdaemun](/en/posts/dongdaemun-food-2026-10/).
 - **Makgeolli bars** — rice wine by the kettle with pajeon (spring onion pancake).
 - **Nakji and gopchang** — octopus and grilled offal, for the more adventurous.
 - **Pojangmacha** — orange tent bars that appear in the evening.
