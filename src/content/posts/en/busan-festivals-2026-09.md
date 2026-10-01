@@ -125,7 +125,7 @@ Only the timing changes with the season: **20:00 and 22:00 from March to Septemb
 
 ## The fireworks are on 7 November
 
-Worth stating plainly, because visitors get this wrong constantly: the **Busan Fireworks Festival is not in October**. In 2026 it falls on **Saturday 7 November**, with the main show launching at 20:00. It is fired from three points — Gwangalli plus Dongbaekseom and Igidae — so several vantage points work. The beach standing zones are free but overwhelmingly crowded; paid seating is sold separately.
+Worth stating plainly, because visitors get this wrong constantly: the **Busan Fireworks Festival is not in October**. In 2026 it falls on **Saturday 7 November**, with the fireworks running 19:00–20:00. It is fired from three points — Gwangalli plus Dongbaekseom and Igidae — so several vantage points work. The beach standing zones are free but overwhelmingly crowded; paid seating is sold separately.
 
 So do not plan an October trip expecting fireworks. If the fireworks are the point, aim for the first week of November instead.
 
