@@ -327,6 +327,20 @@
       "춘천"
     ]
   },
+  "chungnam": {
+    "ko": "충남",
+    "en": "Chungcheongnam-do",
+    "ja": "忠清南道",
+    "scope": "domestic",
+    "country": "KR",
+    "aliases": [
+      "충청남도",
+      "충남",
+      "계룡",
+      "계룡시",
+      "계룡대"
+    ]
+  },
   "korea": {
     "ko": "전국",
     "en": "Korea",

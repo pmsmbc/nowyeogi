@@ -97,7 +97,7 @@ For Hongdae this is the obvious choice: the express train does not stop there, a
 The airport buses are comfortable coaches with luggage bays under the floor, which makes them the easiest option if you have two big suitcases or are travelling with children.
 
 - **[[bus:6002]]** goes to **Hongik University Station** (stopping near the Mercure and L7 hotels, and the RYSE hotel in Seogyo-dong) and continues toward Jongno, Dongdaemun and Cheongnyangni.
-- **[[bus:6001]]** goes to **Seoul Station** and **Myeongdong**, continuing to Dongdaemun.
+- **[[bus:6001]]** goes to **Seoul Station** and **Myeongdong**, ending near the hotels on the Euljiro side of Dongdaemun.
 
 The official Airport Limousine site lists the fare as **₩17,000 for adults and ₩12,000 for children** on both routes. At the airport you buy a ticket at the limousine bus counters, then board at the numbered stop outside Terminal 1 (first floor) or in the Terminal 2 transportation center on the basement level. Boarding is first come, first served. Inside the city you can pay with a transit card or cash when boarding.
 
