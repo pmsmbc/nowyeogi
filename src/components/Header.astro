@@ -8,7 +8,8 @@ interface Props { lang: Lang; alternates?: Partial<Record<Lang, string>> }
 const { lang, alternates } = Astro.props;
 const nav = [
   { href: localePath(lang, '/domestic/'), label: t(lang, 'nav.domestic') },
-  { href: localePath(lang, '/overseas/'), label: t(lang, 'nav.overseas') },
+  // 해외 글이 쌓이기 전까지 탭을 숨긴다. /overseas/ 페이지는 그대로 둔다.
+  // { href: localePath(lang, '/overseas/'), label: t(lang, 'nav.overseas') },
   { href: localePath(lang, '/about/'), label: t(lang, 'nav.about') },
 ];
 ---
