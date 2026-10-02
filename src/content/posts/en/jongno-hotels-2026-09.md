@@ -143,7 +143,7 @@ Split by this blog's neighbourhood posts, the district adds up like this:
 | Elsewhere (Pyeongchang, Buam, Haengchon etc.) | 1 | 5 | 43 | 4 |
 | **Jongno-gu total** | **171** | **368** | **510** | **358** |
 
-The lodging column here is the full count, including entries that share an address with a tourist hotel. The pattern is clear: **hanok in Bukchon and Seochon, hostels on the Dongdaemun and Gwanghwamun sides, homestays in Daehak-ro, Dongdaemun and Seochon.** The Seochon row is recounted here using 14 neighbourhoods west of Gyeongbokgung (Cheongun, Singyo, Gungjeong, Hyoja, Changseong, Tongui, Tongin, Nusang, Nuha, Ogin, Chebu, Pirun, Naeja, Sajik), so it may differ slightly from the Seochon post's own boundary.
+The lodging column here is the full count, including entries that share an address with a tourist hotel. The pattern is clear: **hanok in Bukchon and Seochon, hostels on the Dongdaemun and Gwanghwamun sides, homestays in Daehak-ro, Dongdaemun and Seochon.** The Seochon row is recounted here using 14 neighbourhoods west of Gyeongbokgung (Cheongun, Singyo, Gungjeong, Hyoja, Changseong, Tongui, Tongin, Nusang, Nuha, Ogin, Chebu, Pirun, Naeja, Sajik), the same boundary as [where to stay in Seochon](/en/posts/seochon-hotels-2026-09/).
 
 ![A souvenir stall in Insadong packed with traditional masks, fans, postcards and ornaments](/images/jongno-hotels-2026-09/02.webp)
 

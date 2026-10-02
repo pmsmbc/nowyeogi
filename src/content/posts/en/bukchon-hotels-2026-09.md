@@ -61,7 +61,7 @@ And there is a third number. **138 of those 182 were registered in 2021 or later
 
 ## First, where I was wrong
 
-In [the Seochon accommodation piece](/en/posts/seochon-hotels-2026-09/) I wrote that **I could not get a complete dataset of hanok-stay businesses**, so I used the Seoul Stay list (133 places) promoted by the Seoul Tourism Organization instead.
+In an earlier version of [the Seochon accommodation piece](/en/posts/seochon-hotels-2026-09/) (since recounted from the licensing data: 121 hanok stays in Seochon's 14 neighbourhoods, 438 in Seoul) I wrote that **I could not get a complete dataset of hanok-stay businesses**, so I used the Seoul Stay list (133 places) promoted by the Seoul Tourism Organization instead.
 
 **The complete dataset does exist.** The Seoul Open Data Plaza publishes **hanok-stay business licensing data for Seoul (OA-16047)**. This piece counts from it, using the update of 23 September 2026.
 
