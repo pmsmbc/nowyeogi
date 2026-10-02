@@ -341,6 +341,20 @@
       "계룡대"
     ]
   },
+  "gyeonggi": {
+    "ko": "경기",
+    "en": "Gyeonggi-do",
+    "ja": "京畿道",
+    "scope": "domestic",
+    "country": "KR",
+    "aliases": [
+      "경기도",
+      "경기",
+      "구리",
+      "구리시",
+      "구리한강시민공원"
+    ]
+  },
   "korea": {
     "ko": "전국",
     "en": "Korea",
