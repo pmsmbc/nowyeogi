@@ -150,7 +150,7 @@ sources:
 draft: false
 ---
 
-On 29 September 2026, Jongno District announced that the British magazine Time Out had placed **the Jongno 3-ga area first** in its list of "the world's 40 coolest neighbourhoods" for 2026. The same press release came with plans for designated smoking areas, more public toilets and a crackdown on illegal street-trading expansion. Two days later, on 1 October, when Statistics Korea published its annual report on older people, a wire photo showed **a queue of elderly men waiting for a free lunch outside Tapgol Park**. The two scenes are a few minutes' walk apart.
+On 29 September 2026, Jongno District announced that the British magazine Time Out had placed **the Jongno 3-ga area first** in its list of "the world's 40 coolest neighbourhoods" for 2026 (Time Out itself published the list on 15 September). The same press release came with plans for designated smoking areas, more public toilets and a crackdown on illegal street-trading expansion. Two days later, on 1 October, when Statistics Korea published its annual report on older people, a wire photo showed **a queue of elderly men waiting for a free lunch outside Tapgol Park**. The two scenes are a few minutes' walk apart.
 
 The short version: Jongno is **a Joseon-era main street and market that has been painted over, layer by layer, for more than 600 years**. A royal ancestral shrine (Jongmyo), two palaces (Changdeokgung and Changgyeonggung), the park where the 1919 independence declaration was read, a traditional crafts street, a square for the city's older men, a night street of plastic stools for young visitors, and a theatre district all sit in one district. This guide puts that Jongno back together from official records and dated reporting.
 
