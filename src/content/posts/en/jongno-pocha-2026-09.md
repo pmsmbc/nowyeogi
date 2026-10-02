@@ -2,6 +2,7 @@
 title: "Jongno 3-ga Pocha Street: The Tent-Bar Alley That Got Licensed (2026)"
 description: "What the Jongno 3-ga street-tent bar alley is now: the co-prosperity street designation Jongno District made in 2024, the 250-metre strip and how many businesses are on it, why the tents go up at 5pm, and the Halloween and year-end closures that catch visitors out."
 pubDate: 2026-09-17
+updatedDate: 2026-10-02
 scope: domestic
 region: seoul
 type: food
@@ -32,9 +33,10 @@ places:
     address: "Donhwamun-ro 11-gil, Jongno-gu, Seoul · about 250m from Nakwon Arcade to Myodong intersection"
     menu:
       - { name: "Confirmed on the official page", price: "Chicken feet, rolled omelette, udon, seafood pancake" }
-    hours: "Stalls are set up from around 5pm (no opening hours are officially published)"
+    hours: "18:00–04:00 (Jongno-gu announcement, 29 Sep 2026). Seoul Tourism Organization says stalls set up from around 5pm"
     tip: "Jongno District advises stalls to suspend operation over Halloween and the year-end period."
 sources:
+  - { title: "연합뉴스 — 세계가 주목한 '종로3가 야장'…안전·환경관리 강화한다 (2026-09-29, 77개 업소, 영업시간 18:00~04:00)", url: "https://www.yna.co.kr/view/AKR20260929083700004" }
   - { title: "Seoul Tourism Organization — Jongno 3-ga pocha street", url: "https://korean.visitseoul.net/editorspicks/yajang/KONddisdp" }
   - { title: "Jongno District — Donhwamun-ro 11-gil Sangsaeng Street designation and works", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuId=388338&menuNo=388338&nttId=250273" }
   - { title: "Jongno District — Sangsaeng Street extent and number of businesses", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuId=388338&menuNo=388338&nttId=250280" }
@@ -57,7 +59,7 @@ In **November 2024** Jongno District designated Donhwamun-ro 11-gil a **Sangsaen
 
 The district office is blunt about what came before. In its own words: "stalls and shops occupied the road without permission, pedestrian safety was threatened, and complaints never stopped." Word spread from 2023 that this was the yajang spot in Seoul, crowds followed, and the crush became dangerous.
 
-The district chose **regularisation rather than clearance**. It amended its ordinance to set criteria for road-occupancy permits and outdoor-business registration. As of **July 2025** it reported **24 street stalls and 31 shops** trading with both in hand.
+The district chose **regularisation rather than clearance**. It amended its ordinance to set criteria for road-occupancy permits and outdoor-business registration. As of **July 2025** it reported **24 street stalls and 31 shops** trading with both in hand. Its announcement of 29 September 2026 (reported by Yonhap) gives **77 businesses — 24 stalls and 53 shops** — trading from 18:00 to 04:00.
 
 The street was rebuilt to match. **The pavement was widened to about 1.5 times its former width** and the roadway narrowed to pay for it, two-way traffic became one-way, the electricity and water distribution boxes were replaced, and the public toilets refurbished.
 
@@ -99,7 +101,7 @@ Other dishes you may have read about — sea snails, fish cake and so on — cou
 
 **Stalls go up from around 5pm**, one by one, according to Seoul Tourism Organization. By day you find what the photograph above shows: canvas tied down over folded frames.
 
-There is no officially published closing time. The nearest guide is that the district's safety patrol works the street **daily from 17:00 to 02:00** — a patrol schedule, not opening hours, but it brackets the hours the street is active.
+The district's 29 September 2026 announcement gives a closing time of **04:00**. Before that nothing official was published, and the nearest guide was that the district's safety patrol works the street **daily from 17:00 to 02:00** — a patrol schedule, not opening hours, but it brackets the hours the street is active.
 
 **Seating is cramped.** Seoul Tourism Organization says so itself: the seats are tight and it gets crowded at peak times, so allow extra time rather than arriving on a schedule.
 

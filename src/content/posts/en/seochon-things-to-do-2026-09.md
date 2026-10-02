@@ -164,7 +164,7 @@ This is the most practical thing to know in Seochon.
 | | Closed |
 | --- | --- |
 | **Seochon venues** (Yun Dong-ju Literature House, Park No-soo Art Museum, Sangchonjae, Hwanghakjeong, Cheongun Literature Library) | **Mondays** |
-| **The palaces** (Gyeongbokgung, Changdeokgung, Changgyeonggung, Deoksugung) | **Tuesdays** |
+| **The palaces** | **Gyeongbokgung and Jongmyo: Tuesdays. Changdeokgung, Changgyeonggung and Deoksugung: Mondays** |
 | Sajikdan Altar | Always open |
 | Suseong-dong Valley and Inwangsan | Always open |
 

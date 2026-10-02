@@ -75,7 +75,7 @@ Gwanghwamun, City Hall and Jonggak sit side by side in the middle of Seoul, but 
 - **Gwanghwamun and City Hall have big hotels; Jonggak (Gwancheol-dong) has small hostels.** Gwancheol-dong's 24 operating hostels are **the most of any neighbourhood in Seoul**
 - **Sejong-no, the neighbourhood that contains Gwanghwamun Square itself, has no registered accommodation at all**
 
-Hotels sorted by budget are in [where to stay in Jongno](/en/posts/jongno-hotels-2026-09/) and [where to stay in Myeongdong](/en/posts/myeongdong-hotels-2026-09/). This post sticks to the data and the airport run.
+The neighbouring areas are counted the same way in [where to stay in Jongno](/en/posts/jongno-hotels-2026-09/) and [where to stay in Myeongdong](/en/posts/myeongdong-hotels-2026-09/). This post sticks to Gwanghwamun, City Hall and Jonggak, and the airport run.
 
 ![Mojeongyo bridge over Cheonggyecheon beside the Mugyo-dong intersection, with purple light on the water, pots of chrysanthemums and lit office towers behind](/images/gwanghwamun-hotels-2026-09/01.webp)
 

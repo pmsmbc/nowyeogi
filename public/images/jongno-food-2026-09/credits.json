@@ -1,29 +1,56 @@
 [
   {
+    "src": "/images/jongno-food-2026-09/01.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1200,
+    "credit": "by Richy! at flickr, CC BY-SA 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Korean_temple_cuisine-Sanchon-01.jpg",
+    "description": "Korean temple dishes at Sanchon in Insadong, Seoul, South Korea."
+  },
+  {
+    "src": "/images/jongno-food-2026-09/02.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1156,
+    "credit": "Trainholic, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jaha-Manduguk.jpg",
+    "description": "Korean Food Manduguk, in Jongno-gu Buam-dong"
+  },
+  {
     "src": "/images/jongno-food-2026-09/03.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1067,
+    "credit": "by AndrewEick, CC BY 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Korean.dessert-Tteok-Songpyeon-Kkultteok.01.jpg",
+    "description": "Kkultteok (honey rice cake), Market outside of Osan, Korea"
+  },
+  {
+    "src": "/images/jongno-food-2026-09/04.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1200,
+    "credit": "lazy fri13th, CC BY 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Agwi-jjim_1.jpg",
+    "description": "Agwi-jjim (braised angler)"
+  },
+  {
+    "src": "/images/jongno-food-2026-09/05.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1600,
+    "credit": "chomjong, CC BY 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Haejang-guk_1.jpg",
+    "description": "Haejang-guk (hangover soup)"
+  },
+  {
+    "src": "/images/jongno-food-2026-09/06.webp",
     "alt": "",
     "width": 1600,
     "height": 1063,
     "credit": "Pfc. Bo Park, 2ID PAO, US Army, Public domain, via Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Korean_mung_bean_pancake_and_rice_wine-Bindaetteok_and_makgeolli.jpg",
     "description": "Bindaetteok (ground mung bean pancakes) are served in small pieces with onion marinated in soy sauce. Korean rice wine, 'makgeolli', complements the pancakes ve"
-  },
-  {
-    "src": "/images/jongno-food-2026-09/01.webp",
-    "alt": "",
-    "width": 1600,
-    "height": 895,
-    "credit": "Bgag, CC0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg",
-    "description": "Gwangjang Market, Seoul"
-  },
-  {
-    "src": "/images/jongno-food-2026-09/02.webp",
-    "alt": "",
-    "width": 1600,
-    "height": 1067,
-    "credit": "Bgag, CC0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_01.jpg",
-    "description": "Gwangjang Market, Seoul"
   }
 ]

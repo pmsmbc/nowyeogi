@@ -2,19 +2,46 @@
   {
     "src": "/images/jongno-hotels-2026-09/01.webp",
     "alt": "",
-    "width": 1600,
-    "height": 1200,
-    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Traditional_hanok_house_with_wooden_doors_along_a_steeply_sloping_street_in_Bukchon_Hanok_Village_Seoul.jpg",
-    "description": "Traditional hanok house revealing Korean architecture with wooden doors, along a steeply sloping street, in Bukchon Hanok Village, Seoul, South Korea."
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_인사동 문화의 거리 (1)"
   },
   {
     "src": "/images/jongno-hotels-2026-09/02.webp",
     "alt": "",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_인사동 문화의 거리 (2)"
+  },
+  {
+    "src": "/images/jongno-hotels-2026-09/03.webp",
+    "alt": "",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_인사동 문화의 거리 (4)"
+  },
+  {
+    "src": "/images/jongno-hotels-2026-09/04.webp",
+    "alt": "",
     "width": 1600,
-    "height": 1063,
-    "credit": "Richard Mortel from Riyadh, Saudi Arabia, CC BY 2.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gwanghwamun_Square,_Seoul_(26259210037).jpg",
-    "description": "Gwanghwamun Square, Seoul"
+    "height": 1067,
+    "credit": "Gipe0001, CC BY-SA 3.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Seoul_daehangno.JPG",
+    "description": "Photograph taken at night near exit 4 of Hyehwa station in Seoul. Shows a busy night in the Daehangno area of Seoul."
+  },
+  {
+    "src": "/images/jongno-hotels-2026-09/05.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 900,
+    "credit": "한국의 멋, CC0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Naksan_Park,_Seoul,_South_Korea_15.jpg",
+    "description": "Naksan Park, Seoul, South Korea 서울 낙산공원"
   }
 ]

@@ -1,20 +1,74 @@
 [
   {
-    "src": "/images/jongno-guide-2026-09/01.webp",
+    "src": "/images/jongno-guide-2026-09/07.webp",
     "alt": "",
-    "width": 1141,
-    "height": 1600,
-    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Flowery_alley_lined_with_hanok_houses_and_red_rosebush_in_Bukchon_Hanok_Village_Seoul.jpg",
-    "description": "Flowery alley lined with hanok houses and a rosebush of red roses protruding from the brick wall, at sunrise, near Bukchon-ro 11-gil street, in Bukchon Hanok Vi"
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_조계사(서울) (1)"
   },
   {
-    "src": "/images/jongno-guide-2026-09/02.webp",
+    "src": "/images/jongno-guide-2026-09/13.webp",
+    "alt": "",
+    "width": 940,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_종로_탑골공원_외부_8.jpg"
+  },
+  {
+    "src": "/images/jongno-guide-2026-09/16.webp",
+    "alt": "",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_마로니에공원 (2)"
+  },
+  {
+    "src": "/images/jongno-guide-2026-09/24.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1067,
+    "credit": "by Tom@HK, CC BY 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Seoul-Insadong-07.jpg",
+    "description": "A view of streets in Insadong, Seoul"
+  },
+  {
+    "src": "/images/jongno-guide-2026-09/27.webp",
     "alt": "",
     "width": 1600,
     "height": 1067,
     "credit": "S h y numis, CC BY-SA 4.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg",
-    "description": "서울시 종로구 북촌"
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_20.jpg",
+    "description": "Street in Insa-dong, Jongno-gu, Seoul"
+  },
+  {
+    "src": "/images/jongno-guide-2026-09/29.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1067,
+    "credit": "S h y numis, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_3.jpg",
+    "description": "Street in Insa-dong, Jongno-gu, Seoul"
+  },
+  {
+    "src": "/images/jongno-guide-2026-09/35.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1200,
+    "credit": "Daderot, Public domain, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jeongjeon,_Jongmyo_Shrine_(oblique)_-_Seoul,_Korea.jpg",
+    "description": "Jeongjeon, Jongmyo Shrine (oblique view) - Seoul, Korea."
+  },
+  {
+    "src": "/images/jongno-guide-2026-09/36.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1067,
+    "credit": "서울연구원, CC BY 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Downtown_Seoul_along_Jongno_Street_in_2020.jpg",
+    "description": "In this picture, a scene of densely concentrated high-rise office buildings along the Jongno Street is shown. This photo was taken from Sejong-daero intersectio"
   }
 ]

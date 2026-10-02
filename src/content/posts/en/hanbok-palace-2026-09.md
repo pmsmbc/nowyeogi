@@ -152,7 +152,7 @@ These are the standard fares. Koreans and foreign visitors pay the same amount; 
 
 ### Check this first
 
-**Foreign visitors aged 18 and under, or 65 and over, already get in free without hanbok.** So do pregnant visitors with one companion, and registered disabled visitors with one companion. Admission is also free on Culture Day, the last Wednesday of every month, Huwon excepted.
+**Foreign visitors aged 18 and under, or 65 and over, already get in free without hanbok.** So do pregnant visitors with one companion, and registered disabled visitors with one companion. Culture Day free entry changed in 2026: Deoksugung has been free every Wednesday since 5 August, and Changdeokgung, Changgyeonggung and Jongmyo every Wednesday from 7 October, while Gyeongbokgung stays on the last Wednesday of the month (Huwon excepted). Details are in [things to do in Jongno](/en/posts/jongno-things-to-do-2026-09/).
 
 Which means **the people who actually gain from the hanbok rule are foreign visitors aged 19 to 64**. And the ceiling on what you save is lower than it looks. Anyone planning to do all five sites would buy the ₩6,000 combined ticket anyway, so **the most hanbok actually saves you is ₩6,000**. For a single palace it is ₩1,000 to ₩3,000. If wearing the clothes is the point in itself that is a different matter, but on admission alone, that is the arithmetic.
 
