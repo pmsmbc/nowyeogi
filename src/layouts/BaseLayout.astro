@@ -58,6 +58,8 @@ const gtmNoscript = gtm
     {lang === 'ja' && <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" />}
     <link rel="alternate" type="application/rss+xml" title={siteConfig.name[lang]} href={localePath(lang, '/rss.xml')} />
     <Seo lang={lang} alternates={alternates} {...seo} />
+    {/* 애드센스 사이트 소유권 확인용 메타 태그. 코드 스니펫·ads.txt 와 함께 세 방법을 모두 둔다 */}
+    {client && <meta name="google-adsense-account" content={client} />}
     {client && <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${client}`} crossorigin="anonymous"></script>}
     {autoLang && <LangRedirect />}
   </head>
