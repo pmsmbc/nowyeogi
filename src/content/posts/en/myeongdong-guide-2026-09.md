@@ -395,22 +395,6 @@ If you get lost or need interpreting, the **Myeongdong Tourist Information Cente
 
 With two subway lines, airport buses and Namsan, Namdaemun and Gwanghwamun all within walking distance, Myeongdong is where most first-time visitors to Seoul stay. The June 2026 Bukchang-dong plan, with **density bonuses for tourist hotels**, shows the hotel map is still changing. By the count in [where to stay in Myeongdong](/en/posts/myeongdong-hotels-2026-09/), built from Seoul's licensing data, the area has **69 tourist-lodging businesses with 6,399 rooms** (29 tourist hotels and 40 hostels) and 150 urban homestays for foreigners, all of the homestays in Namsan-dong and Hoehyeon-dong. Big names like Lotte Hotel Seoul and the Westin Josun are actually in Sogong-dong; those and other hotels with "Myeongdong" in the name but a Sogong-dong or Bukchang-dong address are in [Gwanghwamun, City Hall and Jonggak hotels](/en/posts/gwanghwamun-hotels-2026-09/); and the citywide comparison is in [where to stay in Seoul](/en/posts/seoul-where-to-stay-2026-09/).
 
-## What we couldn't confirm
-
-**The 2025 Seoul tourism survey's figure for Myeongdong.** We couldn't open the Seoul Tourism Organization's report. A company press release in June 2026 quoted "77%", but we couldn't check it against the source, so this guide uses the 2023 survey (85.9%) only.
-
-**How many licensed stalls Myeongdong has today.** We found no official current number. The 366 here is from the 2016 launch.
-
-**Whether the December 2024 expansion of the price-display zone covers street stalls**, and exactly where it now reaches. We didn't see the attachment to the notice.
-
-**Stall trading hours** are the 2016 rules; we couldn't confirm whether they have changed since.
-
-**The 2000 zone's original area of about 630,000 m²** is our subtraction (current area minus the 2012 addition), not a figure from the original notice.
-
-**Mass times at the cathedral** and **this season's programme at Myeongdong Theater** change, so they are not listed here.
-
-**Whether Seoul will appeal the gondola case to the Supreme Court**: as of 1 October 2026 we found only reports that the city is "considering" it.
-
 ## Who it suits
 
 **Good fit if you:**

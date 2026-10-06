@@ -515,28 +515,6 @@ From November the greenhouse is open 10–16 and the butterfly garden is closed.
 
 **Ninth, the cover was a distant skyline shot.** We replaced it with an autumn path in Seoul Forest, dropped the station-sign photos and added the pump house and shoe street.
 
-## What we could not confirm
-
-**The hours of the e-scooter ban on Yeonmujang-gil.**
-
-**The Seongsu Tourist Information Centre's current hours**: ours are from the 2023 opening announcement (Tue–Sun 10:00–18:00). Whether the roaming guides are running this year.
-
-**How many expo gardens will stay in Seoul Forest after 27 October**, and how long into October the Heritage Garden concerts continue.
-
-**The venue and price of the Shin-chan exhibition**, the end dates of the TWIMI and Sweet Agent pop-ups, and NEP Festa's dates.
-
-**D Museum's current exhibition**, **opening hours of individual shops at Understand Avenue**, and **Mystore SS hours**.
-
-**The exact location (station exit) of the shoe theme park**, and whether it is the same as the "Seongsu Handmade Shoe Park" in expo materials.
-
-**The museum's heritage designation date**: Arisu says 11 September 1989, the Korea Heritage Service 19 September 1989.
-
-**Whether the greenhouse opens on Monday public holidays**, and **the floor fountain's last day this year**.
-
-**Ttukdo Cheongchun Market's number of stalls and any 2026 autumn night market**, and **where the galbi alley is**.
-
-**Any 2026 Halloween (Saturday 31 October) crowd plan for Seongsu.** In January Seongdong-gu named Halloween and Christmas as peak-crowd periods.
-
 ## Quick summary
 
 - **Seoul Forest is free and open every day.** Greenhouse and butterfly garden closed Mondays. **Butterfly garden ends 31 October; greenhouse closes at 16:00 from November.**

@@ -472,24 +472,6 @@ The earlier version of this guide, published 22 September 2026, had errors and o
 - It omitted that **Woo Lae Oak is a Bib Gourmand**, and the closures and moves of **Euljimyeonok, Yangmiok and Eulji Dabang**. These are now included.
 - The cold-noodle photo was replaced, and every photo is now captioned as not coming from a specific restaurant.
 
-## What we could not confirm
-
-**The current number of nogari pubs and the legal basis for any outdoor tables.** Reports differ on when road-use permits ended: November 2022 (OhmyNews) or November 2023 (Hankook Ilbo). The text of Seoul's 2024 inspection notice is not public.
-
-**Whether the Euljiro branch of Eulji OB Bear** (reported in February 2024) is open now, and its exact address.
-
-**Whether Yangmiok's Euljiro branch** has reopened since June 2022.
-
-**Current hours and prices** for shops in the golbaengi alley, Sinchang Myeonok and Sunheungok.
-
-**Dongwonjip (Cho-dong)** is in KTO's database as a sundae soup and gamjatang restaurant, but its description places it in the Da-dong/Mugyo-dong food street; the address and text do not match, so it is left out.
-
-**Three of the 2024 Jung-gu Oraegage** (Jangsu Galbijip Bonga, Seongwon Jeonju Kongnamul Gukbap, Namdo Hansik Jeongdeunnim) could not be located from official sources and are not included.
-
-**Whether Euljiro lies inside a special tourist zone** (where late-night trading limits do not apply) was not checked shop by shop, so that topic is not covered.
-
-**DiningCode prices** are posted by restaurants or users, and their dates are not always clear.
-
 ## Wrapping up
 
 - **Nogari alley**: started with Eulji OB Bear in 1980; Seoul Future Heritage in 2015. Street trading allowed in 2017, road-use permits ended after 2022, and Eulji OB Bear was evicted in April 2022. Redevelopment will change about half the alley.

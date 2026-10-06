@@ -532,22 +532,6 @@ Short on energy? Ride [[bus:yellow:01A]] for one loop to tie together Namsan, Su
 
 **Fourth, luggage storage at Olive Young Myeongdong Town.** The official store guide says there is no luggage storage or toilet in the store. See our [Olive Young guide](/en/posts/olive-young-shopping-2026-09/).
 
-## What we could not confirm
-
-**When tourists may enter the cathedral nave, and whether there is an English Mass**: the cathedral's website was down while we wrote this. The Mass table above comes from the Good News parish listing.
-
-**Hours of the downtown duty-free shops** (Lotte and Shinsegae in this area): their websites block automated access.
-
-**Currency exchange**: we found no official source, so we have not covered it. Rates and fees vary by shop.
-
-**October–November festivals in Myeongdong**, such as events in the Myeongdong Special Tourist Zone: no official announcement found.
-
-**Namsangol Hanok Village hours in November**: the site is inconsistent, giving summer hours as April–October on the home page and April–November on the visitor page. Call +82-2-6358-5533 if you plan a late visit in November.
-
-We also could not confirm **the Namsan bus fare**, **online discount prices for the observatory**, **building-by-building hours at Namdaemun Market**, **the Ahn Jung-geun Memorial Hall's opening hours**, or **whether the "Memory 6" exhibition hall in Namsan Yejang Park is open**.
-
-**The Namsan gondola**: Seoul has not yet said whether it will appeal to the Supreme Court. An opening in 2026 looks unlikely, and there is no official schedule.
-
 ## Quick summary
 
 - **Myeongdong Cathedral**: consecrated 1898, a national historic site. Be quiet during Mass; the office is closed on Mondays.

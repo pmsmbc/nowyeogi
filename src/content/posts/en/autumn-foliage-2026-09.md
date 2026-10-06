@@ -366,16 +366,6 @@ The two photographs below are the same place: **Uhwajeong Pavilion** at Naejangs
 
 They are a few days to at most two weeks apart. Go in mid-October without knowing that Naejangsan peaks in early November and you get the second photograph. **That is what happens when you plan a southern mountain on Seoraksan's schedule.**
 
-## What could not be verified
-
-Stated plainly.
-
-**First foliage is commonly described as the point when about 20 percent of a mountain has turned, and peak as 80 percent.** That definition **could not be verified against the primary text of an official KMA page.** The KMA's foliage page is drawn by JavaScript, so the wording could not be extracted.
-
-**When the KMA stopped issuing foliage forecasts could not be established either.** It is certainly true that it issued none in 2026, and the criteria are still in use. But no source document saying when and by what announcement the forecasts ended could be found.
-
-**Year-by-year official dates for Odaesan, Chiaksan, Bukhansan, Gyeryongsan, Jirisan, Mudeungsan and Hallasan** could not be obtained. The full list in the Korea Forest Service prediction map sits inside an attachment that could not be accessed.
-
 ## In short
 
 - **The official 2026 government forecast is out.** The Korea Forest Service published it on 22 September: Seoraksan 20 October, Songnisan 28 October, Naejangsan 4 November, Hallasan 6 November.

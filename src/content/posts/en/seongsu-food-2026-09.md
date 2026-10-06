@@ -549,26 +549,6 @@ Corrections to the earlier version published on 21 September 2026:
 - The cover was a photo of a factory building, and the tteokbokki photo and a coffee shop from another part of Seoul had no note saying they were not from the shops named. The photos have been replaced and every food photo now carries that note.
 - Seoul Forest and station-exit details overlapped with [things to do in Seongsu](/en/posts/seongsu-things-to-do-2026-09/), so this guide now sticks to food.
 
-## What we could not confirm
-
-**Seongsu-dong restaurants designated as "Baeknyeon Gage" (century shops) by the Ministry of SMEs and Startups.** These were not checked against the official list. Of Seongdong-gu's nine Seoul Future Heritage entries, the only restaurant is Daedo Sikdang in Wangsimni, not in Seongsu. Seoul's Oraegage (long-standing shop) list has one Seongdong-gu entry, a handmade-shoe shop.
-
-**Somunnan Seongsu Gamjatang's founding year.** 1983 comes from the description on Seongdong-gu's Seongdong Matjip page, which has since been taken off the visible part of the page. KTO data says "for 40 years" and Korea Textile News "more than 30 years".
-
-**Gyewol's evening hours.** The MICHELIN page shows 11:00–14:30 only; KTO data and DiningCode say until 21:00.
-
-**Whether drinks are still sold inside Daelim Changgo, and whether the Scene cafe is still open after the auction.** KTO data still lists both as cafes.
-
-**Ttukdo Guksu's janchi guksu price.** ₩6,000 on the government listing, ₩5,000 on DiningCode.
-
-**Exact course prices at Tutoiement and Mattdol.** MICHELIN only shows ₩ bands; Mattdol's ₩39,000 is a DiningCode listing.
-
-**The name of the galbi house that moved in the Edaily report.** The article does not name it, so it may or may not be Daeseong Galbi.
-
-**DiningCode prices** are entered by shops or users and are not clearly dated. **Good-price shops with no hours in the listing** (Ttukdo Guksu, Ttowa, Changchang Coffee and others) have no hours here.
-
-**Average cafe prices in Seongsu-dong and menu prices at individual pop-ups.** No official figures were found.
-
 ## Wrapping up
 
 - **MICHELIN Guide Seoul 2026**: five entries in Seongdong-gu. Around Seongsu are the Bib Gourmands Gyewol (chicken gomtang) and Mattdol (tacos), and the one-star Tutoiement (Songjeong-dong).

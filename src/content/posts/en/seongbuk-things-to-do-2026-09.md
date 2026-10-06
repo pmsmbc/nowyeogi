@@ -221,18 +221,6 @@ It is the same kind of error the Seochon post corrected, where the opening of In
 
 To walk the wall towards Hyehwamun Gate, it is five minutes on foot from **exit 5** of Hansung University Station.
 
-## What could not be verified
-
-**The Kansong Art Museum's autumn 2026 exhibition schedule** has not yet been announced. If you want to go, you will have to check directly.
-
-**Whether Suyeon Sanbang is currently trading** could not be confirmed from official sources.
-
-**The hours and prices at Gilsang Dawon** are not published either.
-
-**The north-facing story about Simujang** does not appear in the Korea Heritage Service designation text. It is recorded here only as a story handed down.
-
-**Whether the Korea Furniture Museum closes on Mondays** differs across four official sources. Only Sunday closing is settled.
-
 ## Wrapping up
 
 - **The Kansong Art Museum opens only during exhibitions and is closed at present.** Booking is required.

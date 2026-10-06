@@ -361,20 +361,6 @@ The previous version of this post (12 September 2026, partly revised on 1 Octobe
 
 **Six: the note saying this was a translation of another version is gone.** All three languages are now written separately from the same data.
 
-## What could not be confirmed
-
-**Prices** — no official source, so none are given. Hotel, hostel, homestay and hanok rates vary by booking site and date.
-
-**Room counts follow the tourist-accommodation data.** On official sites, only Nine Tree Insadong's address was confirmed; no official room counts were found. The two datasets disagree for some hotels: Orakai Daehakro has 232 rooms in the tourist data and 254 in the lodging data, Nine Tree Insadong 301 and 299, Central Tourist Hotel 78 and 72, May Place 105 and 107. The other eight match.
-
-**Why The Magpie (YMCA) is suspended and whether it operates**, and **how Ramada Seoul Jongno became Hotel Atrium and Aventree Jongno became The Prima Jongno**, could not be confirmed from official sources — only that each was re-registered at the same address with the same number of rooms.
-
-**Whether inns licensed in the 1960s–90s actually operate** — only that the data lists them as operating.
-
-**Airport-to-Jongno travel times for 6002 and 6011**, and 6011's city-bound arrival times by stop, are not in the official timetables. **Last [[line:1]], [[line:4]] and [[line:5]] trains from Seoul Station or Gongdeok towards Jongno** were not checked either.
-
-**Block-by-block noise around Gwansu-dong and Jongno 3-ga** — no published measurements were found. Check recent reviews for mentions of noise.
-
 ## Summary
 
 - This post's 22 neighbourhoods (Insadong side, Jongno 2–4-ga, Daehak-ro) have **46 tourist-accommodation businesses with 1,853 rooms**: 12 tourist hotels and 34 hostels.

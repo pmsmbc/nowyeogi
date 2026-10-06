@@ -526,20 +526,6 @@ To see Changgyeonggung after dark instead, flip the afternoon: **Jongmyo first, 
 
 **Seventh, a broken photo credit link.** All photos are now KTO public-licence images.
 
-## What we could not confirm
-
-**Whether foreign visitors can book the Secret Garden online with an overseas phone number or card** is not stated in the official guidance we found. If online booking fails, 09:00 same-day sales on site remain.
-
-**Remaining Moonlight Tour seats in October and on the foreigner-only dates (4 and 11 October)** could not be checked.
-
-**Prices and booking for Donggwol Dongnak 2026** are "to be announced".
-
-**The autumn cut-off for crossing from Changgyeonggung to Changdeokgung** and **whether the Chundangji evening closure has lifted** were not in the official material.
-
-**The 2026 dates of Jogyesa's chrysanthemum exhibition**, **building-by-building late hours at the Museum of Craft Art**, and **the size of the performance discount coupons and whether foreigners can use them** are also unconfirmed.
-
-**Jongno-gu's volunteer-guided walking tours** for autumn 2026: we could not find an official schedule, so they are left out.
-
 ## Quick summary
 
 - **Changdeokgung and Changgyeonggung close Mondays; Gyeongbokgung and Jongmyo close Tuesdays.** Everything is closed on Tuesday 6 October.

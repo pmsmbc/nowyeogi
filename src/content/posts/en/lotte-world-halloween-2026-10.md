@@ -282,17 +282,6 @@ Inside the park, follow the queue lines and staff directions, and consider leavi
 - **Lotte World Aquarium** has "Sanrio Characters in Lotte World Aquarium: Mermaid Party" until 29 November (same report).
 - **Seokchon Lake** surrounds Magic Island; the lakeside path gives you a view of the park from outside.
 
-## What we could not confirm
-
-- **A separate "Halloween" event** on 31 October itself: none announced as of 6 October.
-- **Costume rules**: no official guidance found on masks, props or full cosplay. Ask on 1661-2000.
-- **Foreigner discounts**: none on the official English or Japanese benefits lists; third-party travel platform prices were not checked.
-- Whether the **AR stamp tour** has a prize, and whether it needs the app.
-- **Prices of the Junji Ito merchandise and food**.
-- **Length and group size** of Gwidam and Madosindang.
-- **Trick or Tarot time**: 16:30 on the official schedule, 16:00 in one report.
-- **Locker locations and prices**.
-
 ## Wrapping up
 
 The festival runs **12 September to 15 November**, and the action is **after 18:00**. Three things to remember: **Dark Fantasy Festival at 20:20**, **Strange Nightmare is 13+ and not on Magic Pass**, and **16 October is a private-hire day**.

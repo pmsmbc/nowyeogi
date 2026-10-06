@@ -384,22 +384,6 @@ The earlier version of this guide (13 September 2026) contained mistakes and wea
 
 **Eight: unverified claims are gone.** "Gangnam has Seoul's biggest rooms", "Park Hyatt is said to have the best design in the area" and "the Sinbundang Line does not accept the Climate Card" could not be confirmed from official sources this time.
 
-## What could not be confirmed
-
-**Room rates**: no official source, so none are given. Gangnam prices can swing sharply with the COEX event calendar, so compare by date.
-
-**When the Westin Seoul Parnas name took effect, and its official room count.** The official site loads only through scripts, so the room count could not be read, and the two datasets disagree (602 and 564).
-
-**Official room counts and nearest station exits for Park Hyatt Seoul, Andaz Seoul Gangnam and Novotel Ambassador Gangnam**: their official pages either did not load or did not state them, so only the dataset figures are given.
-
-**What is on the Le Méridien Seoul site (120 Bongeunsa-ro) now.**
-
-**Whether each homestay actually operates, and what it is like.** Only its "operating" status in the licensing data was checked, and how buildings with many homestays are run could not be confirmed.
-
-**Stop-by-stop arrival times for the 6703 from the airport, and last trains on Lines 9 and 2.** If you land late, plan on the N6703 or a taxi.
-
-**Places that appeared in the October update** were left out to keep numbers consistent with sibling guides. On 1 October the **Travelodge Gangnam Yeoksam Seoul Hotel** at 547 Eonju-ro (360 rooms in the lodging data, licensed 29 September) and two hostels (on Seolleung-ro 92-gil in Samseong-dong and Dosan-daero 1-gil in Sinsa-dong) were added to the tourist register.
-
 ## Summary
 
 - Gangnam-gu has **84 tourist accommodation businesses** (third in Seoul) and **8,646 tourist-hotel rooms** (second). Yeoksam-dong leads with 31, then Nonhyeon-dong 18 and Samseong-dong 14.

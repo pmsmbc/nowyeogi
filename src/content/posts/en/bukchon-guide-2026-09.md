@@ -515,28 +515,6 @@ What Jongno-gu counts as "tourism" is set out above. Beyond that, the on-site si
 
 Bukchon is where **hanok stays have multiplied fastest**: 168 in the hanok cluster alone in 2026 by the district's count (182 across all 11 Bukchon neighbourhoods in Seoul's licensing data), with a ban on new ones in Gahoe-dong under review. **Staying inside the red zone does not exempt you from fines for photos in the lane after 5pm**, and you may be asked to show your booking. Numbers and how to choose are in [Bukchon hotels](/en/posts/bukchon-hotels-2026-09/); for big hotels see [Jongno hotels](/en/posts/jongno-hotels-2026-09/) and [Where to stay in Seoul](/en/posts/seoul-where-to-stay-2026-09/).
 
-## What we couldn't confirm
-
-**Red-zone fines after October 2025**: we found no official count after the mayor's "zero in about a year".
-
-**The orange zone's current status**: gone from the district web page, still on the on-site signs and in an August 2026 report. No abolition notice found.
-
-**Appeal in the bus case**: we could not confirm whether the 17 September 2026 first-instance ruling was appealed.
-
-**The Gahoe-dong hanok stay restriction**: no final district plan notice found since the June 2026 announcement.
-
-**The list of 11 neighbourhoods**: we did not reopen the attachment to the 2020 inspection notice this time; the list follows what we checked for the first version and the 11-neighbourhood count in the [Jongno hotels](/en/posts/jongno-hotels-2026-09/) guide.
-
-**Bukchon's current number of hanok**: the Seoul Hanok Portal does not give one, and figures online use different years and boundaries, so we have left it out.
-
-**Population after 2023**: we could not find registered population after the 2013-2023 fall, and the figures above are for administrative dongs, which differ from the 11 legal neighbourhoods.
-
-**When Kyunggi High School left**: the Seoul Hanok Portal says 1976; Wikipedia says the school moved in 1975 and the library opened in January 1977.
-
-**Songhyeon timing and naming**: the park's construction start moved from the second half of 2026 (March report) to early 2027 (September report), and reports of the museum opening in 2028 sit awkwardly with a 2029 park completion. Some August 2026 coverage calls the museum the "Songhyeon-dong national cultural facility". We could not confirm the official name or dates.
-
-**Exits and distances**: Exit 3 for Gyedong-gil and Wonseo-dong and Exit 1 for Songhyeon are based on map position, not an official walking distance.
-
 ## Who it suits
 
 **A good fit if you:**

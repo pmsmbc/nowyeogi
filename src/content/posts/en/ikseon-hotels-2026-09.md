@@ -364,20 +364,6 @@ The earlier version of this post (22 September 2026) had errors and weakly sourc
 
 **Six: almost no properties were named.** The old version gave only percentages by licence type. This version lists the hotels, hostels and hanok in all seven neighbourhoods by name and address. The room counts by type (886 yeogwan rooms, 760 tourist-hotel rooms and so on) came out the same on recount.
 
-## What could not be confirmed
-
-**Rates are not given**, because there is no official source. Hotel, hostel, inn and hanok prices vary by booking site and by date.
-
-**Room counts come from the licensing data.** Only Orakai Insadong Suites (213) was confirmed on an official site; the official pages for ibis Ambassador Insadong, Moxy, Best Western, Jongno Crown and N285 either did not load or did not state a room count. Jongno Crown (80 tourist / 60 lodging) and The May Hotel (25 / 42) differ between the two datasets.
-
-**Bathrooms, bedding and breakfast at each hanok stay** could not be confirmed, beyond the partial descriptions the Korea Tourism Organization publishes for Wolun, Stay Moil and Seoul Ari. Check the booking page directly.
-
-**Whether the yeogwan licensed in the 1960s–80s still operate as listed** could not be confirmed; the data only shows them as "operating".
-
-**Travel time from the airport to Jongno by bus**, the 6011's city-bound arrival times by stop, and **the last [[line:1]] and [[line:5]] trains from Seoul Station or Gongdeok to Jongno 3-ga** were not in the official notices.
-
-**Night-time noise in the Nagwon-dong and Donui-dong lanes** has no published measurement. Bars and restaurants around Jongno 3-ga stay open late, so look for noise comments in recent reviews.
-
 ## Summary
 
 - Across Ikseon, Nagwon, Donui, Myo, Gwonnong, Waryong and Bongik-dong: **27 tourist hotels and hostels (1,148 rooms)**, **74 lodging businesses (2,664 rooms)**, **14 hanok stays** and 5 homestays.

@@ -337,18 +337,6 @@ Corrections to the version published on 29 September 2026:
 - It said the **Korea Muslim Federation website was unreachable**. It loaded this time; the certified-list check is in the Itaewon guide.
 - The cover was a Haebangchon street photo. It is now KTO's photo of Maison Hannam, which belongs in a Hannam guide.
 
-## What we could not confirm
-
-**Menu prices and exact hours at the MICHELIN restaurants.** Check with each restaurant.
-
-**Escondido's Korean MICHELIN page**, which would not load; the English page was used.
-
-**How current KTO's data is.** Records were last edited at different times in 2025–2026, and the Table for Four description appears to describe another branch. Check the restaurant's own channels before going.
-
-**Hannam-dong bakeries and dessert shops.** None confirmed from official sources.
-
-**Seoul Future Heritage, Seoul Oraegage or Baeknyeon Gage designations for Hannam-dong restaurants.** Not cross-checked.
-
 ## Wrapping up
 
 - **MICHELIN Guide Seoul 2026 in Hannam-dong, 11 restaurants**: One Stars Soseoul Hannam and Escondido (new), Bib Gourmand Youhan, and Selected Kyoyang Siksa, Bawi, Borgo Hannam, A L'AISE, Jue, Osteria Orzo, Table for Four and Manao.

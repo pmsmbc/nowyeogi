@@ -354,24 +354,6 @@ Exit numbers come from KTO (Okdongsik and Udon Kaden Exit 2, Oreno Ramen and Kyo
 
 **There is no tipping.** The menu price is what you pay.
 
-## What we could not confirm
-
-**Hours for some Bib Gourmand spots** differ between MICHELIN and KTO (Okdongsik, Kyodaiya). Both are given above, but which is current could not be confirmed. **Mipildam's hours** do not appear in any official source.
-
-**Menu prices** are given only for Okdongsik, Hapjeongok and Oreno Ramen, from DiningCode, a Korean restaurant listing site. No official prices were found for the other five Bib Gourmand spots, Joseon Hwaro Gui or 401 Jeongyuk Sikdang.
-
-**Oreno Ramen's address** differs between MICHELIN (16 Dongmak-ro 8-gil) and KTO (14 Dongmak-ro 6-gil).
-
-**No MICHELIN-starred restaurant** was found in this area. YUN, a one-star that some search results place on Hongik-ro, is on Seolleung-ro in Gangnam-gu according to its official MICHELIN page. The full Selected list (restaurants in the guide without a star or Bib) was not checked.
-
-**How many fried chicken places, street tents or izakaya** are concentrated here could not be counted, since license data by neighborhood and business type was not compiled.
-
-**Night bus routes** could not be confirmed from a current official source.
-
-**Whether drinking is banned in parks** such as Hongik Children's Park (the "Hongdae playground") could not be confirmed from Mapo-gu records. An earlier version of this post said drinking in parks was fine; that line has been removed.
-
-**Certified vegetarian or halal restaurants** could not be confirmed from official certification records. For Four Bread is described as vegan only because KTO's text says so.
-
 ## Wrapping up
 
 - **Eight Bib Gourmand spots**: Okdongsik (pork gomtang), Hapjeongok (beef bone soup), Oreno Ramen (tori paitan), Kyodaiya (udon), Mipildam (dumpling soup), Damtaek (shio ramen), Seokyonanmyunbang (noodles), Jin Jin (Chinese). Most are **lunch-focused**.

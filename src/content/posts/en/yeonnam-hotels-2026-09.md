@@ -214,16 +214,6 @@ After Hongik University, route 6002 also stops at Seogyo-dong (RYSE Hotel) and H
 
 For food, see [Yeonnam-dong and Mangwon restaurants, cafés and Mangwon Market](/en/posts/yeonnam-food-2026-09/).
 
-## What I could not verify
-
-**Prices.** There is no official source, so I have left them out. Homestay and hostel rates vary by site and by date.
-
-**Whether Chris' House and the 1970 Mangwon-dong inn are actually operating.** I only confirmed that the licensing data lists them as open.
-
-**Recent noise-complaint figures or enforcement results for Yeonnam-dong.** I could not find published data; the enforcement example here is from 2019.
-
-**Airport bus drop-off times in the city-bound direction.** Airport Limousine does not publish them stop by stop.
-
 ## Summary
 
 - **Yeonnam-dong has no hotels or inns**, and one **six-room hostel** registered in July 2026.

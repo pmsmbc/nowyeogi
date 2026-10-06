@@ -241,20 +241,6 @@ The **late-night [[bus:airport:N6002]]** stops only at Hongik Univ. (14016) in t
 
 For things to do, see [Things to do in Hongdae](/en/posts/hongdae-things-to-do-2026-09/); for food, [What to eat in Hongdae](/en/posts/hongdae-food-2026-09/).
 
-## What I could not confirm
-
-**Room rates are not listed** because there is no official source; they vary by booking site and date.
-
-**What the former Marigold Hotel building at 112 Yanghwa-ro is used for now.** I could only confirm that both licensing datasets record it as closed.
-
-**Room counts that differ between datasets.** Pillowsopher is listed with 17 rooms as tourist accommodation and 8 as lodging; Bobo Hotel with 55 and 50. This post uses the tourist accommodation figures.
-
-**Whether the oldest inns, such as Donggyeong Motel (1969) and Pogeun Hapjeong (1972), and the one hanok-stay registration actually take guests.** The data lists them as operating.
-
-**Block-level noise complaint statistics and Mapo-gu's 2026 Halloween plan** were not publicly available.
-
-**City-bound N6002 departure times** from the airport were not on the stop timetables, so they are left out.
-
 ## Summary
 
 - Seogyo, Donggyo, Hapjeong and Sangsu-dong have **30 tourist accommodation businesses with 2,199 rooms**, 12 of them tourist hotels.

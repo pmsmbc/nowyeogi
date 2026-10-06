@@ -247,20 +247,6 @@ For a route that links the two neighbourhoods and what to see on the way, see [t
 
 **Both are residential neighbourhoods.** Keep your voice down in the back lanes at night.
 
-## What we could not confirm
-
-**The number of stalls in Mangwon Market** ranges from "about 50" upward depending on the source, so no figure is given.
-
-**The year the arcade was modernised** is given as both 2006 and 2008.
-
-**Sarukame's hours** appear on the MICHELIN page as 11:30-15:00 only, while the same page mentions a dinner-limited dish. **Nishimuramen's hours** were not found in any official source.
-
-**Seoul Oraegage (long-running shop) or Baeknyeon Gage (Ministry of SMEs "100-year shop")** restaurants in Yeonnam or Mangwon could not be confirmed.
-
-**Vegetarian and halal** options are not included because we found no official certification to cite. Our Hongdae guide has general tips.
-
-**Miso Guksu's hours** are published as "09:00-32:00", so they are not repeated here.
-
 ## Summary
 
 - **Yeonnam's Chinese restaurants trace back to the 1969 move of the Chinese school** to Yeonhui-dong and the 1970 demolition of the old Chinatown.

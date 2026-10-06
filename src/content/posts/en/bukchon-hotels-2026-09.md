@@ -435,24 +435,6 @@ The previous version of this post (28 September 2026) contained errors and weakl
 
 **Six: the median area was corrected.** The old "57 m²" recalculates from the same data as **about 56 m²** (56.4).
 
-## What could not be confirmed
-
-**Prices** — there is no official source, so none are given. Hanok and homestay prices vary by site and date. Since the August 2026 amendment, a hanok stay's rate card must also be posted on its booking page, so check there.
-
-**Which of the 182 take overnight guests and which offer only cultural experiences** — the register has no field for it.
-
-**Whether each hanok stay is inside the red-zone boundary** — Jongno-gu says only "around Bukchon-ro 11-gil" and refers to the Smart Seoul Map. I also found **no specific rule on check-in times for red-zone guesthouses**; the official text says only that guests are admitted with a booking confirmation.
-
-**The outcome of the Gahoe-dong Zone 1 restriction** — I found no official record of the June consultation results, the committee review date or a decision notice (as of 6 October).
-
-**Room counts and real size** — only 54 of the 182 list rooms, and I couldn't confirm whether the recorded area is the whole house or part of it.
-
-**Whether stays sharing a name (by Butlery, Nostalgia, Rakkojae and others) share an operator** — the licensing data can't show this.
-
-**Bathroom, bedding and breakfast arrangements** — confirmed only for the few stays KTO describes.
-
-**Journey time from the airport to Anguk on 6011**, inbound arrival times at each stop, and **last subway times from Seoul Station or Gongdeok to Anguk** — not in the official information I found.
-
 ## Summary
 
 - Bukchon's 11 neighbourhoods have **no tourist accommodation or lodging businesses**; the two old inn records are closed.

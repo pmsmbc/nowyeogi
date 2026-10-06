@@ -134,7 +134,7 @@ Four months later, The Fact (29 September 2026) reported:
 | Zone 5 | Implementation plan approved April 2026; members' applications from October. 5 below to 22 above, 44 buildings, 2,401 homes plus 146 officetel units |
 | Zone 1 | Selected in February 2025 as a candidate for Seoul's fast-track housing redevelopment |
 
-The Fact puts the total for all five zones at **about 13,000 homes**. Its unit counts and floor numbers differ slightly from the May reports; see "What we couldn't confirm" below.
+The Fact puts the total for all five zones at **about 13,000 homes**. Its unit counts and floor numbers differ slightly from the May reports.
 
 What this means for a visitor: **south of Itaewon-ro, on the slopes of Hannam-dong and Bogwang-dong, you will see hoardings and construction trucks for years to come.** These are not areas to seek out for old-alley atmosphere, and many blocks already stand empty.
 
@@ -221,18 +221,6 @@ As Wikipedia puts it, Hannam-dong is the way across to Gangnam via Hannam-daero 
 ## Where to stay
 
 The expanded tourist zone now ties Itaewon and Hangangjin stations together, but **the character of the hotels still changes station by station**. Around Itaewon Station it is busy late into the night; the Hangangjin side is quieter and generally pricier. The Hangangjin and Hannam side is compared in [Hannam-dong hotels](/en/posts/hannam-hotels-2026-09/), and the Itaewon Station and Haebangchon side in [Itaewon and Haebangchon hotels](/en/posts/itaewon-hotels-2026-09/). If a property is close to a redevelopment zone, check the map for possible construction noise.
-
-## What we couldn't confirm
-
-**The latest unit counts and heights by zone**: the May 2026 reports (Zone 3 5,988 homes up to 22 floors, Zone 4 2,331, Zone 5 2,592) and The Fact in September (Zone 3 about 6,000, Zone 4 2,360 and 20 floors, Zone 5 2,401 plus 146 officetels) disagree. We did not check the latest approval notices themselves.
-
-**Zone 3's actual construction start**: we only confirmed reports that it is "due to start this year".
-
-**The exact new tourist zone boundary**: the two articles describe the original stretch differently, and we did not see the notice maps.
-
-**Yongsan Children's Garden's new name and the housing debate**: we could not confirm any decision after the planned renaming in the first half of 2026 or the vice minister's August remarks.
-
-**Current population of the Hannam-dong unit**: the figure above is from Q2 2018, as listed on Korean Wikipedia.
 
 ## Who this suits
 

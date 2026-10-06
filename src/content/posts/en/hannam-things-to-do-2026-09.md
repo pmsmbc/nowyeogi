@@ -305,22 +305,6 @@ Officers' Quarters Complex 5 (221 Seobinggo-ro) works better as **its own half-d
 
 **Three: KTO photo credits on the English and Japanese pages were written in Korean.** They now use each language's credit line.
 
-## What we could not confirm
-
-**Last entry at Complex 5** differs: 17:30 on the Yongsan Park website, 17:00 in the KTO listing.
-
-**The Children's Garden address** is 29 Hangang-daero 38-gil on the Yongsan Park site and number 21 in a Seoul city media article; we follow the official site.
-
-**A new name for the Children's Garden** had not been announced as of October.
-
-**The 6 October closure of the Children's Garden and Complex 5** is our reading of their Monday-holiday rule.
-
-**Discounted prices for the Koo Jeong A show** are given inconsistently in reports, so only the adult price is listed. Check Leeum's booking site for the other paid show.
-
-**Whether overseas visitors can enter the Music Library** with a foreign-issued card or the DIVE app is unclear.
-
-**Opening hours and closing days at the Korean Forest Garden** could not be confirmed.
-
 ## Quick summary
 
 - **Leeum**: book 14 days ahead, up to four people at a time. **Koo Jeong A: OUSSSMOS** runs 5 Sep-27 Dec; the traditional art galleries and the Orozco garden are free. Five minutes from Hangangjin exit 1.

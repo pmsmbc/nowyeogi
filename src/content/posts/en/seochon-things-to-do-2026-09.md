@@ -513,24 +513,6 @@ If Gyeongbokgung is a priority, flip it: **palace at 9 am → Tongin Market lunc
 
 **Ninth, our cover photo was borrowed from the Seochon guide.** This page now has its own images.
 
-## What we could not confirm
-
-**That Daeo Bookstore is "Seoul's oldest bookshop".** We found no official basis: it is not in Seoul Future Heritage or the heritage registers, and we found no official current hours, so it is not in this guide.
-
-**Whether the Tongin lunchbox café closes on Mondays or Tuesdays**: the 2025 and 2026 sources differ.
-
-**Chilgung's capacity per slot**, why the January report (seven days ahead) differs from today's booking page (9 to 3 days ahead), and **whether foreign phone numbers work for booking**.
-
-**A reopening notice for Yeongchumun after the July works**, and **what the 4 October "safety inspection day" notice says**.
-
-**Which signs, if any, now restrict photography towards Cheong Wa Dae near the Inwangsan summit.**
-
-**Whether the Sajikdan Anhyangcheong restoration is finished.**
-
-**October exhibitions at Daelim Museum and Boan1942**, **Yi Sang's House opening hours**, **Hong Geon-ik House's official hours and fee on Seoul's hanok portal**, **hours at the Forest Rest Area**, **Seoul Design Week venues in Seochon**, and **whether Jongno Cultural Foundation venues open on Monday 5 October**.
-
-**Walking times between points** (for example to Chosochaekbang) are not in any official source, so the timed route leaves generous gaps.
-
 ## Quick summary
 
 - **Always open**: Suseongdong Valley, Inwangsan (24 hours), Mumudae Viewpoint, Sajikdan. **Chosochaekbang daily 08:00–22:00.**

@@ -534,28 +534,6 @@ The earlier version, published on 12 September 2026 and partly corrected on 1 Oc
 - It **missed** the Bib Gourmand Gaeseong Mandu Koong, nine Seoul Future Heritage restaurants and tea rooms, Euljimyeonok's 2024 move to Nagwon-dong, the ₩3,000 soup and the good-price registry. These are now included.
 - The two Gwangjang Market photos were removed, and every photo now says it is not from the named restaurant or gives the date it was taken.
 
-## What we could not confirm
-
-**When Balwoo Gongyang left the MICHELIN guide.** Its one star in the 2017–2019 editions is confirmed by Buddhist press reports.
-
-**Whether Gaeseong Mandu Koong serves weekday dinner.** MICHELIN says weekdays close at 15:00; KTO says 21:30.
-
-**Nagwon Tteokjip's exact current address and founding year.** The Seoul Future Heritage page header gives 444-1 Samil-daero, its text mentions a shop at 10 Nagwon-dong, and DiningCode lists "Wonjo Nagwon Tteokjip" at 438 Samil-daero. The founding year is c. 1912 per Seoul Future Heritage and 1919 per the Kyunghyang Shinmun.
-
-**Yetnaljip Nagwon Agujjim's founding year (1972 or 1977) and Centennial Store status.** DiningCode shows a Centennial Store tag, but we did not find it in the ministry's list.
-
-**The year Seoncheonjip became a Centennial Store** (2018 per KTO, 2019 per Seoul Future Heritage).
-
-**Whether the registry's "Eulmildae (Somunnan Gukbap)" and the "Somunnanjip" in press reports are the same shop.**
-
-**The Jongno 3-ga bossam alley.** It appears as a Future Heritage food street in a 2021 Seoul city table but not in the current Jongno-gu list, and there is no official information on individual shops.
-
-**Whether Persian Palace is halal-certified.** We only have KTO's wording.
-
-**Prices at Gyerim Sikdang, Chanyangjip's full menu and Insadong Chatjip**, and **the location of Jongno Eunhaengnamujip** (a 2024 Oraegage) could not be found in official sources.
-
-**DiningCode prices** are posted by restaurants or users, and their dates are not always clear.
-
 ## Wrapping up
 
 - **Temple food**: **Balwoo Gongyang**, run by the Jogye Order (₩36,000–120,000, closed Sunday, one MICHELIN star 2017–2019); **Sanchon**, popular with foreign visitors; vegan Korean at **Osegyehyang**.

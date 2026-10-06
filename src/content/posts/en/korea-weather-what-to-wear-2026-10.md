@@ -194,20 +194,6 @@ Festival details are from our [October 2026 Korea festival guide](/en/posts/kore
 
 ![Bugaksan's slopes in orange and brown autumn colour under a grey sky, with a pavilion on the ridge](/images/korea-weather-what-to-wear-2026-10/04.webp)
 
-## What we couldn't confirm
-
-**Which Gangwon counties were under the cold wave advisory.** We confirmed the issue (5 Oct, 10:00) and lift (6 Oct, 09:00) times in the KMA warnings list, but couldn't open the bulletin text listing the areas. KMA commentary only says "parts of Gangwon Province".
-
-**A wind-chill figure for Seoul today.** KMA material only says strong winds made it feel colder.
-
-**Whether Seoul or Seoraksan has officially recorded its first frost or ice this autumn.** All frost and ice references here are forecasts.
-
-**Seoul's normal for 6 October specifically.** We've used the Seoul-area range (8.0–15.0°C low) and the October monthly normals instead.
-
-**Today's final high.** We used observations up to 13:40 (21.3°C); the KMA's 17:00 bulletin may differ.
-
-**Specific shops, stock and prices** for warm clothing in Seoul were not checked.
-
 ## Wrapping up
 
 This is a **cold morning, warm afternoon** snap, and it won't last long.

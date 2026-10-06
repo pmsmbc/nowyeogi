@@ -445,28 +445,6 @@ Seongsu is **small enough to walk**. We suggest going from Seoul Forest in the w
 
 There are very few large hotels in Seongsu itself. By the count in [Seongsu hotels](/en/posts/seongsu-hotels-2026-09/), Seongsu-dong 1-ga and 2-ga have **one registered tourist hotel (Hotel Poco Seongsu, 80 rooms)**; the rest are hostels and homestay-type rentals. Across all of Seongdong-gu there are seven tourist hotels with 220 rooms and no five-star (Aju Business Daily, September 2026). Some hotels with "Seongsu" in their names are actually across the stream in Gwangjin-gu, so check the address. The Sampyo development includes 130 hotel rooms, but it is not due until 2032 (Consumer Times). Options by station, prices and the risks of unregistered rentals are in [Seongsu hotels](/en/posts/seongsu-hotels-2026-09/); comparisons with other parts of Seoul are in [Where to stay in Seoul](/en/posts/seoul-where-to-stay-2026-09/).
 
-## What we couldn't confirm
-
-**The year of the semi-industrial zoning**: we followed Yonhap's (2016) "1964". Other reports say only "the (early) 1960s", and we could not check Seoul's original planning records.
-
-**Where the name "Seongsu" comes from**: we could not find an official record deciding between the two theories on Korean Wikipedia (Seongdeok Pavilion plus the Ttukdo waterworks, or the clean river water).
-
-**The ordinance's exact promulgation date and text**: we confirmed the ordinance's title on the national law database but could not open its text. "September 2015" comes from a 2016 Aju Business Daily report.
-
-**When Exit 3-1 will open**: Kyunghyang says November 2026, eNews Today December. We found no newer Seoul Metro announcement as of 6 October.
-
-**The budget of the 2024 exit plan**: News1 reported ₩3.5 billion, Kyunghyang about ₩7 billion.
-
-**How many pedestrian-street sessions will actually run in 2026**: we have only January's plan (78) and March's operating announcement (dates and hours).
-
-**Visitor numbers after 2024 and pop-up numbers for 2026**: the district's latest published figures are 2024 visitors and 883 pop-ups in 2025.
-
-**The Seoul AI Foundation's daily foreign foot-traffic figure for Seongsu**: reports give only nationality mix and satisfaction.
-
-**The outcome of the Zone 3 redevelopment tender**: we found nothing after the 28 August deadline.
-
-**The Seongsu Tourist Information Centre's 2026 hours**: its location (inside Seongsu Station) and interpreter service are covered in [Seongsu things to do](/en/posts/seongsu-things-to-do-2026-09/), but we found no 2026 schedule for the roving service.
-
 ## Who it suits
 
 **It suits you if:**

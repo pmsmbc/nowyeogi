@@ -169,14 +169,6 @@ Both buses leave from the stop named Hansung University Station Exit 6, Samseong
 
 **Seongbuk-dong has no official request for quiet.** Ikseon-dong has its four promises; Seongbuk-dong has nothing of the sort. Nearby Jangsu Village does. **The absence of a rule does not mean it is fine to peer in.**
 
-## What could not be verified
-
-**In some cases two official sources gave different prices.** Where the Ministry of the Interior and Safety's published rate conflicted with another body's figure, **only the ministry's rate** has been carried over here.
-
-**Seongbuk-gu does not publish lists of model restaurants, safe restaurants or local speciality restaurants.** That is unlike other districts, and it is why this post rests on the certified shop list and the good price scheme alone.
-
-**The hours and prices at Gilsang Dawon** and **whether Suyeon Sanbang is currently trading** could not be confirmed.
-
 ## Wrapping up
 
 - **The official local dish of Seongbuk-dong is noodles.** There is no official basis for naengmyeon.

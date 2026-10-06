@@ -327,20 +327,6 @@ For sights and routes, see [things to do around Gwanghwamun, City Hall and Jongg
 
 **Smoking is banned inside all restaurants, and there is no tipping.**
 
-## What we could not confirm
-
-**Menu prices for most restaurants** come from **DiningCode**, a Korean restaurant listing site, not from the restaurants themselves. Only Cheongjinok's prices were checked against an official menu. Prices may have changed.
-
-**Yurimmyeon's closing day** differs between MICHELIN (Sunday) and DiningCode (Tuesday).
-
-**Gabongru**, a Chinese restaurant near Gwanghwamun on the Oraegage list, appears to have moved recently, and sources give different addresses, so it is left out.
-
-**Baeknyeon Gage** (the SME ministry's "100-year shop" designation) could not be checked against an official list.
-
-**Individual restaurants still left in the old Pimatgol lanes** could not be confirmed from official sources. For the Jongno 3-ga lanes and street stalls, see [what to eat in Jongno](/en/posts/jongno-food-2026-09/) and [the Jongno pocha street](/en/posts/jongno-pocha-2026-09/).
-
-**Hadongkwan** is now in Myeongdong and is covered in [what to eat in Myeongdong](/en/posts/myeongdong-food-2026-09/). Woo Lae Oak and Munhwaok are in [eating in Euljiro](/en/posts/euljiro-food-2026-09/).
-
 ## Summary
 
 - **Hangover soup in Cheongjin-dong**: Cheongjinok (1937, opens at 06:00) and the good price Heungjinok.

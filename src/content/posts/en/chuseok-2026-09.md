@@ -138,10 +138,6 @@ Myeongdong needs care: **Lotte main closes on the 24th and 25th, Shinsegae main 
 
 **Airport exchange counters do open**: at Incheon Terminals 1 and 2, Woori, Hana and KB Kookmin run 06:00–22:00, some counters 24 hours; Gimpo has Shinhan 07:00–21:00, with Busan Bank at Gimhae and counters at Jeju too. **One warning** — the counters in Incheon's satellite concourse building are **not 24 hours**: Hana 12:00–19:00, Woori 08:00–16:30. Ordinary branches inside the airport close on holidays too. ATMs and internet banking run normally, with no maintenance scheduled.
 
-### What could not be verified
-
-**Holiday hours for Olive Young, convenience stores, Gwangjang Market, Namdaemun Market and the duty-free shops could not be confirmed** — the official sites either blocked access or posted nothing. In particular, **do not assume convenience stores are all 24/7**; round-the-clock opening is set branch by branch.
-
 ## Transport
 
 ### The late-night extension covers two nights, not four

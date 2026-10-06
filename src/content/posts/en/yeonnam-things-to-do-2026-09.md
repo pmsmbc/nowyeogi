@@ -293,20 +293,6 @@ Sit on the riverside lawns, and take your rubbish home. The battleship park stay
 **If you are here 17-23 October**
 Give the afternoon to Haneul Park. It is a 40-minute walk or the electric shuttle, and **the gates close at 21:00**.
 
-## What I could not confirm
-
-**The length of the Yeonnam section** differs between Seoul Parks (about 1.2 km) and Mapo-gu (1.3 km).
-
-**Opening hours for the Gyeongui Line Forest Park** are not stated in the official sources I found.
-
-**Mangwonjeong's opening hours** are not in any official source I found.
-
-**Seoul Battleship Park's winter weekday hours** (November-February) differ between the Hangang headquarters page (10:00-18:00) and a city media article (10:00-17:00). October is still summer hours, so this does not affect an autumn visit.
-
-**The Hangang Bus timetable at Mangwon** changes often, so I have not listed it.
-
-**Whether and when the Mapo Village Tours run in 2026** should be checked on the booking page.
-
 ## In short
 
 - **The Yeonnam section is about 1.2 km**, from the Yeonnam intersection to Hongik Univ. Station. Licensed busking runs **11-13, 14-16 and 17-19**.

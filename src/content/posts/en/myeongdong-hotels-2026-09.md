@@ -345,20 +345,6 @@ The first version of this page (10 September 2026) had errors.
 
 **Fourth, the price bands and seasonal mark-ups were not official.** Figures such as "₩60,000–110,000" and "20–40% more in peak season" came from booking-site averages and have been removed.
 
-## What could not be confirmed
-
-**Room rates** are not given because there is no official source; hotel, hostel and homestay prices vary by site and date.
-
-**Some room counts differ between the two datasets**: Sejong Hotel 333 (tourist) vs 305 (general: 302 Western, 3 Korean-style), Royal Hotel Seoul 310 vs 304, Pacific 181 vs 139, Seoul Prince 100 vs 87, Seoul Rex 108 vs 93. This page uses the tourist lodging figures. Only voco Seoul Myeongdong (576) was also checked against an official hotel source.
-
-**How the two general-hotel licences at 115 Toegye-ro** (491 and 116 rooms) actually operate, **why Metro Hotel is temporarily closed**, and **what the former Millennium Hilton site is used for now** could not be confirmed.
-
-**Whether the old inns in Hoehyeon-dong, licensed between the 1960s and 2000s, still trade** could not be checked beyond their "open" status in the data.
-
-**Bus journey times from Myeongdong to the airport**, **which side of the street each Myeongdong Station exit leads to**, and **the last [[line:4]] trains from Seoul Station to Hoehyeon and Myeongdong** were not found in official sources.
-
-**Block-by-block noise complaints or measurements** were not available. Inside the shopping streets, shops and stalls can stay open late, so search recent reviews for noise.
-
 ## Summary
 
 - Myeongdong's 14 dong have **69 tourist lodgings with 6,399 rooms**, 29 hotels and 40 hostels: about 11% of Seoul's tourist lodging rooms.

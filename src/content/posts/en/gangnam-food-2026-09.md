@@ -632,24 +632,6 @@ The version published on 13 September 2026 relied on figures with no source. Cor
 - Prices for food courts under Gangnam Station, convenience-store lunch boxes, kimbap chains and the Express Bus Terminal food court, plus "cards work everywhere", "service charges at high-end places" and "two-portion minimums", were all unsourced and removed. The Express Bus Terminal is in Seocho-gu anyway.
 - The second photo was Singapore-style kaya toast, unrelated to Gangnam. It has been replaced, and every food photo is now labelled as generic.
 
-## What we could not confirm
-
-**Tasting-menu prices and exact hours at the starred restaurants.** MICHELIN shows only ₩ bands and some pages show a single time slot. Check with the restaurant.
-
-**Gangnam-gu restaurants on the national "Baeknyeon Gage" (100-year shop) list.** Not cross-checked against the official list. DiningCode tags Hanilkwan with it, but that could not be confirmed officially, so it is not claimed here.
-
-**The year Hanilkwan moved to Sinsa-dong.** The Future Heritage page gives both 2007 and 2008.
-
-**When Motungijip opened.** The Oraegage site gives only its 2021 selection.
-
-**Whether the restaurants in KTO's 2021 booklet still operate and hold valid halal certification.** Only Kervan's presence on the COEX Mall site was confirmed.
-
-**Hakusi's à la carte hours.** MICHELIN's announcement (after 20:00) and restaurant page (after 21:00) differ.
-
-**DiningCode prices** are posted by shops or users and their dates are unclear.
-
-**Good-price listings without published hours** (Haha, Sumijeong and others) are shown without times.
-
 ## Wrapping up
 
 - **MICHELIN Guide Seoul 2026**: 70 entries in Gangnam-gu — three-star Mingles; seven two-stars (Kwonsooksoo, Mitou, Jungsik, Evett, Soigné, Alla Prima, Restaurant Allen); twenty one-stars, six of them new; four Bib Gourmands (Mandujip, Myeon Seoul, Gebang Sikdang, Gomtang Lab); and 38 Selected.

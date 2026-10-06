@@ -194,18 +194,6 @@ Photography inside the palaces is governed by the Regulations on Visiting Palace
 
 **Commercial shoots are a separate matter.** Advertising, drama and variety filming all require permission.
 
-## What could not be verified
-
-Stated plainly.
-
-**Nothing about rental shops could be confirmed from an official source.** No page of the Royal Palaces and Tombs Center or the Korea Heritage Service carries any information on rental shops, rental prices or rental durations. Tourism agency sites were either blocked or had search functions that did not work.
-
-**That is why no rental prices appear in this post.** Check the price at the shop itself.
-
-**Whether the hanbok exemption extends to other paid programmes could not be confirmed either.** The Changdeokgung Moonlight Tour and the paid Royal Culture Festival programmes are different in kind, and the only notice that names hanbok wearers as free admission was the Gyeongbokgung night viewing one.
-
-The guideline's revision date and effective date are not shown on the page either.
-
 ## In short
 
 - **Two requirements only — a jeogori with a wrapping collar, plus a bottom half.** Goreum are not needed.

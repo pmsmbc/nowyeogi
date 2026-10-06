@@ -261,18 +261,6 @@ The numbers themselves have not changed; the same updates of the data were downl
 
 **Four: the Grand Hyatt's room count discrepancy was not mentioned.** The licensing data says 620; the Korea Tourism Organization says 615. Both are now given.
 
-## What could not be confirmed
-
-**Room rates** are not given, as there is no official source. Prices vary by booking site and date.
-
-**The Grand Hyatt's current room count** could not be checked on Hyatt's official site, which could not be reached. Only the licensing data (620) and the Korea Tourism Organization (615) were confirmed.
-
-**Whether Hannam 67 Hotel and the two Bogwang-dong inns actually operate** could not be checked beyond their "open" status in the data. In particular, **whether any rooms south of Usadan-ro fall inside the Hannam 3 demolition area** could not be confirmed.
-
-**Other airport buses that used to pass Hannam-dong and Hangangjin Station, such as route 6030,** were left out because their current status could not be confirmed with the operators.
-
-**Times for route 6010 coming from the airport** and **the last Line 6 train from Gongdeok towards Hangangjin** could not be found in official timetables.
-
 ## Summary
 
 - Hannam-dong has **two tourist hotels with 748 rooms: Grand Hyatt Seoul (620) and Imperial Palace Boutique Hotel (128)**.

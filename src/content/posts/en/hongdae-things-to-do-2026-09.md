@@ -400,18 +400,6 @@ Busking until 22:00, then move to a live venue such as Rolling Hall. If it is th
 **On 16-18 October**
 Drop by the Wow Book street fair on Red Road R1 during the day.
 
-## What we could not confirm
-
-**The details of the new busking system**, such as how many busking spots the Walking Street has and how many slots a day, were not on Mapo's page, which only gives the 1 hour 50 minute slot and the 10pm limit.
-
-**Weekend car-free hours and sections for 2026**: we only found a late-2023 report about plans to expand them.
-
-**The Hongdae Free Market** (Hongik Children's Park, Saturdays) is still on Mapo's attraction list, but we could not confirm it runs every week in 2026.
-
-**When Rolling Hall moved to its current address**: sources disagree (2004 or 2005).
-
-We also could not confirm **the October Live Club Day**, **the current R5 Road Gallery exhibition**, **the 2026 Halloween safety plan**, **the current number of bookshops and holiday opening at the Book Street**, or **daily hours for the Wow Book Festival**.
-
 ## Summary
 
 - The **Red Road** runs about 2km from Hongik Univ. Station to the Danginri power plant in seven sections; **e-scooters banned on R1-R6 from 12:00 to 23:00**.

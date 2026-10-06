@@ -475,24 +475,6 @@ The area **changes character by time of day**. Using only confirmed times:
 
 Ikseon-dong and Nagwon-dong have several large hotels with "Insadong" in their names, while the preservation zone mixes in hanok stays and urban homestays; the district plan bans ordinary lodging in the preservation and general zones and recommends only hanok stays and foreigner homestays. Licensed properties counted from city data, and the hanok-stay registration rules, are in [where to stay in Ikseon-dong](/en/posts/ikseon-hotels-2026-09/); the main Jongno streets are in [where to stay in Jongno](/en/posts/jongno-hotels-2026-09/), and a city-wide comparison is in [where to stay in Seoul](/en/posts/seoul-where-to-stay-2026-09/).
 
-## What we couldn't confirm
-
-**How many houses Jeong Se-gwon built in Ikseon-dong, and when they were finished.** Sources say "dozens in 1935", "118 from before the 1930s" and "119 from the 1920s-1950s".
-
-**The "April 2004" designation.** Dong-A Ilbo says April 2004; the notice is dated 6 May 2004. The committee decision date itself was not found.
-
-**The exact date the planning committee approved lifting the zone in 2018.** Asia Economy reported on 19 April that the 5th committee had approved it; the meeting date was not confirmed from city records.
-
-**What Jongno-gu notice 2025-172 (13 November 2025) changed.** The attachment could not be opened.
-
-**What the 2018 Jeong Se-gwon commemoration project left in Ikseon-dong.**
-
-**The original Time Out article.** Rankings and quotes rely on Newsis (citing CNN), Yonhap, Segye Ilbo and Le Monde diplomatique; the Guardian piece is known here only through Le Monde diplomatique's summary.
-
-**Current shop and vacancy numbers inside the preservation zone.** "About 330 shops" (2018, Hanok Portal) and "804 food outlets in the Ikseon-dong commercial area" (2026, wider boundary) cannot be joined into one trend.
-
-**That Ikseon-dong has no Bukchon-style time limit** only means no such notice was found; one could be introduced.
-
 ## Who it suits
 
 **It suits you if:**

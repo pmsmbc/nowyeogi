@@ -507,22 +507,6 @@ The version published on 14 September 2026 contained a lot that had no source. C
 - The craft-beer photo showed a bar in Britain. Photos are now generic food shots, labelled as such, and KTO's own photos of Itaewon Islamic Street.
 - The earlier [Hannam-dong guide](/en/posts/hannam-food-2026-09/) said the Korea Muslim Federation website was unreachable. It loaded this time, which is how the mosque history and certified list were checked.
 
-## What we could not confirm
-
-**Which Itaewon restaurants hold halal certification now.** The five restaurant entries on the KMF list have names only, no locations, and none match the 2021 list.
-
-**Whether all 22 restaurants from 2021 are still open.** Only Petra has a recent KTO update (December 2025).
-
-**Usmania's address.** On the booklet page it overlaps with the neighbouring entry, so it is left blank.
-
-**Egg & Flour's floor.** MICHELIN's Korean and English pages disagree.
-
-**Menu prices and exact hours at the MICHELIN restaurants.** Check with each restaurant.
-
-**Seoul Future Heritage, Seoul Oraegage (long-running shops) or Baeknyeon Gage (century shops) designations for restaurants here.** The earlier version found that Yongsan's Oraegage shops in this area are not restaurants; the other two lists were not cross-checked.
-
-**Myeonmaru's neighbourhood.** Its published address has no dong; by street number it is grouped with Haebangchon.
-
 ## Wrapping up
 
 - **MICHELIN Guide Seoul 2026**: seven entries in Itaewon, Haebangchon and Gyeongnidan-gil: Mosu (Two Stars, new), Soul (One Star), ALT.a (Bib Gourmand), and Selected Egg & Flour, Chez Simon, Mr. Ahn's and Chez Nous.

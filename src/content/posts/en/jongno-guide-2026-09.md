@@ -523,24 +523,6 @@ Jongno changes hands through the day. Match the plan to the weekday:
 
 Around the Jong-ro corridor you will find **more hostels and homestays than big tourist hotels**. [Where to stay in Jongno](/en/posts/jongno-hotels-2026-09/) counts licensed lodgings in Insadong, Jongno 2-4 ga and Daehangno from Seoul's permit data; hanok stays cluster in Bukchon ([Bukchon hotels](/en/posts/bukchon-hotels-2026-09/)); and the whole-city comparison is in [where to stay in Seoul](/en/posts/seoul-where-to-stay-2026-09/).
 
-## What we couldn't confirm
-
-**Time Out's original 2026 "coolest neighbourhoods" list.** We could not check it directly; "Jongno 3-ga first" rests on Yonhap's report of Jongno District's 29 September 2026 statement.
-
-**The result of the 16 September re-review of Sewoon block 4's ruins plan, and whether the land ministry issued a correction order.** We found no reports by 2 October.
-
-**Nagwon Arcade's completion date.** Wikipedia gives a 1968 use permit and 1970 completion; several reports say 1969.
-
-**Tapgol Park's founding year.** KTO says laid out in 1897, opened in 1920; other accounts say discussions began in 1897 and work started in earnest from 1899. We follow KTO.
-
-**Jongno-gu's current population.** We could not find it on an official statistics page and left it out.
-
-**How many theatres Daehangno has now.** We found no dated official count; figures like "140" in 2000s reporting may be out of date.
-
-**Whether Insadong's trade rules have actually been loosened.** We report only the September 2026 "as early as January" plan.
-
-**Jongno 3-ga night-street hours.** We use the district's "18:00 to 04:00" (September 2026). The Seoul Tourism Organization says stalls go up "from around 5pm", so set-up may start earlier.
-
 ## Who it suits
 
 **It suits you if:**

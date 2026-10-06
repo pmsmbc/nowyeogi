@@ -469,22 +469,6 @@ On a Saturday Jongmyo is walk-in and Seosulla-gil is car-free, and on this parti
 
 **Seventh, the photos didn't match the neighbourhood.** The cover was a platform at Jongno 3-ga Station and the body photo a hanok room in the National Folk Museum. They are now the Ikseon-dong lanes, the Gugak-ro venues and the old Dansungsa.
 
-## What we could not confirm
-
-**Whether individuals can visit the Dansungsa Film History Museum today.** The 2019 report said school groups only, once a week, free; we found no newer official information.
-
-**Hollywood Classic's current prices and screening times.** Prices are from a KTO page revised in May 2025. Seoul Future Heritage puts it on the **4th** floor while one September 2026 report says the **3rd**; we followed Future Heritage.
-
-**Exact hours at the instrument arcade, and whether its rooftop is open.** KTO gives 10:00–18:00 (varies by shop) and the arcade's site gives no hours. The Future Heritage record says the rooftop opened to people booking a "Nakwon tour" from September 2018; we could not find whether that still runs.
-
-**How to reserve the free rental shows at Seoul Donhwamun Traditional Theater**, and whether KTO's "closed every Monday" is still accurate (there are Monday events in October).
-
-**The title of the folk-music museum's 2026 exhibition and what the 17–31 October programmes are**; the site only said "registration upcoming".
-
-**The fee, days and languages for Jongno-gu's alley guides**, **Daegaksa's visiting hours**, and **whether anything is planned at the Dansungsa site on Film Day** were also unconfirmed.
-
-**We did not see Time Out's original "coolest neighbourhoods" text**; the quotations follow Segye Ilbo's report.
-
 ## Quick summary
 
 - **Seosulla-gil**: 820 m along Jongmyo's west wall, **car-free Saturday and Sunday 10:00–22:00**. No gate into the shrine.

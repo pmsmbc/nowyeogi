@@ -123,14 +123,6 @@ This is what separates the street from an ordinary stall alley.
 
 The street is a **no-smoking** area, with reminders running on the electronic signboards, and public bins have gone from two to five.
 
-## What could not be verified
-
-Stated plainly, because these are the gaps:
-
-- **Whether cards are accepted.** Jongno District's card-payment scheme for street stalls covers **77 stalls at Gwangjang Market**, not this street. Bring cash.
-- **Whether foreign-language menus exist.** The district's multilingual QR menu project covers Gwangjang Market, Sejong Village Food Culture Street and Jongno Sinjin Market — not this street.
-- **Closing days and whether stalls trade in bad weather.** Nothing official either way.
-
 ## The overcharging controversy is not about this street
 
 You may have seen reports of foreign visitors being overcharged at a market in Jongno. **That was Gwangjang Market, not this pocha street.** Jongno District's official records tie the overcharging problem to Gwangjang Market alone, and travellers routinely conflate the two because they are minutes apart.

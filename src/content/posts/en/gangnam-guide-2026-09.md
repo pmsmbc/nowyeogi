@@ -430,24 +430,6 @@ If cosmetics shopping is on your list, how to choose a store and claim a tax ref
 
 Gangnam's hotels vary a lot from station to station, so pick the station before the neighbourhood. A station-by-station comparison with prices is in [Gangnam hotels](/en/posts/gangnam-hotels-2026-09/), and a comparison with other parts of Seoul is in [Where to stay in Seoul](/en/posts/seoul-where-to-stay-2026-09/).
 
-## What we couldn't confirm
-
-**Gangnam-gu's 2026 population**: we only checked the June 2018 (551,888) and 2022 (529,698) figures on Wikipedia, not the latest Ministry of the Interior registration data.
-
-**When Yeongdong District 2 began**: Maeil Business says 1971 and Newsmaker 1972, so we give both. We did not see Seoul's original records.
-
-**The start date of the GTX-A pass-through at Samseong**: as of 6 October there is no ministry announcement. It appears to depend on Seoul and the ministry agreeing on the reinforcement method.
-
-**K-Star Road today**: we could not confirm whether any Gangnam Dol figures have been replaced or added since the 2023 report.
-
-**The 2026 Yeongdong-daero countdown**: Wikipedia says it has been held every year since 2011, but with the road under construction we found no plan for this year.
-
-**Bus 6103's 2026 frequency**: we only confirmed a February 2023 report of 34 runs a day at 25-minute intervals. The fare (₩18,000) and first/last times are in [where to stay in Gangnam](/en/posts/gangnam-hotels-2026-09/), from the operator.
-
-**An official 2026 vacancy figure for Garosu-gil**: the "40% range" for Q2 2026 is an article quoting one company's presentation. We did not find Cushman & Wakefield's 2026 figure.
-
-**What "Gangnam" means in the 45.9% figure**: the Seoul Tourism Organization's press release does not say whether it means all of Gangnam-gu or the Gangnam Station area.
-
 ## Who it suits
 
 **It suits you if:**

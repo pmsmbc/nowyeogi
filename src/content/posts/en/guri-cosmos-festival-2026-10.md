@@ -185,16 +185,6 @@ In 2025, rain on the last morning raised fears of cancellation, but the city say
 - **Language** — no foreign-language guidance for this festival was found. Expect festival notices to be in Korean.
 - **Other autumn flowers** — the Seoul Silver Grass Festival at Haneul Park runs 17–23 October, so it does not clash.
 
-## What we could not confirm
-
-- **Entry fee** — the park is open all year and a 2018 report called the festival free, but no 2026 notice was found.
-- **Opening hours, line-up, ceremony times** — not in reports up to late September. Guri City's website (guri.go.kr) could not be reached at the time of writing.
-- **Bus route numbers and stops, temporary car parks, road closures**
-- **Current bloom status**
-- **The first edition and any cancelled years**
-- **Donggureung admission fee**
-- **Field size by year** — the 2025 report of 90,000㎡ does not match this year's "11,940㎡ larger than last year".
-
 ## Wrapping up
 
 Three things to remember: **9 to 11 October, Guri Hangang Park, and the festival bus from Line 8 stations (09:00–23:00).** If you drive, expect a slow exit on closing night.

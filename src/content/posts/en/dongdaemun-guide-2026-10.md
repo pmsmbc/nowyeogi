@@ -423,24 +423,6 @@ North and south, day and night are different places here, so this order keeps ba
 
 Five subway lines ([[line:1]] [[line:2]] [[line:4]] [[line:5]] [[line:6]]) run through Dongdaemun and it is one [[line:4]] ride from Seoul Station, so plenty of visitors base themselves here. The September 2026 plan offers **floor-area bonuses for hotels of three stars and up**, so the hotel map here may shift in coming years. Counts by neighbourhood and airport bus stops are in [where to stay in Dongdaemun](/en/posts/dongdaemun-hotels-2026-10/); for a city-wide comparison see [where to stay in Seoul](/en/posts/seoul-where-to-stay-2026-09/).
 
-## What we could not confirm
-
-**The council's mall, shop and worker counts** carry no reference year. Set against the reported 70% vacancy of 2026, the number of shops actually trading may be lower.
-
-**That the gate was listed as "Dongdaemun" in 1934 and renamed in 1996** appears only on the council's website; we could not confirm it from Korea Heritage Service records.
-
-**Pyeonghwa Market's opening year**: Seoul Shinmun gives February 1962 for the building, another Seoul city article says 1961; we give only the building date.
-
-**DDP's total construction cost** is reported with different figures and bases, so we leave it out.
-
-**Which wholesale malls sell to retail customers, their closing days**, and **official hours for the Dongmyo flea market**: no official listing found.
-
-**How many sewing workshops Changsin-dong has now**: there is no precise statistic. Our "about 900" is a 2019 industry estimate.
-
-**When DDP 1–3 redevelopment construction will start** has not been set.
-
-**Airport bus stops in the Dongdaemun area**: we could not verify the full stop lists on the operators' websites, so no route numbers here.
-
 ## Who this suits
 
 **It suits you if:**

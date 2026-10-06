@@ -454,22 +454,6 @@ From the dakhanmari alley you can walk to Gwanghui-dong by crossing Cheonggyeche
 
 **No tipping.** The menu price is what you pay.
 
-## What we could not confirm
-
-**How many restaurants the dakhanmari and grilled fish alleys have now.** No official count was found; "more than ten" grilled fish restaurants is from a 2020 column.
-
-**Whether Jinokhwa was "in the MICHELIN Guide".** Several blogs say so, but the restaurant is not on the official MICHELIN Guide Seoul site, so this guide does not use the MICHELIN name for it. The claim may refer to a 2011 travel guide (the Green Guide), but that was not verified.
-
-**MICHELIN "selected" restaurants.** Whether any of the 85 selected Seoul restaurants is in this area was not fully checked.
-
-**Prices.** DiningCode prices may be posted by restaurants or users and are not clearly dated. No official prices were found for Jinwonjo Dakhanmari, The Uri Gopchang, Geumdwaeji Sikdang or Gosari Express.
-
-**The current gopchang restaurants in Seoul Jungang Market.** Names and prices were not confirmed in official sources; market prices are from the July 2023 Seoul city article.
-
-**Mongolian restaurants in Gwanghui-dong.** Whether Mongol Nomadic and Cafe Baikal (named in 2020) are still open, and what is inside Mongol Tower today, was not confirmed. **Halal-certified restaurants** were not confirmed from official certification lists either.
-
-**Food court hours in the DDP-area malls** were not confirmed mall by mall, so they are left out.
-
 ## Wrapping up
 
 - **East of Jongno 5-ga**: Jinokhwa Halmae Wonjo Dakhanmari (since 1978, open until 1 a.m., ₩33,000 on DiningCode) and the Seoul Future Heritage grilled fish alley (since 1979, coal briquettes, around ₩13,000 now).

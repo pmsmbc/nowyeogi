@@ -424,22 +424,6 @@ Itaewon's streets are quiet in the morning with many shops still shut. **War Mem
 
 **Seven: the cover photo was the War Memorial building.** It is now a bright Haebangchon street in blossom; the unused UN poster photo was deleted and the mosque photo's credit corrected.
 
-## What we could not confirm
-
-**The War Memorial's closure on 6 October** is our reading of its post-holiday rule, not a separate notice.
-
-**Which line serves Samgakji exits 12 and 1** is shown only by icons on the museum site.
-
-**The Children's Museum admission fee.**
-
-**Seoul Central Mosque visiting hours** are not published officially.
-
-**The 108-steps lift hours**, **Haebangchon car park fees**, **the end date of the Sinheung Market exhibition** and **where the Sowol-gil viewpoints were built**.
-
-**Whether the Itaewon Global Village Festival returns in 2026** and **autumn 2026 antique festival dates**: no announcements found.
-
-**Yongsan-gu's detailed 2026 Halloween plan** had not been published as of 6 October. The detailed measures above are from 2025.
-
 ## Quick summary
 
 - **War Memorial: free**, opens 09:30, **last entry 17:00**, closed Mondays and the day after a holiday run including a Monday. Tours need no sign-up; English tours in Korean War Room II at 10:30 and 14:30.

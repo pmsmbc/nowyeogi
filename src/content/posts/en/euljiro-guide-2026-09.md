@@ -437,24 +437,6 @@ Euljiro looks completely different depending on the hour.
 
 Euljiro has five subway lines and an airport bus, but **the heart of the alleys has surprisingly few places to stay**. The big hotels cluster around Euljiro 1-2-ga, Jeo-dong, Jang-gyo-dong and Cho-dong, and in Euljiro 5-ga to the east. Many hotels with "Myeongdong" in the name actually have Euljiro-area addresses (for example, Lotte City Hotel Myeongdong is in Jang-gyo-dong, Nine Tree Myeongdong II in Cho-dong, and Four Points Josun Myeongdong in Jeo-dong 2-ga). A list counted from Seoul's licensing data is in [Euljiro hotels](/en/posts/euljiro-hotels-2026-09/); the Myeongdong side is in [Myeongdong hotels](/en/posts/myeongdong-hotels-2026-09/), and a city-wide comparison in [Where to stay in Seoul](/en/posts/seoul-where-to-stay-2026-09/).
 
-## What we couldn't confirm
-
-**The result of the 16 September 2026 heritage committee re-review** hadn't appeared in any report we could find by 1 October. We only include the report that it was scheduled (Edaily, 15 September).
-
-**Whether the Sampung-PJ Hotel section of the walkway has actually been demolished, and whether the phase-one Sampung park has broken ground**, we couldn't confirm. "Demolition from May 2026" and "construction in the first half of 2026" are reported plans.
-
-**Whether Eulji OB Bear's Euljiro branch (near Euljiro 3-ga Exit 10) is still open** we couldn't confirm beyond the February 2024 soft-opening report.
-
-**Whether the land ministry has issued a correction order on block 4** we couldn't find, beyond the 26 August 2026 report that "nothing has been decided".
-
-**Sewoon Sangga's construction year** differs by source: the Seoul government says 1968; Wikipedia gives a 1966 groundbreaking and first completion in 1967; Newsis describes the arcades as completed between 1967 and 1972. We give all three.
-
-**The length of the 1945 firebreak** differs between Wikipedia (1,180 m) and Newsis (760 m), so we only give its width (50 m).
-
-**Beer sales in Nogari Alley** (60 tonnes a day, per the Future Heritage site) carry no date, so we left them out.
-
-**The walkway's length** is "about 1 km", and the first demolition section is given as "about 250 m" (December 2024) or "287 m" (April 2025) depending on the report.
-
 ## Who it suits
 
 **It suits you if:**

@@ -380,7 +380,7 @@ The first version of this guide (23 September 2026) contained errors and weakly 
 
 **Five: we covered redevelopment through three zones only.** Seochon also had **Ogin 1** (lifted 2017, settled 2018) and **Sajik 2** (cancellation voided by the Supreme Court in 2019). We could not re-verify the "2006/2007 designation" of the three zones or "notice 2015-313 of 8 October 2015", so we now say "approved by the planning committee in September 2015, notice due in October".
 
-**Six: our timeline included "hanok concentration area designated 24 June 2010" and "development permits restricted 17 February 2015".** Neither date could be traced to an original document, so both are now under "What we couldn't confirm".
+**Six: our timeline included "hanok concentration area designated 24 June 2010" and "development permits restricted 17 February 2015".** Neither date could be traced to an original document, so both are removed.
 
 **Seven: we quoted a Seoul Future Heritage text saying "in May 2016 … buildings limited to four storeys".** The actual notice is dated **14 July 2016**, and four floors applies only to the Jahamun-ro and Hyoja-ro zones; designated hanok are limited to one floor and recommended zones to two or three. We replaced the quote with the notice's own table.
 
@@ -480,28 +480,6 @@ The Yun Dong-ju Literature Museum opens 10:00-18:00 (last entry 17:30) and close
 ## Where to stay
 
 Seochon has **no registered tourist hotels**, and Seoul's licensing data shows **121 hanok guesthouses** (licensed as "hanok experience" businesses) across its 14 dong. For a large hotel you need to go down to Gwanghwamun or City Hall. The counts, the licensing rules and airport-bus stops are in [Seochon hotels](/en/posts/seochon-hotels-2026-09/); Gwanghwamun hotels are in [Gwanghwamun hotels](/en/posts/gwanghwamun-hotels-2026-09/), and a city-wide comparison in [Where to stay in Seoul](/en/posts/seoul-where-to-stay-2026-09/).
-
-## What we couldn't confirm
-
-**How many dong the plan covers.** The city's notice says "Chebu-dong and 14 other dong" (15), the Hanok Portal says 14. We did not see the full map listing them.
-
-**The hanok concentration area date.** We could not find an original for "24 June 2010". Korean Wikipedia says only that the area was designated in 2010.
-
-**The 2015 cancellation notice.** The city announced on 17 September 2015 that notice would follow "in October". We could not check the date and number given in our first version (8 October, notice 2015-313).
-
-**The 2024 height notice date.** Yonhap, quoting Dobong district, gave 27 June; Daehan Economy (2025) said the easing came "last July". We could not open the city's notice.
-
-**When Cheongha Sikdang closed.** The Hankyoreh (September 2026) says "closed in April", Energy Economy (July 2026) "April last year", so 2025 or 2026 is unclear.
-
-**Cheong Wa Dae reopening.** The government said in October 2025 that reopening was under discussion; Edaily reported a 2027 target in September 2026. We found no official schedule.
-
-**The Ogin-dong Yun family house.** The city planned to open it in the first half of 2025; we could not confirm an opening or how it operates.
-
-**The exact plot of King Sejong's birthplace.** No official ruling between 119-1 (the stone) and 89-7 (the civic group's claim).
-
-**Exit distances at Gyeongbokgung Station and the 6011 stop location and times.** We confirmed only that 6011 stops there and the fare.
-
-**Whether Jongno district's March 2025 easing of franchise rules applies here.** Yonhap mentioned "five district-plan areas including Bukchon and Ikseon-dong"; we could not confirm whether Seochon is one of them.
 
 ## Who it suits
 

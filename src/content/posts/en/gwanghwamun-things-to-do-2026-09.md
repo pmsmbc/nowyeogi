@@ -382,20 +382,6 @@ Last entry to Deoksugung is 20:00. On Wednesdays and Saturdays the art museum in
 **If it is Monday**
 Deoksugung and most museums are closed. Use the **Gwanghwamun guard ceremony**, the **National Museum of Korean Contemporary History**, and Gyeongbokgung, which opens on Mondays; see [our Jongno palaces guide](/en/posts/jongno-things-to-do-2026-09/).
 
-## What we could not confirm
-
-**The dates of the Lynn Hershman Leeson show at SeMA**: sources say either 1 October or 21 October.
-
-**Whether all three Outdoor Library sites switch to daytime hours in October**, or only some. Check the Seoul Outdoor Library schedule page.
-
-**Freedom Hall's general opening hours and closing days**, beyond the guided tour hours (Tuesday-Sunday 10:00-20:00).
-
-**Whether work on the terrace in front of Daehanmun is finished**, and so whether the ceremony is held in front of the gate or beside it in 2026.
-
-**The daily number of places and sign-up cutoff for ringing the Bosingak bell**, which appear only in an older city article.
-
-**The current special exhibition at the Contemporary History museum**, **Hangeul Day events on Gwanghwamun Plaza**, **2026 Seoul Lantern Festival dates** and **the 2026-2027 ice rink dates** are also unconfirmed.
-
 ## Wrapping up
 
 - **Deoksugung** is open **until 21:00 all year** (last entry 20:00), closed Mondays. **Seokjojeon** books one week ahead at 10:00; **Dondeokjeon is closed until 25 October**.

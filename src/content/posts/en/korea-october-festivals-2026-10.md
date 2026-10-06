@@ -378,20 +378,6 @@ At **Punggi** there's a ginseng-peeling contest and rice cake pounding, and farm
 - **Watch Monday closures.** 5 October is a public holiday, but whether museums open on a holiday Monday varies. In Jinju, the National Jinju Museum and the Lantern Exhibition Hall close on Mondays.
 - **About "culture and tourism festival" status.** Korea's Ministry of Culture designates selected regional festivals for support. We mention it only where an official source states it (Gimje as an honorary representative festival, Jinju as a global festival).
 
-## What we couldn't confirm
-
-**The Ministry of Culture's 2026–2027 list of designated culture and tourism festivals.** The ministry's festival page only offered the 2024–2025 file, so we haven't stated this year's status for Andong, Baekje, Ganggyeong and others.
-
-**Journey times and fares from Seoul** weren't checked date by date on Korail or bus booking sites. In particular, we found no official information on **bus routes to Gongju and Buyeo** or a **shuttle to Byeokgolje in Gimje**.
-
-**Start times and road closures for each leg of the royal procession** are posted on the Suwon festival site only as images, so we haven't transcribed them.
-
-**Suwon's opening date** differs by a day between the KTO listing (4 October) and the official timetable (programmes from 3 October).
-
-**Fees and hours for the Wow Book Festival**, **prices for paid programmes at the Gangneung Coffee Festival**, and **times and viewing arrangements for the Yeosu fireworks** were not confirmed.
-
-**English-language support** was confirmed in official sources only for Suwon (Global Village, multilingual traffic notices), the Royal Culture Festival (foreigner-only bookings) and BIFF. We don't know how much the others offer.
-
 ## Wrapping up
 
 October in Korea is a month you can plan around festival dates alone. In short:

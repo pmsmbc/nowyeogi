@@ -322,20 +322,6 @@ Walk from Hongik Univ. Station in the north toward Danginri in the south, **foll
 
 The direct airport train makes Hongdae a popular base. But as the figures above show, **on weekend nights, at Halloween and at year-end, more than 100,000 people can be packed around Exit 9 and the club strip at once**. Light sleepers should look away from the main streets or toward Hapjeong and Sangsu. Lodging counts by neighbourhood and airport bus stops are in [where to stay in Hongdae](/en/posts/hongdae-hotels-2026-09/); quieter residential options are in [where to stay in Yeonnam-dong and Mangwon-dong](/en/posts/yeonnam-hotels-2026-09/).
 
-## What we could not confirm
-
-**Current car-free days and hours on the Red Road**: not found in an official notice. A February 2023 Munhwa Ilbo report and a December 2023 Seoul Shinmun report describe it differently; we give only the more recent one.
-
-**Whether the tourist zone was extended** toward Yanghwajin and Mangwon Hangang Park: no official notice found.
-
-**Opening date and hours of the Danginri Cultural Creation Power Station**: no official announcement found. The March 2024 government target was 2026.
-
-**This year's Halloween safety plan**: not yet announced at the time of writing.
-
-**Opening hours of the R2 and R6 information centres** and the **current hours of the Gyeongui Line Book Street**: no up-to-date official listing found, so we leave them out.
-
-**Exact boundaries of Red Road sections R1–R7**: reports describe them slightly differently, so the table gives only their character.
-
 ## Who this suits
 
 **It suits you if:**

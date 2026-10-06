@@ -364,20 +364,6 @@ The first version of this page (22 September 2026) had errors and weakly sourced
 
 **Six: claims that could not be re-sourced were removed.** These include "the printing and metalwork alleys are quiet at night", "the 11 pm outdoor-seating limit applies only to residential zones", a quote from a July 2026 Seoul press release, Myeongdong noise readings, "9–15 minutes by subway to Seoul Station" and a description of serviced-residence facilities.
 
-## What could not be confirmed
-
-**Room rates have no official source**, so none are given. Prices vary by booking site and date.
-
-**Some room counts differ between the two datasets.** President Hotel has 303 rooms in the tourist lodging data and 298 Western + 5 Korean-style in the general data; Hotel PJ 272 and 247; Ramada by Wyndham 197 and 154; Skypark Myeongdong II 131 and 120; and Baiton Hotel shows 0 in the general data. This page uses the tourist lodging figures. Room counts were checked against official sites only for Ninetree Myeongdong II (408), Ninetree Dongdaemun (219) and Mercure Ambassador Dongdaemun (336).
-
-**How the 2024 and 2026 records for Hotel The Botanic Sewoon Myeongdong relate**, how the **five serviced-residence licences at 24 Chungmu-ro** are run, **why Metro Hotel is closed**, and **whether the 1960s–70s inns still operate** could not be confirmed from official sources.
-
-**The Jung-gu press release cited by the old version (August 2026, safety checks at 194 hotels and hostels)** could not be found again, so it was dropped and the figures recounted from licensing data only.
-
-**Bus journey times from Euljiro to the airport**, **where and when 6015 drops off at each Euljiro stop coming from the airport**, and **subway journey times and last trains from Euljiro to Seoul Station** could not be confirmed and are not given.
-
-**No public block-by-block noise data** was found. If you are booking near Nogari Alley or the Euljiro 3-ga lanes, check recent reviews for noise.
-
 ## Summary
 
 - The 20 Euljiro dong have **62 tourist lodgings with 4,668 rooms**: 20 hotels and 42 hostels, about 25% of Jung-gu's tourist-lodging rooms.

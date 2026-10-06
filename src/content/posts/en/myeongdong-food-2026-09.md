@@ -513,24 +513,6 @@ The earlier version of this guide, published 10 September 2026, contained errors
 - Restaurants **not confirmed in official sources** (Gogung, Din Tai Fung, the Andong jjimdak places) were removed.
 - One photo was captioned as **a stall selling mini gimbap** but actually showed sweet-and-spicy fried chicken in a plastic tray. All photos have been replaced and re-captioned.
 
-## What we could not confirm
-
-**The current state of Myeongdong Kyoja's original branch (29 Myeongdong 10-gil).** No notice after the December 2024 construction notice was found, and MICHELIN and DiningCode still use this address.
-
-**Whether Myeongdong Kyoja was a Bib Gourmand in earlier years**, and if so which years, could not be confirmed from MICHELIN's own pages.
-
-**Hadongkwan's official prices and the year it moved to Myeongdong.** Prices are DiningCode listings, and the move is only dated by the phrase "three years" in the February 2010 notice. Public holiday opening could not be confirmed either.
-
-**Current street-stall start times, the 2026 alternating-day arrangement and item prices.** No 2026 official source was found; stall prices in this guide are examples from dated news reports.
-
-**The full MICHELIN Selected list** (restaurants without stars or Bib) was not checked address by address. There may be more Selected restaurants in this area than the table shows.
-
-**Seoul's Oraegage (long-standing shops) and the national Baeknyeon-gage (100-year shops)** programmes could not be searched, so no entries in this area are listed.
-
-**Halal-certified and Muslim-friendly restaurants** in this area could not be confirmed against an official certification list.
-
-**Dinner hours and course prices at L'Amant Secret and the Lotte Hotel restaurants** were not available on MICHELIN's pages.
-
 ## Wrapping up
 
 - **Myeongdong Kyoja**: started in 1966 as "Jangsujang", renamed 1978. In 2026 the main branch moved to **129 Toegye-ro (Myeongdong Station Exit 8)**. Kalguksu and bibim-guksu ₩12,000, dumplings and kong-guksu ₩13,000. Closed only on Seollal and Chuseok day.

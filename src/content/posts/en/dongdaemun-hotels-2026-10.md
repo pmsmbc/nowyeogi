@@ -315,22 +315,6 @@ Dongdaemun's subway stations are **Dongdaemun History & Culture Park** [[line:2]
 
 For sights see [things to do in Dongdaemun](/en/posts/dongdaemun-things-to-do-2026-10/), and for food [Dongdaemun food](/en/posts/dongdaemun-food-2026-10/).
 
-## What could not be confirmed
-
-**Room rates** are not given, because there is no official source. Prices for hotels, hostels and homestays vary by booking site and date.
-
-**Some room counts differ between the two datasets.** Novotel has 523 in the tourist-lodging data and 331 (hotel) plus 192 (residence) in the general lodging data; Dongdaemun Tourist Hotel has 52 and 50. The hotel and hostel room counts here follow the tourist-lodging data.
-
-**Why Novotel's residence registration was closed** could not be confirmed from an official source. The official site still advertises 523 rooms.
-
-**The current use of the former Benikea Premier Hotel Dongdaemun building** (55 Nangye-ro 29-gil), and **whether the inns licensed in the 1960s to 80s are actually trading**, could not be confirmed; the data only lists them as operating.
-
-**Whether the city-bound 6001 stops at the DDP, Novotel and Toyoko Inn stops** is unclear because the official pages conflict. **Journey times from the airport to Dongdaemun on 6001 and 6002**, and **city-bound N6002 times** (airport to Dongdaemun), were not available in the per-stop timetables and are left out.
-
-**Block-by-block noise and freight-traffic data around the wholesale malls, and individual mall opening hours,** were not found. Hours and closing days differ by building, so check each mall's own notice.
-
-**Last [[line:4]] and [[line:1]] trains from Seoul Station towards Dongdaemun** were not confirmed.
-
 ## Summary
 
 - The nine Dongdaemun neighbourhoods have **88 tourist lodgings with 2,777 rooms**: 11 hotels and 77 hostels.

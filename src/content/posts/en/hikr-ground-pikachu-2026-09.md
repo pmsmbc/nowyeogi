@@ -138,12 +138,6 @@ As of writing, **1F and 5F open daily 10:00–20:00 and 2F–4F open Tuesday to 
 - **Mondays:** 2F–4F normally close on Mondays, and the Pokémon exhibition sits on 2F and 3F, so check before going on a Monday (see below).
 - **Final weekend:** the last day, 11 October, is a Sunday.
 
-## What we couldn't confirm
-
-- **Monday opening.** Pokémon Korea's pages give "10:00–20:00" but no closing day, while HiKR Ground normally shuts 2F–4F on Mondays.
-- **The exact entry procedure.** The official page still says it will be announced separately. Pokémon Korea posted entry details on Instagram, but we could not read the details inside the images. Comments on that post describe getting a queue number and waiting over an hour.
-- **Prices and purchase limits at the 5F shop.** We found no published line-up.
-
 ## Wrapping up
 
 A simple plan: see 2F and 3F, stamp on each floor, drop into the 5F shop, then pick up the sticker at the 1F information centre. Install Pokémon HOME beforehand and you can collect the medal too.

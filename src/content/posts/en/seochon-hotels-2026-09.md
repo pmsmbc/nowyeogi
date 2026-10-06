@@ -384,24 +384,6 @@ The previous version of this post (23 September 2026) contained errors and weakl
 
 **Six: the rate-card rule was updated.** The old version said only "post and honour a rate card". Since the amendment in force from 4 August 2026, it must be posted **both at the reception and online**.
 
-## What could not be confirmed
-
-**Prices** — there is no official source, so none are given. Hanok and homestay prices vary by site and date. Since the August 2026 amendment, a hanok stay's rate card must also be posted on its booking page, so check there.
-
-**Which of the 121 take overnight guests and which offer only cultural experiences** — the register has no field for it.
-
-**Room counts and real size** — only 37 of the 121 list rooms, and I couldn't confirm whether the recorded facility area is the whole house or only part.
-
-**Whether stays sharing a name (by Butlery, The Chae, Ihwa Hanok) share an operator** — the licensing data can't show this.
-
-**Bathroom, bedding and breakfast arrangements** — confirmed only for the few stays KTO describes.
-
-**Whether the two inns (Su Motel, Hanokhanok) actually operate** — I could only confirm that the data lists them as open.
-
-**Journey time from the airport to Gyeongbokgung Station on 6011**, inbound arrival times at each stop, and **last subway times from Seoul Station or Gongdeok to Gyeongbokgung or Gwanghwamun** — not in the official information I found.
-
-**Whether Seochon has a visiting-hours restriction like Bukchon's red zone on Bukchon-ro 11-gil, or a plan like Gahoe-dong's to block new hanok stays** — I found nothing in Jongno-gu's official material. Bukchon's rules are in the [Bukchon post](/en/posts/bukchon-hotels-2026-09/).
-
 ## Summary
 
 - Seochon's 14 neighbourhoods have **no tourist hotels or hostels** and just **two inns with 39 rooms**.

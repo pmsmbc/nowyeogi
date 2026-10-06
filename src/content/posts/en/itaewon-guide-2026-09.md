@@ -398,24 +398,6 @@ West to east, getting the climbing done first.
 
 Around Itaewon Station it is busy late into the night, and the Haebangchon and Gyeongnidan-gil side is hilly, which matters if you have heavy luggage. Budgets and how to choose are in [Itaewon and Haebangchon hotels](/en/posts/itaewon-hotels-2026-09/); the Hangangjin side is in [Hannam-dong hotels](/en/posts/hannam-hotels-2026-09/); and a comparison with other parts of Seoul is in [Where to stay in Seoul](/en/posts/seoul-where-to-stay-2026-09/).
 
-## What we couldn't confirm
-
-**The 2026 Halloween safety plan**: 31 October is a Saturday, but as of 6 October we had found no 2026 plan from Yongsan-gu, the Seoul police or the interior ministry. The table above is for 2025.
-
-**Whether the Global Village Festival ran in 2025 or 2026**: no official announcement found after the 2024 cancellation report.
-
-**Anniversary events in Itaewon itself**: the official events are at Seoul Plaza and Gwanghwamun. We could not confirm anything planned at the memorial alley.
-
-**When Haebangchon's urban regeneration started and what it cost**: Hankook Ilbo (September 2026) says only that it began "ten years ago". We could not open the Seoul city source documents this time.
-
-**Current population by administrative unit**: the area and population figures above are Q2 2018 figures from Korean Wikipedia.
-
-**The exact line between administrative and legal neighbourhoods**: we followed Wikipedia's table (Itaewon 1-dong and 2-dong = Itaewon-dong; Yongsan 2-ga-dong = Yongsan-dong 2-ga and 4-ga). Which administrative unit handles places with Hannam-dong addresses such as Usadan-gil, we could not confirm.
-
-**Quy Nhon-gil's exact extent and when it got its name**: we only confirmed the 2022 sculpture report.
-
-**Recent vacancy rates**: we did not find the Korea Real Estate Board's first-half 2026 figures for Itaewon.
-
 ## Who it suits
 
 **Good fit:**

@@ -248,20 +248,6 @@ Weekday and holiday times are the same. The 23:17, 23:50 and 24:00 departures fr
 
 For sights, see [things to do around Gwanghwamun and City Hall](/en/posts/gwanghwamun-things-to-do-2026-09/); for food, [where to eat in Gwanghwamun, City Hall and Jonggak](/en/posts/gwanghwamun-food-2026-09/).
 
-## What we could not confirm
-
-**Room rates**: there is no official source, so we list none. Prices vary by booking site and date.
-
-**Room counts differ between the two datasets** for some hotels. The general lodging list shows Lotte Hotel at 1,151 rooms, The Plaza at 479 and Koreana at 337, unlike the tourism list. This post uses the tourism list.
-
-**Somerset Palace Seoul**: we confirmed only that its address matches the 284-room registration under a company branch name.
-
-**Why Crown Park Hotel closed and re-registered**, and **what the New Kukje Hotel building is used for now**, could not be confirmed from official sources.
-
-**Whether airport-bus stops move on Sejong-daero closure days** was not in the operators' notices.
-
-**Route 6701's last bus**: the route summary (18:15) and the stop timetables (18:40–19:00) disagree. We also could not confirm the **last Line 1 train from Seoul Station to City Hall and Jonggak**.
-
 ## Summary
 
 - The area has **55 tourist-accommodation licences with 4,552 rooms**, more than half of the rooms in **Sogong-dong and Bukchang-dong**.

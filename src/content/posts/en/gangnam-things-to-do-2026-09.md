@@ -428,22 +428,6 @@ On a Monday, swap the tombs for **Bongeunsa, COEX and Dosan Park**.
 
 **Eight: the cover was an indoor shot.** It is now Bongeunsa against the skyline, and the tomb photo has been replaced with one from KTO.
 
-## What we could not confirm
-
-**Bongeunsa's opening hours**: KTO's Korean (09:00–18:00) and English (05:00–22:00) listings disagree, and we could not find official hours on the temple's website.
-
-**Which Saturdays in October and November the regular temple stay runs**: these appear only on the booking calendar. An older page on the temple's own site (first Saturday of the month, ₩90,000) does not match the current booking page.
-
-**The 2026 date of Bongeunsa's Jeongdae Bulsa** scripture procession.
-
-**Free entry to the tombs on "Culture Day" Wednesdays**: it is on the official free-admission list, but we could not confirm it is applied at Seolleung. Nor could we confirm **the walking time from exit 10** or **the History Center's hours**.
-
-**When the aquarium became SEA LIFE**, **its walk-up prices** and **any closing days**.
-
-**How many K-Star Road figures remain** and whether the street has been refurbished since 2019.
-
-**Gangnam Station Underground Shopping Center's hours** and **Local Vibe 2026's admission price**.
-
 ## Quick summary
 
 - **Bongeunsa is free** and open all year. BONG-PASS on Tuesdays, evening service experience on Sundays at 17:00, overnight temple stay ₩120,000. **Free Traditional Culture Fair 11–13 October.**

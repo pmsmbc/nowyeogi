@@ -204,16 +204,6 @@ From the Seoul Tourism Organization:
 
 Which means a traveller who arrived with one pair of trainers can borrow a pair of hiking boots and go and see the autumn colour on Bukhansan.
 
-## What could not be verified
-
-Stated plainly.
-
-**The 105 Best Autumn Foliage Streets list is from 2016.** Whether it has been updated since could not be confirmed. That is why this post calls it "the 105 selected by the city of Seoul in 2016" rather than "this year's selection".
-
-**The KMA's own year-by-year records of first colour and peak colour in Seoul could not be obtained.** The seasonal observation page on the KMA open data portal returned a "content in preparation" message. Every date given above is on the authority of the city of Seoul and the Seoul Tourism Organization.
-
-**The nearest subway station for Seoul Forest and the admission price for Seoul Grand Park** could not be confirmed on official pages either, so neither appears here.
-
 ## In short
 
 - **Central Seoul peaks in early November**; the mountains, Bukhansan included, in late October.

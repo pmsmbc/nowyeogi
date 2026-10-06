@@ -458,22 +458,6 @@ The earlier version, published on 22 September 2026, had errors and unsupported 
 - It missed the 2018 franchise restriction and its 2025 easing, the Galmaegi alley coexistence street and Seosulla-gil. These are now included.
 - It borrowed two lane photos from the Ikseon-dong overview guide. They have been replaced with food photos for this guide, each noting that it is not from the named shop.
 
-## What we could not confirm
-
-**Whether Gamkkotdang and Ikseondong Geujip are open now, and their prices.** Both appear only on KTO; one is missing from DiningCode and the other has no prices.
-
-**Yetnaljip Nagwon Agujjim's Centennial Store status** and founding year (1972 or 1977). We also did not see the Future Heritage "certificate" the old version quoted.
-
-**How Seoul Coffee Ikseon relates to the franchise restriction.** Visit Seoul calls it a franchise café; we could not confirm whether it predates the 2018 plan.
-
-**The boundaries of the trade-area statistics** used by Financial News and Hankyung Business.
-
-**Individual shop names and prices in the Galmaegi alley.** Jongno-gu records and press reports name only the alley and its merchants' association.
-
-**Model restaurant and safe restaurant designations.** We could not recheck the old version's figures.
-
-**DiningCode prices** are posted by owners or users and are not clearly dated, and Visit Seoul and DiningCode disagree on hours for some places (Gallery Soyeon, FIKEE, Ganpan Eomneun Gage).
-
 ## Wrapping up
 
 - **Zero on the official lists**: no MICHELIN 2026, Future Heritage restaurant, Oraegage or good-price shop here, and new chains have been restricted since the 2018 district plan.

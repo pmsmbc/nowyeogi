@@ -147,15 +147,6 @@ The Ground Forces Festival began in **2002 at Expo Science Park in Daejeon**, gr
 - The official materials say nothing specific for foreign visitors. This is held on a military base, so **carry your passport**.
 - **Donghaksa Temple** on Gyeryongsan Mountain (462 Donghaksa 1-ro, Banpo-myeon) is actually in neighbouring Gongju, not Gyeryong. If you want to combine the two, check transport separately.
 
-## Not yet confirmed
-
-- **Entry rules for foreigners** — whether ID is checked or a passport is required is not stated. Ask on +82-42-550-5310 to 5312.
-- **Advance booking** — the official FAQ only says entry is free and describes no reservation process. Whether vehicle rides are first come, first served is not stated.
-- **Journey times and fares** from Seoul or Daejeon — not checked against a Korail timetable.
-- **Buses from Daejeon** — no festival-specific extra services appear in the official materials.
-- **Wheelchair and pushchair access** — nothing beyond the accessible parking.
-- The FAQ says there are nine car parks, while the map shows ten including the runway lot.
-
 ## Wrapping up
 
 The Ground Forces Festival lets you stand right next to tanks and armoured vehicles, and with luck ride in one. Three things to remember: **rides in the morning**, **freefall at 14:40**, **Black Eagles on 3 October at 16:30.**

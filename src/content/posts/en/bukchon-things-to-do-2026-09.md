@@ -608,30 +608,6 @@ For **an early start**, go to Samcheong Park at 08:00, walk up to Malbawi and pa
 
 **Ninth, the cover photo was a rainy indoor hall.** We switched to Samcheong Park in autumn colour and matched the other photos to their sections.
 
-## What we could not confirm
-
-**Who chose the Eight Views of Bukchon, and when.** Still no official document.
-
-**The parcel-level red-zone boundary**, and **whether each of the Eight Views is inside it**. Follow the street signs.
-
-**Whether the Baek In-je House has a 13:30 weekend tour** (its two pages disagree) and **whether it closes on the Tuesday after a Monday holiday.**
-
-**The Culture Center's weekend opening time** (09:00 or 10:00): two Seoul Hanok Portal pages disagree.
-
-**The craft centre's closing time**: Jongno-gu and KTO say 18:00 in October, the Hanok Portal 17:00. Lower rows of the portal's workshop list repeat the Culture Center's address and hours, so we did not use them.
-
-**Bukchon Observatory's entry fee**, **whether Arario Museum's repairs are finished and what it shows in October**, **the dates of the Museum of Education's "Memory Box" exhibition**, **remaining places in Hanok Week programmes**, and **the craft festival's hours.**
-
-**Whether MMCA still sells the combined ticket after 11 October**, when paid exhibitions drop to two.
-
-**Whether the National Folk Museum has an entrance usable without a Gyeongbokgung ticket.** The museum only says it is free and the palace is paid.
-
-**Whether the Malbawi information post is open**: the City Wall site says closed, a March 2026 report says reopened.
-
-**The exact December closing date of Songhyeon Green Plaza.** Not yet announced.
-
-**Joongang High School's visiting hours for outsiders.** Nothing published that we could find.
-
 ## Quick summary
 
 - **Red zone (Bukchon-ro 11-gil area): tourist visits 10:00–17:00 only**, ₩100,000 fine outside those hours. **Even exempt people can be fined for taking photos.**

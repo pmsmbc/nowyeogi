@@ -444,31 +444,13 @@ The previous version, published on 23 September 2026, contained errors and unsup
 - We wrote that **every officially recognized place in Seochon is an old establishment and that newer dining barely appears in official records.** That was wrong. The MICHELIN Guide Seoul 2026 lists **one-star Onjium, Bib Gourmands Andeok (new in 2026) and Horapa (Thai), and selected Moulin (French)**. The old version had not checked MICHELIN at all.
 - We **left out the five Bib Gourmands (Andeok, Yonggeumok, Horapa, Halmaejip, Daesungjip), one-star Onjium, Tosokchon Samgyetang and Oraegage Sinanchon.** They are now included.
 - We said the **QR menus come in "five languages."** Reports say **four: Korean, English, Chinese (simplified and traditional) and Japanese.** We had counted the two Chinese scripts separately.
-- We gave the Sejong Village Food Street **"103 shops" and "38 of 103 with QR menus."** We could not find the source for 103 again. The 38 QR-menu restaurants and the 112 shops of 2015 are confirmed by reports; the current count is now under "What we could not confirm."
+- We gave the Sejong Village Food Street **"103 shops" and "38 of 103 with QR menus."** We could not find the source for 103 again. The 38 QR-menu restaurants and the 112 shops of 2015 are confirmed by reports."
 - We put Tongin Market at **"72 shops (Jongno-gu, updated 29 June 2026)"** but could not find that source again. We now give KTO's "around 70" alongside the "about 80" from Seoul Future Heritage and the STO.
 - We cited **"24 participating lunchbox stalls in 2020"** and removed it because we could not re-confirm the source.
 - We gave **lunchbox café hours** from one source only. Four official sources disagree, so they are now shown side by side, including the third-Sunday closure from Seoul Future Heritage that we had missed.
 - We removed claims we could not re-source: **that a Jongno-gu "please keep quiet" request for Ikseon-dong also appears on a Seochon route page, that smoking has been banned in all restaurants "since 2015"**, and a village bus route to Suseongdong Valley. Directions to the valley are in [things to do in Seochon](/en/posts/seochon-things-to-do-2026-09/).
 - The good-price table **omitted Sajikro Coffee and Jeonju Kongnamul Gukbap in Naeja-dong.** Added.
 - Three photos were shared with the [Seochon travel guide](/en/posts/seochon-guide-2026-09/). We replaced them with photos used only here and noted the date or that the dish is not from the named restaurant.
-
-## What we could not confirm
-
-**The exact hours and closing days of the Tongin lunchbox café.** The STO feature, the STO listing, KTO and Seoul Future Heritage all differ, and the market's former official website did not load on 2 October 2026.
-
-**Tongin Market's shop count and the number of participating lunchbox stalls.** Only "around 70" and "about 80" are confirmed.
-
-**The current number of shops on the Sejong Village Food Street.** The 2015 figure of 112 is from a press report; no later official figure was found.
-
-**Dinner service at the MICHELIN places.** MICHELIN shows Andeok, Horapa and Daesungjip as lunch-only, but DiningCode lists dinner hours. Halmaejip's Tuesday-dinner and Wednesday-to-Sunday-lunch pattern is reproduced as MICHELIN shows it and was not checked separately. Moulin's hours are not on its MICHELIN page.
-
-**Menu prices at Halmaejip and Moulin** were not found in official sources.
-
-**Whether Sinanchon and Yonggeumok are designated "Hundred-Year Stores"** by the Ministry of SMEs and Startups. Sinanchon is tagged so by KTO and Yonggeumok by DiningCode, but neither was checked against the ministry's list.
-
-**Maji's halal certification.** Only KTO's wording is available.
-
-**DiningCode prices** are posted by owners or users and are not clearly dated.
 
 ## Wrapping up
 

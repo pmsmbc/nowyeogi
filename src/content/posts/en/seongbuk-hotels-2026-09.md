@@ -138,16 +138,6 @@ By rail, take [[line:arex]] to Seoul Station and change to [[line:4]]. **Seven s
 - **Little is open late**
 - A good many of the sights **close on Mondays**, and the Kansong Art Museum opens only during exhibitions
 
-## What could not be verified
-
-**There is no official source for room rates in Seongbuk-gu.** That is why no figures appear here.
-
-**Complete data on hanok-stay businesses could not be obtained.** The Seoul Stay listing stands in for it.
-
-**The legal-status neighbourhood of the seven hanok stays could not be established.** Seoul Stay does not record legal-status neighbourhoods, so their locations were judged from street addresses and the nearest station each one advertises.
-
-**The arrival time of the city-bound 6011 at Hansung University** is not published by the airport limousine site. Only the location of the drop-off point is given.
-
 ## Wrapping up
 
 - **Registered lodging inside the legal-status neighbourhood of Seongbuk-dong is zero businesses and zero rooms.** Hanok stays are zero as well.

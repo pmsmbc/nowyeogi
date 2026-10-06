@@ -313,7 +313,7 @@ There are two ways in from [[line:arex]]:
 
 Weekday and weekend times are the same. The 23:22, 23:54 and 24:04 trains from Gongdeok **terminate at Geomam**, so don't mistake them for airport trains. **Coming in**, the last all-stop train to Seoul Station leaves **T1 at 23:38 and T2 at 23:32**.
 
-The Hamilton Hotel's official directions page still lists **airport limousine 6030** (getting off at the Hamilton Hotel stop). Its current service could not be confirmed from the operator (see below). For every airport option, see [Incheon Airport to Seoul](/en/posts/incheon-airport-to-seoul-2026-09/).
+The Hamilton Hotel's official directions page still lists **airport limousine 6030** (getting off at the Hamilton Hotel stop). Its current service could not be confirmed from the operator. For every airport option, see [Incheon Airport to Seoul](/en/posts/incheon-airport-to-seoul-2026-09/).
 
 ## Which to choose
 
@@ -351,22 +351,6 @@ The earlier version of this post (14 September 2026) and of the [Hannam-dong gui
 **Six: an airport bus stop was missing.** Both old versions listed only 6702's Grand Hyatt and Itaewon 2-dong stops; 6702 also stops at **Boseong Girls' School**, the stop named after Haebangchon's community center.
 
 **Seven: unsupported judgements are out.** Lines such as "the best view of any Seoul hotel", "the best English in Korea", "Line 6 is the weakest of Seoul's main lines" and "breakfast is rarely worth paying for" had no source.
-
-## What could not be confirmed
-
-**Room rates** are not given, as there is no official source. Hotel and homestay prices vary by site and date.
-
-**Separate counts for Itaewon 1-dong and 2-dong** were not possible; the data has no administrative-dong field.
-
-**Whether the six inns actually operate and what they are like** could not be checked beyond their "open" status in the data.
-
-**Which earlier hotel Mondrian Seoul Itaewon's 1998 registration descends from** could not be confirmed from official sources. All that is confirmed is that the operator named on the official site is Hotel Capital Co.
-
-**Airport limousine 6030** appears on the Hamilton Hotel website but not in the route list of the Airport Limousine company's official site. Its current status could not be confirmed with the operator, so it is left out of the airport tables.
-
-**Arrival times of 6702 at individual city stops**, and **last Line 6 and Line 4 trains from Gongdeok or Seoul Station towards Noksapyeong and Itaewon**, could not be found in official timetables. For a late arrival, keep a taxi in mind.
-
-**Noise or access restrictions around the Crown Hotel construction site** could not be confirmed.
 
 ## Summary
 

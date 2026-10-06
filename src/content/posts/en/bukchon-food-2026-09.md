@@ -386,20 +386,6 @@ The earlier version, published on 28 September 2026, had mistakes and weakly sou
 - **"Every restaurant and café is completely non-smoking"** had no source attached. Removed.
 - The cover was a street photo showing a parking enforcement sign. It is now a food photo, and every food photo says it was not taken at the named restaurant.
 
-## What we could not confirm
-
-**The exact hours of Anam, Muguok and Seoul Punggyeong.** MICHELIN, DiningCode and the good-price listing disagree.
-
-**Phone numbers for Samcheongdong Sujebi and Anam.** MICHELIN's numbers differ from other sources.
-
-**Dine-in prices at Anam and Muguok, and any prices for Smith Loves Hanok, Dugahun, Rossini and Osulloc Tea House.** None were in official sources.
-
-**Whether any Bukchon restaurant is a Ministry of SMEs and Startups "100-year shop" (Baengnyeon Gage).** We did not check the register directly.
-
-**Which zone and exception the brand stores and pop-ups at the entrance to Bukchon fall under, and whether Samcheong-dong-gil Zones 1 and 2 have separate franchise limits.** We did not check these against the zoning maps. Samcheong-dong-gil Zones 1 and 2 and the Yulgok-ro zone are not named in the franchise ban table of Notice 2020-589.
-
-**DiningCode prices** are posted by owners or users, so their dates are uncertain.
-
 ## Wrapping up
 
 - **Bukchon's restaurants sit on the main streets.** Notice 2020-589 allows only traditional food shops under 100㎡ in Zone 1 and bans restaurants on Gyedong-gil and Changdeokgung-gil. Franchises are banned in principle.

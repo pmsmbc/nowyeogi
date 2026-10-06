@@ -512,20 +512,6 @@ Five-minute shows every half-hour from 19:00. Doota is open until midnight, and 
 
 **Third, we assumed DDP's facade shows were festival-only.** Since September 2026, DDP 365 Light runs every night, every half-hour, even when there is no festival.
 
-## What we could not confirm
-
-**The regular ticket price for the Wayne Thiebaud exhibition.** A blog lists ₩23,000 for adults, but that is not an official source.
-
-**The DDP Design Fair's daily hours** and **prices for other DDP exhibitions during Seoul Design Week.**
-
-**Whether you can enter Heunginjimun's gate tower.** KTO only says "open at all times", so we have not claimed you can go inside.
-
-**Whether the City Wall Museum and Nam June Paik House open on Monday 5 October (a public holiday).** Sources word this differently.
-
-**The Quarry Observatory's current hours.** We followed the KTO listing; different hours were published around its 2023 reopening, so call ahead.
-
-Also unconfirmed: **official hours for the Dongmyo flea market**, **how many Pyeonghwa Market bookshops are open now and when**, **2026 hours and closing days for each night wholesale mall**, **the result of DIOT's hours review**, **October seasonal events at the city wall** and **the next Seoul Fashion Week dates**.
-
 ## Summary
 
 - **DDP** is open 10:00-20:00, Mondays included. Book the **Architecture Tour** (Tue-Sat, ₩10,000, English at 14:30) and the **Rooftop Tour** (until 29 November, ₩26,000, ages 18-70, photo ID, English at 11:00) in advance.

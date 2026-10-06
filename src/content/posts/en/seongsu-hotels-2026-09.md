@@ -322,18 +322,6 @@ The earlier version of this post (22 September 2026) contained errors and weakly
 
 **Seventh, the cover photo was changed.** The earlier version used a photo of Wangsimni Station; this one uses Seoul Forest.
 
-## What could not be confirmed
-
-**Room rates** are not given, as there is no official source. Hotel POCO Seongsu's official site shows only time-limited package prices.
-
-**The actual facilities and operation of the seven hostels** were not confirmed; only their licence status and room counts. Whether Staybut Seongsu and "Sweet Spot Seongsu" are the same place was not confirmed either.
-
-**Whether each homestay is actually operating** was not confirmed. Nor was the reason every Seongsu homestay in the data dates from September 2023 or later — how earlier designations were handled in the dataset is unclear.
-
-**Departure times of the 6013 from the airport and arrival times at city stops** are not in the operator's timetables. The AREX fare from Hongik University and the last trains on Lines 2 and 5 were not checked separately this time.
-
-**Places added in the October update** were left out to keep the numbers consistent with the neighbouring posts. Two more Seongsu homestays were designated on 28 and 29 September.
-
 ## Summary
 
 - Seongsu-dong 1-ga and 2-ga have **8 tourist accommodations**: one tourist hotel, **Hotel POCO Seongsu (80 rooms)**, and seven hostels all registered since December 2025.

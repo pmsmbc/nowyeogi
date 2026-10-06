@@ -409,20 +409,6 @@ Without the guided walk, the same route works on Tuesday or Thursday. On Sundays
 
 **Fifth, we left out the opening days.** Officially the Sewoon buildings **close on Sundays and public holidays**, which is the single most useful fact for planning a visit.
 
-## What we could not confirm
-
-**Whether the Sewoon rooftop is open now, and its hours.** We found no official notice; reports in 2023 and 2025 both said it was closed.
-
-**Whether removal of the Sampung–PJ Hotel walkway section has started**, and **whether the Sampung Sangga park has broken ground.** "Removal from May 2026" and "construction in H1 2026" are planned dates as reported.
-
-**Opening hours and fees for the Sewoon Electronics Museum and tech book lounge.** Ask the Makercity Sewoon public-space centre (+82-2-2273-5505, weekdays 10:00–19:00).
-
-**Common closing days for Bangsan Market and the lighting, tool and print shops.** Only the Sewoon buildings' Sunday and holiday closure is officially confirmed.
-
-**Languages offered on the Yi Sun-sin walk and whether it runs on public holidays**, **the next show and opening hours of the 335 m underground space**, and **ticket prices and show times for *Matryoshka*.**
-
-**Festivals in Euljiro in October–November 2026**: none found in official sources. The Nogari festival is in May.
-
 ## Quick summary
 
 - **Sewoon Sangga**: Korea's first all-in-one electronics market (1968), address in Jongno-gu. **Mon–Sat 09:00–19:00, closed Sundays and holidays.**
