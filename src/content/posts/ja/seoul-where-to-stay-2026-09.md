@@ -58,7 +58,7 @@ draft: false
 | 弘大 | 夜遊び、節約 | [[line:2]] [[line:gyeongui]] [[line:arex]] | [[line:arex]]各駅停車で直通 | 6〜16万ウォン |
 | 鍾路・北村 | 王宮、文化 | [[line:1]] [[line:3]] [[line:5]] | [[bus:6002]]、または[[line:arex]]＋[[line:1]] | 7〜25万ウォン |
 | 江南 | 買い物、K-POP | [[line:2]] [[line:9]] [[line:sinbundang]] | [[line:arex]]＋[[line:9]] | 15〜50万ウォン |
-| 梨泰院・漢南 | グルメ、バー | [[line:6]] | [[line:arex]]＋[[line:4]]＋[[line:6]] | 9〜35万ウォン |
+| 梨泰院・漢南 | グルメ、バー | [[line:6]] | [[line:arex]]＋[[line:4]]＋[[line:6]]、または[[bus:6702]]（梨泰院・漢南）・[[bus:6010]]（漢南） | 9〜35万ウォン |
 | 聖水 | カフェ、デザイン | [[line:2]] [[line:suinbundang]] | [[line:arex]]＋[[line:2]] | 10〜20万ウォン |
 | 蚕室 | 家族連れ、テーマパーク | [[line:2]] [[line:8]] | [[line:arex]]＋[[line:2]] | 12〜45万ウォン |
 | 東大門 | 深夜の買い物、節約 | [[line:1]] [[line:2]] [[line:4]] [[line:5]] | [[bus:6002]]、または[[line:arex]]＋[[line:1]] | 6〜20万ウォン |

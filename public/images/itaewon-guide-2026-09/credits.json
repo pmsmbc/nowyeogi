@@ -1,14 +1,5 @@
 [
   {
-    "src": "/images/itaewon-guide-2026-09/01.webp",
-    "alt": "",
-    "width": 940,
-    "height": 626,
-    "credit": "Korea Tourism Organization (KOGL Type 1)",
-    "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "서울_이태원 관광특구 (2)"
-  },
-  {
     "src": "/images/itaewon-guide-2026-09/02.webp",
     "alt": "",
     "width": 940,
@@ -16,5 +7,50 @@
     "credit": "Korea Tourism Organization (KOGL Type 1)",
     "creditUrl": "https://kto.visitkorea.or.kr/",
     "name": "서울_이태원 관광특구 (3)"
+  },
+  {
+    "src": "/images/itaewon-guide-2026-09/03.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1067,
+    "credit": "Lee Jeong Woo (이정우) / Ministry of Culture, Sports and Tourism via Republic of Korea from Seoul, Republic of Korea, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Haebangchon_(55191212937).jpg",
+    "description": "Haebangchon April 6, 2026 Haebangchon, Seoul Ministry of culture, sports and Tourism Official Photographer : Lee jeong woo All photographs in the official Flick"
+  },
+  {
+    "src": "/images/itaewon-guide-2026-09/04.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1067,
+    "credit": "Lee Jeong Woo (이정우) / Ministry of Culture, Sports and Tourism via Republic of Korea from Seoul, Republic of Korea, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Haebangchon_(55192351599).jpg",
+    "description": "Haebangchon April 6, 2026 Haebangchon, Seoul Ministry of culture, sports and Tourism Official Photographer : Lee jeong woo All photographs in the official Flick"
+  },
+  {
+    "src": "/images/itaewon-guide-2026-09/05.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1067,
+    "credit": "Lee Jeong Woo (이정우) / Ministry of Culture, Sports and Tourism via Republic of Korea from Seoul, Republic of Korea, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Haebangchon_(55192350479).jpg",
+    "description": "Haebangchon April 6, 2026 Haebangchon, Seoul Ministry of culture, sports and Tourism Official Photographer : Lee jeong woo All photographs in the official Flick"
+  },
+  {
+    "src": "/images/itaewon-guide-2026-09/06.webp",
+    "alt": "",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_이태원 관광특구 (5)"
+  },
+  {
+    "src": "/images/itaewon-guide-2026-09/07.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1200,
+    "credit": "Sikander, Public domain, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Seoul_central_mosque_02.jpg",
+    "description": "Seoul Central Mosque, Seoul, South Korea"
   }
 ]

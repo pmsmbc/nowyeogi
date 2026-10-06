@@ -90,7 +90,7 @@ draft: false
 | 홍대 | 밤 문화, 저예산 | [[line:2]] [[line:gyeongui]] [[line:arex]] | [[line:arex]] 일반열차 직행 | 6만~16만 원 |
 | 종로·북촌 | 고궁, 전통 | [[line:1]] [[line:3]] [[line:5]] | [[bus:6002]] 버스, 또는 [[line:arex]] + [[line:1]] | 7만~25만 원 |
 | 강남 | 쇼핑, K팝 | [[line:2]] [[line:9]] [[line:sinbundang]] | [[bus:6103]] 버스(코엑스), 또는 [[line:arex]] + [[line:9]] | 15만~50만 원 |
-| 이태원·한남 | 맛집, 술집 | [[line:6]] | [[line:arex]] + [[line:4]] + [[line:6]], 또는 [[bus:6010]] 버스(한남) | 9만~35만 원 |
+| 이태원·한남 | 맛집, 술집 | [[line:6]] | [[line:arex]] + [[line:4]] + [[line:6]], 또는 [[bus:6702]] 버스(이태원·한남), [[bus:6010]] 버스(한남) | 9만~35만 원 |
 | 성수 | 카페, 디자인 | [[line:2]] [[line:suinbundang]] | [[line:arex]] + [[line:2]] | 10만~20만 원 |
 | 잠실 | 가족, 테마파크 | [[line:2]] [[line:8]] | [[bus:6006]] 버스, 또는 [[line:arex]] + [[line:2]] | 12만~45만 원 |
 | 동대문 | 심야 쇼핑, 저예산 | [[line:1]] [[line:2]] [[line:4]] [[line:5]] | [[bus:6002]] 버스, 또는 [[line:arex]] + [[line:1]] | 6만~20만 원 |

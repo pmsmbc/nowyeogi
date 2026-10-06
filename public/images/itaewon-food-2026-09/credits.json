@@ -1,20 +1,42 @@
 [
   {
-    "src": "/images/itaewon-food-2026-09/02.webp",
-    "alt": "",
-    "width": 1213,
-    "height": 1600,
-    "credit": "Jonathan Hutchins, CC BY-SA 2.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gin_and_craft_beer_bar_on_Merrial_Street_-_geograph.org.uk_-_5690390.jpg",
-    "description": "Gin and craft beer bar on Merrial Street"
+    "src": "/images/itaewon-food-2026-09/01.webp",
+    "width": 1600,
+    "height": 1184,
+    "credit": "Shreya13jain, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mezze_platter.jpg",
+    "name": "팔라펠·후무스·바바가누시·피타·타불레를 담은 메제 플레이트 (일반 사진)"
   },
   {
-    "src": "/images/itaewon-food-2026-09/01.webp",
-    "alt": "",
+    "src": "/images/itaewon-food-2026-09/02.webp",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_이태원 이슬람거리 (6)"
+  },
+  {
+    "src": "/images/itaewon-food-2026-09/03.webp",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_이태원 이슬람거리 (5)"
+  },
+  {
+    "src": "/images/itaewon-food-2026-09/04.webp",
     "width": 1600,
-    "height": 1200,
-    "credit": "Amin Noubahar, CC BY-SA 4.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kebab_Gerashi.jpg",
-    "description": "یک سینی کباب گراشی (گوشت و مرغ)"
+    "height": 1067,
+    "credit": "Garrett Ziegler, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Ac%C4%B1l%C4%B1_Lahmacun.jpg",
+    "name": "Lahmacun (일반 사진)"
+  },
+  {
+    "src": "/images/itaewon-food-2026-09/05.webp",
+    "width": 1600,
+    "height": 1195,
+    "credit": "Michael Sean Gallagher, CC BY-SA 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sujebi_and_kimchi.jpg",
+    "name": "Sujebi and kimchi (일반 사진)"
   }
 ]
