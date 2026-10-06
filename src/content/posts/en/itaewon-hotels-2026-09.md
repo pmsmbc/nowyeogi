@@ -111,7 +111,7 @@ Three things to know about these numbers:
 - **The area around Noksapyeong Station is mostly Itaewon-dong too.** Yongsan-gu Office (150 Noksapyeong-daero) and the old Crown Hotel site (140 Noksapyeong-daero) both have Itaewon-dong addresses
 - **Big hotels appear twice**, once as tourist hotels and again in the lodging data. To avoid double counting, the inn column only counts **yeogwan** that are not in the tourist list. Three hostels registered in 2024–2025 also appear a second time in the lodging data as serviced residences
 
-Hannam-dong and Bogwang-dong are counted in the [Hannam-dong guide](/en/posts/hannam-hotels-2026-09/). The earlier versions of this post and that one covered the same streets and their numbers overlapped; they are now split by dong (see "What I got wrong").
+Hannam-dong and Bogwang-dong are counted in the [Hannam-dong guide](/en/posts/hannam-hotels-2026-09/). The two posts are split by legal dong.
 
 ### Within Seoul and Yongsan-gu
 
@@ -326,31 +326,6 @@ The Hamilton Hotel's official directions page still lists **airport limousine 60
 - **Late-night arrival** — last 6702 from T1 at 23:05, last AREX from T1 at 23:38. Homestays: confirm self check-in beforehand
 
 The neighbourhood itself is covered in the [Itaewon guide](/en/posts/itaewon-guide-2026-09/), sights in [things to do in Itaewon](/en/posts/itaewon-things-to-do-2026-09/) and restaurants in [Itaewon food](/en/posts/itaewon-food-2026-09/).
-
-## What I got wrong
-
-The earlier version of this post (14 September 2026) and of the [Hannam-dong guide](/en/posts/hannam-hotels-2026-09/) (29 September) contained mistakes or weakly sourced claims.
-
-**One: the two posts covered the same area.** The old version was "Itaewon and Hannam hotels by budget"; the Hannam guide was "10 hotels and 194 homestays in Itaewon and Hannam-dong", so the same hotels and numbers appeared in both. They are now split: **Itaewon-dong and Haebangchon here, Hannam-dong and Bogwang-dong there**. The old totals reconcile like this:
-
-| Item | Old Hannam guide | This guide | Hannam guide |
-| --- | --- | --- | --- |
-| Tourist accommodation (Itaewon-dong + Hannam-dong) | 10 | 8 | 2 |
-| Inns (Itaewon-dong + Hannam-dong + Bogwang-dong) | 9 | 6 | 3 |
-| Homestays (Itaewon-dong + Hannam-dong) | 194 | 173 | 21 |
-| Homestays (Haebangchon / Bogwang-dong) | 52 / 14 | 52 | 14 |
-
-**Two: Mondrian was in the wrong place.** The old version put Mondrian Seoul Itaewon in Hannam-dong. The licensing data and the official site both give **23 Jangmun-ro, Itaewon-dong**.
-
-**Three: unsourced prices are gone.** The old "luxury ₩350,000+, mid-range ₩130,000–250,000, budget ₩50,000–110,000", "20–40% more in peak season" and "taxi ₩65,000–85,000" came from a price-comparison average or from nowhere stated. This version gives no rates.
-
-**Four: Seoul Station to Samgakji is two stops, not one.** The old version said "one stop on [[line:4]] to Samgakji"; Sookmyung Women's University comes in between.
-
-**Five: the Crown Hotel information was out of date.** The old Hannam guide cited Edaily (May 2026) for "25 floors, about 150 homes, start of construction unconfirmed". According to Bloter (30 June 2026) and Daehan Kyungje (22 September), it is **two 14-storey blocks with 29 apartments and 4 officetel units**, and Yongsan-gu Office dates the **actual start of construction to 20 June 2026**.
-
-**Six: an airport bus stop was missing.** Both old versions listed only 6702's Grand Hyatt and Itaewon 2-dong stops; 6702 also stops at **Boseong Girls' School**, the stop named after Haebangchon's community center.
-
-**Seven: unsupported judgements are out.** Lines such as "the best view of any Seoul hotel", "the best English in Korea", "Line 6 is the weakest of Seoul's main lines" and "breakfast is rarely worth paying for" had no source.
 
 ## Summary
 

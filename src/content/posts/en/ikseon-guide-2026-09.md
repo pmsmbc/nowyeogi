@@ -268,7 +268,7 @@ On 24 December 2020, Ikseon and eight other hanok areas in Jongno and Seongbuk b
 
 ### Coffee is not a "recommended use"
 
-An earlier version of this guide got this backwards, so here it is in full. In the plan's table of **recommended uses**, the entry for "rest restaurants and bakeries" lists the recommended sub-uses as **traditional tea houses, hanjeongsik (set-meal) restaurants and traditional pubs**. The same notice then defines a traditional tea house:
+Here it is in full. In the plan's table of **recommended uses**, the entry for "rest restaurants and bakeries" lists the recommended sub-uses as **traditional tea houses, hanjeongsik (set-meal) restaurants and traditional pubs**. The same notice then defines a traditional tea house:
 
 > A business that cooks and sells only porridges such as jatjuk and kkaejuk and teas such as ginseng tea and ssanghwa tea (**excluding coffee**)
 
@@ -376,26 +376,6 @@ Jongno-gu's tourism site posts this on the walking-route page that includes Ikse
 The alleys are so narrow that **shop doors and private front gates sit side by side**. OhmyNews reported back in 2017 that remaining residents were "exposed without protection to cameras thrust at them by tourists". In practice, promise 4 means: **if a hanok has no shop sign, don't look in, even if the door is open**.
 
 **The rules differ from Bukchon.** Visiting-hour limits and fines apply to the Bukchon "red zone" (see the [Bukchon guide](/en/posts/bukchon-guide-2026-09/)); no notice of a similar time limit for Ikseon-dong could be found as of this update. The four promises above are guidance.
-
-## What we got wrong
-
-The first version of this guide (22 September 2026) contained errors and weakly sourced claims. After rereading the original notices:
-
-**One: we wrote that "cafés and bakeries are uses recommended by the city".** The recommended sub-uses are **traditional tea houses, set-meal restaurants and traditional pubs**, and a traditional tea house is defined as selling tea **excluding coffee**. Meanwhile **chain cafés and bakeries are banned**. We had it backwards.
-
-**Two: we presented "no plot merging, maximum development size 330 m²" as a rule for the whole area.** The merging ban is area-wide, but **the 330 m² cap applies to the Donhwamun-ro and Taehwagwan-gil zones**; the preservation zone and others develop **plot by plot**.
-
-**Three: we called the non-hanok limit of two storeys (8m) "effectively single-storey".** Two storeys are two storeys. The one-storey limit applies only to **hanok in the preservation zone**.
-
-**Four: we gave the redevelopment zone's designation date as 29 April 2004.** The lifting notice (2018-132) cites designation notice **2004-124 of 6 May 2004**. We could not find a source for 29 April.
-
-**Five: we said flatly that the houses were "built in the 1930s for Koreans".** City sources variously say "land bought in the late 1920s, dozens of houses in 1935", "118 hanok from before the 1930s" and "119 hanok from the 1920s-1950s". The table above sets them out.
-
-**Six: we left out the 2010 planning committee decision.** The committee had already asked for **a hanok-preservation plan** before the redevelopment committee dissolved in 2014.
-
-**Seven: we called the 13 November 2025 change a "correction" of prohibited uses.** The notice is titled a "change"; its content is unconfirmed.
-
-**Eight: "you can walk all the alleys in 30 minutes" had no source and has been removed.** Adding Seosulla-gil changes the distance anyway.
 
 ## Timeline
 

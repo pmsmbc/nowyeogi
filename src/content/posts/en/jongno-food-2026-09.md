@@ -520,20 +520,6 @@ According to Seoul Future Heritage, buses including [[bus:101]] [[bus:103]] [[bu
 
 **There is no tipping.** The menu price is the final price.
 
-## What we got wrong
-
-The earlier version, published on 12 September 2026 and partly corrected on 1 October, had a lot that was wrong or unsupported. Here is what changed.
-
-- It **led with Gwangjang Market** and gave unsourced prices such as ₩5,000–7,000 for bindaetteok and ₩15,000–25,000 for yukhoe. Gwangjang Market is at Jongno 5-ga and has its own guide, so we now just link to it. We also removed "Korea's oldest permanent market" and "perfectly safe at the busy stalls", which we could not support.
-- It said temple food uses **"no garlic or onion"**. The official list of five pungent vegetables is **spring onion, garlic, chives, wild rocambole and asafoetida**; onion is not on it.
-- It said temple food sets **"run ₩20,000–40,000"** and that **"Insadong has several"**, with no source. The Jogye Order's own restaurant, Balwoo Gongyang, charges **₩36,000–120,000** (the cheapest only at weekday lunch) and is in Gyeonji-dong opposite Jogyesa, not in Insadong. We suggested asking at the Templestay Information Center; Balwoo Gongyang is on the fifth floor of that building.
-- It priced **tea house pots at ₩8,000–12,000** without a source. It now gives confirmed prices shop by shop.
-- **"Jongno has the highest concentration of old restaurants in Seoul"** and **"the oldest drinking streets in Seoul"** were unsupported and have been removed.
-- **Ikseon-dong prices** (mains ₩12,000–20,000, coffee ₩6,000–8,000, 30-minute weekend queues) and **"Samcheong-dong is 20–30% above the Seoul average"** had no source. Those areas now point to the [Ikseon-dong](/en/posts/ikseon-food-2026-09/) and [Bukchon](/en/posts/bukchon-food-2026-09/) guides, which use official data.
-- Generalisations such as **"many old restaurants close 15:00–17:00 and shut by 21:00"** and **"some Insadong shops close on Sunday"** have been replaced with official hours for each place.
-- It **missed** the Bib Gourmand Gaeseong Mandu Koong, nine Seoul Future Heritage restaurants and tea rooms, Euljimyeonok's 2024 move to Nagwon-dong, the ₩3,000 soup and the good-price registry. These are now included.
-- The two Gwangjang Market photos were removed, and every photo now says it is not from the named restaurant or gives the date it was taken.
-
 ## Wrapping up
 
 - **Temple food**: **Balwoo Gongyang**, run by the Jogye Order (₩36,000–120,000, closed Sunday, one MICHELIN star 2017–2019); **Sanchon**, popular with foreign visitors; vegan Korean at **Osegyehyang**.

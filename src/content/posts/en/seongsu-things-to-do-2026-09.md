@@ -495,26 +495,6 @@ From November the greenhouse is open 10–16 and the butterfly garden is closed.
 
 **On a Monday** the museum and greenhouse are both closed, so plan around Seoul Forest's outdoor areas, Yeonmujang-gil and the shoe street. **From November** the greenhouse closes at 16:00, so put it in the morning.
 
-## What we got wrong
-
-**First, we wrote that Seongsu had weak tourist information and that the only places to ask a person were the Seoul Forest visitor centre and the 1330 hotline.** In November 2023 Seongdong-gu opened the **Seongsu Tourist Information Centre inside Seongsu Station**, staffed by tourist interpreters, and in 2025 it also ran roaming guides.
-
-**Second, we wrote that "Ttukdo Cheongchun Market" does not exist as a market.** Seongdong-gu's own 2026 press release and news reports use that name for the market near Seongsu Station. We removed the claim.
-
-**Third, we described Seoul Forest as "open 24 hours".** The city's page says only "open every day"; the 24-hour figure applies to the car park. We now give only the eco forest's 05:30–21:30.
-
-**Fourth, we gave the number of people the 1908 plant served as "about 165,000" alone.** That is the Korea Heritage Service figure; the Waterworks Authority and KTO say 125,000. We now give both.
-
-**Fifth, the version published in September left out the Seoul International Garden Expo**, the largest event in the area, running in Seoul Forest from 1 May to 27 October. We added it with the October programme.
-
-**Sixth, there was nothing on the weekend car restrictions, the e-scooter ban, Creative×Seongsu or October pop-ups.** We added them from official announcements and dated reports.
-
-**Seventh, we shortened the park rule to "e-scooters and Segways banned".** We now follow the official wording on powered rides and the ₩50,000 fine.
-
-**Eighth, one source was mislabelled.** A Seongdong-gu page we listed as the Ttukdo market page is now the district's Seoul Forest page.
-
-**Ninth, the cover was a distant skyline shot.** We replaced it with an autumn path in Seoul Forest, dropped the station-sign photos and added the pump house and shoe street.
-
 ## Quick summary
 
 - **Seoul Forest is free and open every day.** Greenhouse and butterfly garden closed Mondays. **Butterfly garden ends 31 October; greenhouse closes at 16:00 from November.**

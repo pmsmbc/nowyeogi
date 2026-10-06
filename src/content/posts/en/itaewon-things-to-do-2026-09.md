@@ -408,22 +408,6 @@ Itaewon's streets are quiet in the morning with many shops still shut. **War Mem
 
 **On 30-31 October**, skip this plan's evening on Itaewon-ro and the World Food Street. The War Memorial and Haebangchon are fine in daylight.
 
-## What we got wrong
-
-**One: we gave the War Memorial's hours simply as "09:30-18:00".** The official line is **last entry 17:00, closing begins 17:40**; arrive just before six and you will not get in. We also missed the "closed the day after a holiday run that includes a Monday" rule.
-
-**Two: we said the War Memorial was "a 15-minute walk west of Itaewon Station".** No such route appears in the official directions; it is now **three minutes from Samgakji exit 12**. Some descriptions of the outdoor displays and memorial walls could not be confirmed and were removed.
-
-**Three: we listed the mosque's hours as "09:00-19:00".** We could not find these in any official source, so we removed them and kept the etiquette and phone number.
-
-**Four: we included Leeum and Hannam-dong here.** They are covered in more depth on [the Hannam-dong page](/en/posts/hannam-things-to-do-2026-09/), so they moved there. Leeum's prices and booking rules now appear only on that page.
-
-**Five: we described Gyeongridan-gil as "climbing west from Noksapyeong Station".** We now use the KTO definition (from the Armed Forces Financial Management Corps gate towards the Grand Hyatt).
-
-**Six: much was missing.** We added the official locations of the World Food Street and Quy Nhon Street, Usadan-ro, the antique street, the 108-steps lift, Sinheung Market, the memorial dates and the Halloween crowd measures.
-
-**Seven: the cover photo was the War Memorial building.** It is now a bright Haebangchon street in blossom; the unused UN poster photo was deleted and the mosque photo's credit corrected.
-
 ## Quick summary
 
 - **War Memorial: free**, opens 09:30, **last entry 17:00**, closed Mondays and the day after a holiday run including a Monday. Tours need no sign-up; English tours in Korean War Room II at 10:30 and 14:30.

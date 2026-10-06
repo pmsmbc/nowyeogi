@@ -297,14 +297,6 @@ This former US officers' housing in the south-east of the garrison opened earlie
 
 Officers' Quarters Complex 5 (221 Seobinggo-ro) works better as **its own half-day** than squeezed in with the Children's Garden.
 
-## What we got wrong
-
-**One: this page was written as a "beyond the basics" guide to both Itaewon and Hannam-dong.** It overlapped heavily with [the Itaewon page](/en/posts/itaewon-things-to-do-2026-09/), so the scope is now **Hannam-dong and Hangangjin only**. Mosque etiquette, Haebangchon's Sinheung Market and 108 steps, the antique furniture street, the October street festival on Itaewon-ro and the Road of Memory and Safety moved there.
-
-**Two: the Blue Square listings stopped at the end of October.** We rechecked the official site on 6 October and added two November events.
-
-**Three: KTO photo credits on the English and Japanese pages were written in Korean.** They now use each language's credit line.
-
 ## Quick summary
 
 - **Leeum**: book 14 days ahead, up to four people at a time. **Koo Jeong A: OUSSSMOS** runs 5 Sep-27 Dec; the traditional art galleries and the Orozco garden are free. Five minutes from Hangangjin exit 1.

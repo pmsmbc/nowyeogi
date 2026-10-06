@@ -381,7 +381,7 @@ The scene has made news abroad too. According to the Korea Economic Daily (17 Se
 
 ## Across the road in Nagwon-dong: what the monkfish street really is
 
-Cross Samil-daero from Ikseon-dong and you reach Nagwon-dong's braised monkfish (agujjim) alley. The earlier version of this guide got this wrong.
+Cross Samil-daero from Ikseon-dong and you reach Nagwon-dong's braised monkfish (agujjim) alley.
 
 - **The Seoul Future Heritage listing is a restaurant, not the street.** Entry **2019-007 is Yetnaljip Nagwon Agujjim** (436 Samil-daero). The phrase "Jongno 3-ga Nagwon-dong monkfish street" appears only once, in the entry's explanation that it is **"the oldest monkfish restaurant on the Jongno 3-ga Nagwon-dong monkfish street"**. On 2 October 2026 none of the 103 Jongno-gu Future Heritage entries was a "monkfish street".
 - According to the entry, a couple who had sold agujjim in Masan in the 1960s came to Seoul and opened this restaurant; other monkfish restaurants clustered around it in the 1990s. The same page gives the founding year as both **1972 (history) and 1977 (preservation note)**.
@@ -443,20 +443,6 @@ For transport cards, see [Seoul subway and T-money](/en/posts/seoul-subway-tmone
 **Parking is hard.** KTO and Visit Seoul list no parking for the Ikseon-dong hanok street, Seosulla-gil, Gamkkotdang and Teumari.
 
 **No tipping.** The menu price is what you pay. If Korean food is new to you, start with [Korean food for beginners](/en/posts/korean-food-for-beginners-2026-09/).
-
-## What we got wrong
-
-The earlier version, published on 22 September 2026, had errors and unsupported claims. Here is what changed.
-
-- It said **"the Jongno 3-ga Nakwon-dong braised monkfish street" is an official name written on a Seoul Future Heritage certificate**. That was wrong. Future Heritage 2019-007 is **a restaurant, Yetnaljip Nagwon Agujjim**; the street name appears only in that restaurant's description, and there is no "monkfish street" entry in the Jongno-gu list. We have not seen the certificate wording ourselves.
-- It stated flatly that the restaurant holds **Future Heritage (2019), Oraegage (2024) and Centennial Store**. Only the first two are confirmed by official sources; the Centennial Store claim rests on a magazine report.
-- It said **Visit Seoul "publishes Ikseon-dong café prices"** and presented scones at ₩4,700–5,800 and cakes at ₩8,000–8,300 as the neighbourhood rate. Those figures were the menu of **one café, Cafe Highwest** — which is in Donui-dong. They are now in a shop-by-shop table. "Meals around ₩10,000" has been removed because we could not find its source again.
-- It called ₩3,000 soup and an ₩8,300 cake **"a fivefold difference"**. The arithmetic was wrong: it is about 2.8 times. The soup shop is in Nagwon-dong and now sits in the Jongno guide.
-- Walking distances to good-price shops (**270 m, 510 m, 420 m**) and from station exits (**141 m, 167 m**) had no source. They are replaced by Visit Seoul's exit distances.
-- **"0 of 74 model restaurants and 0 of 200 safe restaurants"** have been removed because we could not recheck the source data. The good-price count was rechecked on 2 October 2026, and the table now also covers MICHELIN, Future Heritage and Oraegage.
-- General notes that duplicated other guides or lacked a source (Seoul-style monkfish, the year of the smoking ban) were cut, and **about twenty places in this area** were added from Visit Seoul and KTO. The old version did not name a single shop inside Ikseon-dong.
-- It missed the 2018 franchise restriction and its 2025 easing, the Galmaegi alley coexistence street and Seosulla-gil. These are now included.
-- It borrowed two lane photos from the Ikseon-dong overview guide. They have been replaced with food photos for this guide, each noting that it is not from the named shop.
 
 ## Wrapping up
 

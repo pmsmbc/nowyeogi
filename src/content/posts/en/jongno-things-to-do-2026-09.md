@@ -510,22 +510,6 @@ Saturday is a Jongmyo walk-in day and the Yulgok-ro gate between Changgyeonggung
 
 To see Changgyeonggung after dark instead, flip the afternoon: **Jongmyo first, Changgyeonggung last**. For drinks afterwards, see [Jongno pojangmacha and street-side bars](/en/posts/jongno-pocha-2026-09/).
 
-## What we got wrong
-
-**First, Changdeokgung's closing day.** The previous version said Gyeongbokgung, Changdeokgung and Jongmyo all close on Tuesday. Per the Royal Palaces and Tombs Center, **Changdeokgung and Changgyeonggung close on Mondays**; only Gyeongbokgung and Jongmyo close on Tuesdays. The East Palaces are open on Tuesdays.
-
-**Second, the Secret Garden tour length.** We said about 90 minutes; the official guide says **about 70**, plus at least 15 minutes' walk from the entrance to the start.
-
-**Third, Jongmyo's walk-in days.** We wrote "Saturdays and some other days". The timetable says walk-in on **Wednesday (Culture Day), Saturday, Sunday and holidays**, timed entry on **Monday, Thursday and Friday**, and this autumn there are stretches when it is walk-in every day.
-
-**Fourth, the Changdeokgung entrance.** We did not mention that **Donhwamun is closed for repairs until July 2027 and the entrance is Geumhomun**.
-
-**Fifth, the Secret Garden money traps.** The ₩5,000 garden ticket **needs a separate palace ticket**, and none of the hanbok, combined-pass or free-day deals apply to the garden. Over-65s pay full price for it.
-
-**Sixth, unsourced numbers.** "Hanbok rental ₩15,000–30,000 for four hours", "12,000 steps without noticing" and a Bukchon charter-bus ban had no source we could confirm, so they are gone. Bukchon's visiting-hours rule is covered from official sources in [Bukchon things to do](/en/posts/bukchon-things-to-do-2026-09/).
-
-**Seventh, a broken photo credit link.** All photos are now KTO public-licence images.
-
 ## Quick summary
 
 - **Changdeokgung and Changgyeonggung close Mondays; Gyeongbokgung and Jongmyo close Tuesdays.** Everything is closed on Tuesday 6 October.

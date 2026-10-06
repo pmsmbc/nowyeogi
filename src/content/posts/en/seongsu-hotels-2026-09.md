@@ -304,24 +304,6 @@ Everything else about airport transport is in [Getting from Incheon Airport to S
 
 For the neighbourhood itself see the [Seongsu guide](/en/posts/seongsu-guide-2026-09/), for sights [things to do in Seongsu](/en/posts/seongsu-things-to-do-2026-09/), and for cafés and restaurants [where to eat in Seongsu](/en/posts/seongsu-food-2026-09/).
 
-## What I got wrong
-
-The earlier version of this post (22 September 2026) contained errors and weakly sourced claims.
-
-**First, it said "Seongsu has no registered tourist hotel at all."** That sentence relied on Seongdong-gu's tourism website, which lists five tourist accommodations, all in Wangsimni and Yongdap-dong. Seoul's licensing data shows **Hotel POCO Seongsu registered again as a tourist hotel on 7 April 2026**, and with the seven hostels Seongsu has **eight** tourist accommodations.
-
-**Second, it said hostels could only be found in Yongdap-dong or Hawangsimni.** There are seven inside Seongsu, though most are tiny.
-
-**Third, it counted from a different dataset.** The earlier version used the national LOCALDATA licensing data (updated 8 September) and gave "21 places, 299 rooms". Recounted from the same Seoul data as the other neighbourhood posts (as of 24 September), the figure is **23 places, 310 rooms**. The 186 rooms in inns is unchanged.
-
-**Fourth, unconfirmed figures and quotations were removed.** "Nine Seoul Stay homestays within 1km of Seongsu Station", "four Seongdong-gu places on the Seoul Tourism Organization's official list", the fire-safety and floor-area requirements for homestays, the penalty for unlicensed lodging, and the quotations from the Ministry of Culture and Busan city could not be checked against the original texts this time.
-
-**Fifth, unsourced journey times were removed.** "Gangnam in 16 minutes, Hongdae in 27", "last Saturday train at 23:21" and "13 minutes to Seoul Forest by subway" gave no source. This version counts stops instead.
-
-**Sixth, the 6013 had no stop times.** The earlier version gave only stop names and the fare. The operator's per-stop timetables now give **Seongsu 119 Center 04:34 to 20:43, 34 a day**.
-
-**Seventh, the cover photo was changed.** The earlier version used a photo of Wangsimni Station; this one uses Seoul Forest.
-
 ## Summary
 
 - Seongsu-dong 1-ga and 2-ga have **8 tourist accommodations**: one tourist hotel, **Hotel POCO Seongsu (80 rooms)**, and seven hostels all registered since December 2025.

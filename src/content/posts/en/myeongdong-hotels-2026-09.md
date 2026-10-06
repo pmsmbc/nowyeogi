@@ -333,18 +333,6 @@ Weekday and holiday times are the same. Who can use the city air terminal at Seo
 
 For sights see [things to do in Myeongdong](/en/posts/myeongdong-things-to-do-2026-09/), and for meals [where to eat in Myeongdong](/en/posts/myeongdong-food-2026-09/).
 
-## What the earlier version got wrong
-
-The first version of this page (10 September 2026) had errors.
-
-**First, five of the "Myeongdong hotels" it recommended are not in Myeongdong.** Lotte Hotel Seoul and The Westin Josun are in Sogong-dong, The Splaisir Myeongdong in Bukchang-dong, Lotte City Hotel Myeongdong in Jang-gyo-dong, and one of the two Nine Tree Myeongdong hotels (II) in Cho-dong. Both are now registered as "**Nine Tree by Parnas**", not "Nine Tree Premier".
-
-**Second, no lodging is registered as "Loisir Hotel Seoul Myeongdong".** The building known by that name, 115 Toegye-ro, is now licensed as two **general hotels**, Myeongdong Migliore BM Hotel and Mohenic Hotel Seoul Myeongdong. The pool mentioned in the earlier version could not be confirmed from an official source and has been removed.
-
-**Third, there was no basis for "the Namdaemun-ro hotels are older buildings with roomier layouts".** The three big Namdaemun-ro 4-ga hotels were registered in 2013–2018; the old hotels here are **the Savoy (1963), Seoul Prince (1969), Seoul Rex (1970), Sejong (1973) and Pacific (1975)** in Chungmuro, Namsan-dong and Hoehyeon-dong. Licensing data says nothing about room sizes.
-
-**Fourth, the price bands and seasonal mark-ups were not official.** Figures such as "₩60,000–110,000" and "20–40% more in peak season" came from booking-site averages and have been removed.
-
 ## Summary
 
 - Myeongdong's 14 dong have **69 tourist lodgings with 6,399 rooms**, 29 hotels and 40 hostels: about 11% of Seoul's tourist lodging rooms.

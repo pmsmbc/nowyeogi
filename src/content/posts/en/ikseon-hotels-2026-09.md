@@ -348,22 +348,6 @@ Weekday and holiday times are the same. All the options for getting into Seoul a
 
 For the neighbourhood itself see [Ikseon-dong travel guide](/en/posts/ikseon-guide-2026-09/), for sights [things to do in Ikseon-dong](/en/posts/ikseon-things-to-do-2026-09/), and for meals [where to eat in Ikseon-dong](/en/posts/ikseon-food-2026-09/).
 
-## What I got wrong
-
-The earlier version of this post (22 September 2026) had errors and weakly sourced claims.
-
-**One: the hanok numbers were wrong.** It used the Seoul Tourism Organization's Seoul Stay list to say "100 of Seoul's 133 hanok stays are in Jongno-gu" and said full hanok licensing data could not be obtained. The city's hanok licensing data lists **438 operating in Seoul, 358 of them (82%) in Jongno-gu**. This version recounts from that data.
-
-**Two: "6 within 500 m of Jongno 3-ga Station, 21 within 500 m of Anguk Station"** came from the same Seoul Stay list and has been dropped. The seven neighbourhoods in this post have **14** hanok stays.
-
-**Three: unsourced hanok examples are gone.** "Some hanok stays list shared toilets", "one hanok advertises four queen beds" and "most hanok in winter use individual heating" could not be traced to a source. The points about the standard itself (no private-bathroom or bed rule) were rechecked against the decree text and kept.
-
-**Four: one jjokbang support detail was removed.** "Heatwave safe lodging, up to 10 days per person" was not on the Jongno-gu page cited as its source. The resident figures (490 of 671) and the centre's facilities were rechecked on that page.
-
-**Five: "3,840 tourist-hotel rooms across Jongno-gu"** could not be re-sourced and is gone. This version uses **171 places with 5,043 rooms**, the same figure as the [Jongno](/en/posts/jongno-hotels-2026-09/) post.
-
-**Six: almost no properties were named.** The old version gave only percentages by licence type. This version lists the hotels, hostels and hanok in all seven neighbourhoods by name and address. The room counts by type (886 yeogwan rooms, 760 tourist-hotel rooms and so on) came out the same on recount.
-
 ## Summary
 
 - Across Ikseon, Nagwon, Donui, Myo, Gwonnong, Waryong and Bongik-dong: **27 tourist hotels and hostels (1,148 rooms)**, **74 lodging businesses (2,664 rooms)**, **14 hanok stays** and 5 homestays.

@@ -348,22 +348,6 @@ The **City Airport Terminal** is on basement level 2 of the AREX side of Seoul S
 
 Sights are in [things to do in Euljiro](/en/posts/euljiro-things-to-do-2026-09/) and restaurants in [Euljiro food](/en/posts/euljiro-food-2026-09/).
 
-## What the earlier version got wrong
-
-The first version of this page (22 September 2026) had errors and weakly sourced claims.
-
-**One: "205 homestays in Jung-gu" was wrong.** Recounted from the Seoul Open Data homestay dataset (updated 27 September 2026), Jung-gu has **384** open. Where the old figure came from could not be traced. The claim that "Euljiro has only 3" is **8** for the 20 dong defined here.
-
-**Two: "Jung-gu has 25% of all Seoul's rooms" did not say which data it used.** It is right for the **general lodging data (Public Health Control Act)** at 24.9%, but in the **tourist lodging data (Tourism Promotion Act)** the share is **32.9%**. The old page also set it beside a Jung-gu press release's "about 26%", which counted businesses rather than rooms, and called them "two sources giving the same answer". They were not like for like. This version shows both in a table.
-
-**Three: "6015 runs 80 times a day" depends on the stop.** It is 80 at the Euljiro stops but **81 at Myeongdong and Hoehyeon stations**.
-
-**Four: "No hanok stays in Jung-gu" was wrong.** The hanok dataset has one, **Jungnimjae in Jungnim-dong (2022)**. The "100 of Seoul Stay's 133 hanok are in Jongno-gu" figure has been replaced with the licensing data (358 of Seoul's 438).
-
-**Five: the City Airport Terminal conditions were oversimplified.** The old page said "eight Korean airlines, excluding US, Guam and Saipan routes". The official page now says **eligible routes differ by airline**, the Americas exclusion applies to some airlines, and lists airlines by terminal.
-
-**Six: claims that could not be re-sourced were removed.** These include "the printing and metalwork alleys are quiet at night", "the 11 pm outdoor-seating limit applies only to residential zones", a quote from a July 2026 Seoul press release, Myeongdong noise readings, "9–15 minutes by subway to Seoul Station" and a description of serviced-residence facilities.
-
 ## Summary
 
 - The 20 Euljiro dong have **62 tourist lodgings with 4,668 rooms**: 20 hotels and 42 hostels, about 25% of Jung-gu's tourist-lodging rooms.

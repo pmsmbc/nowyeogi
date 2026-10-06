@@ -276,16 +276,6 @@ In the basement of an office tower east of Bosingak is the **Gongpyeong Historic
 
 The tower went up, but **the Joseon lane underneath was kept in its basement instead of being cleared**. The current visitor page does not list closing days, so check before you go.
 
-## What I got wrong
-
-**One: Gwanghwamun Square was not built once.** The 2009 and 2022 squares differ in size by more than double. The first was an island between carriageways; the current one swallowed the entire western carriageway.
-
-**Two: the 2009 square's size depends on the source.** The city's 2025 history gives **18,014㎡ and 34m wide**; the 2022 reopening release gives the "previous" square as **18,840㎡ and 35m wide**. I could not establish which is right or whether they measure differently.
-
-**Three: I assumed both squares had the same rules.** Seoul Plaza's ordinance is a **notification system that names assemblies and demonstrations as a purpose**; Gwanghwamun Square's is a **permit system for leisure and culture**.
-
-**Four: I assumed the bell at Bosingak was the Joseon original.** A new bell has been rung since Liberation Day 1985; the 1468 bell is at the National Museum of Korea.
-
 ## Timeline
 
 | When | What happened |

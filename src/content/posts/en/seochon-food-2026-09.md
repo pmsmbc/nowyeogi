@@ -437,21 +437,6 @@ Seoul Future Heritage says buses such as [[bus:1020]] [[bus:1711]] [[bus:7022]] 
 
 **There is no tipping in Korea.** The menu price is what you pay. If Korean food is new to you, start with [Korean food for first-timers](/en/posts/korean-food-for-beginners-2026-09/).
 
-## What we got wrong
-
-The previous version, published on 23 September 2026, contained errors and unsupported claims. Here is what we corrected.
-
-- We wrote that **every officially recognized place in Seochon is an old establishment and that newer dining barely appears in official records.** That was wrong. The MICHELIN Guide Seoul 2026 lists **one-star Onjium, Bib Gourmands Andeok (new in 2026) and Horapa (Thai), and selected Moulin (French)**. The old version had not checked MICHELIN at all.
-- We **left out the five Bib Gourmands (Andeok, Yonggeumok, Horapa, Halmaejip, Daesungjip), one-star Onjium, Tosokchon Samgyetang and Oraegage Sinanchon.** They are now included.
-- We said the **QR menus come in "five languages."** Reports say **four: Korean, English, Chinese (simplified and traditional) and Japanese.** We had counted the two Chinese scripts separately.
-- We gave the Sejong Village Food Street **"103 shops" and "38 of 103 with QR menus."** We could not find the source for 103 again. The 38 QR-menu restaurants and the 112 shops of 2015 are confirmed by reports."
-- We put Tongin Market at **"72 shops (Jongno-gu, updated 29 June 2026)"** but could not find that source again. We now give KTO's "around 70" alongside the "about 80" from Seoul Future Heritage and the STO.
-- We cited **"24 participating lunchbox stalls in 2020"** and removed it because we could not re-confirm the source.
-- We gave **lunchbox café hours** from one source only. Four official sources disagree, so they are now shown side by side, including the third-Sunday closure from Seoul Future Heritage that we had missed.
-- We removed claims we could not re-source: **that a Jongno-gu "please keep quiet" request for Ikseon-dong also appears on a Seochon route page, that smoking has been banned in all restaurants "since 2015"**, and a village bus route to Suseongdong Valley. Directions to the valley are in [things to do in Seochon](/en/posts/seochon-things-to-do-2026-09/).
-- The good-price table **omitted Sajikro Coffee and Jeonju Kongnamul Gukbap in Naeja-dong.** Added.
-- Three photos were shared with the [Seochon travel guide](/en/posts/seochon-guide-2026-09/). We replaced them with photos used only here and noted the date or that the dish is not from the named restaurant.
-
 ## Wrapping up
 
 - **Tongin Market**: ₩500 per coin, about ₩5,000 per person. **Avoid Mondays and the third Sunday, and on weekdays go before 3 p.m.** Try the **oil tteokbokki** that began in 1956 (Seoul Future Heritage) and **Sonmat Gimbap** from 1980 (Oraegage).

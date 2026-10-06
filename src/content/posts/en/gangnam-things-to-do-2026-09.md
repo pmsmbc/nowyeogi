@@ -410,24 +410,6 @@ On a Monday, swap the tombs for **Bongeunsa, COEX and Dosan Park**.
 
 **On a Sunday** you can flip it: Dosan Park and Garosu-gil in the day, then finish with **Twilight Resonance at Bongeunsa at 17:00**. **From November**, the tombs close at 17:30, so keep them for the morning.
 
-## What we got wrong
-
-**One: we gave the tombs' November–February hours as "06:30–21:00".** The official hours are **06:30–17:30 from November to January (last entry 16:30) and 06:00–18:00 in February**. Go on a winter evening and you will find them closed. We also left out the **Monday closing**.
-
-**Two: we listed a ₩500 fee for ages 7–18.** The official fee table has no youth fee: **foreigners aged 18 and under are free**. The Seoul city English page still shows ₩500. We have added free entry in hanbok.
-
-**Three: we said Bongeunsa charged ₩1,000.** KTO's English listing says **free**. We could not source "05:00–21:00" either, so we now show the conflicting official figures and the phone number.
-
-**Four: we said the temple stay runs "on the first weekend of each month".** The current booking page lists it only as "Sat–Sun", with dates set on its calendar. The ₩120,000 price was right. We have added the Tuesday, Friday and Sunday programmes and the October fair.
-
-**Five: we gave Starfield Library as "10:00–22:00, about 50,000 books".** The Starfield website says **10:30–22:00, about 70,000 books**.
-
-**Six: we had no aquarium details.** It is now **SEA LIFE COEX Aquarium**, ₩28,000 for adults online.
-
-**Seven: we included shopping and nearby tips we could not source**: "the cheapest clothes shopping" at Gangnam Station, the Express Bus Terminal underground mall (Seocho-gu), Yangjae Citizen's Forest, jjimjilbang, Lotte World Tower (Songpa-gu), and "agencies around Yongsan and Gangnam". SM has moved to Seongsu. We have added Dosan Park and its memorial hall, Yangjaecheon and the autumn events instead.
-
-**Eight: the cover was an indoor shot.** It is now Bongeunsa against the skyline, and the tomb photo has been replaced with one from KTO.
-
 ## Quick summary
 
 - **Bongeunsa is free** and open all year. BONG-PASS on Tuesdays, evening service experience on Sundays at 17:00, overnight temple stay ₩120,000. **Free Traditional Culture Fair 11–13 October.**

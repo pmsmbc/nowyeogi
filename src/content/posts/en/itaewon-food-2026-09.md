@@ -494,19 +494,6 @@ For sights in the area, see [Things to do in Itaewon](/en/posts/itaewon-things-t
 
 **Book ahead where noted.** MICHELIN says Chez Nous opens for dinner only and needs a reservation.
 
-## What we got wrong
-
-The version published on 14 September 2026 contained a lot that had no source. Corrections:
-
-- It said **Muslim Friendly and Self-certified restaurants use no pork or alcohol**. That does not match KTO's definitions: Self-certified means the owner declares all food halal, and **Muslim Friendly places may sell alcohol**. The definitions now follow KTO's wording.
-- The flat statement that **halal restaurants never sell alcohol and you cannot bring your own** had no source and has been removed.
-- It implied the Korea Muslim Federation is the only certifier and that the 2021 categories still apply. KTO says "an accredited body such as KMF", and **the current KMF certified list does not contain those restaurant names**; both points are now stated.
-- **Price ranges** such as ₩12,000–18,000 for döner, ₩15,000–22,000 for curry sets, ₩8,000–12,000 for a pint and ₩18,000–28,000 for Hannam brunch had no source and are gone. The only prices here are published good-price figures.
-- Claims that **Korean craft beer started in Itaewon**, that every place takes cards and that small shops close on Mondays were also unsourced and have been removed.
-- Hannam-dong brunch and coffee moved to the [Hannam-dong guide](/en/posts/hannam-food-2026-09/).
-- The craft-beer photo showed a bar in Britain. Photos are now generic food shots, labelled as such, and KTO's own photos of Itaewon Islamic Street.
-- The earlier [Hannam-dong guide](/en/posts/hannam-food-2026-09/) said the Korea Muslim Federation website was unreachable. It loaded this time, which is how the mosque history and certified list were checked.
-
 ## Wrapping up
 
 - **MICHELIN Guide Seoul 2026**: seven entries in Itaewon, Haebangchon and Gyeongnidan-gil: Mosu (Two Stars, new), Soul (One Star), ALT.a (Bib Gourmand), and Selected Egg & Flour, Chez Simon, Mr. Ahn's and Chez Nous.

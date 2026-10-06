@@ -364,26 +364,6 @@ Sinsa Station is on [[line:3]] and [[line:sinbundang]], Apgujeong Station on [[l
 
 For the neighbourhood itself, see the [Gangnam guide](/en/posts/gangnam-guide-2026-09/), [things to do in Gangnam](/en/posts/gangnam-things-to-do-2026-09/) and [where to eat in Gangnam](/en/posts/gangnam-food-2026-09/).
 
-## What I got wrong
-
-The earlier version of this guide (13 September 2026) contained mistakes and weakly sourced claims.
-
-**One: it said Gangnam has "almost no hostels or guesthouses".** The licensing data shows **30 hostels (third in Seoul) and 407 homestays**.
-
-**Two: it grouped Josun Palace with Samseong Station.** Josun Palace is at **231 Teheran-ro in Yeoksam-dong**, and its official directions point to Yeoksam Station (exit 8, a ten-minute walk).
-
-**Three: it called a hotel "InterContinental Seoul COEX".** The hotel at 524 Bongeunsa-ro is now **The Westin Seoul Parnas**.
-
-**Four: it placed the ibis Ambassador "near Sinnonhyeon, same area as the Novotel".** The registered name is **ibis Styles Ambassador Gangnam**, and the address is **431 Samseong-ro, Daechi-dong**.
-
-**Five: it said chains such as Ramada cluster in Yeoksam and Seolleung.** Gangnam's Ramada Seoul (410 Bongeunsa-ro) **closed in December 2021**. Its name survives only on a bus stop.
-
-**Six: the airport details were wrong.** The old version said the 6103 cost ₩17,000 and ran "to the COEX City Airport Terminal". The operator's fare is **₩18,000**, and the terminal's check-in and immigration **ended on 4 January 2023**. It also said to take the Airport Railroad to Seoul Station and change to Line 9, but Line 9 does not stop at Seoul Station. The Airport Railroad and Line 9 meet at **Gimpo Airport**.
-
-**Seven: unsourced numbers are gone.** Price bands (₩350,000 and up, ₩150,000 to ₩250,000, ₩80,000 to ₩140,000), "35 to 50 m² rooms", "breakfast ₩30,000 to ₩50,000" and "taxi ₩70,000 to ₩90,000, 60 to 80 minutes" came from price-comparison averages or no stated source. Signiel Seoul in Songpa-gu has also been dropped as outside the area.
-
-**Eight: unverified claims are gone.** "Gangnam has Seoul's biggest rooms", "Park Hyatt is said to have the best design in the area" and "the Sinbundang Line does not accept the Climate Card" could not be confirmed from official sources this time.
-
 ## Summary
 
 - Gangnam-gu has **84 tourist accommodation businesses** (third in Seoul) and **8,646 tourist-hotel rooms** (second). Yeoksam-dong leads with 31, then Nonhyeon-dong 18 and Samseong-dong 14.

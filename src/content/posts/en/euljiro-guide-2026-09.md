@@ -331,22 +331,6 @@ This is a workplace, not a theme park, so a few courtesies:
 
 A walking route through Sewoon Sangga and the printing alley is in [Euljiro things to do](/en/posts/euljiro-things-to-do-2026-09/).
 
-## What we got wrong
-
-The first version of this guide (22 September 2026) had errors and weakly sourced claims. Corrections:
-
-**One: we described a day route as "the order Seoul set for its 2025 Future Heritage citizen walk".** The only Future Heritage route we could find is a **2022 promotional feature by a commissioned writer** (Myeongdong Chinatown → Euljiro lighting street → Ipjeong-dong ironworks alley → sewing-machine street → Ojang-dong → Chungmuro printing alley), and it didn't include the Sewoon Sangga, Golbaengi Alley and Nogari Alley sequence we gave. We removed the misattributed route.
-
-**Two: we quoted the Ipjeong-dong ironworks page as saying "the area is currently being demolished for redevelopment".** The page's current wording, in its history section, is **"demolition for redevelopment under way in 2024"**. We've corrected the quotation.
-
-**Three: we treated Sewoon Sangga as a building inside Euljiro.** The northernmost building is in **Jangsa-dong, Jongno-gu** (159 Cheonggyecheon-ro); only the blocks south of the stream, from Cheonggye Arcade down, are in Jung-gu. Sewoon block 4, the focus of the 2026 dispute, is also in Jongno-gu.
-
-**Four: we wrote that "the first nine stops on the 6015 route are all in Jung-gu" and that Euljiro 3-ga is "about nine minutes" from Seoul Station.** We couldn't reconfirm either from official sources and removed them. Stop locations and times for bus 6015 have been rechecked against the Airport Limousine timetable.
-
-**Five: we wrote that "lunch within walking distance starts at ₩5,000-10,000, with a ₩1,800 Americano café", and that "a Future Heritage designation amounts to a certificate and a plaque".** We couldn't recheck the source list for the first, and the second mixed in our own interpretation, so both are gone.
-
-**Six: our description of Nogari Alley left out the 2022 eviction of Eulji OB Bear.** The forced removal of the alley's founding bar is essential to understanding the place, so it's now in the timeline above.
-
 ## Timeline
 
 | Date | What happened |

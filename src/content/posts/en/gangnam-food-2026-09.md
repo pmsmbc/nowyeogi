@@ -618,20 +618,6 @@ The wider district plan is in the [Gangnam travel guide](/en/posts/gangnam-guide
 
 **KTO's rating text can be out of date.** Its Mingles entry still mentions two stars from 2022, so rely on MICHELIN's own announcement for ratings.
 
-## What we got wrong
-
-The version published on 13 September 2026 relied on figures with no source. Corrections:
-
-- **Hanwoo at ₩45,000–70,000 per 150–180g portion, ₩120,000–200,000 for two, imported beef at ₩25,000–35,000 and pork belly at ₩17,000–22,000** had no source. They are replaced with per-shop figures from the good-price list and KTO; on the Gangnam-gu good-price list, pork belly runs ₩13,000–18,000.
-- The claims that **restaurants charging ₩30,000 at dinner serve ₩10,000–15,000 lunch sets** and that **lunch is 20–50% cheaper** had no source and are gone.
-- **Garosu-gil coffee at ₩6,000–8,000, brunch at ₩15,000–25,000, 20–40 minute weekend queues and ₩9,000–15,000 desserts** were unsourced. Removed.
-- It described a **"COEX food hall" with dozens of counters at ₩9,000–15,000, open late**. COEX Mall's own site uses the names Gourmet Street and Food Street and lists hours of 10:30–22:00; only the verified Twin Cook prices are given now.
-- It said only that **"several MICHELIN-listed restaurants"** were around Apgujeong and Cheongdam with menus **"from ₩120,000"**. In fact **70 MICHELIN entries are in Gangnam-gu**, and MICHELIN only publishes ₩ bands; the ₩120,000 figure had no source.
-- It said **halal options were limited**, but KTO's 2021 booklet lists eight Gangnam-gu restaurants, one of them halal-certified. It also said Itaewon was reached on [[line:9]]; that was **wrong**, Itaewon Station is on [[line:6]].
-- **"More vegan cafés and salad places than most of Seoul"** had no source; MICHELIN-starred vegan Legume is named instead.
-- Prices for food courts under Gangnam Station, convenience-store lunch boxes, kimbap chains and the Express Bus Terminal food court, plus "cards work everywhere", "service charges at high-end places" and "two-portion minimums", were all unsourced and removed. The Express Bus Terminal is in Seocho-gu anyway.
-- The second photo was Singapore-style kaya toast, unrelated to Gangnam. It has been replaced, and every food photo is now labelled as generic.
-
 ## Wrapping up
 
 - **MICHELIN Guide Seoul 2026**: 70 entries in Gangnam-gu — three-star Mingles; seven two-stars (Kwonsooksoo, Mitou, Jungsik, Evett, Soigné, Alla Prima, Restaurant Allen); twenty one-stars, six of them new; four Bib Gourmands (Mandujip, Myeon Seoul, Gebang Sikdang, Gomtang Lab); and 38 Selected.

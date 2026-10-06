@@ -522,16 +522,6 @@ Public holidays change things: the observatory stays open to 23:00, the Stamp Mu
 
 Short on energy? Ride [[bus:yellow:01A]] for one loop to tie together Namsan, Sungnyemun and the cathedral.
 
-## What we got wrong
-
-**First, the free lift's location.** The previous version said there was a "free lift beside the Pacific Hotel". N Seoul Tower's transport page shows that the road to the right of the Pacific Hotel is **the walking route to the cable car**, while the free inclined lift, the **Namsan Oreumi, starts in front of the monument at the Namsan Tunnel 3 entrance**. We also left out that it doesn't run on Monday mornings.
-
-**Second, cathedral sightseeing hours.** The earlier "sightseeing Tue–Sun 09:30–18:00, closed to visitors on Monday" could not be found in any official source. KTO lists only office and confession hours, so that is all we kept.
-
-**Third, Sunday at Namdaemun Market.** We called Sunday "the quietest day". Seoul's media list **Sunday as the market's day off**, so it is not quiet so much as mostly shut.
-
-**Fourth, luggage storage at Olive Young Myeongdong Town.** The official store guide says there is no luggage storage or toilet in the store. See our [Olive Young guide](/en/posts/olive-young-shopping-2026-09/).
-
 ## Quick summary
 
 - **Myeongdong Cathedral**: consecrated 1898, a national historic site. Be quiet during Mass; the office is closed on Mondays.

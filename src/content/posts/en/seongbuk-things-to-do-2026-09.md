@@ -217,7 +217,7 @@ One thing to correct. Plenty of posts still say that **you need identification t
 
 **Even the official Hanyang City Wall site has pages where the old wording survives.** That is why the misunderstanding spreads. Under the current rules you can go in without ID.
 
-It is the same kind of error the Seochon post corrected, where the opening of Inwangsan was 2018 and not 2022.
+The opening of Inwangsan, covered in the Seochon post, is often misreported the same way: it was 2018, not 2022.
 
 To walk the wall towards Hyehwamun Gate, it is five minutes on foot from **exit 5** of Hansung University Station.
 

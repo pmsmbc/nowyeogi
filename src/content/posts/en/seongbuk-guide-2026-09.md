@@ -61,22 +61,6 @@ The same authority made both decisions, about **two slopes of the same neighbour
 
 Seongbuk-gu has **40 ambassadorial residences**, and one of its roads is actually called **Daesagwan-ro, Embassy Road**.
 
-## What I had wrong
-
-Two of my assumptions broke while I was preparing this post. I will set them out as they are.
-
-**One: Bukjeong Village is not a shanty town.** A Seoul city document puts it like this.
-
-> **Around 500 tiled-roof houses built in the 1960s and 1970s**
-
-371 buildings, 509 households, and tiled-roof houses. The village that did begin as a shanty town is **Jangsu Village**, and that is in Samseon-dong, not Seongbuk-dong.
-
-**Two: it was the residents who wanted redevelopment.** This is from the Seoul city press release itself.
-
-> an area where housing redevelopment has been pursued **since 2009 as the long-standing wish of the great majority of residents**
-
-So this was not a case of residents wanting preservation while the city pushed development through. **It was the residents who wanted redevelopment, and the city of Seoul that inserted the preservation mechanism.**
-
 ## Timeline
 
 | When | What happened |

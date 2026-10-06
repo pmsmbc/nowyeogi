@@ -162,7 +162,7 @@ The five Insadong-side neighbourhoods have **no hostels at all**; every tourist-
 
 - **Nine Tree Insadong** gives 49 Insadong-gil as its address on the official site; the Annyeong Insadong shopping complex is at the same address. It is the largest hotel on this side
 - **The Prima Hotel Jongno** was registered in February 2024 at the same address and with the same 155 rooms as **Ourhome Aventree Hotel Jongno, which closed in January 2023**. Searching the old name brings up the same building
-- **Hotel Sunbee** also appears in the general-lodging data as a 42-room tourist hotel licensed in 2003, older than its 2018 tourist-accommodation registration. The previous version of this post called it a cheap option; that price claim could not be sourced and has been removed
+- **Hotel Sunbee** also appears in the general-lodging data as a 42-room tourist hotel licensed in 2003, older than its 2018 tourist-accommodation registration
 
 The nine lodging-only entries are mostly **inns licensed in the 1980s**:
 
@@ -279,7 +279,7 @@ Many hotels people look for around Insadong are outside this post's 22 neighbour
 
 **Five hotels with "Insadong" in their name (Ibis Ambassador, Orakai Insadong Suites, Moxy, N285 and Best Western) are actually in Ikseon-dong or Nagwon-dong.** They are close to Insadong-gil, but on the Nagwon Arcade and Jongno 3-ga Station side. That area is covered in the [Ikseon-dong post](/en/posts/ikseon-hotels-2026-09/), the two Susong-dong properties in the [Gwanghwamun post](/en/posts/gwanghwamun-hotels-2026-09/), and JW Marriott Dongdaemun Square Seoul (170 rooms, Jongno 6-ga) in the [Dongdaemun post](/en/posts/dongdaemun-hotels-2026-10/).
 
-For the record, **Fraser Place Central Seoul**, which the previous version placed "near Jongno 3-ga", is at **78 Tongil-ro, Sunhwa-dong, Jung-gu** — near Seodaemun and Chungjeongno stations, not Jongno.
+For the record, **Fraser Place Central Seoul** is at **78 Tongil-ro, Sunhwa-dong, Jung-gu** — near Seodaemun and Chungjeongno stations, not Jongno.
 
 ## Getting to the airport
 
@@ -344,22 +344,6 @@ Weekday and holiday times are the same. The conditions for the Seoul Station cit
 - **Late arrival** — last 6002 from T1 at 23:29, 6011 at 23:14, last AREX from T1 at 23:38
 
 Sights are in [Jongno palaces and things to do](/en/posts/jongno-things-to-do-2026-09/) and restaurants in [Jongno food](/en/posts/jongno-food-2026-09/).
-
-## What I got wrong
-
-The previous version of this post (12 September 2026, partly revised on 1 October) had errors and weakly sourced claims.
-
-**One: Fraser Place Central Seoul is not near Jongno 3-ga.** Its licensed address is **78 Tongil-ro, Sunhwa-dong, Jung-gu**.
-
-**Two: "Ibis Ambassador Insadong" is in Ikseon-dong.** The old post listed it as an Insadong option and said its rooms were small; that could not be sourced and has been removed. It has 363 registered rooms.
-
-**Three: the price ranges were not from an official source.** "Hanok doubles ₩70,000–150,000", "budget ₩50,000–100,000", "mid-range ₩120,000–250,000" and "luxury ₩350,000+" came from a third-party site averaging booking prices. They are all gone.
-
-**Four: some of the hanok description had no source** — "ceilings so low that anyone over 185 cm must duck", "breakfast is usually toast and eggs", "you sleep on a mat instead of a bed". The last also contradicts the registration rules, which say nothing about beds.
-
-**Five: the area overlapped with other posts.** Now that there are separate posts for Gwanghwamun, Bukchon, Seochon, Ikseon-dong and Dongdaemun, this post counts only the 22 neighbourhoods in between. The Four Seasons, JW Marriott Dongdaemun, and Lotte Hotel and Westin Josun in Sogong-dong are covered in those posts.
-
-**Six: the note saying this was a translation of another version is gone.** All three languages are now written separately from the same data.
 
 ## Summary
 

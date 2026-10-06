@@ -403,24 +403,6 @@ Daehangno's problem rhymes with Insadong's. JTBC and Dailian have long reported 
 
 Climb the hill east of Hyehwa Station and you reach Naksan Park and **Ihwa-dong**, once famous as a mural village. Herald Business (May 2016) reported that **residents fed up with tourist noise and graffiti painted over the best-known murals themselves** and were booked for property damage. That tells you people live here. The fortress-wall walk and Ihwa village are covered from the Heunginjimun side in [things to do in Dongdaemun](/en/posts/dongdaemun-things-to-do-2026-10/).
 
-## What we got wrong
-
-The first version of this guide (12 September 2026) contained errors and weakly sourced claims. Corrections:
-
-**One: we wrote that Gyeongbokgung, Changdeokgung and Jongmyo all close on Tuesdays.** The official notice says **Changdeokgung closes on Mondays**, as do Changgyeonggung and Deoksugung. Only Gyeongbokgung and Jongmyo close on Tuesdays. Anyone who planned Changdeokgung for a Monday would have found it shut.
-
-**Two: we wrote that "five royal palaces" sit in one walkable stretch north of Cheonggyecheon.** Deoksugung is in **Jung-gu, south of the stream**. The ones inside Jongno-gu are Gyeongbokgung, Changdeokgung, Changgyeonggung, Gyeonghuigung and Jongmyo.
-
-**Three: we listed Jongno 3-ga Station as the stop for Gwangjang Market.** Gwangjang Market is by [[line:1]] **Jongno 5-ga Station** exit 8 (as in our [Gwangjang Market guide](/en/posts/gwangjang-market-2026-09/)).
-
-**Four: we wrote that from Seoul Station, Jongno 3-ga is "two stops" on Line 1.** It is **three**: City Hall, Jonggak, Jongno 3-ga.
-
-**Five: we wrote "hanbok rental ₩15,000-30,000 for four hours", "palaces are empty for the first hour", "you can walk between all four areas in under twenty minutes" and that the Jongno 3-ga alleys were "the city's densest run of old restaurants".** We could not re-source any of these and removed them. AREX fares went for the same reason; see [Incheon Airport to Seoul](/en/posts/incheon-airport-to-seoul-2026-09/).
-
-**Six: the credit links for two photos did not match the files we had downloaded.** Both were Bukchon photos; we replaced them with Jongno pictures and matched every remaining credit to its file.
-
-**Seven: a Jongno guide opened with Bukchon's visiting-hours rule.** Bukchon now has its own [Bukchon guide](/en/posts/bukchon-guide-2026-09/), and this guide focuses on the Jong-ro corridor, the eastern palaces, Insadong and Daehangno.
-
 ## Timeline
 
 | When | What |

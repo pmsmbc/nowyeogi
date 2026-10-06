@@ -205,7 +205,7 @@ According to the history page on Myeongdong Kyoja's official website, it began i
 
 ### The main branch moved in 2026
 
-The previous version of this guide gave the main branch address as **29 Myeongdong 10-gil**. The official website now lists the main branch at **129 Toegye-ro, in front of Myeongdong Station Exit 8**. Its store page says the **"new Myeongdong Station branch" opened in 2024 was merged into the main branch when the main branch moved in 2026**, and that it seats about 420. KTO's listing also gives 129 Toegye-ro (Chungmuro 2-ga).
+The main branch used to be at **29 Myeongdong 10-gil**. The official website now lists the main branch at **129 Toegye-ro, in front of Myeongdong Station Exit 8**. Its store page says the **"new Myeongdong Station branch" opened in 2024 was merged into the main branch when the main branch moved in 2026**, and that it seats about 420. KTO's listing also gives 129 Toegye-ro (Chungmuro 2-ga).
 
 - The Myeongdong Station branch opened on **23 December 2024**. A notice the same day said the original first branch was under construction.
 - The website now lists three locations: **the main branch (129 Toegye-ro), a second branch (8 Myeongdong 10-gil) and an Itaewon branch (136 Noksapyeong-daero)**.
@@ -499,19 +499,6 @@ Myeongdong and Hoehyeon are one stop apart on [[line:4]], and Namdaemun Market i
 **Sources disagree on hours.** Jinjujip (24 hours vs 08:00-21:00), Buwon Myeonok (21:00 vs 20:00) and Gamegol Son Wangmandu (20:00 vs 19:30) differ between the market website and DiningCode. Check a map app before setting out.
 
 **No tipping.** The menu price is what you pay.
-
-## What we got wrong
-
-The earlier version of this guide, published 10 September 2026, contained errors. Here is what was corrected:
-
-- **It called Myeongdong Kyoja a MICHELIN Bib Gourmand.** It is not among the 51 Seoul Bib Gourmands for 2026; it is listed as **Selected**, without a distinction.
-- **Kalguksu ₩11,000 and dumplings ₩12,000** were old prices. Official notices now give **kalguksu ₩12,000 (from December 2025) and dumplings ₩13,000 (from December 2024)**.
-- **The main branch address was given as 29 Myeongdong 10-gil.** Since the 2026 move, the official website lists **129 Toegye-ro, in front of Myeongdong Station Exit 8**.
-- **"Open every day"** was not accurate either. The restaurant closes on **Seollal and Chuseok day**.
-- Lines such as **"the queue moves in 10-15 minutes", "lunch is 20-30% cheaper than dinner" and "stalls charge about double market prices"** had no source and were removed.
-- **"Some stalls charge extra for card payment"** was unsourced, and such surcharges are against Article 19 of the Specialized Credit Finance Business Act. Myeongdong's stalls have had card readers since 2024.
-- Restaurants **not confirmed in official sources** (Gogung, Din Tai Fung, the Andong jjimdak places) were removed.
-- One photo was captioned as **a stall selling mini gimbap** but actually showed sweet-and-spicy fried chicken in a plastic tray. All photos have been replaced and re-captioned.
 
 ## Wrapping up
 

@@ -457,21 +457,6 @@ Buses stopping at Euljiro 3-ga include [[bus:100]] [[bus:105]] [[bus:152]] (per 
 
 **No tipping.** The menu price is what you pay.
 
-## What we got wrong
-
-The earlier version of this guide, published 22 September 2026, had errors and outdated points. Here is what was corrected:
-
-- It said in the present tense that **street tables are managed through district road-use permits**. Reports show those permits **ended after 2022**; the section now runs from the 2017 approval to the end of permits and the enforcement since.
-- It said the outcome of the dispute over the **alley's original pub was unknown**. Eulji OB Bear was **evicted on 21 April 2022** and has since reopened in Mapo and, by report, at Euljiro 3-ga.
-- It listed **Bumin-ok as an Euljiro-area Oraegage**. Bumin-ok is in Da-dong and belongs to the [Gwanghwamun and City Hall guide](/en/posts/gwanghwamun-food-2026-09/).
-- It gave **Sunheungok as "opened 1949, around Euljiro 3-ga"**. The heritage page gives both 1945 and 1949, and the address is 9 Eulji-ro 33-gil.
-- Lines such as **"many find Pyongyang naengmyeon bland, and that is the right taste"** and "chewy" Hamheung noodles were unsourced descriptions of flavour and texture, and have been removed.
-- A claim that **smoking rules also apply to street tables** had no source and was removed.
-- It said there was **no evidence for Bangsan Market's baking-supply reputation**; a February 2026 report now documents the shift to packaging shops.
-- Some **good-price prices** differed from today's registry: New York Snack's gimbap is ₩4,000, Iwon Son Kalguksu's noodles ₩8,000 and dumplings ₩7,000, Donggyeong Udon's udon ₩5,500.
-- It omitted that **Woo Lae Oak is a Bib Gourmand**, and the closures and moves of **Euljimyeonok, Yangmiok and Eulji Dabang**. These are now included.
-- The cold-noodle photo was replaced, and every photo is now captioned as not coming from a specific restaurant.
-
 ## Wrapping up
 
 - **Nogari alley**: started with Eulji OB Bear in 1980; Seoul Future Heritage in 2015. Street trading allowed in 2017, road-use permits ended after 2022, and Eulji OB Bear was evicted in April 2022. Redevelopment will change about half the alley.

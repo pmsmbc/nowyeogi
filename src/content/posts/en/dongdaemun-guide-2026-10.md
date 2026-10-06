@@ -339,18 +339,6 @@ South-east of DDP lies the area outside **Gwanghuimun**, a city gate through whi
 
 South of DDP in **Gwanghui-dong** is **Central Asia Street**, full of Cyrillic signs. Jung-gu says it began forming in the early 1990s after Korea and Russia established diplomatic relations, as Russian traders came to buy from the Dongdaemun clothing malls; people from Uzbekistan, Kyrgyzstan, Kazakhstan and Mongolia followed, and when Russia's economy faltered in the late 1990s, Mongolians took the Russians' place. The New Geumho Tower, the hub of Mongolian shops, is usually just called "Mongol Tower." The street signs are a record of Dongdaemun's days as an export window.
 
-## What I had wrong
-
-Four things I believed before researching this turned out to be wrong.
-
-**One: I assumed Dongdaemun was in Dongdaemun-gu.** The gate is in Jongno-gu and DDP in Jung-gu. Dongdaemun-gu only borrowed the name, and even Changsin-dong and Sungin-dong moved to Jongno-gu in 1975.
-
-**Two: Heunginjimun is no longer "Treasure No. 1".** It has been a Treasure since 1963, but since the 2021 change its official name is just "Treasure Heunginjimun".
-
-**Three: I thought DDP simply replaced a stadium.** Under the stadium were the Joseon city wall, the Igansumun water gate and 44 building sites, and DDP was built around them.
-
-**Four: I thought the Ieumpium Sewing History Museum was still open.** It opened in 2018 and closed on 28 February 2023.
-
 ## Timeline
 
 | When | What happened |

@@ -535,20 +535,6 @@ Seongsu and Ttukseom stations are one stop apart on [[line:2]]. For somewhere to
 
 **Ask about the broth.** Gamjatang, gomtang and noodle soups usually use meat or anchovy stock. If you are vegetarian or have allergies, ask before ordering.
 
-## What we got wrong
-
-Corrections to the earlier version published on 21 September 2026:
-
-- **It listed no MICHELIN restaurants at all.** Seongsu has the Bib Gourmands Gyewol and Mattdol, with the one-star Tutoiement next door in Songjeong-dong.
-- **It left out the best-known old-timers.** Somunnan Seongsu Gamjatang (1983), Seongsu Jokbal as described by KTO, and the shrinking Galbi Alley are now in.
-- It said the Seongdong Matjip list had **three jokbal houses on one Sangwon-gil strip, which was wrong.** Only Lee Heungbu Jokbal is on Sangwon-gil; Gwangjang Jokbal is on Achasan-ro and Seongyeon on Seongdeokjeong-gil. Also, the 2025 announcement said 65 restaurants, but the current list shows 61.
-- It gave **price rises between the June 2024 good-price listing and now** (Ran Kalguksu ₩8,000 to ₩9,000 and so on). The earlier listing could not be found again, so these were removed and only the 6 October 2026 prices are shown.
-- It guessed that "warehouse cafes on Yeonmujang-gil won't be at these prices". That has been replaced with checked figures, such as DiningCode's ₩5,500 americano at Onion Seongsu.
-- After the co-existence agreement figures it only said later numbers were not available. A September 2026 report in which Seongdong-gu says **no one has joined since** has been added, and "agreement shops survive 27 months longer" has been reworded as a difference in average time in business.
-- Notes on rules about disposable cups, cup deposits, smoking, card payments and laptop use were **given without sources** and were not really about food, so they were removed.
-- The cover was a photo of a factory building, and the tteokbokki photo and a coffee shop from another part of Seoul had no note saying they were not from the shops named. The photos have been replaced and every food photo now carries that note.
-- Seoul Forest and station-exit details overlapped with [things to do in Seongsu](/en/posts/seongsu-things-to-do-2026-09/), so this guide now sticks to food.
-
 ## Wrapping up
 
 - **MICHELIN Guide Seoul 2026**: five entries in Seongdong-gu. Around Seongsu are the Bib Gourmands Gyewol (chicken gomtang) and Mattdol (tacos), and the one-star Tutoiement (Songjeong-dong).

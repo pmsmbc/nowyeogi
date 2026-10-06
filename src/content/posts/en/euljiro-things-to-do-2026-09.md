@@ -397,18 +397,6 @@ Bangsan Market's printing and packaging fair has fallen in October or November f
 
 Without the guided walk, the same route works on Tuesday or Thursday. On Sundays only the stream and Nogari Alley really remain, so pair Euljiro with another area instead.
 
-## What we got wrong
-
-**First, Sewoon Sangga's address.** The previous version put it at "159 Cheonggyecheon-ro, Jung-gu". Both KTO and the merchants' council give **Jongno-gu** (Jangsa-dong); Jung-gu begins with the Cheonggye and Daelim buildings south of the stream.
-
-**Second, we wrote the walkway off too early.** We said flatly that "the bridges will not survive". In January 2025 the city **postponed removal to coincide with the Sampung Sangga park**, and the first section to go is Sampung–PJ Hotel. The rest is due to come down with the park works, with no date set, and the decks linking Sewoon, Cheonggye and Daelim were still in use as of writing.
-
-**Third, we said "you won't need to go into any shops".** KTO describes the lighting market as open to individuals buying interior fittings and placing custom orders, and the furniture street as a place to buy one or two office pieces. These are workplaces, but they do serve walk-in customers.
-
-**Fourth, we said there was no official basis for Bangsan Market selling baking supplies.** The merchants' association lists **bakery, meat and food** among its trades. The market's official identity is still printing and packaging, and we couldn't confirm how many baking-supply shops there are.
-
-**Fifth, we left out the opening days.** Officially the Sewoon buildings **close on Sundays and public holidays**, which is the single most useful fact for planning a visit.
-
 ## Quick summary
 
 - **Sewoon Sangga**: Korea's first all-in-one electronics market (1968), address in Jongno-gu. **Mon–Sat 09:00–19:00, closed Sundays and holidays.**

@@ -154,7 +154,7 @@ This photo is one KTO published for **Maison Hannam** (24 UN Village 3-gil). The
 
 Only places with a **Hannam-dong** address. In practice that is the eastern stretch of Itaewon-ro (roughly from number 220 onwards), Hannam-daero, Daesagwan-ro, Dokseodang-ro and the UN Village lanes, served by Hangangjin Station on [[line:6]] and Hannam Station on [[line:gyeongui]].
 
-**The western side of Itaewon, Gyeongnidan-gil and Haebangchon now live in [Where to eat in Itaewon](/en/posts/itaewon-food-2026-09/).** Mosu, Soul and ALT.a (MICHELIN), KTO's halal restaurant list, Haebangchon's Sinheung Market and the Itaewon-dong good-price restaurants that were in the earlier version of this guide are all there.
+**The western side of Itaewon, Gyeongnidan-gil and Haebangchon are covered in [Where to eat in Itaewon](/en/posts/itaewon-food-2026-09/).** Mosu, Soul and ALT.a (MICHELIN), KTO's halal restaurant list, Haebangchon's Sinheung Market and the Itaewon-dong good-price restaurants are all there.
 
 Seoul Central Mosque (39 Usadan-ro 10-gil) has a Hannam-dong address, and the Korea Muslim Federation describes it as on "Usadan-ro (Hannam-dong)". But the halal restaurants around it sit on the climb up from Itaewon Station, so **the full halal list is in the Itaewon guide**.
 
@@ -300,9 +300,9 @@ Published hours are 06:00–19:30. Because the scheme picks places that are chea
 
 The nine good-price businesses in Itaewon-dong and Yongsan-dong 2-ga (₩8,000 noodles at Bogwangjeong, for example) are in the [Itaewon food guide](/en/posts/itaewon-food-2026-09/).
 
-## What moved to the Itaewon guide
+## Itaewon has its own guide
 
-The earlier version covered Itaewon and Hannam together. **Mosu, Soul, ALT.a and four Selected restaurants (Egg & Flour, Chez Simon, Mr. Ahn's Craft Makgeolli, Chez Nous), KTO's 22 halal restaurants and how to check certification now, Sinheung Market and the Itaewon-dong good-price list** are now in [Where to eat in Itaewon](/en/posts/itaewon-food-2026-09/).
+Itaewon and Hannam are covered in separate guides. **Mosu, Soul, ALT.a and four Selected restaurants (Egg & Flour, Chez Simon, Mr. Ahn's Craft Makgeolli, Chez Nous), KTO's 22 halal restaurants and how to check certification now, Sinheung Market and the Itaewon-dong good-price list** are in [Where to eat in Itaewon](/en/posts/itaewon-food-2026-09/).
 
 ## Getting there
 
@@ -324,18 +324,6 @@ For sights and walking routes, see [Things to do in Hannam-dong](/en/posts/hanna
 **Parking is mostly valet.** KTO data lists ₩5,000 valet at Crate Coffee and ₩3,000 at Table for Four. Little Neck has no car park and points drivers to a nearby public lot.
 
 **Many places are tucked down lanes.** MICHELIN says Youhan is hard to find, and KTO notes Hannam-dong Gamjatang sits a little way down an alley off the main road.
-
-## What we got wrong
-
-Corrections to the version published on 29 September 2026:
-
-- **The title and scope were "Itaewon and Hannam-dong".** The Itaewon material (seven MICHELIN entries, the halal list, Sinheung Market, nine good-price businesses) moved to the [Itaewon guide](/en/posts/itaewon-food-2026-09/); this guide now covers Hannam-dong only.
-- MICHELIN Selected restaurants were listed by name only as "12 in the area". Each address has now been checked, and **eight in Hannam-dong** are described individually. Au Bouillon, close by on the map, has a Seongdong-gu address and was dropped.
-- Soseoul Hannam's dish was given only as soybean-paste stew. **MICHELIN's Korean page says cheonggukjang and the English page says soybean paste stew**, so both are now mentioned.
-- It said **MICHELIN pages give no opening hours**. Some now do, but they appear to miss time slots, so hours are still not copied.
-- **"Every restaurant and café is non-smoking and there is no tipping"** had no source and was removed.
-- It said the **Korea Muslim Federation website was unreachable**. It loaded this time; the certified-list check is in the Itaewon guide.
-- The cover was a Haebangchon street photo. It is now KTO's photo of Maison Hannam, which belongs in a Hannam guide.
 
 ## Wrapping up
 

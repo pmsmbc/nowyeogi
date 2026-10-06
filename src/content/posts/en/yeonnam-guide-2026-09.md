@@ -152,18 +152,6 @@ Mangwon-dong takes its name from **Mangwonjeong**, a riverside pavilion. Combini
 
 Yet the Korea Tourism Organization lists **the Mangwonjeong site at 23 Donggyo-ro 8an-gil, in Hapjeong-dong**. **The pavilion that gave the neighbourhood its name now has an address in the next neighbourhood.**
 
-## What I had wrong
-
-Four things I thought I knew turned out to be wrong.
-
-**One: Yeontral Park is not 2km long.** The "2km" figure is **the combined length of the three sections opened together in June 2015**. The Yeonnam-dong section alone is about 1.27km, and the whole park is 6.3km. **Two city press releases give the Yeonnam-dong length as 1,268m and 1,266m**, so this guide says about 1.27km.
-
-**Two: Yeonnam-dong did not start out in Mapo-gu.** According to the Encyclopedia of Korean Culture, it was created **in 1975 when part of Yeonhui-dong in Seodaemun-gu was moved into Mapo-gu**, and the name simply means "south of Yeonhui". Yeonhui-dong is still across the park to the northeast.
-
-**Three: the Mangwon flood was not just "too much rain".** As above, the court found **a defect in the sluice box** and made Seoul pay.
-
-**Four: Mangwon-dong is two districts for administrative purposes.** Mapo-gu's table shows **one legal dong, Mangwon-dong, split between two administrative dong, Mangwon 1-dong and Mangwon 2-dong.** Yeonnam-dong is one name for both.
-
 ## Where they begin and end
 
 | Name | What it is | For visitors |

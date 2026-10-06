@@ -374,18 +374,6 @@ To save some climbing, village bus Jongno [[bus:village:11]] stops at the Jeongd
 
 **No tipping.** The menu price is the final price. If the dishes are new to you, start with [Korean food for beginners](/en/posts/korean-food-for-beginners-2026-09/).
 
-## What we got wrong
-
-The earlier version, published on 28 September 2026, had mistakes and weakly sourced claims. Here is what we corrected.
-
-- We wrote that **few Bukchon or Samcheong-dong restaurants appear on any official list**, without checking the MICHELIN Guide. Samcheongdong Sujebi, Hwangsaengga Kalguksu and Anam are **Bib Gourmands**, and Muguok is a 2026 newcomer. We also introduced Samcheongdong Sujebi only as an Oraegage.
-- We missed that **Biwon Tteokjip is Seoul Future Heritage 2020-006**. We also listed its Oraegage year (2017) as unconfirmed, but the heritage entry's timeline confirms it.
-- We wrote that **according to KTO, the founder of Seoul's Second Best studied herbal tea, opened a tea house and later added red bean porridge for younger customers**. We could not find that in KTO's data this time, so we replaced it with the Seoul Future Heritage account (opened April 1976, first named Ssanghwatang, known for sipjeondaebotang and red bean porridge).
-- **The comparison with the first 2010 plan (Notice 2010-11) and the "amended approval by the urban planning committee on 9 September 2020"** could not be rechecked against the originals, so we removed them. The zone-by-zone rules from Notice 2020-589 were checked against the original and kept, with the hanjeongsik definition and the franchise-law Article 3 exemption added.
-- **The table of good-price restaurants across the road in Insa-dong and Nagwon-dong** overlapped [Where to eat in Jongno](/en/posts/jongno-food-2026-09/) and was removed.
-- **"Every restaurant and café is completely non-smoking"** had no source attached. Removed.
-- The cover was a street photo showing a parking enforcement sign. It is now a food photo, and every food photo says it was not taken at the named restaurant.
-
 ## Wrapping up
 
 - **Bukchon's restaurants sit on the main streets.** Notice 2020-589 allows only traditional food shops under 100㎡ in Zone 1 and bans restaurants on Gyedong-gil and Changdeokgung-gil. Franchises are banned in principle.

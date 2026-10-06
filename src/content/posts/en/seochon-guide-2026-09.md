@@ -279,7 +279,7 @@ The 2016 notice caps development size at **200 sq m** in recommended-hanok zones
 
 ### Chain restaurants are banned in principle
 
-In the use tables for recommended-hanok and other zones, the 2016 notice **bans franchise-model restaurants, cafes and bakeries.** Our earlier version turned this into "chains can't open here". The ban covers **franchised food and drink only**. Clothing, sportswear and cosmetics shops are not covered, which matters for the 2026 story below.
+In the use tables for recommended-hanok and other zones, the 2016 notice **bans franchise-model restaurants, cafes and bakeries.** That does not mean "chains can't open here". The ban covers **franchised food and drink only**. Clothing, sportswear and cosmetics shops are not covered, which matters for the 2026 story below.
 
 ### 2025-2026: the plan is being rewritten
 
@@ -365,28 +365,6 @@ Autumn colour on Inwangsan, photographed on 2 November 2016. This mountain is Se
 ## Tongin Market
 
 According to KTO, Tongin Market began as **a public market built in June 1941 for Japanese residents of Hyoja-dong.** Stalls and shops grew around it as Seochon's population rose after the Korean War; it was registered as an officially recognised market in 2005 and named a "Seoul culture market" in 2010. There are about 70 stalls. KTO lists shops as open 07:00-21:00 and the lunchbox cafe 11:00-15:00. How the brass-coin lunchbox works, and where else to eat, is in [Seochon food](/en/posts/seochon-food-2026-09/).
-
-## What we got wrong
-
-The first version of this guide (23 September 2026) contained errors and weakly sourced claims. We reread the notices and reports and corrected them.
-
-**One: we wrote that "the palaces close on Tuesdays, Seochon's museums on Mondays".** Only **Gyeongbokgung and Jongmyo** close on Tuesdays; **Changdeokgung, Changgyeonggung and Deoksugung close on Mondays**, the same day as Seochon's museums.
-
-**Two: we wrote that "franchises cannot open here" and that the absence of chains was by design.** The 2016 notice bans **franchised restaurants, cafes and bakeries** only. In 2026 Seochon's main roads have sportswear and fashion brands and a milk-tea franchise (Hankyoreh, Energy Economy).
-
-**Three: we described the 2024 easing as "20m to 24m" only.** The same decision changed **the rest of Seochon from 16m to 18m** (Hankook Ilbo, Chosun Biz). The "80,747 sq m" figure we gave could not be re-sourced and has been removed.
-
-**Four: we said the village bus to Suseongdong Valley leaves from exit 3 of Gyeongbokgung Station.** A June 2026 report directs riders to **a stop near exit 2**, and the city says the Jongno 09 route runs via Namdaemun, City Hall Station, Gwanghwamun Square and Gyeongbokgung Station.
-
-**Five: we covered redevelopment through three zones only.** Seochon also had **Ogin 1** (lifted 2017, settled 2018) and **Sajik 2** (cancellation voided by the Supreme Court in 2019). We could not re-verify the "2006/2007 designation" of the three zones or "notice 2015-313 of 8 October 2015", so we now say "approved by the planning committee in September 2015, notice due in October".
-
-**Six: our timeline included "hanok concentration area designated 24 June 2010" and "development permits restricted 17 February 2015".** Neither date could be traced to an original document, so both are removed.
-
-**Seven: we quoted a Seoul Future Heritage text saying "in May 2016 … buildings limited to four storeys".** The actual notice is dated **14 July 2016**, and four floors applies only to the Jahamun-ro and Hyoja-ro zones; designated hanok are limited to one floor and recommended zones to two or three. We replaced the quote with the notice's own table.
-
-**Eight: we said airport bus 6011 is "the only line stopping at Gyeongbokgung Station", with first and last buses at 04:31 and 20:48 from "opposite the Seoul Metropolitan Police Agency at exit 1".** The operator's site confirms that **6011 stops at Gyeongbokgung Station and costs ₩17,000 for adults**; we could not confirm the stop location, the times or "only line", so those are gone.
-
-**Nine: we did not mention Cheong Wa Dae at all.** The 2022 opening, the August 2025 closure and the president's return on 29 December 2025 are the biggest recent changes to Seochon's streets and trade, so they now have their own section.
 
 ## Timeline
 

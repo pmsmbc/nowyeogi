@@ -312,28 +312,6 @@ Weekly Donga describes the Gangnam Station area as a **basin lower than its surr
 | TBC | GTX-A pass-through at Samseong begins | No date |
 | 31 December | Yeongdong-daero countdown (Wikipedia: held every year since 2011, organised by Hyundai Motor) | 2026 plans not confirmed |
 
-## What we got wrong
-
-The first version of this guide (13 September 2026) contained many statements without sources. We have checked them again and corrected them here.
-
-**One: we called Gangnam "the most expensive real estate in the country".** The most expensive land in Korea by official assessed value is **the Nature Republic site in Myeongdong, which has topped the list for 23 years running** (News1, December 2025). Gangnam is expensive, but "most expensive" was wrong, so we removed it.
-
-**Two: we called Gangnam Station "the busiest crossroads in Seoul".** We had no source. In Seoul Metro's 2025 figures, Line 2 Gangnam Station handled 152,232 entries and exits a day, **third after Jamsil and Hongik University**.
-
-**Three: we said to take the airport railroad to Seoul Station and change to Line 9.** [[line:9]] does not run through Seoul Station. To change to Line 9 you get off the airport railroad at **Gimpo Airport Station**.
-
-**Four: we said airport bus 6103 runs to "the COEX city airport terminal".** The Samseong-dong city air terminal **ended check-in and immigration services and closed in early 2023** (Travel Times gives 4 January; News1 and Yonhap reported it in February). Bus 6103 kept running and was even increased afterwards (Chosun Biz, February 2023), but the terminal functions are gone. The ₩17,000 fare and the ₩70,000–90,000 taxi estimate had no source, so we removed them.
-
-**Five: we described Apgujeong Rodeo only as "entertainment agencies and K-Star Road".** K-Star Road is a set of sculptures installed in 2015, and as of the 2023 report it had no fourth-generation groups. We now say that we could not confirm its current state.
-
-**Six: we called the underground malls at Express Bus Terminal "the cheapest shopping in the district".** Express Bus Terminal is in Banpo-dong, **Seocho-gu**, outside this guide's Gangnam-gu boundary, and we had nothing to support "cheapest". Removed.
-
-**Seven: we gave Bongeunsa's admission as ₩1,000.** Bongeunsa does not charge admission. Prices and hours for individual sights, such as the Seolleung and Jeongneung royal tombs and the Starfield Library, have been rechecked in [Gangnam things to do](/en/posts/gangnam-things-to-do-2026-09/).
-
-**Eight: we wrote, without sources, that Gangnam has "Seoul's highest concentration of five-star hotels", that hanwoo beef "easily reaches ₩60,000 a portion", and that Line 2 rush hour is "08:00–09:00".** All removed; hotel and restaurant figures are in [Gangnam hotels](/en/posts/gangnam-hotels-2026-09/) and [Gangnam food](/en/posts/gangnam-food-2026-09/).
-
-**Nine: we never explained where Gangnam Station actually is.** It **straddles Yeoksam-dong in Gangnam-gu and Seocho-dong in Seocho-gu**, and the district changes with the exit number. The same goes for Sinsa and Sinnonhyeon, so we added a table.
-
 ## Timeline
 
 | When | What happened |

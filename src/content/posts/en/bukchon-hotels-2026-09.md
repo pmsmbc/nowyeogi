@@ -68,7 +68,7 @@ sources:
   - { title: "뉴시스 — 종로구, 북촌 지구단위계획 정비…주민 정주 환경 보호 (2026-06-01)", url: "https://www.newsis.com/view/NISX20260601_0003652032" }
   - { title: "서울한옥포털 — 한옥마을 > 북촌", url: "https://hanok.seoul.go.kr/front/kor/town/town01.do" }
   - { title: "한국관광공사 대한민국 구석구석 — 락고재 서울 북촌 한옥호텔·북촌빈관 by 락고재·인우하우스·연우하우스·이도한옥·무월관·서울이야기 한옥", url: "https://korean.visitkorea.or.kr/" }
-  - { title: "서울관광재단 — 서울스테이 (예전 판의 한옥 숫자 근거)", url: "https://stay.visitseoul.net/seoul-stay" }
+  - { title: "서울관광재단 — 서울스테이 (한옥·도시민박)", url: "https://stay.visitseoul.net/seoul-stay" }
   - { title: "공항리무진 — 6011번 노선안내 (공항방면, 정류장별 시간표)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=17" }
   - { title: "공항리무진 — 6011번 노선안내 (시내방면)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=39" }
   - { title: "공항리무진 — N6002번 심야 노선안내", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=80" }
@@ -418,22 +418,6 @@ Weekday and holiday times are the same. All the options are in [Incheon Airport 
 - **Late arrival** — last 6011 from T1 at 23:14, AREX from T1 at 23:38. Confirm hanok check-in arrangements in advance
 
 The neighbourhood itself is in the [Bukchon and Samcheong-dong guide](/en/posts/bukchon-guide-2026-09/), sights in [Things to do in Bukchon](/en/posts/bukchon-things-to-do-2026-09/) and food in [Where to eat in Bukchon](/en/posts/bukchon-food-2026-09/).
-
-## What I got wrong
-
-The previous version of this post (28 September 2026) contained errors and weakly sourced claims.
-
-**One: it mixed in Seoul Stay figures.** Alongside the licensing data (182), it set the Seoul Tourism Organization's Seoul Stay list ("50 of Seoul's 133 hanok stays are in Bukchon") and compared "Bukchon 50, Seochon 33" on that basis. Seoul Stay lists only places the city promotes and supports, a subset of those licensed. The [Seochon post](/en/posts/seochon-hotels-2026-09/) was also recounted from licensing data in October (121), so this version drops Seoul Stay numbers entirely and **compares only licensing data**. The red-zone street count changes likewise, from "12 of Seoul Stay's 50" to **36 registered hanok stays**.
-
-**Two: the opening section about "the old Seochon post" has gone.** It began by saying the Seochon post had claimed full hanok data was unavailable; that post has since been rewritten from the same register.
-
-**Three: the hotel count overlapped other posts.** The old version separately counted "28 tourist-accommodation businesses with 2,324 rooms in 12 neighbourhoods south and east of Anguk (Gwanhun, Insa, Nagwon, Ikseon, Unni, Waryong, Gwonnong, Gyeongun, Gyeonji, Gongpyeong, Susong, Junghak)". Those neighbourhoods are covered by the [Jongno](/en/posts/jongno-hotels-2026-09/), [Ikseon-dong](/en/posts/ikseon-hotels-2026-09/) and [Gwanghwamun](/en/posts/gwanghwamun-hotels-2026-09/) posts, so this version links to them instead of recounting.
-
-**Four: parts of the red-zone advice were inaccurate.** It said that staying in Bukchon lets you "walk Bukchon before 10 a.m." In the red zone, lingering to look around or wandering during restricted hours is itself tourist activity, and guests can be fined. It also stated flatly that Gye-dong and Wonseo-dong are outside the red zone; Jongno-gu publishes only "around Bukchon-ro 11-gil", so this version gives street names only.
-
-**Five: unsourced claims were removed** — that hanok are poorly soundproofed and that the upper parts of Gahoe-dong and Samcheong-dong are hard to climb with luggage. On the slope, only the Seoul Hanok Portal's description of the terrain remains.
-
-**Six: the median area was corrected.** The old "57 m²" recalculates from the same data as **about 56 m²** (56.4).
 
 ## Summary
 

@@ -302,20 +302,6 @@ The practical point: **to get up Namsan today, use the existing cable car, a bus
 
 West of Myeongdong, past Shinsegae's flagship store, is **Namdaemun Market**. Jung-gu calls it a traditional market with "600 years of history". KTO says it spreads out from Sungnyemun Gate with **about 10,000 shops** selling **around 1,700 kinds of goods**, and draws **about 300,000 people a day**. It is both wholesale and retail, so hours vary by shop. If Myeongdong sells what's new, Namdaemun sells everyday things: glasses, kitchenware, children's clothes, ginseng. The noodle and braised-cutlassfish alleys are in [where to eat in Myeongdong](/en/posts/myeongdong-food-2026-09/), and a walk through the market is in [things to do in Myeongdong](/en/posts/myeongdong-things-to-do-2026-09/).
 
-## What we got wrong
-
-The first version of this guide (10 September 2026) had some errors and some claims we couldn't back up. Corrections:
-
-**One: we said to take the airport railroad to Seoul Station and then "one stop" on Line 4.** One stop from Seoul Station on [[line:4]] is **Hoehyeon** (Namdaemun Market). **Myeongdong is two stops.**
-
-**Two: we said the stalls open "from around 4 pm".** Under the 2016 rules it's **4 pm on weekdays in summer, 3 pm in winter, and 2 pm on weekends and public holidays.**
-
-**Three: we said street food costs "about twice the market price".** We found no official data to support that comparison and removed it. Instead this version covers the 2023 overcharging row and the price-display and card-reader measures that followed.
-
-**Four: we called Myeongdong "the square kilometre" with "more cosmetics shops than anywhere on earth".** The second half was unsupported. And as a tourist zone, Myeongdong has since 2012 covered 873,000 m² including Da-dong, Mugyo-dong, Seoul Plaza and Cheonggye Plaza.
-
-**Five: we said hotels ran "from about ₩60,000 to ₩500,000" and that "bigger rooms and quiet" were on the Namdaemun-ro side.** Neither had a source, so both are gone. Lodging and room counts from licensing data are in [where to stay in Myeongdong](/en/posts/myeongdong-hotels-2026-09/).
-
 ## Timeline
 
 | When | What happened |

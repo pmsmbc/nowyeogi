@@ -97,7 +97,7 @@ Big hotels appear in the lodging data a second time as "tourist hotels", so addi
 Neighbouring dongs are split like this:
 
 - **Itaewon-dong (Itaewon 1-dong and 2-dong) and Yongsan-dong 2-ga (Haebangchon)** — 8 hotels and hostels, 6 inns, 225 homestays. [Where to stay in Itaewon and Haebangchon](/en/posts/itaewon-hotels-2026-09/)
-- The earlier version of this guide counted Itaewon-dong and Haebangchon as well. How the numbers were divided is shown in "What I got wrong"
+- Itaewon-dong and Haebangchon are counted in [where to stay in Itaewon and Haebangchon](/en/posts/itaewon-hotels-2026-09/)
 
 Among all of Seoul's neighbourhoods by homestay count, **Hannam-dong ranks 79th and Bogwang-dong 109th**. Itaewon-dong, in the same district, is 7th with 173.
 
@@ -239,27 +239,6 @@ For all the options, see [Incheon Airport to Seoul](/en/posts/incheon-airport-to
 - **More hotel choice** — Hamilton, Mondrian and four hostels in Itaewon-dong. [Where to stay in Itaewon and Haebangchon](/en/posts/itaewon-hotels-2026-09/)
 
 For the neighbourhood itself, see the [Hannam-dong travel guide](/en/posts/hannam-guide-2026-09/), [things to do](/en/posts/hannam-things-to-do-2026-09/) and [where to eat](/en/posts/hannam-food-2026-09/).
-
-## What I got wrong
-
-The earlier version of this guide (29 September 2026) contained mistakes or weakly sourced claims.
-
-**One: it overlapped with the Itaewon hotels guide.** Its title was "Where to stay in Itaewon and Hannam-dong: 10 hotels, 194 homestays", and the same hotels and numbers also appeared in the Itaewon guide. This version covers **only Hannam-dong and Bogwang-dong**; Itaewon-dong and Haebangchon have moved to [Where to stay in Itaewon and Haebangchon](/en/posts/itaewon-hotels-2026-09/). The old totals reconcile like this:
-
-| Item | Old version | Itaewon and Haebangchon guide | This guide |
-| --- | --- | --- | --- |
-| Tourist accommodation (Itaewon-dong + Hannam-dong) | 10 | 8 | 2 |
-| Inns (Itaewon-dong + Hannam-dong + Bogwang-dong) | 9 | 6 | 3 (Hannam-dong 1, Bogwang-dong 2) |
-| Homestays (Itaewon-dong + Hannam-dong) | 194 | 173 | 21 |
-| Homestays (Haebangchon / Bogwang-dong) | 52 / 14 | 52 | 14 |
-
-The numbers themselves have not changed; the same updates of the data were downloaded again and rechecked.
-
-**Two: the Crown Hotel site was out of date.** The old version said "25 storeys, about 150 homes, start of construction unconfirmed". Recent reports give **two 14-storey blocks with 33 units, with construction actually starting on 20 June 2026**. The Crown was in Itaewon-dong, so the details have moved to the [Itaewon and Haebangchon guide](/en/posts/itaewon-hotels-2026-09/).
-
-**Three: closed inns in Hannam-dong were undercounted.** The old version said there were five closed inn records; recounting the same data gives **13**, of which five still carry a street address.
-
-**Four: the Grand Hyatt's room count discrepancy was not mentioned.** The licensing data says 620; the Korea Tourism Organization says 615. Both are now given.
 
 ## Summary
 

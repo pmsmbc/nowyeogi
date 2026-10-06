@@ -588,26 +588,6 @@ On Saturdays Jeongdok Library and the education museum (to 17:00), the Baek In-j
 
 For **an early start**, go to Samcheong Park at 08:00, walk up to Malbawi and part of the Baegak trail (autumn recommended hours start at 07:00), then come down to the Forest Library at 10:00 and on to Jeongdok Library. **On a Monday**, the Ko Hui-dong museum, Baek In-je House and Culture Center are all closed; build the day around the National Folk Museum (English tour 10:30), MMCA and Jeongdok Library.
 
-## What we got wrong
-
-**First, we stated six weekend tours at the Baek In-je House (including 13:30).** The museum's branch page lists **five on weekends and holidays** (10, 11, 14, 15, 16:00) and its booking page lists six. **The two official pages disagree**; we now show both. We also missed the note that the women's quarters open "flexibly".
-
-**Second, we wrote that the city "now identifies" the Bukchon Culture Center as Yu Jin-gyeong's house.** The Seoul Hanok Portal says **"research is under way"**. We overstated it.
-
-**Third, we called Samcheong Park "No. 1 of 140 urban parks designated on 12 March 1940".** Official sources only confirm **urban park No. 1, designated in 1940** (city Mediahub) and the date 12 March 1940 (KTO). We found nothing for "140" and removed it.
-
-**Fourth, we said Views 4–7 of the Eight Views all lie inside the red zone.** The city's article says **four of the eight are in Gahoe-dong 31**; no official map matches each to the boundary. We rephrased.
-
-**Fifth, we gave the Seokjeong Boreum Well's address as 110 Gyedong-gil.** KTO gives 112, so we now describe it as 90 m from the school gate. We also dropped a TV-drama claim about Joongang High School that we could not re-check.
-
-**Sixth, the Museum of Education hours came from a city article.** We have now confirmed them on the museum's own site: **weekdays 09:00–18:00, weekends 09:00–17:00, free.**
-
-**Seventh, a lot was missing**: the **National Folk Museum**, open on Mondays; Wonseo-dong's **Ko Hui-dong Art Museum and laundry stream**; **Songhyeon Green Plaza**, which closes in December; the **Baegak trail**, open 24 hours; official **craft workshops**; and the **Seoul Hanok Week** now under way.
-
-**Eighth, we repeated Changdeokgung's price and hours tables here.** They are covered in more detail in [things to do in Jongno](/en/posts/jongno-things-to-do-2026-09/); we kept only the Monday closing, the Geumhomun entrance and the free days.
-
-**Ninth, the cover photo was a rainy indoor hall.** We switched to Samcheong Park in autumn colour and matched the other photos to their sections.
-
 ## Quick summary
 
 - **Red zone (Bukchon-ro 11-gil area): tourist visits 10:00–17:00 only**, ₩100,000 fine outside those hours. **Even exempt people can be fined for taking photos.**

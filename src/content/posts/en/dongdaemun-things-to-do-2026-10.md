@@ -504,14 +504,6 @@ The water gate and history museum (last entry 17:30), or the 16:30 rooftop sunse
 **Evening: DDP 365 Light and shopping.**
 Five-minute shows every half-hour from 19:00. Doota is open until midnight, and from Sunday to Thursday night the wholesale malls are lit up too.
 
-## What we got wrong
-
-**First, the Naksan section is not 2.1km.** A Seoul city guide page and many travel sites list it as "Hyehwamun to Heunginjimun, 2.1km, 1 hour". The official Seoul City Wall website now gives **Hyehwamun to Gwanghuimun, 3.2km, 1 hour 30 minutes**; the end point has moved south from Heunginjimun to Gwanghuimun.
-
-**Second, we expected to visit Changsin-dong's sewing museum.** Iumpium closed at the end of February 2023, though plenty of sources still list it as open.
-
-**Third, we assumed DDP's facade shows were festival-only.** Since September 2026, DDP 365 Light runs every night, every half-hour, even when there is no festival.
-
 ## Summary
 
 - **DDP** is open 10:00-20:00, Mondays included. Book the **Architecture Tour** (Tue-Sat, ₩10,000, English at 14:30) and the **Rooftop Tour** (until 29 November, ₩26,000, ages 18-70, photo ID, English at 11:00) in advance.

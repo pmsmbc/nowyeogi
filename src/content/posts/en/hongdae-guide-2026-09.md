@@ -235,18 +235,6 @@ The 2025 Halloween operation, from Herald Economy and Hankyung:
 
 As of 1 October 2026 the plan for this year's Halloween has not been announced. On the last weekend of October and on December weekend nights, **using [[line:6]] Sangsu or Hapjeong instead of Exit 9** is the easy way to avoid the worst of it.
 
-## What I had wrong
-
-Four things I believed before researching this turned out to be wrong.
-
-**One: the Walking Street is not a 1990s street.** The old track bed became car parks in the 1990s, but today's Hongdae Walking Street is, per the Korea Tourism Organization, **about 500 m that Seoul rebuilt in 2016–2017**.
-
-**Two: the Red Road is not just a new name for the Walking Street.** The Walking Street covers roughly R1–R2. The Red Road runs **about 2 km from Gyeongui Line Forest Park to the power plant**.
-
-**Three: the tourist zone was not inevitable.** When it was first pushed in 2016, **around 300 artists opposed it**, and designation came five years later.
-
-**Four: Hongik Univ. is not Seoul's busiest station.** On Seoul Metro's 2025 figures **Jamsil is first and Hongik Univ. second, about 4,300 a day behind**.
-
 ## Timeline
 
 | When | What happened |

@@ -200,22 +200,6 @@ The Seoul Hanok Portal calls Ikseon-dong **"a hanok island in the city"** and sa
 - **The site of Ojinam.** According to the Seoul Hanok Portal, **34-8 Ikseon-dong** was home to Ojinam, one of the three best-known *yojeong* (high-end banquet houses) of the 1970s–80s. Talks leading to the 4 July 1972 North–South Joint Statement were held there. It was demolished in 2010 when a tourist hotel was built; its timbers were moved to Buam-dong and rebuilt as the cultural centre **Mugyewon**. A hotel stands on the Ikseon-dong site today, and the district's walking route stops there as "the site of Ojinam".
 - **The site of Nudonggung**, the residence and shrine of King Cheoljong's father (Seoul Hanok Portal). Nothing of it survives; a developer later bought the land and divided it into the small plots that shape the lanes today. The full story is in our [Ikseon-dong guide](/en/posts/ikseon-guide-2026-09/).
 
-### Correcting a number
-
-The previous version of this page was titled "62 of the 75 Hanok Are Shops". It was based on the Seoul Fire & Disaster Headquarters' list of **fire-prevention priority districts**. In the version registered on 5 August 2026, the row for "Ikseon-dong Hanok Village (around 166 Ikseon-dong)" reads:
-
-| Item | Value |
-| --- | --- |
-| Construction | Wooden tiled hanok etc., total floor area 8,544.57 m² |
-| Buildings (shops) | **75 (62)** |
-| Dwellings | **13** |
-| Year built | 1920 |
-| Designated | 21 August 2018 |
-
-But the same table gives Insadong's main street **30 buildings and 40 shops**. The shop count can be higher than the building count, so it counts **shops, not buildings that are shops**. The 13 is counted in **households**, not buildings. What the table actually says is that **the district around 166 Ikseon-dong has 75 hanok buildings, 62 shops and 13 homes**. "62 of the 75 hanok are shops" misread it, and we have corrected it.
-
-The area is different too. The Seoul Hanok Portal counts **118 hanok** and **around 330 businesses (2018)** for Ikseon-dong as a whole; the fire statistics cover one block.
-
 ### Walking the lanes
 
 ![A narrow Ikseon-dong alley with a tiger banner on a hanok wall, overhead wires and people walking further in](/images/ikseon-things-to-do-2026-09/21.webp)
@@ -453,22 +437,6 @@ On a Saturday Jongmyo is walk-in and Seosulla-gil is car-free, and on this parti
 
 **Leave the car behind.** The theatre, the folk-music museum, Seosulla-gil and the Ikseon-dong lanes are all listed officially as having no dedicated parking or no parking at all.
 
-## What we got wrong
-
-**First, "62 of the 75 hanok are shops" misread the statistics.** The bracketed number in the fire-service table is the **number of shops**, not of buildings; in the same table Insadong has 30 buildings and 40 shops. The 13 dwellings are **households**, so they can't simply be subtracted from 75. And the figures cover only **the block around 166 Ikseon-dong**, not the whole neighbourhood.
-
-**Second, "you can walk all the lanes in 30 minutes" had no source.** With Seosulla-gil, Gugak-ro and Nakwon Arcade, the area easily fills half a day or more, so we removed it.
-
-**Third, we presented Donhwamun simply as "a Treasure within walking distance".** **The gate is closed for repairs until July 2027 and the palace entrance is Geumhomun.**
-
-**Fourth, we gave Jongmyo only as "220 m from Exit 8".** We left out the **Tuesday closing**, timed entry on Monday, Thursday and Friday, and the free days in October–November, and didn't mention that **there is no gate into Jongmyo from Seosulla-gil**.
-
-**Fifth, we missed Seosulla-gil's car-free weekends**: **10:00–22:00 on Saturdays and Sundays** since 20 December 2025.
-
-**Sixth, we skipped the free venues on Gugak-ro** (the folk-music museum and Urisori Library) and the theatre's programme. We had copied the names on the district's walking route without checking hours or prices.
-
-**Seventh, the photos didn't match the neighbourhood.** The cover was a platform at Jongno 3-ga Station and the body photo a hanok room in the National Folk Museum. They are now the Ikseon-dong lanes, the Gugak-ro venues and the old Dansungsa.
-
 ## Quick summary
 
 - **Seosulla-gil**: 820 m along Jongmyo's west wall, **car-free Saturday and Sunday 10:00–22:00**. No gate into the shrine.
@@ -477,6 +445,6 @@ On a Saturday Jongmyo is walk-in and Seosulla-gil is car-free, and on this parti
 - **Seoul Jewelry Showroom**: 83 Seosulla-gil, Tue–Sat 11:00–19:00.
 - **Nakwon Arcade**: about 300 instrument shops on floors 2–3; **Hollywood Classic** on the 4th, ₩2,000 for 55+.
 - **Site of Dansungsa**: Korea's first film screened here on 27 October 1919; now the Dansung Gold Building.
-- The old headline **"62 of 75 hanok are shops" misread the data**: the block around 166 Ikseon-dong has 75 hanok, 62 shops and 13 homes.
+- **The block around 166 Ikseon-dong**: 75 hanok, 62 shops and 13 homes.
 
 For the history of the neighbourhood see our [Ikseon-dong guide](/en/posts/ikseon-guide-2026-09/); for food, [Ikseon-dong food](/en/posts/ikseon-food-2026-09/); for a bed, [where to stay in Ikseon-dong](/en/posts/ikseon-hotels-2026-09/). Inside the palaces and Jongmyo, see [things to do in Jongno](/en/posts/jongno-things-to-do-2026-09/); for a night out, [Jongno pojangmacha](/en/posts/jongno-pocha-2026-09/).

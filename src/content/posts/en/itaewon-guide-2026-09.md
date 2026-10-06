@@ -299,24 +299,6 @@ The Korea Tourism Organization describes Usadan-gil as a mix of Pakistani, Turki
 
 A note on the **Itaewon Global Village Festival**: Media Search (July 2024) reported that the 2024 edition was cancelled by its organiser, the Itaewon Special Tourist Zone merchants' association, citing its share of the costs. We could not confirm whether it was held in 2025 or 2026, so do not plan a trip around older listings that say "Itaewon = global festival in October".
 
-## What we got wrong
-
-The first version of this guide (14 September 2026) was a short overview with many unsourced sentences. We have checked and corrected it.
-
-**One: we wrote that the US base had been next door "for 70 years".** We had no source for the duration. The community centre and the Yongsan History Museum speak only of **US forces stationed here after the Korean War and a camp town forming**, so that is what we kept.
-
-**Two: we wrote that Itaewon had "the most halal-certified restaurants in the country".** We found no basis and removed it.
-
-**Three: we gave an airport bus number and a taxi fare range (65,000–85,000 won) without sources.** Both are gone; airport routes are now in [Incheon Airport to Seoul](/en/posts/incheon-airport-to-seoul-2026-09/).
-
-**Four: we described the memorial only as being "near exit 1".** Its official name is the **10.29 Memorial Alley**, about 40m from exit 1 according to Kyunghyang Shinmun. The 2024 Special Act and the September 2026 amendment are now included.
-
-**Five: we stated that "police set up one-way systems in the main alleys on Halloween weekends".** The 2025 plan was **staged crowd control with one-way routes as needed**, plus barriers in the World Food Street, and we have not found the 2026 plan. We now give the year.
-
-**Six: we covered Itaewon and Hannam-dong in one guide.** It overlapped with our [Hannam-dong guide](/en/posts/hannam-guide-2026-09/), so we split the area by administrative unit and moved the Itaewon-side records (the name, the 1997 designation, events since 2022, Haebangchon, the mosque) here.
-
-**Seven: we once paraphrased the mosque's dress guidance as "skirts and scarves from a changing room near the security desk".** The Korea Muslim Federation's own wording is **"garments (skirts, hijabs and so on) provided in the changing room beside the guard office"**. Corrected.
-
 ## Timeline
 
 | Date | Event |

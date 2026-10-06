@@ -63,7 +63,7 @@ sources:
   - { title: "서울 열린데이터광장 — 서울시 한옥체험업 인허가 정보 (OA-16047)", url: "https://data.seoul.go.kr/dataList/OA-16047/S/1/datasetView.do" }
   - { title: "국가법령정보센터 — 관광진흥법 시행령 제2조(한옥체험업·외국인관광 도시민박업의 정의)와 [별표 1] 관광사업의 등록기준 (2026. 8. 4. 시행)", url: "https://www.law.go.kr/법령/관광진흥법시행령" }
   - { title: "서울한옥포털 — 한옥마을 > 경복궁 서측", url: "https://hanok.seoul.go.kr/front/kor/town/town02.do" }
-  - { title: "서울관광재단 — 서울스테이 (예전 판의 한옥 숫자 근거)", url: "https://stay.visitseoul.net/seoul-stay" }
+  - { title: "서울관광재단 — 서울스테이 (한옥·도시민박)", url: "https://stay.visitseoul.net/seoul-stay" }
   - { title: "한국관광공사 대한민국 구석구석 — 한옥에세이 서촌·누와·일독일박·소소하우스·이화한옥·아담한옥·효자스테이·통인 1939·한옥 게스트하우스 동촌재", url: "https://korean.visitkorea.or.kr/" }
   - { title: "공항리무진 — 6011번 노선안내 (공항방면, 정류장별 시간표)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=17" }
   - { title: "공항리무진 — 6011번 노선안내 (시내방면)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=39" }
@@ -367,22 +367,6 @@ Weekday and holiday times are the same. All the options are in [Incheon Airport 
 - **Late arrival** — last 6011 from T1 at 23:14, 6002 at 23:29, AREX from T1 at 23:38. Confirm hanok check-in arrangements in advance
 
 The neighbourhood itself is in [Seochon travel guide](/en/posts/seochon-guide-2026-09/), sights in [Things to do in Seochon](/en/posts/seochon-things-to-do-2026-09/) and food in [Where to eat in Seochon](/en/posts/seochon-food-2026-09/).
-
-## What I got wrong
-
-The previous version of this post (23 September 2026) contained errors and weakly sourced claims.
-
-**One: the hanok count was wrong.** It used the Seoul Tourism Organization's Seoul Stay list — "33 of Seoul's 133 hanok stays are in Seochon" — and said I hadn't been able to obtain full hanok licensing data. Seoul Stay lists only places the city promotes and supports, a subset of those licensed. Seoul's hanok experience business register shows **438 open in Seoul, 358 in Jongno-gu and 121 in Seochon's 14 neighbourhoods**. This version is recounted from that register.
-
-**Two: "the densest concentration of hanok stays in Seoul" was wrong.** Bukchon's 11 neighbourhoods have more (182). Neighbourhood by neighbourhood, Chebu-dong (36) ranks third in Seoul after Gye-dong and Gahoe-dong. The [Bukchon post](/en/posts/bukchon-hotels-2026-09/) corrected this first.
-
-**Three: only 13 neighbourhoods were counted.** The old version said the hanok portal defines Seochon as 14 legal dong, then counted 13. This version uses the same 14 as the Jongno-gu table in the [Jongno post](/en/posts/jongno-hotels-2026-09/), and the figures (2 lodging businesses, 116 homestays, 121 hanok stays) match that table.
-
-**Four: "two stops from Seoul Station on Line 3" was wrong.** Line 3 does not serve Seoul Station. You change from [[line:1]] at Jongno 3-ga or from [[line:4]] at Chungmuro onto [[line:3]].
-
-**Five: unsourced claims were removed** — that a 15–20 m height limit "from 1977 to 2024, for 47 years" made hotels impossible, that hanok are poorly soundproofed, that nights are quiet because there are few chains or bars, that most Seochon hanok have individual heating and therefore need CO alarms, and a comparison with Seongsu-dong's inns. I couldn't re-verify any of them.
-
-**Six: the rate-card rule was updated.** The old version said only "post and honour a rate card". Since the amendment in force from 4 August 2026, it must be posted **both at the reception and online**.
 
 ## Summary
 

@@ -391,26 +391,6 @@ According to Maeil Ilbo (17 September 2026), the 4th **Seoul Hanok Week** runs a
 
 **Red-zone hours still apply during the festival.** The city's housing director asked visitors to "keep quiet out of consideration for residents".
 
-## What we got wrong
-
-The first version of this guide (28 September 2026) contained errors and weakly sourced claims. We have re-read the statutes and the ruling coverage.
-
-**One: we wrote that the court simply "dismissed" the charter-bus lawsuit.** The **drivers' claim was dismissed** on the merits, but the **merchants' claim was rejected for lack of standing**. We also left out the court's reference to visitor numbers rising 16 to 18% in 2025.
-
-**Two: we wrote that the 2019 amendment created the special management area, full stop.** The system was introduced in 2019 (Act No. 16684), but **the legal basis for restricting vehicles and tourists and for fines came with the 2021 amendment (Act No. 18009, in force 14 October 2021)**. Today's red zone and bus fines rest on that.
-
-**Three: we wrote that the orange zone had disappeared from Jongno-gu's guidance.** It is missing from the district's web page, but an August 2026 report and the on-site signs still show **red, orange and yellow zones**. We found no notice abolishing it.
-
-**Four: our 2020 timeline entry said "January: district plan revision, architectural asset zone in progress".** The architectural asset promotion zones were **designated on 24 December 2020**, with Bukchon's management plan due on the 31st (Money S).
-
-**Five: we named a village-bus stop, "Gahoe-dong Community Centre", without a source.** Jeongdok Library's directions say to get off **Jongno 01 and 02 at Jaedong Elementary School and Jongno 11 at the Jeongdok Library entrance**; we now follow that. We also removed our unverified claim that airport bus 6011 stops "near Anguk Exit 1".
-
-**Six: our comparison table included neighbourhoods whose dates we had not re-checked.** We dropped Seongsu-dong, Seongbuk-dong and Euljiro and kept only neighbours this blog has documented from primary sources. We also removed an unsourced line about October sunset times.
-
-**Seven: we gave Bukchon a single size.** The Seoul Hanok Portal gives **1,076,302㎡** for six neighbourhoods; the district plan and special management area cover **1,128,372.7㎡**. Both are now listed.
-
-**Eight: we left out residents, visitor numbers and Songhyeon-dong.** We have added the 27.8% population fall (2013-2023), visitor figures, and the Songhyeon-dong site, whose temporary opening is due to end in December 2026.
-
 ## Timeline
 
 | When | What happened |

@@ -336,26 +336,6 @@ Once work starts, the area between Seoul Forest and the river will change dramat
 
 Expect bigger crowds than a normal weekend during the festival, and check the latest programme from Seongdong-gu and the Seongdong Cultural Foundation.
 
-## What we got wrong
-
-The first version of this guide (22 September 2026) was mostly practical tips and mixed unchecked statements with information that had already changed. Here is what we corrected.
-
-**First, we gave the Yeonmujang-gil traffic restriction as "1pm–5pm at weekends, 78 times in 2026".** 1pm–5pm was last year's window and 78 was January's plan. The 2026 schedule Seongdong-gu announced on 27 March is **every Saturday and Sunday, 2pm–6pm, from 28 March to 29 November**.
-
-**Second, we gave Seongsu Station's address as "56 Seongsuil-ro (basement)".** Seongsu is an elevated station, and its address per Korean Wikipedia is **100 Achasan-ro**.
-
-**Third, we said tourist information was weak and the only places to ask a person were the Seoul Forest visitor centre and the 1330 hotline.** That was wrong. Seongdong-gu runs a **Seongsu Tourist Information Centre** inside Seongsu Station with interpreters (opened November 2023; see [Seongsu things to do](/en/posts/seongsu-things-to-do-2026-09/)), and since April 2025 it has added roving help around Seoul Forest and Atelier-gil (Asia Economy, May 2025). The Korea Tourism Organization lists it (02-466-2286) as the contact for the cafe street.
-
-**Fourth, we said Seongsu had no tourist hotels.** That was wrong. Seongsu-dong 1-ga and 2-ga have one registered tourist hotel (Hotel Poco Seongsu, 80 rooms), and a September 2026 report (Aju Business Daily) counts seven tourist hotels with 220 rooms across Seongdong-gu. Accommodation is now covered in [Seongsu hotels](/en/posts/seongsu-hotels-2026-09/).
-
-**Fifth, we said that because the district's themed-route page had no addresses or update date, "the district does not guarantee those shops are still open".** That was our inference written as fact, so we removed it. The 883 pop-ups a year now make the point that shops change fast.
-
-**Sixth, we left out Seongsu Station's crowding.** We have added the four-exit problem, the 31% share at Exit 3 in the evening rush, the Exit 3-1 construction and the 1 May 2026 Pokémon shutdown.
-
-**Seventh, we included several statements we could not re-confirm**: that airport buses 6001 and 6002 do not stop in Seongdong-gu, that Seoul's free walking tours have no Seongsu route, that the district website's English and Japanese are machine translations, that the district officially classes Halloween and Christmas as peak-crowd periods, and that "Korea's Brooklyn" is the district's own term. All have been removed. Only the route 6013 limousine details were re-checked against the operator's site.
-
-**Eighth, we barely covered the history.** The 1964 zoning, Daelim Warehouse (2011), the anti-gentrification ordinance (2015), SM and Musinsa's moves (2021 and 2022) and the 2026 development zone expansion are now dated and sourced.
-
 ## Timeline
 
 | When | What happened |

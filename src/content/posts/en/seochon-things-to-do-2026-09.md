@@ -493,26 +493,6 @@ On Saturdays everything in this guide is open. **Book Chilgung 9 to 3 days ahead
 
 If Gyeongbokgung is a priority, flip it: **palace at 9 am → Tongin Market lunch → Chilgung and Park No-soo in the afternoon → Suseongdong and Mumudae at dusk**. On a Friday, Hong Geon-ik House stays open until 20:00 and you can try archery at Hwanghakjeong (10:00–14:00).
 
-## What we got wrong
-
-**First, we said Suseongdong Valley was "recovered in 2011".** Seoul's own timeline, as reported by News1, is **demolition from February 2008, restoration finished in 2012 and opening on 11 July 2012.**
-
-**Second, we sent you to Gyeongbokgung Exit 3 for the Suseongdong village bus.** News1 (25 September 2026) says **Exit 2, village bus Jongno 09 to the last stop.**
-
-**Third, we described the Yun Dong-ju museum as "about 10 minutes by village bus from Exit 3".** The City Wall site says **branch buses** (1020, 7022 and others) from the stop by Exit 3; the "10 minutes" had no source. We also left out the 13:30–14:00 closure and the lack of a toilet.
-
-**Fourth, we gave 2012 as the opening year of Yi Sang's House.** OhmyNews (September 2026) says 2011; since the sources disagree, we dropped the year.
-
-**Fifth, we said nothing about Chilgung, Cheong Wa Dae or Yeongchumun**, which are the biggest changes in Seochon in 2026: **Chilgung by booking only since February, Cheong Wa Dae closed since August 2025, and Yeongchumun's doors replaced in June–July.**
-
-**Sixth, we said "every venue here closes on Mondays".** True for the district venues, but **Chilgung closes on Tuesdays**, the Tongin lunchbox café closes on a Monday or Tuesday depending on the source, and KTO lists Seokpajeong as closed Mondays and Tuesdays.
-
-**Seventh, the palace closing-day table was already corrected on 2 October 2026.** It first implied all palaces close on Tuesdays; in fact **Gyeongbokgung and Jongmyo close on Tuesdays, Changdeokgung, Changgyeonggung and Deoksugung on Mondays**. In this rewrite that table moves to [things to do in Jongno](/en/posts/jongno-things-to-do-2026-09/) and only Gyeongbokgung and Chilgung stay here.
-
-**Eighth, we said the Inwangsan "curved bastion" is still a closed military site.** The City Wall site lists it as a point on the trail, and we found no official source for a ban, so we removed the claim.
-
-**Ninth, our cover photo was borrowed from the Seochon guide.** This page now has its own images.
-
 ## Quick summary
 
 - **Always open**: Suseongdong Valley, Inwangsan (24 hours), Mumudae Viewpoint, Sajikdan. **Chosochaekbang daily 08:00–22:00.**

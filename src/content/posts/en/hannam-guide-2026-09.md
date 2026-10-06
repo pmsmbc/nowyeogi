@@ -138,18 +138,6 @@ The Fact puts the total for all five zones at **about 13,000 homes**. Its unit c
 
 What this means for a visitor: **south of Itaewon-ro, on the slopes of Hannam-dong and Bogwang-dong, you will see hoardings and construction trucks for years to come.** These are not areas to seek out for old-alley atmosphere, and many blocks already stand empty.
 
-## What we got wrong
-
-These are things we believed before researching this, and corrections since.
-
-**One: Hannam New Town is not a Hannam-dong project.** By the notice, **only Zone 3 is in Hannam-dong**. Zones 2 and 4 are in Bogwang-dong and Zone 5 in Dongbinggo-dong. Even the statement of purpose begins with "the Bogwang-dong area".
-
-**Two: there are four zones, not five.** Zone 1 was **released on 30 March 2017** and survives in the notice only as a retained area, though it was picked as a fast-track candidate in February 2025 (The Fact).
-
-**Three: we thought the Leeum side was outside the tourist zone.** Since December 2025, **the Hangangjin Station area is in**. The "Itaewon Special Tourist Zone" now stretches over Hannam-dong's gallery streets.
-
-**Four: the first version of this guide (29 September 2026) covered Itaewon and Hannam-dong together.** It overlapped with our earlier [Itaewon guide](/en/posts/itaewon-guide-2026-09/), so we split the area by administrative unit and moved the Itaewon-side records (the name, the 1997 designation, events since 2022, Haebangchon, the mosque) there. The mosque's dress guidance we had here also differed from the Korea Muslim Federation's wording, and was corrected when it moved.
-
 ## The returned land to the west: Yongsan Park
 
 Heading west from Hannam-dong along Itaewon-ro, you used to reach **the wall of the US Army's Yongsan Garrison**. Part of the returned land has been opened on a temporary basis as "Yongsan Children's Garden", and two things have changed.
