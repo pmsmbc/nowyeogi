@@ -76,6 +76,9 @@ p { margin: 0 0 1.2em; }
 /* 일본어 본문은 한자와 가나가 제대로 나오도록 Noto Sans JP 를 앞에 둔다 */
 body.lang-ja { font-family: 'Noto Sans JP', 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic', Meiryo, sans-serif; }
 body.lang-ja h1, body.lang-ja h2, body.lang-ja h3 { font-family: inherit; }
+/* 일본어는 띄어쓰기가 없어 keep-all 이면 쉼표에서만 줄이 바뀌어 모바일에서 문장이 들쭉날쭉 내려간다.
+   글자 단위 줄바꿈을 허용하고, 줄머리·줄끝 금칙(。、）등)은 strict 로 지킨다. */
+body.lang-ja { word-break: normal; line-break: strict; }
 
 /* 접근성 */
 .skip-link { position: absolute; left: 50%; top: 0; transform: translate(-50%, -120%); z-index: 100; padding: .7em 1.4em; background: var(--c-primary-darker); color: #fff; font-weight: 600; border-radius: 0 0 var(--radius-sm) var(--radius-sm); }

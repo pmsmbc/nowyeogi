@@ -33,5 +33,11 @@ const nav = [
   .logo img { width: 36px; height: 36px; }
   nav { display: flex; align-items: center; gap: 1.1rem; }
   nav a { color: var(--c-text); font-weight: 500; }
-  @media (max-width: 640px) { nav { gap: .7rem; font-size: .92rem; } .logo { font-size: 1.05rem; } }
+  /* 로고와 메뉴 글자가 한 글자씩 쪼개져 내려가지 않게 한다 */
+  .logo, nav a { white-space: nowrap; }
+  @media (max-width: 640px) {
+    .row { height: auto; min-height: 56px; flex-wrap: wrap; row-gap: .2rem; padding-block: .45rem; }
+    nav { gap: .7rem; font-size: .92rem; flex-wrap: wrap; }
+    .logo { font-size: 1.05rem; }
+  }
 </style>
