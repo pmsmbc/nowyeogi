@@ -3,36 +3,45 @@
     "src": "/images/bukchon-food-2026-09/01.webp",
     "alt": "",
     "width": 1600,
-    "height": 1067,
-    "credit": "Giuseppe Milo, CC BY 3.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Samcheong_Dong_Seoul_South_Korea_Color_Street_Photography_(252579073).jpeg",
-    "description": "500px provided description: Check out my gallery at www.pixael.com/en/pictures if you want to see more pictures. You can follow me on www.facebook.com/giuseppem"
+    "height": 1101,
+    "credit": "Chloe Lim, CC BY 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gamja-jeon_2.jpg",
+    "description": "Gamja-jeon (potato pancakes)"
   },
   {
-    "src": "/images/bukchon-food-2026-09/03.webp",
-    "alt": "",
-    "width": 1600,
-    "height": 1069,
-    "credit": "travel oriented, CC BY-SA 2.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Samcheong-dong_-_14725001157.jpg",
-    "description": "Samcheong-dong"
-  },
-  {
-    "src": "/images/bukchon-food-2026-09/04.webp",
-    "alt": "",
-    "width": 1600,
-    "height": 1069,
-    "credit": "travel oriented, CC BY-SA 2.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Samcheong-dong.jpg",
-    "description": "Samcheong-dong"
-  },
-  {
-    "src": "/images/bukchon-food-2026-09/05.webp",
+    "src": "/images/bukchon-food-2026-09/02.webp",
     "alt": "",
     "width": 1600,
     "height": 1200,
     "credit": "Steve Longus, CC BY 2.0, via Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Korean.cuisine-Sujebi-01.jpg",
     "description": "Sujebie, a Korean dish consisting of a soup with wheat flakes roughly torn by hands."
+  },
+  {
+    "src": "/images/bukchon-food-2026-09/03.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1299,
+    "credit": "wizdata, CC0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Patjuk.jpg",
+    "description": "Patjuk"
+  },
+  {
+    "src": "/images/bukchon-food-2026-09/04.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1200,
+    "credit": "by avlxyz, CC BY-SA 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Korean.cuisine-Manduguk-01.jpg",
+    "description": "Manduguk, a Korean soup made with mandu(dumpling)"
+  },
+  {
+    "src": "/images/bukchon-food-2026-09/05.webp",
+    "alt": "",
+    "width": 1600,
+    "height": 1067,
+    "credit": "by Junho Jung at Flickr from South Korea, CC BY-SA 3.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Korea-Sokcho-Gamja_ongsimi-Potato_dumpling_soup-02.jpg",
+    "description": "A view of a Sokcho, Gangwon-do, South Korea"
   }
 ]

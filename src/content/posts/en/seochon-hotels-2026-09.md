@@ -237,7 +237,7 @@ An old blog post or map pin may show a different business in the same house.
 
 ### Size: mostly one house
 
-The **median registered facility area is about 50 m²**, a little below Jongno-gu as a whole (about 54 m²) and Bukchon (about 57 m²). **117 of the 121 are under 100 m²**; the range is 13 to 145 m².
+The **median registered facility area is about 50 m²**, a little below Jongno-gu as a whole (about 54 m²) and Bukchon (about 56 m²). **117 of the 121 are under 100 m²**; the range is 13 to 145 m².
 
 Only **37 of the 121** list a room count: nine with one room, 14 with two, ten with three and four with four — none above four. Think of most as **one group taking a whole house, or a few rooms in one**.
 

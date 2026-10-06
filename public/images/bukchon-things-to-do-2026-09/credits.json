@@ -1,7 +1,7 @@
 [
   {
     "src": "/images/bukchon-things-to-do-2026-09/01.webp",
-    "alt": "",
+    "alt": "맑은 겨울날 베이지색 외벽의 국립현대미술관 서울관 정면, 잎이 진 큰 나무와 세로 간판이 서 있다",
     "width": 1600,
     "height": 1067,
     "credit": "서울연구원, CC BY 4.0, via Wikimedia Commons",
@@ -10,7 +10,7 @@
   },
   {
     "src": "/images/bukchon-things-to-do-2026-09/03.webp",
-    "alt": "",
+    "alt": "소나무 너머 3층짜리 흰 근대 건물, 가운데 아치형 현관 위에 정독도서관 현판이 걸려 있고 앞에 분수가 있다",
     "width": 1600,
     "height": 900,
     "credit": "EllalineSeoul, CC0, via Wikimedia Commons",
@@ -19,11 +19,65 @@
   },
   {
     "src": "/images/bukchon-things-to-do-2026-09/06.webp",
-    "alt": "",
+    "alt": "북촌문화센터 한옥 대청, 창호가 열린 방 너머로 안마당과 다른 채가 보이고 댓돌 위에 신발이 놓여 있다",
     "width": 1600,
     "height": 1067,
     "credit": "Motoko C. K., CC BY 4.0, via Wikimedia Commons",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Traditional_Culture_Center_20260409_04.jpg",
     "description": "Bukchon Traditional Culture Center"
+  },
+  {
+    "src": "/images/bukchon-things-to-do-2026-09/15.webp",
+    "alt": "백인제가옥 사랑채, 붉은 기둥과 유리 창호가 줄지어 있는 기와집 앞으로 마당과 잔디가 펼쳐지고 하늘에 흰 구름이 떠 있다",
+    "width": 940,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "백인제가옥_3"
+  },
+  {
+    "src": "/images/bukchon-things-to-do-2026-09/21.webp",
+    "alt": "감고당길, 왼쪽 낮은 돌담 너머로 소나무 세 그루와 누렇게 물든 풀밭이 펼쳐지고 오른쪽으로 높은 담장이 길을 따라 이어진다",
+    "width": 1600,
+    "height": 1066,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "북촌한옥마을 감고당길 (3)"
+  },
+  {
+    "src": "/images/bukchon-things-to-do-2026-09/30.webp",
+    "alt": "중앙고등학교 본관, 가운데 높은 탑이 선 회색 석조 건물 앞 화단에 인물 동상이 서 있다",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_중앙고등학교 (2)"
+  },
+  {
+    "src": "/images/bukchon-things-to-do-2026-09/45.webp",
+    "alt": "북촌전통공예체험관의 ㅁ자 한옥 안마당, 인조 잔디 위에 흰 차양이 드리워져 있고 툇마루를 따라 의자와 작은 공예품이 놓여 있다",
+    "width": 940,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_종로_북촌전통공예체험관_내부_1.jpg"
+  },
+  {
+    "src": "/images/bukchon-things-to-do-2026-09/81.webp",
+    "alt": "가을 삼청공원 산책로, 왼쪽에 새빨갛게 물든 단풍나무가 늘어서 있고 오른쪽 잎 진 나무 사이로 가로등이 서 있으며 길 끝에 걷는 사람들이 보인다",
+    "width": 1600,
+    "height": 1007,
+    "credit": "Republic of Korea from Seoul, Republic of Korea, CC BY-SA 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bugaksan_20161116_15_(31042986285).jpg",
+    "description": "Samcheong Park November 16, 2016 Jongno-gu, Seoul Ministry of Culture, Sports and Tourism Korean Culture and Information Service Korea.net (&lt;a href=\"http://w"
+  },
+  {
+    "src": "/images/bukchon-things-to-do-2026-09/90.webp",
+    "alt": "북촌 골목에서 본 한옥 처마 사이, 겹겹의 기와지붕과 물든 나무 너머 멀리 남산과 N서울타워가 맑은 하늘 아래 보인다",
+    "width": 1600,
+    "height": 1066,
+    "credit": "Joannesheppard, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Namsan_Tower_from_Bukchon_Hanok_Village.jpg",
+    "description": "A view of Namsan Tower from Bukchon hanok village in Seoul."
   }
 ]

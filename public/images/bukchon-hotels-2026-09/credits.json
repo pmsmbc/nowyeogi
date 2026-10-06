@@ -1,29 +1,47 @@
 [
   {
+    "src": "/images/bukchon-hotels-2026-09/01.webp",
+    "alt": "",
+    "width": 940,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "인우하우스_내부전경 3"
+  },
+  {
     "src": "/images/bukchon-hotels-2026-09/02.webp",
     "alt": "",
-    "width": 1600,
-    "height": 987,
-    "credit": "Mobius6, CC BY-SA 4.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Anguk_Station_20230402_001.jpg",
-    "description": "Anguk Station (Seoul Subway Line 3)"
+    "width": 940,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "인우하우스_외부전경 2"
+  },
+  {
+    "src": "/images/bukchon-hotels-2026-09/03.webp",
+    "alt": "",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "연우하우스_외부전경 5"
   },
   {
     "src": "/images/bukchon-hotels-2026-09/04.webp",
     "alt": "",
-    "width": 1600,
-    "height": 1067,
-    "credit": "Ken Eckert, CC BY-SA 4.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Hanok_Roofs_at_Night,_Bukcheon_Village,_Seoul.jpg",
-    "description": "Hanok Roofs at Night, Bukcheon Village, Seoul"
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "북촌빈관 by 락고재_2023_거실"
   },
   {
-    "src": "/images/bukchon-hotels-2026-09/06.webp",
+    "src": "/images/bukchon-hotels-2026-09/05.webp",
     "alt": "",
-    "width": 1600,
-    "height": 804,
-    "credit": "Republic of Korea from Seoul, Republic of Korea, CC BY-SA 2.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_20150119_04_(16136482787).jpg",
-    "description": "Bukchon Hanok Village Hanok Stay ‘Tteuranchae’ January 19, 2015 Bukchon Hanok Village, Jongno-gu, Seoul Ministry of Culture, Sports and Tourism Korean Culture a"
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "인우하우스_안방 1"
   }
 ]
