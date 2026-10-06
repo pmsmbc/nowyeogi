@@ -2,19 +2,46 @@
   {
     "src": "/images/gangnam-guide-2026-09/01.webp",
     "alt": "",
-    "width": 1600,
-    "height": 1200,
-    "credit": "Christophe95, CC BY-SA 4.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Street_in_Yeoksam-dong,_Gangnam-gu.jpg",
-    "description": "Street in Yeoksam-dong, Gangnam-gu in Seoul."
+    "width": 940,
+    "height": 619,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "신사동 가로수길"
   },
   {
     "src": "/images/gangnam-guide-2026-09/02.webp",
     "alt": "",
+    "width": 1562,
+    "height": 1600,
+    "credit": "kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Teheran-ro_Yeongdong-daero_crossing_8.jpg",
+    "description": "Crossing between Teheran-ro and Yeongdong-daero in Gangnam, Seoul."
+  },
+  {
+    "src": "/images/gangnam-guide-2026-09/03.webp",
+    "alt": "",
+    "width": 1200,
+    "height": 1600,
+    "credit": "No machine-readable author provided. PuzzletChung assumed (based on copyright claims)., Public domain, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Tehran_Road_post,_Seoul,_Korea.jpg",
+    "description": "A post at Tehran Road, Seoul Korea."
+  },
+  {
+    "src": "/images/gangnam-guide-2026-09/04.webp",
+    "alt": "",
+    "width": 939,
+    "height": 627,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "봉은사(서울)"
+  },
+  {
+    "src": "/images/gangnam-guide-2026-09/05.webp",
+    "alt": "",
     "width": 1600,
-    "height": 1200,
-    "credit": "Christophe95, CC BY-SA 4.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Gangnam-daero.jpg",
-    "description": "Gangnam-daero in Seoul."
+    "height": 1600,
+    "credit": "*Youngjin, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Night_view_at_Gangnam_station_bus_stop_20251024.jpg",
+    "description": "강남역 중앙차로에 정차한 버스 모습"
   }
 ]

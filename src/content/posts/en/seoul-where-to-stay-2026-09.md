@@ -87,7 +87,7 @@ Prices below are rough per-night bands for a double room in low-to-mid season, t
 | Myeongdong | First-timers, shopping | [[line:4]] [[line:2]] | [[bus:6001]] or [[bus:6015]] direct, or [[line:arex]] to Seoul Station + 2 stops on [[line:4]] | ₩90,000–220,000 |
 | Hongdae | Nightlife, budget | [[line:2]] [[line:gyeongui]] [[line:arex]] | [[line:arex]] all-stop, direct | ₩60,000–160,000 |
 | Jongno / Bukchon | Palaces, culture | [[line:1]] [[line:3]] [[line:5]] | [[bus:6002]], or [[line:arex]] + [[line:1]] | ₩70,000–250,000 |
-| Gangnam | Shopping, K-pop | [[line:2]] [[line:9]] [[line:sinbundang]] | [[bus:6103]] to COEX, or [[line:arex]] + [[line:9]] | ₩150,000–500,000 |
+| Gangnam | Shopping, K-pop | [[line:2]] [[line:9]] [[line:sinbundang]] | [[bus:6703]] or [[bus:6103]] (COEX city terminal check-in ended in 2023), or [[line:arex]] to Gimpo Airport then [[line:9]] | ₩150,000–500,000 |
 | Itaewon / Hannam | Food, bars | [[line:6]] | [[line:arex]] + [[line:4]] + [[line:6]], or [[bus:6702]] (Itaewon and Hannam) or [[bus:6010]] (Hannam) | ₩90,000–350,000 |
 | Seongsu | Cafés, design | [[line:2]] [[line:suinbundang]] | [[line:arex]] + [[line:2]] | ₩100,000–200,000 |
 | Jamsil | Families, theme park | [[line:2]] [[line:8]] | [[bus:6006]], or [[line:arex]] + [[line:2]] | ₩120,000–450,000 |
@@ -135,7 +135,7 @@ Accommodation splits into two very different types: international hotels around 
 
 South of the river, Gangnam is wide boulevards, glass towers and the city's most expensive hotels. It suits you if you are here for shopping at Apgujeong and Garosu-gil, a K-pop concert at one of the arenas, an event at COEX, or a business trip.
 
-The area is spread out, so pick your station carefully: **Gangnam Station** ([[line:2]] [[line:sinbundang]]) for shopping and restaurants, **Samseong** ([[line:2]]) for COEX and the Starfield Library, **Sinnonhyeon** or **Sinsa** ([[line:9]] [[line:sinbundang]]) for Garosu-gil.
+The area is spread out, so pick your station carefully: **Gangnam Station** ([[line:2]] [[line:sinbundang]]) for shopping and restaurants, **Samseong** ([[line:2]]) for COEX and the Starfield Library, **Sinsa** ([[line:3]] [[line:sinbundang]]) or **Sinnonhyeon** ([[line:9]] [[line:sinbundang]]) for Garosu-gil.
 
 **The catch**: it is the least atmospheric area on this list for a short holiday, and it is the priciest. The oldest parts of Seoul are 30–40 minutes away.
 
