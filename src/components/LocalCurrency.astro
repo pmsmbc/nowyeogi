@@ -1,0 +1,23 @@
+---
+// 영어판에서만 쓴다. 본문 HTML 은 그대로(미국 달러) 두고, 브라우저에서 표시만 바꾼다.
+---
+<script>
+  import { convertText, currencyForTimeZone } from '../lib/localCurrency.mjs';
+
+  let code = null;
+  try {
+    code = currencyForTimeZone(Intl.DateTimeFormat().resolvedOptions().timeZone);
+  } catch {}
+
+  if (code) {
+    const root = document.querySelector('main');
+    if (root) {
+      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+      const nodes = [];
+      while (walker.nextNode()) {
+        if (walker.currentNode.nodeValue.includes('(about $')) nodes.push(walker.currentNode);
+      }
+      for (const n of nodes) n.nodeValue = convertText(n.nodeValue, code);
+    }
+  }
+</script>
