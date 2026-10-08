@@ -2,29 +2,29 @@
   {
     "src": "/images/yeonnam-food-2026-09/01.webp",
     "alt": "",
-    "width": 940,
-    "height": 626,
-    "credit": "한국관광공사 (공공누리 제1유형)",
-    "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "서울_망원시장 (2)"
+    "width": 1600,
+    "height": 1067,
+    "credit": "KFoodaddict, CC BY 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jajangmyeon_by_KFoodaddict.jpg",
+    "description": "Jajangmyeon"
   },
   {
     "src": "/images/yeonnam-food-2026-09/02.webp",
     "alt": "",
-    "width": 940,
-    "height": 626,
-    "credit": "한국관광공사 (공공누리 제1유형)",
-    "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "서울_망원시장 (3)"
+    "width": 1600,
+    "height": 1200,
+    "credit": "Quercus acuta, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg",
+    "description": "醤油ラーメン（東京ラーメン）"
   },
   {
     "src": "/images/yeonnam-food-2026-09/03.webp",
     "alt": "",
-    "width": 940,
-    "height": 626,
-    "credit": "한국관광공사 (공공누리 제1유형)",
-    "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "서울_망원시장 (4)"
+    "width": 1600,
+    "height": 1200,
+    "credit": "Maksym Kozlenko, CC BY-SA 4.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:2019-02-22_Xiaolongbao_in_%22Taste_Of_Shanghai%22_restaurant,_Sydney,_Australia.jpg",
+    "description": "Xiaolongbao in \"Taste Of Shanghai\" restaurant, Sydney, Australia"
   },
   {
     "src": "/images/yeonnam-food-2026-09/04.webp",
@@ -33,15 +33,24 @@
     "height": 626,
     "credit": "한국관광공사 (공공누리 제1유형)",
     "creditUrl": "https://kto.visitkorea.or.kr/",
-    "name": "서울_망원시장 (1)"
+    "name": "서울_망원시장 (3)"
   },
   {
     "src": "/images/yeonnam-food-2026-09/05.webp",
     "alt": "",
-    "width": 1600,
-    "height": 1067,
-    "credit": "KFoodaddict, CC BY 2.0, via Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jajangmyeon_by_KFoodaddict.jpg",
-    "description": "Jajangmyeon"
+    "width": 1280,
+    "height": 960,
+    "credit": "by jetalone (flickr), CC BY 2.0, via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Korean.snacks-Tteokbokki-08.jpg",
+    "description": "Tteokbokki"
+  },
+  {
+    "src": "/images/yeonnam-food-2026-09/06.webp",
+    "alt": "",
+    "width": 940,
+    "height": 626,
+    "credit": "한국관광공사 (공공누리 제1유형)",
+    "creditUrl": "https://kto.visitkorea.or.kr/",
+    "name": "서울_망원시장 (4)"
   }
 ]

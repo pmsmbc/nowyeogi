@@ -225,7 +225,7 @@ Weekday and weekend times are the same. Trains after 23:48 terminate at Geomam, 
 
 The Hongik Univ. stop sees 77 departures a day, roughly every 13 minutes in the daytime. Seats are first come, first served with no online booking; pay by transit card or cash.
 
-The **late-night [[bus:airport:N6002]]** stops only at Hongik Univ. (14016) in this area, leaving for the airport at **23:00, 23:50, 02:20, 02:50, 03:20 and 04:00**, which makes it useful for flights earlier than the first train (05:28).
+The late-night [[bus:airport:N6002]] stops only at Hongik Univ. (14016) in this area, leaving for the airport at **23:00, 23:50, 02:20, 02:50, 03:20 and 04:00**, which makes it useful for flights earlier than the first train (05:28).
 
 **From the airport**, the 6002 leaves T1 on weekdays from 05:34 to **23:29** and T2 from 05:14 to 23:09. In the city it drops off at **Hapjeong Station (Exit 7, median lane), then Seogyo-dong (median lane), then Hongik Univ. (kerbside, in front of Olive Young)**, so Hapjeong guests get off first.
 
