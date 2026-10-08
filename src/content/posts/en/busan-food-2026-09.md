@@ -2,6 +2,7 @@
 title: "What to Eat in Busan: Milmyeon, Dwaeji Gukbap and Jagalchi Market (2026)"
 description: "Busan's food explained for visitors: pork soup and cold wheat noodles you cannot get properly elsewhere, how the Jagalchi fish market system works, seed-stuffed hotteok at BIFF Square, and what it all costs."
 pubDate: 2026-09-14
+updatedDate: 2026-10-08
 scope: domestic
 region: busan
 type: food
@@ -33,7 +34,7 @@ places:
     menu:
       - { name: "Assorted raw fish platter", price: "Roughly ₩60,000 small to ₩120,000 extra large" }
       - { name: "Hoedeopbap, raw fish over rice", price: "About ₩15,000" }
-    hours: "05:00–22:00. Closed the first and third Tuesday of each month."
+    hours: "05:00–22:00. Closed the first, third and fifth Tuesday of each month."
     tip: "Buy your fish downstairs, then carry it to a second-floor restaurant that slices and serves it. Agree the per-person table charge before you sit down."
     mapUrl: "https://www.bisco.or.kr/jagalchimarket/"
   - name: "Gukje Market and BIFF Square"
@@ -41,7 +42,7 @@ places:
     address: "36 Junggu-ro, Jung-gu, Busan"
     menu:
       - { name: "Ssiat hotteok", price: "About ₩2,000" }
-    hours: "Varies by stall. Gukje Market closes the first and third Sunday of each month."
+    hours: "Varies by stall. Gukje Market closes every Sunday (varies by shop)."
     tip: "BIFF Square is the 428 m street where seed-stuffed hotteok was invented. Eat standing at the stall; there is nowhere to sit."
   - name: "Haeundae Traditional Market"
     kind: spot
@@ -49,6 +50,8 @@ places:
     hours: "09:00–22:00, open year-round"
     tip: "Five minutes from Haeundae Station exit 3 and open late, which makes it the easiest market to reach if you are staying by the beach."
 sources:
+  - { title: "부산관광공사 비짓부산 — 자갈치시장 (휴무일·운영시간)", url: "https://www.visitbusan.net/index.do?menuCd=DOM_000000201003001000&uc_seq=412&lang_cd=ko" }
+  - { title: "부산관광공사 비짓부산 — 국제시장 (휴무일·운영시간)", url: "https://www.visitbusan.net/index.do?menuCd=DOM_000000201003001000&uc_seq=399&lang_cd=ko" }
   - { title: "Visit Busan — official food and market listings (English)", url: "https://www.visitbusan.net/en/index.do" }
   - { title: "Jagalchi Market — official operator site", url: "https://www.bisco.or.kr/jagalchimarket/" }
   - { title: "Korea Tourism Organization — dwaeji gukbap", url: "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221285" }
@@ -74,7 +77,7 @@ The city has over seven hundred shops specialising in it, and Seomyeon has an en
 
 ![Vendors and trays of mackerel and other fish on display at Jagalchi Market](/images/busan-food-2026-09/01.webp)
 
-**Jagalchi (자갈치시장)** is Korea's largest fish market, open **05:00 to 22:00** and closed the **first and third Tuesday** of each month. It is a two-minute walk from Jagalchi Station on [[line:busan1]].
+**Jagalchi (자갈치시장)** is Korea's largest fish market, open **05:00 to 22:00** and closed the **first, third and fifth Tuesday** of each month. It is a two-minute walk from Jagalchi Station on [[line:busan1]].
 
 The system confuses first-timers, so here it is plainly. You buy live fish from a vendor on the ground floor. You then carry it upstairs to a *chojangjip*, a restaurant whose job is to slice your fish and serve it with side dishes, lettuce wraps and sauces. You pay the vendor for the fish and the restaurant a separate **per-person table charge**.
 
@@ -88,7 +91,7 @@ If that sounds like too much negotiation, the restaurants on the upper floors se
 
 The adjoining **Gukje Market (국제시장)** grew out of the post-war trade in surplus goods and now has a dense food alley. Look for **bibim dangmyeon**, cold sweet-potato glass noodles tossed in red sauce, which is genuinely unique to Busan and hard to find anywhere else in the country.
 
-Gukje Market closes the **first and third Sunday** of each month.
+Gukje Market closes **every Sunday**, though individual shops vary.
 
 ## The rest of the local canon
 
@@ -119,7 +122,7 @@ Busan is a difficult city for restricted diets and it is better to know that in 
 
 ## Practical notes
 
-- **Markets shut on rotating days.** Jagalchi on the first and third Tuesday, Gukje on the first and third Sunday. Check before making the trip.
+- **Markets shut on rotating days.** Jagalchi on the first, third and fifth Tuesday, Gukje every Sunday. Check before making the trip.
 - **Carry some cash.** Cards work at most stalls now, but not all of them.
 - **No tipping**, anywhere, including at markets.
 - **Point and count.** Market vendors rarely speak much English, but numbers and a calculator app get you through.
