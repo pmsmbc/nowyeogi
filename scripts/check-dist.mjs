@@ -90,6 +90,16 @@ for (const [rel, slugs] of pairs) {
   }
 }
 
+// 사이트맵에 lastmod 가 들어갔는지(astro.config 의 serialize 가 빠지면 조용히 사라진다)
+const sitemapPath = join(dist, 'sitemap-0.xml');
+if (existsSync(sitemapPath)) {
+  const xml = readFileSync(sitemapPath, 'utf8');
+  const entries = xml.match(/<url>[\s\S]*?<\/url>/g) ?? [];
+  const postsWithout = entries.filter((e) => /<loc>[^<]*\/posts\/[^<]*<\/loc>/.test(e) && !e.includes('<lastmod>'));
+  if (entries.length && !xml.includes('<lastmod>')) errors.push('사이트맵에 lastmod 가 하나도 없습니다 (astro.config.mjs 의 sitemap serialize 확인)');
+  else if (postsWithout.length) errors.push(`글 URL ${postsWithout.length}개에 lastmod 가 없습니다: ${postsWithout[0].match(/<loc>([^<]*)/)[1]} 등`);
+}
+
 for (const w of warnings) console.warn(`⚠ ${w}`);
 if (LANGS.every((l) => bySlugs[l].length === 0)) {
   console.warn('⚠ 발행된 글이 0편입니다 — draft: false 로 바꿨는지 확인하세요');

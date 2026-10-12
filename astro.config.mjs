@@ -9,9 +9,13 @@ import { rehypeAdSlot } from './src/lib/markdown/rehypeAdSlot.mjs';
 import { rehypeTransitBadges } from './src/lib/markdown/rehypeTransitBadges.mjs';
 import { fileURLToPath } from 'node:url';
 import { thinTagPaths } from './scripts/lib/thin-tags.mjs';
+import { sitemapLastmod } from './scripts/lib/posts-meta.mjs';
 
 // 글이 적은 태그 페이지는 사이트맵에서 뺀다(페이지 쪽 noindex 와 같은 기준). 서치콘솔 색인 제외 대응.
-const { sitemapFilter } = thinTagPaths(fileURLToPath(new URL('./src/content/posts', import.meta.url)), { withFilter: true });
+const postsRoot = fileURLToPath(new URL('./src/content/posts', import.meta.url));
+const { sitemapFilter } = thinTagPaths(postsRoot, { withFilter: true });
+// 사이트맵 lastmod: 글은 updatedDate ?? pubDate, 목록 페이지는 포함된 글 중 최신. 바뀐 글부터 다시 크롤하라는 신호.
+const lastmodFor = sitemapLastmod(postsRoot);
 
 export default defineConfig({
   site: siteConfig.url,
@@ -21,7 +25,11 @@ export default defineConfig({
     routing: { prefixDefaultLocale: false },
   },
   integrations: [
-    sitemap({ filter: sitemapFilter, i18n: { defaultLocale: 'ko', locales: { ko: 'ko-KR', en: 'en-US', ja: 'ja-JP' } } }),
+    sitemap({
+      filter: sitemapFilter,
+      serialize: (item) => { const lm = lastmodFor(item.url); if (lm) item.lastmod = lm; return item; },
+      i18n: { defaultLocale: 'ko', locales: { ko: 'ko-KR', en: 'en-US', ja: 'ja-JP' } },
+    }),
   ],
   markdown: {
     // gfm 기본값 대신 remark-gfm 을 직접 넣는다. singleTilde:false 로 두어야

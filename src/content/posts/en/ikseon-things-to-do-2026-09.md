@@ -56,7 +56,7 @@ images:
     height: 1188
     credit: "Seoul History Archive, Public domain, via Wikimedia Commons"
     creditUrl: "https://commons.wikimedia.org/wiki/File:Dansungsa_c1920.jpg"
-tags: ["Ikseon-dong", "Seosulla-gil", "Jongmyo", "Korean traditional music", "Seoul free attractions", "Things to do in Seoul"]
+tags: ["Ikseon-dong", "Seosulla-gil", "Jongmyo", "Korean traditional music", "Seoul free attractions", "things to do in Seoul"]
 places:
   - name: "Seosulla-gil (서순라길)"
     kind: spot

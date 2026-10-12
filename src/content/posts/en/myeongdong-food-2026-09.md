@@ -44,7 +44,7 @@ images:
     height: 1200
     credit: "Wikimedia Commons, Public domain, via Wikimedia Commons"
     creditUrl: "https://commons.wikimedia.org/wiki/File:NamdaemunmarketFoodvendors.jpg"
-tags: ["Myeongdong food", "Myeongdong Kyoja", "Hadongkwan", "Seoul street food", "Namdaemun Market", "Michelin Guide Seoul 2026"]
+tags: ["Myeongdong food", "Myeongdong Kyoja", "Hadongkwan", "Seoul street food", "Namdaemun Market", "MICHELIN Guide Seoul 2026"]
 places:
   - name: "Myeongdong Kyoja main branch (명동교자 본점)"
     kind: restaurant

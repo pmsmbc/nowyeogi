@@ -38,7 +38,7 @@ images:
     height: 1600
     credit: "chomjong, CC BY 2.0, via Wikimedia Commons"
     creditUrl: "https://commons.wikimedia.org/wiki/File:Bibim-naengmyeon_1.jpg"
-tags: ["Euljiro food", "Nogari alley", "Woo Lae Oak", "Pyongyang naengmyeon", "Seoul old restaurants", "Seoul budget food"]
+tags: ["Euljiro food", "Nogari Alley", "Woo Lae Oak", "Pyongyang naengmyeon", "Seoul old restaurants", "Seoul budget food"]
 places:
   - name: "Euljiro Nogari Alley (을지로 노가리 골목)"
     kind: spot
