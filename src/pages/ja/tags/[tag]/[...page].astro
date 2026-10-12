@@ -5,21 +5,23 @@ import siteConfig from '../../../../site.config';
 import { getPosts } from '../../../../lib/posts';
 import { collectTags, localePath } from '../../../../lib/postUtils';
 import { t } from '../../../../i18n/ui';
+import { isThinTag } from '../../../../../scripts/lib/thin-tags.mjs';
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getPosts('ja');
   const otherTags = collectTags(await getPosts('ko'));
-  return collectTags(posts).flatMap(({ tag }) => {
+  return collectTags(posts).flatMap(({ tag, count }) => {
     const hasOther = otherTags.some((x) => x.tag === tag);
     return paginate(posts.filter((p) => p.data.tags.includes(tag)), {
       params: { tag },
       pageSize: siteConfig.postsPerPage,
-      props: { hasOther },
+      // 글이 적은 태그 페이지는 색인에서 뺀다. 사이트맵 제외는 astro.config 의 sitemap filter 가 같은 기준으로 처리한다.
+      props: { hasOther, noindex: isThinTag(count) },
     });
   });
 }) satisfies GetStaticPaths;
 
-const { page, hasOther } = Astro.props;
+const { page, hasOther, noindex } = Astro.props;
 const { tag } = Astro.params;
 const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
 const alternates = {
@@ -27,4 +29,4 @@ const alternates = {
   ...(hasOther ? { ko: localePath('ko', `/tags/${encodeURIComponent(tag!)}/${suffix}`) } : {}),
 };
 ---
-<ListView lang="ja" title={t('ja', 'tag.title', { tag: tag! })} description={`「${tag}」タグの記事`} page={page} basePath={`/tags/${encodeURIComponent(tag!)}/`} alternates={alternates} />
+<ListView lang="ja" title={t('ja', 'tag.title', { tag: tag! })} description={`「${tag}」タグの記事`} page={page} basePath={`/tags/${encodeURIComponent(tag!)}/`} alternates={alternates} noindex={noindex} />

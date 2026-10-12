@@ -13,8 +13,10 @@ interface Props {
   publishedTime?: Date;
   modifiedTime?: Date;
   keywords?: string[];
+  /** 검색엔진 색인에서 뺀다(링크는 따라가게 둔다). 얇은 태그 페이지 등에 쓴다. */
+  noindex?: boolean;
 }
-const { lang, title, description, path, alternates = {}, image, type = 'website', jsonLd = [], publishedTime, modifiedTime, keywords = [] } = Astro.props;
+const { lang, title, description, path, alternates = {}, image, type = 'website', jsonLd = [], publishedTime, modifiedTime, keywords = [], noindex = false } = Astro.props;
 const OG_LOCALE: Record<Lang, string> = { ko: 'ko_KR', en: 'en_US', ja: 'ja_JP' };
 const base = siteConfig.url.replace(/\/$/, '');
 const abs = (p: string) => (p.startsWith('http') ? p : `${base}${p}`);
@@ -27,6 +29,7 @@ const xDefault = alt.en ?? alt.ko ?? path;
 ---
 <title>{fullTitle}</title>
 <meta name="description" content={description} />
+{noindex && <meta name="robots" content="noindex, follow" />}
 {keywords.length > 0 && <meta name="keywords" content={keywords.join(', ')} />}
 <link rel="canonical" href={canonical} />
 {Object.entries(alt).map(([l, p]) => <link rel="alternate" hreflang={l} href={abs(p!)} />)}

@@ -16,14 +16,15 @@ interface Props {
   page: Page<Post>;
   basePath: string;
   alternates?: Partial<Record<Lang, string>>;
+  noindex?: boolean;
 }
-const { lang, title, description, page, basePath, alternates: alternatesProp } = Astro.props;
+const { lang, title, description, page, basePath, alternates: alternatesProp, noindex = false } = Astro.props;
 const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
 const path = localePath(lang, `${basePath}${suffix}`);
 const alternates =
   alternatesProp ?? { ko: localePath('ko', `${basePath}${suffix}`), en: localePath('en', `${basePath}${suffix}`) };
 ---
-<BaseLayout lang={lang} title={title} description={description} path={path} alternates={alternates}>
+<BaseLayout lang={lang} title={title} description={description} path={path} alternates={alternates} noindex={noindex}>
   <section class="section container">
     <header class="list-head">
       <h1>{title}</h1>
