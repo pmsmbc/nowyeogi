@@ -355,6 +355,18 @@
       "구리한강시민공원"
     ]
   },
+  "gimcheon": {
+    "ko": "김천",
+    "en": "Gimcheon",
+    "ja": "金泉",
+    "scope": "domestic",
+    "country": "KR",
+    "aliases": [
+      "김천시",
+      "직지사",
+      "경북 김천"
+    ]
+  },
   "korea": {
     "ko": "전국",
     "en": "Korea",
