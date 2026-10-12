@@ -90,6 +90,12 @@ for (const [rel, slugs] of pairs) {
   }
 }
 
+// 홈 3개에 사이트 이름용 WebSite 마크업이 있는지(없으면 구글이 도메인 이름을 사이트 이름으로 쓴다)
+for (const lang of LANGS) {
+  const html = readFileSync(join(dist, `${prefix(lang)}index.html`), 'utf8');
+  if (!/"@type":"WebSite"/.test(html)) errors.push(`홈에 WebSite JSON-LD 가 없습니다: ${prefix(lang)}index.html`);
+}
+
 // 사이트맵에 lastmod 가 들어갔는지(astro.config 의 serialize 가 빠지면 조용히 사라진다)
 const sitemapPath = join(dist, 'sitemap-0.xml');
 if (existsSync(sitemapPath)) {
