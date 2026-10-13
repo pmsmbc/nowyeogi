@@ -9,6 +9,7 @@ import { getPosts, getTranslations, postPath, type Post } from '../lib/posts';
 import { pickRelated, localePath } from '../lib/postUtils';
 import { regionName } from '../data/regions';
 import { t, formatDate, type UiKey } from '../i18n/ui';
+import { organizationJsonLd, organizationRef } from '../lib/jsonld';
 
 interface Props { lang: Lang; post: Post }
 const { lang, post } = Astro.props;
@@ -32,8 +33,9 @@ const jsonLd = [
     datePublished: post.data.pubDate.toISOString(),
     dateModified: (post.data.updatedDate ?? post.data.pubDate).toISOString(),
     inLanguage: BCP47[lang],
-    author: { '@type': 'Person', name: siteConfig.author },
-    publisher: { '@type': 'Organization', name: siteConfig.name[lang] },
+    // 저자·발행자를 같은 Organization 노드(@id)로 묶는다. 실명 저자는 About 에 소개 글이 생기면 Person 으로 바꾼다.
+    author: organizationRef(),
+    publisher: organizationRef(),
     mainEntityOfPage: `${base}${postPath(post)}`,
     keywords: post.data.tags.join(', '),
     ...(foodPlaces.length > 0 && {
@@ -44,6 +46,7 @@ const jsonLd = [
       })),
     }),
   },
+  { '@context': 'https://schema.org', ...organizationJsonLd(lang) },
   {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',

@@ -1,32 +1,32 @@
 ---
 import type { GetStaticPaths } from 'astro';
 import ListView from '../../../../views/ListView.astro';
-import siteConfig from '../../../../site.config';
+import siteConfig, { LANGS, type Lang } from '../../../../site.config';
 import { getPosts } from '../../../../lib/posts';
-import { collectTags, localePath } from '../../../../lib/postUtils';
+import { collectTags, listAlternates, pageSuffix } from '../../../../lib/postUtils';
 import { t } from '../../../../i18n/ui';
 import { isThinTag } from '../../../../../scripts/lib/thin-tags.mjs';
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getPosts('ja');
-  const otherTags = collectTags(await getPosts('ko'));
+  const tagsByLang = Object.fromEntries(
+    await Promise.all(LANGS.map(async (l) => [l, collectTags(await getPosts(l)).map((x) => x.tag)])),
+  ) as Record<Lang, string[]>;
   return collectTags(posts).flatMap(({ tag, count }) => {
-    const hasOther = otherTags.some((x) => x.tag === tag);
+    // 같은 표기의 태그가 있는 언어만 hreflang 에 넣는다
+    const langs = LANGS.filter((l) => tagsByLang[l].includes(tag));
     return paginate(posts.filter((p) => p.data.tags.includes(tag)), {
       params: { tag },
       pageSize: siteConfig.postsPerPage,
       // 글이 적은 태그 페이지는 색인에서 뺀다. 사이트맵 제외는 astro.config 의 sitemap filter 가 같은 기준으로 처리한다.
-      props: { hasOther, noindex: isThinTag(count) },
+      props: { langs, noindex: isThinTag(count) },
     });
   });
 }) satisfies GetStaticPaths;
 
-const { page, hasOther, noindex } = Astro.props;
+const { page, langs, noindex } = Astro.props;
 const { tag } = Astro.params;
-const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
-const alternates = {
-  ja: localePath('ja', `/tags/${encodeURIComponent(tag!)}/${suffix}`),
-  ...(hasOther ? { ko: localePath('ko', `/tags/${encodeURIComponent(tag!)}/${suffix}`) } : {}),
-};
+const basePath = `/tags/${encodeURIComponent(tag!)}/`;
+const alternates = listAlternates(basePath, pageSuffix(page.currentPage), langs);
 ---
-<ListView lang="ja" title={t('ja', 'tag.title', { tag: tag! })} description={`「${tag}」タグの記事`} page={page} basePath={`/tags/${encodeURIComponent(tag!)}/`} alternates={alternates} noindex={noindex} />
+<ListView lang="ja" title={t('ja', 'tag.title', { tag: tag! })} description={`「${tag}」に関する記事${page.total}本。宿、グルメ、観光、交通の情報をまとめました。`} page={page} basePath={basePath} alternates={alternates} noindex={noindex} />

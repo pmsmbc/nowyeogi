@@ -14,7 +14,7 @@ export interface SiteConfig {
   email: string;
   postsPerPage: number;
   adsense: { client: string; slots: { top: string; inArticle: string; bottom: string; list: string } };
-  verification: { google: string; bing: string };
+  verification: { google: string; bing: string; naver: string };
   gtm: { id: string };
   ga: { id: string };
 }

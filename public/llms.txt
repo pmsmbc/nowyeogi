@@ -1,0 +1,16 @@
+# 지금 여기는 (Now, Yeogi)
+
+> 처음 가는 도시를 위한 여행 정보 사이트. 축제·명소·숙소·맛집·교통을 공식 자료 기준으로 정리하며 한국어·영어·일본어로 제공한다.
+
+## 홈
+- [한국어](https://nowyeogi.com/)
+- [English](https://nowyeogi.com/en/)
+- [日本語](https://nowyeogi.com/ja/)
+
+## 둘러보기
+- [국내 여행 글 목록](https://nowyeogi.com/domestic/)
+- [Korea travel guides](https://nowyeogi.com/en/domestic/)
+- [韓国旅行ガイド](https://nowyeogi.com/ja/domestic/)
+- [사이트 소개](https://nowyeogi.com/about/)
+- [사이트맵](https://nowyeogi.com/sitemap-index.xml)
+- [RSS](https://nowyeogi.com/rss.xml)

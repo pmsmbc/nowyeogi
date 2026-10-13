@@ -48,3 +48,19 @@ export function collectTags<T extends { data: { tags: string[] } }>(items: T[]):
 export function isPublished(data: { draft: boolean }, isDev: boolean): boolean {
   return isDev || !data.draft;
 }
+
+/**
+ * 목록 페이지(지역·태그·국내·해외·고정 페이지)의 hreflang 대안 URL.
+ * langs 에 든 언어만 넣는다. 세 언어 페이지가 서로를 빠짐없이 가리켜야 구글이 hreflang 을 인정한다
+ * (2026-10-13 SEO 감사: ko·en 목록 페이지가 ja 를 빠뜨려 상호 참조가 깨져 있었다).
+ */
+export function listAlternates(basePath: string, suffix: string, langs: readonly Lang[] = LANGS): Partial<Record<Lang, string>> {
+  const out: Partial<Record<Lang, string>> = {};
+  for (const l of langs) out[l] = localePath(l, `${basePath}${suffix}`);
+  return out;
+}
+
+/** 페이지네이션 접미사: 1페이지는 빈 문자열, 2페이지부터 "2/". */
+export function pageSuffix(currentPage: number): string {
+  return currentPage > 1 ? `${currentPage}/` : '';
+}

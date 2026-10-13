@@ -1,13 +1,13 @@
 ---
 import type { Page } from 'astro';
-import type { Lang } from '../site.config';
+import { LANGS, type Lang } from '../site.config';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import AdSlot from '../components/AdSlot.astro';
 import Pagination from '../components/Pagination.astro';
 import type { Post } from '../lib/posts';
 import { t } from '../i18n/ui';
-import { localePath } from '../lib/postUtils';
+import { localePath, listAlternates, pageSuffix } from '../lib/postUtils';
 
 interface Props {
   lang: Lang;
@@ -19,15 +19,18 @@ interface Props {
   noindex?: boolean;
 }
 const { lang, title, description, page, basePath, alternates: alternatesProp, noindex = false } = Astro.props;
-const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
+const suffix = pageSuffix(page.currentPage);
 const path = localePath(lang, `${basePath}${suffix}`);
-const alternates =
-  alternatesProp ?? { ko: localePath('ko', `${basePath}${suffix}`), en: localePath('en', `${basePath}${suffix}`) };
+const alternates = alternatesProp ?? listAlternates(basePath, suffix, LANGS);
+// 2페이지부터는 제목·설명에 페이지 번호를 붙여 같은 제목이 반복되지 않게 한다(중복 제목 방지).
+const pageLabel = page.currentPage > 1 ? t(lang, 'list.pageN', { n: String(page.currentPage) }) : '';
+const seoTitle = pageLabel ? `${title} – ${pageLabel}` : title;
+const seoDescription = pageLabel ? `${description} (${pageLabel})` : description;
 ---
-<BaseLayout lang={lang} title={title} description={description} path={path} alternates={alternates} noindex={noindex}>
+<BaseLayout lang={lang} title={seoTitle} description={seoDescription} path={path} alternates={alternates} noindex={noindex}>
   <section class="section container">
     <header class="list-head">
-      <h1>{title}</h1>
+      <h1>{title}{pageLabel && <span class="muted page-label"> · {pageLabel}</span>}</h1>
       <p class="muted">{description}</p>
     </header>
     {page.data.length === 0 ? (
@@ -48,5 +51,6 @@ const alternates =
 <style>
   .list-head { margin-bottom: 1.5rem; }
   .list-head p { margin: 0; }
+  .page-label { font-size: .6em; font-weight: 500; }
   .span-all { grid-column: 1 / -1; }
 </style>

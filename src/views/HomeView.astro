@@ -7,13 +7,14 @@ import AdSlot from '../components/AdSlot.astro';
 import { getPosts } from '../lib/posts';
 import { t } from '../i18n/ui';
 import { localePath } from '../lib/postUtils';
+import { organizationJsonLd, ORG_ID } from '../lib/jsonld';
 
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const posts = await getPosts(lang);
 const latest = posts.slice(0, 9);
 const regionKeys = [...new Set(posts.map((p) => p.data.region))];
-// 한/영 상단 이미지는 brand-assets.mjs 에서 같은 캔버스(1200x1314)로 생성한다
+// 한/영 상단 이미지는 brand-assets.mjs 에서 같은 캔버스(1200x1314)로 생성하고, 표시 폭(최대 400px)에 맞춰 800px 로 줄여 둔다
 const heroSrc = lang === 'ko' ? '/brand/hero.webp' : '/brand/hero-en.webp';
 
 // 구글 검색 결과의 "사이트 이름" 신호. 구글은 도메인당 이름 하나만 고르고 /en/, /ja/ 같은
@@ -27,7 +28,9 @@ const jsonLd = [
     name: siteConfig.name.ko,
     alternateName: [siteConfig.name.en, siteConfig.name.ja, new URL(siteConfig.url).hostname],
     url: `${base}/`,
+    publisher: { '@id': ORG_ID },
   },
+  { '@context': 'https://schema.org', ...organizationJsonLd(lang) },
 ];
 ---
 <BaseLayout lang={lang} title={siteConfig.homeTitle[lang]} description={siteConfig.description[lang]} path={localePath(lang, '/')} alternates={{ ko: '/', en: '/en/', ja: '/ja/' }} autoLang={lang === 'ko'} jsonLd={jsonLd}>
@@ -38,7 +41,7 @@ const jsonLd = [
         <h1>{siteConfig.name[lang]}</h1>
         <p class="tagline">{siteConfig.tagline[lang]}</p>
       </div>
-      <img class="hero-art" src={heroSrc} alt={siteConfig.name[lang]} width="1200" height="1314" loading="eager" fetchpriority="high" />
+      <img class="hero-art" src={heroSrc} alt={siteConfig.name[lang]} width="800" height="876" loading="eager" fetchpriority="high" />
     </div>
   </section>
 
@@ -76,6 +79,7 @@ const jsonLd = [
   .hero-inner { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); align-items: center; gap: 2rem; }
   .hero-inner > * { min-width: 0; }
   .hero-art { display: block; width: 100%; max-width: min(400px, 100%); height: auto; justify-self: center; border-radius: var(--radius); }
-  @media (max-width: 760px) { .hero-inner { grid-template-columns: minmax(0, 1fr); } .hero-art { max-width: min(360px, 100%); margin-inline: auto; } }
+  /* 모바일: 그림을 줄여 첫 화면에 최신 글이 보이게 한다(2026-10-13 감사: 히어로가 첫 화면을 다 차지했다) */
+  @media (max-width: 760px) { .hero { padding: 2rem 0 1.25rem; } .hero-inner { grid-template-columns: minmax(0, 1fr); gap: 1rem; } .hero-art { max-width: min(220px, 100%); margin-inline: auto; } }
   .span-all { grid-column: 1 / -1; }
 </style>

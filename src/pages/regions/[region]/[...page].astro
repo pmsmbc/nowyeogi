@@ -1,33 +1,30 @@
 ---
 import type { GetStaticPaths } from 'astro';
 import ListView from '../../../views/ListView.astro';
-import siteConfig from '../../../site.config';
+import siteConfig, { LANGS, type Lang } from '../../../site.config';
 import { getPosts } from '../../../lib/posts';
 import { regionName } from '../../../data/regions';
 import { t } from '../../../i18n/ui';
-import { localePath } from '../../../lib/postUtils';
+import { listAlternates, pageSuffix } from '../../../lib/postUtils';
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getPosts('ko');
-  const otherPosts = await getPosts('en');
+  const byLang = Object.fromEntries(await Promise.all(LANGS.map(async (l) => [l, await getPosts(l)]))) as Record<Lang, typeof posts>;
   const keys = [...new Set(posts.map((p) => p.data.region))];
   return keys.flatMap((region) => {
-    const hasOther = otherPosts.some((p) => p.data.region === region);
+    // 같은 지역 글이 있는 언어만 hreflang 에 넣는다(세 언어가 서로를 빠짐없이 가리켜야 한다)
+    const langs = LANGS.filter((l) => byLang[l].some((p) => p.data.region === region));
     return paginate(posts.filter((p) => p.data.region === region), {
       params: { region },
       pageSize: siteConfig.postsPerPage,
-      props: { hasOther },
+      props: { langs },
     });
   });
 }) satisfies GetStaticPaths;
 
-const { page, hasOther } = Astro.props;
+const { page, langs } = Astro.props;
 const { region } = Astro.params;
 const name = regionName(region!, 'ko');
-const suffix = page.currentPage > 1 ? `${page.currentPage}/` : '';
-const alternates = {
-  ko: localePath('ko', `/regions/${region}/${suffix}`),
-  ...(hasOther ? { en: localePath('en', `/regions/${region}/${suffix}`) } : {}),
-};
+const alternates = listAlternates(`/regions/${region}/`, pageSuffix(page.currentPage), langs);
 ---
-<ListView lang="ko" title={t('ko', 'region.title', { region: name })} description={`${name}에서 다녀온 여행지, 카페, 맛집을 모았어요.`} page={page} basePath={`/regions/${region}/`} alternates={alternates} />
+<ListView lang="ko" title={t('ko', 'region.title', { region: name })} description={`${name} 여행 정보 ${page.total}편. 동네별 숙소, 맛집, 볼거리, 축제, 교통을 공식 자료 기준으로 정리했어요.`} page={page} basePath={`/regions/${region}/`} alternates={alternates} />

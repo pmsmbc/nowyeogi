@@ -15,7 +15,7 @@
       const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
       const nodes = [];
       while (walker.nextNode()) {
-        if (walker.currentNode.nodeValue.includes('(about $')) nodes.push(walker.currentNode);
+        if (walker.currentNode.nodeValue?.includes('(about $')) nodes.push(walker.currentNode);
       }
       for (const n of nodes) n.nodeValue = convertText(n.nodeValue, code);
     }

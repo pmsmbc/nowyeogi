@@ -29,8 +29,8 @@ await sharp(mark).trim().resize({ width: 64, height: 64, fit: 'contain', backgro
 // 공통 캔버스에 다시 배치한다. 캔버스는 투명이어야 한다 — 이전에는 extend() 로
 // 아이보리(#fbfaf7) 여백을 붙였는데, 상단 배경 그라데이션 위에서 흰 박스 라인처럼 보였다.
 // 한/영 캔버스와 내용물 비율을 동일하게 맞춰 언어를 바꿔도 크기가 변하지 않는다.
-const HERO_W = 1200;
-const HERO_H = 1314; // 기존 1600x1751 과 같은 비율(0.914)
+const HERO_W = 800; // 표시 폭(최대 400px)의 2배. 1200 이던 것을 2026-10-13 LCP 개선으로 줄였다
+const HERO_H = 876; // 기존 1600x1751 과 같은 비율(0.914)
 const HERO_ART_RATIO = 0.834; // 내용물이 캔버스 폭에서 차지하는 비율
 
 async function buildHero(src, outName) {

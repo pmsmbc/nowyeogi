@@ -16,6 +16,7 @@ export const ui = {
     'post.updated': '수정',
     'post.tags': '태그',
     'list.page': '페이지',
+    'list.pageN': '{n}페이지',
     'list.prev': '이전',
     'list.next': '다음',
     'list.empty': '아직 글이 없어요. 곧 채워질 거예요.',
@@ -51,7 +52,7 @@ export const ui = {
     'a11y.rating': '5점 만점에 {rating}점',
     'figure.credit': '사진',
     'region.title': '{region} 여행과 맛집',
-    'tag.title': '#{tag}',
+    'tag.title': '{tag} 관련 글',
   },
   en: {
     'nav.home': 'Home',
@@ -68,6 +69,7 @@ export const ui = {
     'post.updated': 'Updated',
     'post.tags': 'Tags',
     'list.page': 'Page',
+    'list.pageN': 'Page {n}',
     'list.prev': 'Previous',
     'list.next': 'Next',
     'list.empty': 'No posts yet. Check back soon.',
@@ -103,7 +105,7 @@ export const ui = {
     'a11y.rating': 'Rated {rating} out of 5',
     'figure.credit': 'Photo',
     'region.title': 'Travel and food in {region}',
-    'tag.title': '#{tag}',
+    'tag.title': 'Posts about {tag}',
   },
   ja: {
     'nav.home': 'ホーム',
@@ -120,6 +122,7 @@ export const ui = {
     'post.updated': '更新',
     'post.tags': 'タグ',
     'list.page': 'ページ',
+    'list.pageN': '{n}ページ目',
     'list.prev': '前へ',
     'list.next': '次へ',
     'list.empty': 'まだ記事がありません。もうしばらくお待ちください。',
@@ -155,7 +158,7 @@ export const ui = {
     'a11y.rating': '5点満点中{rating}点',
     'figure.credit': '写真',
     'region.title': '{region}の旅とグルメ',
-    'tag.title': '#{tag}',
+    'tag.title': '{tag}の記事',
   },
 } as const;
 

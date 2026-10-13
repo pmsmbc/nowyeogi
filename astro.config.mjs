@@ -28,7 +28,8 @@ export default defineConfig({
     sitemap({
       filter: sitemapFilter,
       serialize: (item) => { const lm = lastmodFor(item.url); if (lm) item.lastmod = lm; return item; },
-      i18n: { defaultLocale: 'ko', locales: { ko: 'ko-KR', en: 'en-US', ja: 'ja-JP' } },
+      // HTML 의 hreflang(ko/en/ja)과 같은 표기를 쓴다
+      i18n: { defaultLocale: 'ko', locales: { ko: 'ko', en: 'en', ja: 'ja' } },
     }),
   ],
   markdown: {

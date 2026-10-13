@@ -12,4 +12,4 @@ export const getStaticPaths = (async ({ paginate }) => {
 
 const { page } = Astro.props;
 ---
-<ListView lang="ko" title={t('ko', 'scope.overseas')} description="해외 여행지와 맛집 이야기" page={page} basePath="/overseas/" />
+<ListView lang="ko" title={t('ko', 'scope.overseas')} description={`해외 여행 정보 ${page.total}편. 도시별 숙소, 맛집, 볼거리, 교통 안내를 공식 자료 기준으로 정리했어요.`} page={page} basePath="/overseas/" />
