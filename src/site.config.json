@@ -20,7 +20,11 @@
     "en": "Where to stay, eat and shop in any city, all in one place",
     "ja": "はじめての街で、泊まる・食べる・買うをひとまとめに"
   },
-  "author": "지금 여기는",
+  "author": {
+    "ko": "수집하는 진",
+    "en": "Jin the Collector",
+    "ja": "集めるジン"
+  },
   "email": "nowyeogi@gmail.com",
   "postsPerPage": 12,
   "adsense": {

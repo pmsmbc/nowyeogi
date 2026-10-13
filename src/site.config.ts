@@ -10,7 +10,8 @@ export interface SiteConfig {
   homeTitle: Record<Lang, string>;
   description: Record<Lang, string>;
   tagline: Record<Lang, string>;
-  author: string;
+  /** 편집자 필명(언어별). About 소개와 글의 author 스키마에 쓴다 */
+  author: Record<Lang, string>;
   email: string;
   postsPerPage: number;
   adsense: { client: string; slots: { top: string; inArticle: string; bottom: string; list: string } };
