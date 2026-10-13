@@ -17,7 +17,7 @@ description: input/<slug>/ 폴더의 사진과 note.txt(장소 정보, 출처)�
    - 관광공사에 사진이 없거나 해외 장소: `npm run fetch-images -- <slug> "<영어 검색어>" --limit 6` (위키미디어 공용).
 3. `src/content/posts/ko/<slug>.md` 를 연다. 주석 안의 note 원문, `places`, `sources`, 그리고 `public/images/<slug>/` 의 사진들을 Read 도구로 직접 본다.
 4. **정보 확인**: note 에 있는 장소 이름·주소·영업시간·메뉴를 WebSearch 로 한 번 확인한다(공식 사이트, 지도 서비스, 최근 후기). 확인된 정보만 쓰고, 확인되지 않는 정보는 "확인 필요"로 사용자에게 보고하고 글에서는 뺀다. 확인에 쓴 페이지는 `sources` 에 추가한다.
-5. **한국어 글**을 쓴다. 아래 작성 규칙을 따른다. `title`, `description`, 각 이미지의 `alt`, `tags`(3~6개), `sources` 를 채운다. 사진은 `![캡션](/images/<slug>/NN.webp)` 로 넣는다. 다 쓰면 note 주석을 지우고 `draft: false` 로 바꾼다.
+5. **한국어 글**을 쓴다. 아래 작성 규칙을 따른다. `title`, `description`, 각 이미지의 `alt`, `tags`(3~6개), `sources`, `glance`(아래 "한눈에 보기 표" 참고)를 채운다. 사진은 `![캡션](/images/<slug>/NN.webp)` 로 넣는다. 다 쓰면 note 주석을 지우고 `draft: false` 로 바꾼다.
 6. **영어 글**(`en/<slug>.md`)을 쓴다. 직역이 아니라 해외 독자용으로 다시 쓴다. 규칙은 아래 "영어 글" 참고.
 7. `npm run build` 를 실행한다. 실패하면 오류 메시지의 파일과 필드를 고친다. `⚠ 영어 글 없음` 경고가 있으면 5번을 마쳤는지 확인한다.
    - 빌드나 개발 서버가 이전 결과를 보여 주면 `rm -rf .astro node_modules/.astro` 후 다시 실행한다(콘텐츠 렌더 캐시). `npm run build` 는 플러그인·데이터 변경을 감지해 자동으로 지운다.
@@ -42,6 +42,7 @@ description: input/<slug>/ 폴더의 사진과 note.txt(장소 정보, 출처)�
 - 과장 표현 금지: "인생 맛집", "무조건", "최고", "강추". 구체적인 사실(메뉴 구성, 위치, 가격대, 이용 팁)로 대신한다.
 - 같은 문장 구조를 세 번 이상 반복하지 않는다. "~예요/~해요" 체를 기본으로, 정보 부분은 명사형으로 짧게.
 - `places` 의 정보는 본문에서도 산문으로 한 번 언급한다(카드와 본문이 서로 보완).
+- **한눈에 보기 표(`glance`)**: 본문을 다 쓴 뒤 frontmatter 에 `glance:` 4~7행을 넣는다. 표지 사진 아래에 표로 표시된다(`src/components/GlanceTable.astro`). 형식은 `- { label: "기간", value: "2026년 10월 9~11일", url: "https://..." }` 이고 `url` 은 지자체·관광공사·시설 공식 사이트에만 붙인다(뉴스·블로그 금지). value 는 **본문에 이미 쓴 사실만** 한 줄로 요약하고(ko·ja 60자, en 18단어 이내, 여러 항목은 `·` 로 구분), 마크다운·`[[line:..]]` 배지 토큰은 쓰지 않는다. 라벨은 기존 글과 맞춘다: ko 위치/기간/시간/요금/교통/주차/소요 시간/추천 시기/추천 일정/예약/예산/핵심 장소/핵심 가게/추천 숙소/추천 구역/가격대/문의/공식 안내, en Where/Dates/Hours/Admission/Getting there/Parking/Time needed/Best time/Suggested plan/Booking/Budget/Key spots/Key eats/Where to stay/Best areas/Price range/Contact/Official info, ja 場所/期間/時間/料金/アクセス/駐車場/所要時間/おすすめ時期/おすすめプラン/予約/予算/主なスポット/主な店/おすすめの宿/おすすめエリア/価格帯/問い合わせ/公式案内. 세 언어의 행 구성(라벨 순서·내용)은 같게 한다.
 - `description` 은 120~160자, 지역명과 핵심 장소 이름을 포함. `title` 은 25~40자, 지역명을 앞쪽에. 제목에도 "후기", "다녀온" 대신 "정리", "가이드", "총정리" 를 쓴다.
 - 마무리에 같은 지역의 기존 글이 있으면 1~2개를 `[제목](/posts/<slug>/)` 로 링크한다. `src/content/posts/ko/` 를 보고 고른다.
 
