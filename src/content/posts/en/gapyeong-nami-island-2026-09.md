@@ -112,7 +112,7 @@ The island covers about **462,000 square metres** and was designated **Korea's l
 
 **The tree avenues** are the reason people come. **Metasequoia Lane** was planted from saplings transplanted in 1977 and became the island's emblem after *Winter Sonata* filmed there. **Ginkgo Tree Lane** is a shorter stretch of about 100 m running south from the central plaza. **Korean Pine Tree Lane** runs from the wharf to the middle of the island.
 
-**Winter Sonata** is the drama in question, broadcast by KBS in 2001, and it is responsible for the island's popularity across Japan and Southeast Asia. The weeping-cherry grove around the "First Kiss Bench" is marked as an official landmark, and there are memorial displays scattered through the trees.
+**Winter Sonata** is the drama in question, broadcast by KBS in 2002, and it is responsible for the island's popularity across Japan and Southeast Asia. The weeping-cherry grove around the "First Kiss Bench" is marked as an official landmark, and there are memorial displays scattered through the trees.
 
 ![A male peacock with its tail down walking on grass on Nami Island](/images/gapyeong-nami-island-2026-09/03.webp)
 
