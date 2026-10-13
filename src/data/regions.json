@@ -311,6 +311,19 @@
       "남강유등축제"
     ]
   },
+  "wonju": {
+    "ko": "원주",
+    "en": "Wonju",
+    "ja": "原州",
+    "scope": "domestic",
+    "country": "KR",
+    "aliases": [
+      "원주시",
+      "반계리",
+      "문막",
+      "강원 원주"
+    ]
+  },
   "gangwon": {
     "ko": "강원",
     "en": "Gangwon",
