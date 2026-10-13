@@ -71,6 +71,14 @@ sources:
   - { title: "뉴스1 (2026-09-29) — 동심 가득했던 기차의 반전… 롯데월드 '환타지드림'에 무슨 일이", url: "https://www.news1.kr/industry/hotel-tourism/6303962" }
   - { title: "뉴스1 (2026-09-22) — 윤호중 '4년 전과 같은 참사 없도록… 핼러윈 인파 관리 만전'", url: "https://www.news1.kr/local/moi/6298533" }
   - { title: "한국관광공사 TourAPI — 롯데월드 어드벤처 (주소, 운영시간, 입장 마감, 주차)", url: "https://kto.visitkorea.or.kr/" }
+glance:
+  - { label: "기간", value: "2026년 9월 12일(토)~11월 15일(일) · 할로윈 당일 10월 31일(토)도 정상 운영" }
+  - { label: "장소", value: "롯데월드 어드벤처(실내)+매직아일랜드(야외), 서울 송파구 올림픽로 240" }
+  - { label: "시간", value: "일~목 10:00~21:00, 금·토 10:00~22:00 · 다크 판타지 페스티벌 매일 20:20", url: "https://adventure.lotteworld.com/enjoy/performance/list" }
+  - { label: "요금", value: "1Day 어른 67,000원 · After4 55,000원 · 귀담 10,000원·마도신당 8,000원 별도" }
+  - { label: "교통", value: "2호선·8호선 잠실역에서 지하로 바로 연결, 3·4번 출구 방향" }
+  - { label: "주의", value: "10월 16일(금) 전체 대관으로 일반 입장 제한 · 기묘한 악몽은 만 13세 이상, 매직패스 불가", url: "https://adventure.lotteworld.com/communication/notice/detail?notiSeq=721" }
+  - { label: "문의", value: "대표전화 1661-2000 · 공연 문의 02-411-4339(12:00~20:00)" }
 draft: false
 ---
 

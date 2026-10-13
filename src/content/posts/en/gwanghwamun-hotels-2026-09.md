@@ -67,6 +67,12 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "Best areas", value: "Big hotels at Gwanghwamun and City Hall · hostels in Gwancheol-dong (Jonggak) · most rooms in Sogong-dong, Bukchang-dong" }
+  - { label: "Where to stay", value: "Four Seasons Hotel Seoul · Shilla Stay Gwanghwamun · The Plaza · Koreana Hotel" }
+  - { label: "Getting there", value: "City Hall (Lines 1, 2) · Gwanghwamun (Line 5) · Jonggak (Line 1) · AREX to Seoul Station" }
+  - { label: "Airport bus", value: "6701 (last 18:40-19:00) · 6002 (Gwanghwamun 20:52) · 6005 (10 a day) · late-night N6002" }
+  - { label: "Watch out", value: "Weekend rallies often close Sejong-daero · a hotel named \"Myeongdong\" may be in Bukchang-dong or Sogong-dong" }
 draft: false
 ---
 

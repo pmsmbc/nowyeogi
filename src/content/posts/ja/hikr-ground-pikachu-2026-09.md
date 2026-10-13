@@ -54,6 +54,13 @@ sources:
   - { title: "게임톡 — 9월 18일부터 ‘하이커그라운드’에 포켓몬 세상이 열립니다", url: "https://www.gametoc.co.kr/news/articleView.html?idxno=111181" }
   - { title: "한국관광공사 열린관광 모두의 여행 — 하이커 그라운드", url: "https://access.visitkorea.or.kr/ms/detail.do?cotId=8b6e4076-7cd6-4071-a992-443e972ae67e" }
   - { title: "내 손안에 서울 — 한류 체험 놀이터, '하이커 그라운드'를 아시나요?", url: "https://mediahub.seoul.go.kr/archives/2008342" }
+glance:
+  - { label: "期間", value: "2026年9月18日〜10月11日（日）、10:00〜20:00", url: "https://pokemonkorea.co.kr/pikachu_9/menu811" }
+  - { label: "場所", value: "ハイカーグラウンド（韓国観光公社ソウルセンター）、ソウル中区清渓川路40 · 展示2・3階、ポップアップ5階、景品1階" }
+  - { label: "料金", value: "ハイカーグラウンドは無料、イベントの入場料は記載なし · 5階の商品は有料" }
+  - { label: "アクセス", value: "1号線 鍾閣駅5番出口から徒歩約2分 · 空港鉄道の直通列車ならソウル駅・仁川空港のスタンプも集められる" }
+  - { label: "スタンプラリー", value: "スタンプ2個以上でポケモン30周年ステッカー、1階案内センター前で受け取り · 館内だけで3か所" }
+  - { label: "注意", value: "ふだん2〜4階は月曜休館なので月曜は事前確認 · 混雑時は入場制限の可能性" }
 draft: false
 ---
 

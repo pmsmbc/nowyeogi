@@ -43,6 +43,14 @@ sources:
   - { title: "오마이뉴스 — 국감장에 오른 '부캉이'", url: "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274654" }
   - { title: "데일리안 — BPA, 북항 친수공원 개방 (2026-08-03)", url: "https://www.dailian.co.kr/news/view/1673919/" }
   - { title: "한국관광공사 — 부산북항 친수공원", url: "https://korean.visitkorea.or.kr/" }
+glance:
+  - { label: "場所", value: "北港親水公園の景観水路（東区 李舜臣大路 164） · 10月4日時点で第4〜第5歩道橋の間" }
+  - { label: "時間", value: "水路周辺は06:00〜18:00のみ · 18:00〜翌06:00は立入規制" }
+  - { label: "料金", value: "無料" }
+  - { label: "アクセス", value: "KTX釜山駅から空中歩道橋を徒歩 · 釜山駅・草梁駅（1号線）" }
+  - { label: "駐車場", value: "公園に駐車場はあるが連休はすぐ満車、公共交通を推奨" }
+  - { label: "おすすめ時期", value: "平日か早朝 · 出発前にサメが海へ出ていないかニュースで確認" }
+  - { label: "持ち物", value: "ズーム付きカメラ · フラッシュは切る · 餌や物を水に投げ入れない" }
 draft: false
 ---
 

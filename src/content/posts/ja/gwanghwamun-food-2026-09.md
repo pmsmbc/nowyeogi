@@ -174,6 +174,12 @@ sources:
   - { title: "다이닝코드 — 진주회관", url: "https://www.diningcode.com/profile.php?rid=3Iupq3x5RoJ6" }
   - { title: "다이닝코드 — 유림면", url: "https://www.diningcode.com/profile.php?rid=RibyrYTmx3ib" }
   - { title: "다이닝코드 — 고려삼계탕", url: "https://www.diningcode.com/profile.php?rid=3D2EVkSoU9hN" }
+glance:
+  - { label: "主な店", value: "清進屋 · 里門ソルロンタン · 味進 · ユリムミョン · 南浦麺屋" }
+  - { label: "予算", value: "ヘジャングク12,000ウォン · ソルロンタン15,000ウォン · 着実な価格の店のピョヘジャングク10,000ウォン" }
+  - { label: "アクセス", value: "光化門駅（5号線）· 鍾閣駅（1号線）· 市庁駅（1・2号線）" }
+  - { label: "おすすめ時間帯", value: "平日昼の正午前後は行列 · 朝食は清進屋（06:00）・武橋洞プゴクッチプ（07:00）" }
+  - { label: "時間", value: "富民屋・光化門クッパ・晋州会館・興進屋は日曜休み" }
 draft: false
 ---
 

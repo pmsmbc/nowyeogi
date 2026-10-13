@@ -35,6 +35,13 @@ sources:
   - { title: "全州市観光 — 市内バスと交通カード", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012002000" }
   - { title: "高速バス時刻表と運賃 — Kobus", url: "https://www.kobus.co.kr/oprninf/alcninqr/oprnAlcnPage.do" }
   - { title: "ユネスコ創造都市ネットワーク — 全州", url: "https://www.unesco.org/en/creative-cities/jeonju" }
+glance:
+  - { label: "場所", value: "全羅道の全州 · 全州韓屋村（完山区 殿洞聖堂キル110）は入場料なし、24時間開放", url: "https://hanok.jeonju.go.kr/contents/info" }
+  - { label: "アクセス", value: "KTX 龍山→全州 約1時間40分 · 高速バス2時間40分、一般15,000ウォン · ターミナルのほうが村に近い" }
+  - { label: "市内の移動", value: "全州駅→村はバス約25分(タクシー7〜8千ウォン) · ターミナル→村は約15分 · 市内バス1,700ウォン", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012002000" }
+  - { label: "主なスポット", value: "慶基殿（3,000ウォン） · 殿洞聖堂 · 梧木台 · 全州郷校 · 南部市場の夜市（金・土17:00〜23:00）" }
+  - { label: "おすすめプラン", value: "1泊2日 — 1日目はビビンバ・慶基殿・殿洞聖堂・梧木台・夜市、2日目はクッパプ・郷校・韓紙博物館・徳津公園" }
+  - { label: "おすすめ時期", value: "全州国際映画祭 4月29日〜5月8日 · 韓紙文化祭 10月8〜10日 · 郷校のイチョウは11月 · 週末より平日" }
 draft: false
 ---
 

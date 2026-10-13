@@ -179,6 +179,13 @@ sources:
   - { title: "다이닝코드 — 옥동식 합정", url: "https://www.diningcode.com/profile.php?rid=4fgdW6Inktww" }
   - { title: "다이닝코드 — 합정옥", url: "https://www.diningcode.com/profile.php?rid=bDlUpVT87aiE" }
   - { title: "다이닝코드 — 오레노라멘 본점", url: "https://www.diningcode.com/profile.php?rid=wJpwvXzEFYVj" }
+glance:
+  - { label: "핵심 가게", value: "옥동식 · 합정옥 · 오레노라멘 본점 · 교다이야 (미쉐린 빕 구르망)" }
+  - { label: "저녁 고깃집", value: "조선화로구이 · 401정육식당 · 천이오겹살" }
+  - { label: "예산", value: "빕 구르망 1인 45,000원 이하 · 돼지곰탕 14,000원 · 찌개백반 5,500원" }
+  - { label: "대기", value: "합정옥은 하루 100인분 소진 시 마감 · 옥동식은 줄 서는 곳으로 미쉐린 표시" }
+  - { label: "교통", value: "2·6호선 합정역 2·7번 출구 · 2호선 홍대입구역 · 6호선 상수역" }
+  - { label: "추천 시간대", value: "빕 구르망 다수가 11:00~15:00 점심 영업 · 고깃집은 저녁(401정육식당 새벽 2시까지)" }
 draft: false
 ---
 

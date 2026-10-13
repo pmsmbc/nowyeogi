@@ -69,6 +69,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "등록 숙소", value: "관광숙박업 69곳 6,399실(관광호텔 29·호스텔 40) · 도시민박 150곳은 모두 남산동·회현동", url: "https://data.seoul.go.kr/dataList/OA-16043/S/1/datasetView.do" }
+  - { label: "추천 구역", value: "큰 호텔은 명동 거리·명동역 앞 퇴계로·남대문로4가·회현역 쪽, 호스텔·도시민박은 남산동2가·회현동" }
+  - { label: "추천 숙소", value: "보코 서울 명동 · 코트야드 메리어트 서울 명동 · 호텔 그레이스리 서울 · 세종호텔" }
+  - { label: "교통", value: "4호선 명동역·회현역 · 공항철도는 서울역에서 4호선으로 환승, 명동까지 두 정거장" }
+  - { label: "공항버스", value: "6001·6015번 명동역 8번 출구 앞 · 성인 17,000원 · 막차 20:07·20:03 · 심야 없음", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=1" }
+  - { label: "주의", value: "롯데시티·포포인츠 조선·나인트리 명동Ⅱ·스프라지르 명동은 주소가 범위 밖 · 도시민박은 내국인 숙박 불가" }
 draft: false
 ---
 

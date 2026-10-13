@@ -62,6 +62,13 @@ sources:
   - { title: "プチフランス — 入場券", url: "http://www.pfcamp.com/page/page6" }
   - { title: "江村レールパーク — 加平コース", url: "https://www.railpark.co.kr/course/gapyeong/map" }
   - { title: "チャラ島国際ジャズフェスティバル 公式サイト", url: "https://www.jarasumjazz.com/" }
+glance:
+  - { label: "主なスポット", value: "アチムゴヨ樹木園 · プチフランスとイタリア村 · 加平レールバイク · チャラ島 · 清平湖" }
+  - { label: "料金", value: "樹木園11,000ウォン · 共通券19,500ウォン · レールバイク1台36,000ウォン〜 · チャラ島は無料" }
+  - { label: "時間", value: "樹木園 08:30〜19:00 年中無休 · プチフランス 09:00〜18:00 · レールバイクは1日6便" }
+  - { label: "アクセス", value: "樹木園と湖は清平駅（30-6番バス） · レールバイクとチャラ島は加平駅 · プチフランスは循環バス" }
+  - { label: "予約", value: "樹木園の券は現地販売のみ（オンライン予約なし） · 循環バスは水曜運休" }
+  - { label: "おすすめ時期", value: "樹木園のライティング12月〜3月（夜間も同額） · ジャズフェス10月9〜11日 · 清平湖の水上レジャーは7〜8月", url: "https://www.jarasumjazz.com/" }
 draft: false
 ---
 

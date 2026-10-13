@@ -69,6 +69,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "By the numbers", value: "69 tourist lodgings, 6,399 rooms (29 hotels, 40 hostels); all 150 homestays in Namsan-dong and Hoehyeon-dong", url: "https://data.seoul.go.kr/dataList/OA-16043/S/1/datasetView.do" }
+  - { label: "Best areas", value: "Big hotels: shopping streets, Toegye-ro by Myeongdong Station, Namdaemun-ro 4-ga, Hoehyeon; hostels and homestays: Namsan-dong 2-ga and Hoehyeon-dong" }
+  - { label: "Where to stay", value: "voco Seoul Myeongdong · Courtyard by Marriott Seoul Myeongdong · Hotel Gracery Seoul · Sejong Hotel" }
+  - { label: "Getting there", value: "Myeongdong or Hoehyeon Station (Line 4); from AREX change at Seoul Station, two stops to Myeongdong" }
+  - { label: "Airport bus", value: "6001 and 6015 at Myeongdong Station Exit 8; adult ₩17,000; last bus 20:07 and 20:03; no night bus", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=1" }
+  - { label: "Watch out", value: "Lotte City, Four Points, Nine Tree II, The Splaisir sit outside the area; homestays: generally foreign visitors only" }
 draft: false
 ---
 

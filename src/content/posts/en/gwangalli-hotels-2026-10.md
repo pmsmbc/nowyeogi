@@ -89,6 +89,14 @@ sources:
   - { title: "Mom-mom — Kent Hotel Gwangalli by Kensington facilities and parking", url: "https://mom-mom.net/travel/properties/64f80bafacd3f742aa51a681" }
   - { title: "SBS Biz — Millak Waterfront Park designated an alcohol-free zone (2023)", url: "https://biz.sbs.co.kr/article/20000119602" }
   - { title: "Wikipedia (Korean) — Gwangan Bridge", url: "https://ko.wikipedia.org/wiki/광안대교" }
+glance:
+  - { label: "Best areas", value: "Beachfront line (sea view) · one block back, Gwangnam-ro (value) · Suyeong Station end (quiet, 20 min walk)" }
+  - { label: "Where to stay", value: "Hotel Aqua Palace · Kent Hotel Gwangalli · Homers Hotel · Hotel 1 Gwangalli (203–229 Gwanganhaebyeon-ro)" }
+  - { label: "Price range", value: "Gwangan-dong average ₩98,942 on a Tuesday, ₩218,541 on a Saturday · November highest, February lowest (comparison-site data)" }
+  - { label: "Getting there", value: "Gwangan (Line 2) exit 5, 13 min walk · Geumnyeonsan exit 3, 5 min · Haeundae 12 min" }
+  - { label: "From the airport", value: "Light rail to Sasang, then Line 2 to Gwangan, about an hour · Limousine 1 skips Gwangalli" }
+  - { label: "Hours", value: "Drone show every Saturday, 19:00 and 21:00 Oct–Feb, 20:00 and 22:00 Mar–Sep, free · check-in mostly 15:00" }
+  - { label: "Official info", value: "Gwangalli M Drone Light Show official site", url: "https://www.gwangallimdrone.co.kr/" }
 draft: false
 ---
 

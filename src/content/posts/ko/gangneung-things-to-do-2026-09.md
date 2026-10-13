@@ -65,6 +65,14 @@ sources:
   - { title: "정동심곡 바다부채길 공식 사이트", url: "http://searoad.gtdc.or.kr/buchae_intro.html" }
   - { title: "Visit Gangneung — 경포대", url: "https://visitgangneung.net/pub/ruins.do?mode=v&seq=3" }
   - { title: "Visit Gangneung — 가볼 만한 곳", url: "https://visitgangneung.net/pub/gnhot.do" }
+glance:
+  - { label: "핵심 장소", value: "오죽헌 · 선교장 · 경포대·경포해변 · 정동진 · 정동심곡 바다부채길" }
+  - { label: "요금", value: "오죽헌 어른 3,000원 · 선교장 5,000원 · 바다부채길 5,000원 · 경포대 무료" }
+  - { label: "시간", value: "오죽헌·선교장 09:00~18:00 · 바다부채길 09:00~17:30 · 겨울은 단축" }
+  - { label: "소요 시간", value: "오죽헌은 박물관까지 1시간 반 · 경포 해변·호수·정자는 반나절" }
+  - { label: "교통", value: "경포 202·202-1·202-2번 버스 · 정동진 112번 버스 또는 강릉역에서 기차 17분" }
+  - { label: "추천 시기", value: "매월 마지막 수요일 오죽헌 반값 · 해돋이축제 12월 31일~1월 1일(객실 몇 달 전 마감)" }
+  - { label: "공식 안내", value: "Visit Gangneung 가볼 만한 곳", url: "https://visitgangneung.net/pub/gnhot.do" }
 draft: false
 ---
 

@@ -28,6 +28,14 @@ sources:
   - { title: "경주시 관광 안내 — 시티투어", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4602" }
   - { title: "경주시 관광 안내 — 자전거 코스", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4746" }
   - { title: "한국경제 — 고속철도 통합과 운임 인하 (2026년 9월 1일)", url: "https://www.hankyung.com/article/2026083145861" }
+glance:
+  - { label: "위치", value: "KTX 경주역은 구도심 서쪽 10km(건천읍) · 고속버스터미널은 노서동 대릉원 옆" }
+  - { label: "교통", value: "서울에서 KTX 약 2시간 10분·고속버스 약 3시간 30분 · KTX역에서 시내는 버스 50·51·70" }
+  - { label: "요금", value: "시내버스 카드 1,450원·현금 1,500원 · KTX역 택시 황리단길까지 약 1만 5천 원" }
+  - { label: "핵심 장소", value: "대릉원 · 첨성대 · 동궁과 월지 · 월정교 · 불국사·석굴암" }
+  - { label: "추천 일정", value: "최소 2박 · 첫날 구도심 도보와 월지 야경, 둘째 날 불국사·석굴암·국립경주박물관" }
+  - { label: "추천 시기", value: "벚꽃 4월 1~7일쯤 절정 · 10월~11월 초 단풍, 신라문화제 2026년 10월 9~11일" }
+  - { label: "공식 안내", value: "경주시 관광 안내 — 교통", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4847" }
 draft: false
 ---
 

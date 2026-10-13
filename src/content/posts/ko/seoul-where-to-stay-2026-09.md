@@ -63,6 +63,13 @@ sources:
   - { title: "한국관광공사 VisitKorea", url: "https://english.visitkorea.or.kr/" }
   - { title: "Hotel Price Watch — 서울 지역별 호텔 가격(2026)", url: "https://www.hotelpricewatch.com/city/seoul/" }
   - { title: "공항리무진 노선·요금(공식)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2" }
+glance:
+  - { label: "추천 구역", value: "첫 방문 명동 · 밤 문화 홍대 · 고궁·한옥 종로·북촌 · 아이와 함께 잠실" }
+  - { label: "가격대", value: "2인실 1박 홍대·동대문 6만 원~ · 명동 9만~22만 원 · 강남 15만~50만 원" }
+  - { label: "교통", value: "인천공항에서 공항철도 직행은 홍대입구역 · 명동은 6001·6015번 버스 또는 서울역에서 4호선 2정거장" }
+  - { label: "추천 시기", value: "12~2월이 저렴 · 4~5월·9~10월(벚꽃·단풍)은 20~40% 비싸고 먼저 마감" }
+  - { label: "예산", value: "빠듯하면 홍대 게스트하우스 또는 동대문 비즈니스호텔" }
+  - { label: "예약", value: "역까지 걷는 시간 확인 · 도시세 포함 최종 금액으로 비교 · 보통 체크인 15시, 체크아웃 11시" }
 draft: false
 ---
 

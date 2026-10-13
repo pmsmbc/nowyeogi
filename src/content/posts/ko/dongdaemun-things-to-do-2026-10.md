@@ -162,6 +162,14 @@ sources:
   - { title: "패션넷 — 동대문패션타운 패러다임이 바뀐다, 60여년 만에 주 5일제 실시 (2022-03-02)", url: "https://www.fashionnet.or.kr/daily-news/65196/" }
   - { title: "한국섬유신문 — 동대문 디오트, '밤 장사' 바뀌나…영업시간 조정 다시 불붙다 (2026-01-28)", url: "https://www.ktnews.com/news/articleView.html?idxno=143686" }
   - { title: "한국관광공사 TourAPI — 동대문디자인플라자·동대문역사문화공원·흥인지문·흥인지문공원·한양도성박물관·낙산공원·채석장 전망대·서울 동관왕묘·동대문종합시장·서울 평화시장 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "핵심 장소", value: "DDP · 동대문역사문화공원(이간수문) · 흥인지문 · 낙산 성곽길 · 동묘 벼룩시장" }
+  - { label: "요금", value: "대부분 무료 · DDP 건축투어 10,000원 · 루프탑투어 26,000원(노을투어 50,000원)" }
+  - { label: "시간", value: "DDP 10:00~20:00, 월요일도 개관 · 박물관·기념관·채석장 전망대는 월요일 휴관" }
+  - { label: "소요 시간", value: "낙산 성곽길 혜화문~광희문 3.2km 약 1시간 30분 · DDP 투어는 각 60분", url: "https://seoulcitywall.seoul.go.kr/wallcourse/2.do" }
+  - { label: "교통", value: "2·4·5호선 동대문역사문화공원역(DDP) · 1·4호선 동대문역(흥인지문) · 1·6호선 동묘앞역" }
+  - { label: "추천 시기", value: "화~토 · 벼룩시장은 주말 · 도매상가는 금·토 밤 휴무 많음 · DDP 365라이트 19~22시" }
+  - { label: "예약", value: "건축투어는 네이버 예약 · 루프탑투어는 만 18~70세, 신분증 필수, 회차당 15명", url: "https://ddp.or.kr/index.html?menuno=797&siteno=2&bbsno=11&boardno=145&bbstopno=11&act=view&subno=1" }
 draft: false
 ---
 

@@ -94,6 +94,13 @@ sources:
   - { title: "Lavalse Hotel — directions", url: "https://www.lavalsehotel.com/about_directions" }
   - { title: "Commodore Hotel Busan — directions", url: "https://www.commodore.co.kr/html/10_location/01.php" }
   - { title: "Gimhae Airport limousine bus reorganisation, new Osiria stop (2025-12-31)", url: "https://www.twig24.com/news/local_bs/2025/12/31/20251231500054" }
+glance:
+  - { label: "Best areas", value: "Busan Station (trains, ferries) · Nampo-dong and Jungang-dong (markets) · Yeongdo (harbour and bridge views)" }
+  - { label: "Where to stay", value: "Ramada Encore Busan Station · Toyoko Inn Busan Station 1 · Commodore Hotel · Hotel Foret Premier Nampo · Lavalse Hotel" }
+  - { label: "Where", value: "All three areas on Line 1; Nampo is two stops from Busan Station" }
+  - { label: "Getting there", value: "Gimhae Airport by light rail and metro ₩1,800, 50 minutes to an hour · Airport Limousine 2 ₩6,000" }
+  - { label: "Hours", value: "Check-in 15:00 · check-out 11:00 (Ramada, Commodore, Lavalse)" }
+  - { label: "Best time", value: "Nampo-dong is busier during the Busan International Film Festival, 6–15 October 2026" }
 draft: false
 ---
 

@@ -33,6 +33,14 @@ sources:
   - { title: "Festival official — Bare-hand trout catching", url: "https://www.narafestival.com/01_icenara/?wr_id=19" }
   - { title: "Festival official — Festival history", url: "https://www.narafestival.com/01_icenara/?wr_id=9" }
   - { title: "Hwacheon County Office — Intercity bus timetable", url: "https://www.ihc.go.kr/www/contents.do?key=237" }
+glance:
+  - { label: "Dates", value: "2027 dates not announced as of September 2026; last edition 10 January to 1 February 2026, 23 days", url: "https://www.narafestival.com/ice_en/" }
+  - { label: "Where", value: "Hwacheon-eup, Hwacheon-gun, Gangwon State, on the frozen Hwacheoncheon" }
+  - { label: "Hours", value: "Foreigners' fishing area 09:00–18:00 (ticketing to 17:00), no weekday/weekend split; bare-hand catching hourly 10:00–16:00" }
+  - { label: "Admission", value: "Foreigners' area ₩10,000 with ₩5,000 voucher back; passport holders pay ₩10,000 instead of ₩15,000 on every programme", url: "https://www.narafestival.com/01_icenara/?wr_id=89" }
+  - { label: "Getting there", value: "Dong Seoul Terminal direct bus, about 2 h 55 min, ₩14,400; via Chuncheon, bus ₩5,800; shuttle weekends only", url: "https://www.narafestival.com/01_icenara/?wr_id=8" }
+  - { label: "What to bring", value: "Physical passport · rod, artificial bait and chair (only the auger is provided) · winter clothing; no tents or heaters" }
+  - { label: "Contact", value: "Foreigners' fishing area: Hwacheon County Global Marketing Team 033-440-2328", url: "https://www.narafestival.com/ice_en/?wr_id=16" }
 draft: false
 ---
 

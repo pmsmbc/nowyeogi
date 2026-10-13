@@ -31,6 +31,14 @@ sources:
   - { title: "Gaecheon Arts Festival — 2026 event information", url: "https://www.gaecheonart.com/sub2026/sub2_1.php" }
   - { title: "Jinju Namgang Yudeung Exhibition Hall — origins of the lanterns", url: "https://www.jinju.go.kr/yudeung/sub/sub6_6.php" }
   - { title: "Jinju City press release — 2026 Jinju Namgang Yudeung Festival dates (3 Sept 2026)", url: "https://www.jinju.go.kr/00130/02730/00138.web?amode=view&gcode=1004&idx=39617781" }
+glance:
+  - { label: "Where", value: "Sights cluster at Jinju Fortress, 626 Namgang-ro · Jinju Station is out in Gajwa-dong, 130 Jinjuyeok-ro" }
+  - { label: "Getting there", value: "Intercity bus from Seoul Nambu 3h35 (udeung ₩33,100) · KTX/SRT direct · from Busan Sasang 1h30, ₩9,200" }
+  - { label: "Admission", value: "City bus ₩1,650 by card, ₩1,700 cash · one free transfer within 30 minutes · T-money, Cashbee work" }
+  - { label: "Key spots", value: "Jinju Fortress · Chokseongnu · Jinju National Museum · Yudeung Exhibition Hall" }
+  - { label: "Suggested plan", value: "One night is enough · day trip from Busan works · museum and exhibition hall close Mondays" }
+  - { label: "Best time", value: "October peak: Namgang Yudeung Festival 3–18 Oct, Gaecheon Arts Festival 9–18 Oct · spring or November for quiet" }
+  - { label: "Official info", value: "Jinju City press release — 2026 Namgang Yudeung Festival dates", url: "https://www.jinju.go.kr/00130/02730/00138.web?amode=view&gcode=1004&idx=39617781" }
 draft: false
 ---
 

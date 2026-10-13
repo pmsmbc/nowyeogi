@@ -196,6 +196,12 @@ sources:
   - { title: "Korea Textile News — Rumoured sale of the Somunnan Gamjatang site at ₩500 million per pyeong (14 April 2026)", url: "https://www.ktnews.com/news/articleView.html?idxno=145397" }
   - { title: "Hankyung Magazine — '₩10 million a day': pop-up stores leaving Seongsu (27 July 2026)", url: "https://magazine.hankyung.com/business/article/202607278449b" }
   - { title: "DiningCode — Somunnan Seongsu Gamjatang, Seongsu Jokbal, Gyewol Gomtang, Mattdol, Onion Seongsu, Daeseong Galbi, Chakhan Jjajang, Ttukdo Guksu-jip, Tutoiement (checked 6 October 2026)", url: "https://www.diningcode.com/" }
+glance:
+  - { label: "Key eats", value: "Gyewol · Mattdol · Somunnan Seongsu Gamjatang · Seongsu Jokbal · Onion Seongsu" }
+  - { label: "Budget", value: "Jajangmyeon ₩5,500 at Chakhan Jjajang · janchi guksu ₩6,000 · ₩3,000 americanos (good-price shops) · gamjaguk ₩12,000" }
+  - { label: "Booking", value: "Mattdol: reservation required (DiningCode) · Somunnan Gamjatang: hard to book, takeaway available" }
+  - { label: "Getting there", value: "Seongsu Station (Line 2) exit 4 (gamjatang, Gajoku) or exit 2 (Onion) · Ttukseom Station (Daeseong Galbi, Sangwon-gil)" }
+  - { label: "Best time", value: "Mattdol is dinner only Tue–Sat · Gyewol and Seongsu Jokbal break around 15:00 · Yeonmujang-gil car-free weekends 13:00–17:00" }
 draft: false
 ---
 

@@ -79,6 +79,12 @@ sources:
   - { title: "空港リムジン — 6002番 路線案内（市内方面）", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=6" }
   - { title: "空港リムジン — 深夜N6002番 路線案内", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=80" }
   - { title: "空港リムジン — 6011番（月渓洞／吉音ニュータウン／安国洞／麻浦区庁駅）路線・停留所別時刻表", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=17" }
+glance:
+  - { label: "おすすめエリア", value: "延南洞（弘大入口駅3番出口の北、都市民泊413か所）· 望遠洞（149か所、93%が2024年以降の指定）" }
+  - { label: "対象", value: "都市民泊562か所は外国人専用 · 韓国籍の人は延南洞のホステル、クリスハウス（6室）か東橋洞のホテル" }
+  - { label: "おすすめの宿", value: "クリスハウス（延南洞で唯一の観光宿泊業）· ホテルは東橋洞のL7弘大・ホリデイ・イン・エクスプレス・メルキュール" }
+  - { label: "アクセス", value: "空港鉄道 弘大入口 → 仁川空港 終電23:48（4,650ウォン）· 空港バス6002 弘大入口 終発21:11 · 深夜N6002" }
+  - { label: "予約", value: "都市民泊に24時間フロントはなく、エレベーターのない家が多い · 遅い到着ならチェックイン方法を前もって" }
 draft: false
 ---
 

@@ -31,6 +31,14 @@ sources:
   - { title: "개천예술제 — 2026년 행사 안내", url: "https://www.gaecheonart.com/sub2026/sub2_1.php" }
   - { title: "진주남강유등전시관 — 유등의 연원", url: "https://www.jinju.go.kr/yudeung/sub/sub6_6.php" }
   - { title: "진주시청 보도자료 — 2026 진주남강유등축제 일정 (2026-09-03)", url: "https://www.jinju.go.kr/00130/02730/00138.web?amode=view&gcode=1004&idx=39617781" }
+glance:
+  - { label: "위치", value: "볼거리는 남강로 626 진주성 일대에 집중 · 진주역은 가좌동(진주역로 130)이라 시내와 떨어짐" }
+  - { label: "교통", value: "서울남부 시외버스 3시간 35분 · KTX·SRT 직통 · 부산 사상 1시간 30분, 9,200원" }
+  - { label: "요금", value: "시내버스 카드 1,650원·현금 1,700원 · 30분 내 1회 무료 환승 · 티머니·캐시비 사용" }
+  - { label: "핵심 장소", value: "진주성 · 촉석루 · 국립진주박물관 · 진주남강유등전시관" }
+  - { label: "추천 일정", value: "1박이면 충분 · 부산에서 당일치기 가능 · 월요일은 박물관·유등전시관 휴관" }
+  - { label: "추천 시기", value: "10월 성수기 — 남강유등축제 10월 3~18일, 개천예술제 10월 9~18일 · 조용하려면 봄·11월" }
+  - { label: "공식 안내", value: "진주시청 보도자료 — 2026 진주남강유등축제 일정", url: "https://www.jinju.go.kr/00130/02730/00138.web?amode=view&gcode=1004&idx=39617781" }
 draft: false
 ---
 

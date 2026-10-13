@@ -73,6 +73,13 @@ sources:
   - { title: "CALT — Notices (6103 timetable change from 16 July 2026)", url: "https://www.calt.co.kr/center/01.php" }
   - { title: "Travel Times — Only Seoul Station is left among city airport terminals (25 April 2023)", url: "https://www.traveltimes.co.kr/news/articleView.html?idxno=404730" }
   - { title: "Airport Limousine — Routes and timetables (6016, N6000)", url: "https://www.airportlimousine.co.kr/sub/sub01.php" }
+glance:
+  - { label: "Best areas", value: "Samseong-dong for COEX events · Yeoksam-dong (Teheran-ro) for business · Dosan-daero, Sinsa-dong for Garosu-gil and Apgujeong Rodeo shopping" }
+  - { label: "Lodging mix", value: "84 tourist hotels and hostels (8,646 tourist-hotel rooms, second in Seoul) · 407 homestays, foreign visitors only" }
+  - { label: "Where to stay", value: "The Westin Seoul Parnas · Grand InterContinental Seoul Parnas · Josun Palace Seoul Gangnam · Andaz Seoul Gangnam" }
+  - { label: "Getting there", value: "Samseong (Line 2, COEX) · Bongeunsa, Sinnonhyeon (Line 9) · AREX to Gimpo Airport, then Line 9" }
+  - { label: "Airport bus", value: "6703 last 18:38-19:42 · 6103 from COEX to 21:00 · late-night N6703 · ₩18,000", url: "https://www.klimousine.com/bus/limousine.php?bus_no=6703" }
+  - { label: "Watch out", value: "'Hotel' names may be inns or general hotels · Ramada Seoul closed 2021, now only a bus-stop name" }
 draft: false
 ---
 

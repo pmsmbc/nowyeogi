@@ -73,6 +73,13 @@ sources:
   - { title: "한국도심공항 — 공지사항 (6103번 시간표 변경, 2026.7.16부터)", url: "https://www.calt.co.kr/center/01.php" }
   - { title: "여행신문 — 국제선 확대되는데…서울역만 남은 도심공항터미널 (2023-04-25)", url: "https://www.traveltimes.co.kr/news/articleView.html?idxno=404730" }
   - { title: "공항리무진 — 운행노선 및 시간표 (6016·N6000)", url: "https://www.airportlimousine.co.kr/sub/sub01.php" }
+glance:
+  - { label: "추천 구역", value: "코엑스 행사는 삼성동 · 출장은 역삼동 테헤란로 · 가로수길·압구정로데오 쇼핑은 신사동 도산대로" }
+  - { label: "숙소 현황", value: "관광숙박업 84곳(관광호텔 객실 8,646실, 서울 2위) · 도시민박 407곳은 외국인 전용" }
+  - { label: "추천 숙소", value: "웨스틴 서울 파르나스 · 그랜드 인터컨티넨탈 서울 파르나스 · 조선 팰리스 서울 강남 · 안다즈 서울 강남" }
+  - { label: "교통", value: "2호선 삼성역(코엑스 연결) · 9호선 봉은사·신논현역 · 공항철도는 김포공항역에서 9호선 환승" }
+  - { label: "공항버스", value: "6703 막차 18:38~19:42 · 6103 코엑스 ~21:00 · 심야 N6703 · 18,000원", url: "https://www.klimousine.com/bus/limousine.php?bus_no=6703" }
+  - { label: "주의", value: "호텔 이름이어도 여관·일반호텔인 곳이 많음 · 라마다서울호텔은 2021년 폐업, 정류장 이름만 남음" }
 draft: false
 ---
 

@@ -56,6 +56,14 @@ sources:
   - { title: "뉴스프라임 (2025-09-17) — 육군, 2025 지상군페스티벌 개최 (2002년 대전 시작, 2008년 계룡대 이전)", url: "https://www.newsprime.co.kr/news/article/?no=704714" }
   - { title: "위키백과 — 계룡역 (정차 열차)", url: "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%97%AD" }
   - { title: "한국관광공사 TourAPI — 지상군페스티벌, 동학사", url: "https://kto.visitkorea.or.kr/" }
+glance:
+  - { label: "기간", value: "2026년 10월 1일(목)~5일(월) 09:00~17:00 · 개막일 10월 1일만 21:00까지" }
+  - { label: "장소", value: "충남 계룡시 신도안면, 계룡대 활주로 일원" }
+  - { label: "요금", value: "입장 무료 · 주차 무료 · 셔틀버스 무료" }
+  - { label: "교통", value: "계룡역(호남선 KTX·ITX-새마을·무궁화)에서 무료 셔틀 08:50~17:40, 10~15분 간격", url: "https://armyfest.or.kr/armyfests/5077/subview.do" }
+  - { label: "주차", value: "1주차장 3,178대(계룡대로 734) 등 무료 · 1정문 앞 도로 진입 차단, 주차장 주소로 내비 설정" }
+  - { label: "추천 시기", value: "블랙이글스 10월 3일(토) 16:30~16:40 하루뿐 · 장비 탑승체험은 오전 · 고공강하 14:40" }
+  - { label: "문의", value: "프로그램 042-550-5311 · 교통 042-550-5333 · 공식 누리집 armyfest.or.kr", url: "https://armyfest.or.kr" }
 draft: false
 ---
 

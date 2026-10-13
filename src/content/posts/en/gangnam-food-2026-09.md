@@ -252,6 +252,13 @@ sources:
   - { title: "Korea Tourism Organization — Muslim-Friendly Restaurants in Korea (information as of December 2021, PDF)", url: "https://english.visitkorea.or.kr/public/asis/upload/Muslim-friendly_restaurants.pdf" }
   - { title: "Starfield COEX Mall — Gourmet Street, Food Street, Restaurants (checked 6 October 2026)", url: "https://www.starfield.co.kr/coexmall/cafeDining/restaurant.do" }
   - { title: "DiningCode — Hanilkwan Apgujeong, Motungijip, New Mandujip, Gebang Sikdang, Gomtang Lab (checked 6 October 2026)", url: "https://www.diningcode.com/" }
+glance:
+  - { label: "Key eats", value: "Mingles (three stars) · Mandujip, Gomtang Lab, Gebang Sikdang, Myeon Seoul (Bib Gourmand) · Hanilkwan" }
+  - { label: "Budget", value: "Good-price bibimbap or udon ₩7,000, noodles ₩8,000 · Bib Gourmand means under ₩45,000 a head" }
+  - { label: "Booking", value: "Book starred restaurants first · Gomtang Lab queues, arrive at opening · Gaggen dinner starts 19:00 sharp" }
+  - { label: "Getting there", value: "Cheongdam: Apgujeongrodeo (Suin-Bundang) · Garosu-gil: Sinsa (Line 3) · lunch streets: Gangnam (Line 2) · COEX: Samseong" }
+  - { label: "Best time", value: "Many Gangnam Station lunch spots close weekends · Jeongdeun Gimbap 24 hours · Yanggu Sikdang opens 06:00" }
+  - { label: "Official info", value: "Ministry of the Interior and Safety good-price list, Gangnam-gu", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
 draft: false
 ---
 

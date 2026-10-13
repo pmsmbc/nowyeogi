@@ -26,6 +26,12 @@ sources:
   - { title: "Seongyojang — hanok stay", url: "https://knsgj.net/tour" }
   - { title: "Visit Gangneung — Gyeongpodae", url: "https://visitgangneung.net/pub/ruins.do?mode=v&seq=3" }
   - { title: "Gangneung city bus information", url: "https://bis.gn.go.kr/info" }
+glance:
+  - { label: "Best areas", value: "Gyeongpo (summer beach) · Anmok (coffee) · downtown near the station (short trips, no car) · Jeongdongjin (sunrise)" }
+  - { label: "Where to stay", value: "Gangneung St. John's Hotel · Siesta Guesthouse Gyeongpo · Hong C Hotel Gangneung Station · Seongyojang hanok stay" }
+  - { label: "Getting there", value: "Gyeongpo by bus 202, 202-1, 202-2 (20 min) · Jeongdongjin by bus 112 or 17-minute train" }
+  - { label: "Booking", value: "Jeongdongjin for 31 December books out months ahead · Anmok has few rooms, so book early" }
+  - { label: "Official info", value: "Visit Gangneung accommodation register — 205 properties in five zones", url: "https://visitgangneung.net/pub/gnaccommodation.do" }
 draft: false
 ---
 

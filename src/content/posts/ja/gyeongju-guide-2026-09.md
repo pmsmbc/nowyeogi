@@ -27,6 +27,14 @@ sources:
   - { title: "慶州市観光 — シティツアーバス", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4602" }
   - { title: "慶州市観光 — サイクリングコース", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4746" }
   - { title: "韓国経済新聞 — 高速鉄道統合と運賃引き下げ（2026年9月1日）", url: "https://www.hankyung.com/article/2026083145861" }
+glance:
+  - { label: "場所", value: "KTX慶州駅は旧市街の西約10キロ（乾川邑） · 高速バスターミナルは路西洞、大陵苑のすぐ隣" }
+  - { label: "アクセス", value: "ソウルからKTX約2時間10分・高速バス約3時間30分 · KTX駅から街なかはバス50・51・70" }
+  - { label: "料金", value: "市内バス カード1,450ウォン・現金1,500ウォン · KTX駅からタクシーで皇理団キルまで約15,000ウォン" }
+  - { label: "主なスポット", value: "大陵苑 · 瞻星台 · 月池 · 月精橋 · 仏国寺・石窟庵" }
+  - { label: "おすすめプラン", value: "最低2泊 · 1日目は旧市街を徒歩で回り夜は月池、2日目は仏国寺・石窟庵・国立博物館" }
+  - { label: "おすすめ時期", value: "桜は4月1〜7日ごろが見ごろ · 10月〜11月初め、新羅文化祭は2026年10月9〜11日" }
+  - { label: "公式案内", value: "慶州市観光 — 交通案内", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4847" }
 draft: false
 ---
 

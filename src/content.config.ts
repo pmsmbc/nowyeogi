@@ -23,6 +23,13 @@ const place = z.object({
   mapUrl: z.string().url().optional(),
 });
 
+// 글 상단 "한눈에 보기" 표의 한 줄. value 는 본문에 이미 있는 사실만 요약한다(새 사실 금지).
+const glanceRow = z.object({
+  label: z.string(),
+  value: z.string(),
+  url: z.string().url().optional(),
+});
+
 const posts = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/posts' }),
   schema: z.object({
@@ -39,6 +46,7 @@ const posts = defineCollection({
     images: z.array(image).default([]),
     tags: z.array(z.string()).default([]),
     places: z.array(place).default([]),
+    glance: z.array(glanceRow).default([]),
     sources: z.array(z.object({ title: z.string().optional(), url: z.string().url().optional() })).default([]),
     draft: z.boolean().default(false),
   }),

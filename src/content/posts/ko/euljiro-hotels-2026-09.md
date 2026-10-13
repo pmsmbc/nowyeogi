@@ -79,6 +79,13 @@ sources:
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
   - { title: "한국관광공사 관광정보 — 을지로 노가리골목", url: "https://korean.visitkorea.or.kr/" }
+glance:
+  - { label: "추천 구역", value: "을지로입구·청계천 남쪽 1,644실 · 을지로5가·오장동·쌍림동 1,876실 · 을지로3·4가는 431실뿐" }
+  - { label: "추천 숙소", value: "롯데시티 명동 435실 · 나인트리 명동Ⅱ 408실 · 포포인츠 명동 375실 · 머큐어 동대문 336실" }
+  - { label: "교통", value: "2호선 을지로입구역 · 2·3호선 을지로3가역 · 2·5호선 을지로4가역 · 3·4호선 충무로역" }
+  - { label: "공항버스", value: "을지로1~4가 6015번 · 을지로5가·오장동 6001번 · 막차 19:42~19:55 · 17,000원", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=21" }
+  - { label: "호스텔", value: "42곳 중 40곳이 2025년 이후 등록 · 주교동·을지로3가에 많고 객실 1~10실인 곳이 대부분" }
+  - { label: "공항철도", value: "서울역에서 환승 · 서울역 출발 막차 일반 23:40, 직통 23:00 · 도심공항터미널은 직통열차 승객만", url: "https://www.airportrailroad.com/train/express/city/info" }
 draft: false
 ---
 

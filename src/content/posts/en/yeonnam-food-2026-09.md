@@ -102,6 +102,12 @@ sources:
   - { title: "아는동네 매거진 — 중식당 간판 뒤에 숨은 이야기, '화교거리' (2022-05-13)", url: "https://www.iknowhere.co.kr/magazine/31578" }
   - { title: "CNB뉴스 — [생생현장] 유커 사라진 '연남동 차이나타운' 가보니… (2015-07-07)", url: "http://www.cnbnews.com/news/articleView.html?idxno=297896" }
   - { title: "교육부 외국교육기관 및 외국인학교 종합안내 — 한국한성화교중고등학교", url: "https://www.isi.go.kr/schl/info/SinfoView.do?schoolType=ST01&schoolId=14" }
+glance:
+  - { label: "Key eats", value: "Sarukame · Nishimuramen · Mangwon Market · Gohyangjip · Dongillu" }
+  - { label: "Budget", value: "Kalguksu 4,000 won at Gohyangjip · 5,000 at Mangwon Sijang Son Kalguksu · gimbap 3,000 · yuni jjajang 7,000" }
+  - { label: "Hours", value: "Mangwon Market safest 10am–8pm · Gohyangjip daily 10:00–20:00 · Dongillu closed Mondays" }
+  - { label: "Getting there", value: "Yeonnam-dong: Hongik University Station (Line 2, Gyeongui, AREX) · Mangwon Market: Mangwon Station (Line 6) exit 2, 5 min" }
+  - { label: "Official info", value: "Ministry of the Interior and Safety good price shop listings (checked 28 September 2026)", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
 draft: false
 ---
 

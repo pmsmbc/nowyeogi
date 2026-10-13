@@ -26,6 +26,12 @@ sources:
   - { title: "Jeju Province — certified guesthouse list", url: "https://www.jeju.go.kr/jeju/local/bnb.htm" }
   - { title: "Seogwipo City — destination areas", url: "https://www.seogwipo.go.kr/tourismculture/destination/ataglance.htm" }
   - { title: "Visit Jeju — official tourism site", url: "https://www.visitjeju.net/en" }
+glance:
+  - { label: "Best areas", value: "Jeju City (north, airport) · Seogwipo (south) · Jungmun (resorts) · Aewol and the west coast · Seongsan and the east" }
+  - { label: "Suggested plan", value: "2–3 nights: one base; 4–6: two (north, then south); a week or more: two or three" }
+  - { label: "Getting there", value: "Seogwipo is about an hour from the airport; without a car, base in Jeju City or Seogwipo" }
+  - { label: "Guesthouses", value: "Safety-certified rural guesthouse scheme; the province publishes the certified list", url: "https://www.jeju.go.kr/jeju/local/bnb.htm" }
+  - { label: "Watch out", value: "July to September is typhoon season with real cancellation risk, August the peak" }
 draft: false
 ---
 

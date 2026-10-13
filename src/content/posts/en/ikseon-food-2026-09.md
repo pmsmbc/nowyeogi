@@ -166,6 +166,14 @@ sources:
   - { title: "에스콰이어 코리아 — 서울 대표 노포 아구찜 맛집 4 (2023-01-11)", url: "http://www.esquirekorea.co.kr/article/74148" }
   - { title: "국가법령정보센터 — 여신전문금융업법 제19조(가맹점의 준수사항)", url: "https://www.law.go.kr/법령/여신전문금융업법/제19조" }
   - { title: "다이닝코드 — 할머니칼국수, 송암온반, 동백양과점, 카페 하이웨스트 익선점, 레인리포트 레인보우, 무위낙원, 아트몬스터, 간판없는가게, 반주, 고운돈, 청수당, 카페사사, 트마리, 갤러리 소연, 퀸즈가드, 로이정원, 우리술집 다람쥐, 파이키, 헤리티지클럽 (2026-10-02 조회)", url: "https://www.diningcode.com/" }
+glance:
+  - { label: "Key cafés", value: "Dongbaek Yanggwajeom · Seoul Coffee Ikseon · Cafe Highwest Ikseon · Rain Report Rainbow" }
+  - { label: "Key eats", value: "Songam Onban · Halmeoni Kalguksu · Gowoondon Ikseon · Ikseondong Geujip" }
+  - { label: "Seosulla-gil picks", value: "Cafe Teumari · Cafe Sasa · Gallery Soyeon Cafe · The Queen's Guard · Urisuljip Daramjwi" }
+  - { label: "Budget", value: "Red bean butter toast ₩5,000 · kalguksu ₩9,000 · onban ₩12,000 · soufflé ₩28,000–29,000" }
+  - { label: "Hours", value: "Daramjwi closed Mon–Tue · Cafe Sasa closed Tue · Halmeoni Kalguksu closes 19:00 on Sundays" }
+  - { label: "Getting there", value: "Jongno 3-ga Station (Lines 1, 3, 5), exits 4, 6, 7 and 8" }
+  - { label: "Parking", value: "None at the Ikseon-dong hanok street or Seosulla-gil (KTO, Visit Seoul)" }
 draft: false
 ---
 

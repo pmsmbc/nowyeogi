@@ -112,6 +112,13 @@ sources:
   - { title: "종로문화재단 — 윤동주문학관 관람 안내 (매주 월요일 휴관)", url: "https://www.jfac.or.kr/site/main/content/yoondj01" }
   - { title: "종로문화재단 — 박노수미술관 관람 안내 (매주 월요일 휴관)", url: "https://www.jfac.or.kr/site/main/content/parkns01" }
   - { title: "한국관광공사 TourAPI — 서촌마을, 통인시장(1941년 공설시장, 점포 70여 개), 수성동계곡 (2026-10-02 조회)", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "場所", value: "景福宮の西と仁王山のあいだ、鍾路区体府洞ほか14洞一帯" }
+  - { label: "アクセス", value: "景福宮駅（3号線）· 水声洞渓谷はマウルバス鍾路09 · 空港リムジン6011が景福宮駅に停車" }
+  - { label: "主なスポット", value: "通仁市場 · 水声洞渓谷 · 朴魯壽美術館 · 尹東柱文学館 · 景福宮の西の塀沿い" }
+  - { label: "おすすめプラン", value: "午前は通仁洞 → 昼は通仁市場 → 午後は玉仁洞・水声洞渓谷 → 夕方は通義洞" }
+  - { label: "料金", value: "路地散策・水声洞渓谷は無料（通仁市場お弁当カフェ11:00〜15:00）" }
+  - { label: "おすすめ時期", value: "景福宮が休みの火曜に向く · 月曜は文学館・美術館が休館" }
 draft: false
 ---
 

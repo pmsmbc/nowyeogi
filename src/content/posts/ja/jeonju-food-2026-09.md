@@ -31,6 +31,14 @@ sources:
   - { title: "全州市観光 — 全州ビビンバ", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104003006000" }
   - { title: "全州市観光 — 郷土料理", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104002000000" }
   - { title: "全州市観光 — 南部市場 夜市", url: "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101006003000&paging=ok&startPage=1&dataSid=16085" }
+glance:
+  - { label: "名物料理", value: "全州ビビンバ · 南部市場式コンナムルクッパプ（スラン・モジュ） · 韓定食 · 夜市の屋台" }
+  - { label: "主な店", value: "家族会館 · ハングクチプ · ソンミダン（ビビンバ） · ヒョンデオク（クッパプ） · キワ（韓定食）" }
+  - { label: "予算", value: "ビビンバ1杯10,000ウォンほど（市が挙げるペクソン会館の場合）" }
+  - { label: "時間", value: "南部市場の夜市は金・土17:00〜23:00、通年 · 村の中の店は21時ごろに閉まる店が多い", url: "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101006003000&paging=ok&startPage=1&dataSid=16085" }
+  - { label: "予約", value: "韓定食はたいてい2人から、予約が無難 · ビビンバは1人前で頼める" }
+  - { label: "食事エリア", value: "韓屋村の中（ビビンバ・韓定食・太祖路の軽食） · 南部市場（クッパプ・夜市） · 客舎と市街地（遅くまで営業）" }
+  - { label: "公式案内", value: "全州市観光 郷土料理", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104002000000" }
 draft: false
 ---
 

@@ -133,6 +133,13 @@ sources:
   - { title: "ppss — Boan1942 exhibition 'Us and Them' (12 Aug 2026)", url: "https://www.ppss.kr/news/articleView.html?idxno=304964" }
   - { title: "Seoul Future Heritage — Yi Sang's House (2013-215)", url: "https://futureheritage.seoul.go.kr/" }
   - { title: "Korea Tourism Organization TourAPI — basic data for Suseongdong Valley, Yun Dong-ju Museum, Chilgung, Park No-soo Museum, Cheongun Library, Sangchonjae, Hwanghakjeong, Hong Geon-ik House, Inwangsan, Chosochaekbang, Forest Rest Area, Mumudae Viewpoint, Sajikdan, Tongin Market, Daelim Museum, Seokpajeong", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Key spots", value: "Suseongdong Valley · Yun Dong-ju Literature Museum · Chilgung · Park No-soo Art Museum · Chosochaekbang" }
+  - { label: "Admission", value: "Suseongdong Valley, Yun Dong-ju museum, Chilgung and Sajikdan free · Park No-soo museum ₩3,000" }
+  - { label: "Booking", value: "Chilgung: book online 9 to 3 days ahead, runs with 3+ people, Korean commentary only", url: "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=gbg" }
+  - { label: "Getting there", value: "Gyeongbokgung Station (Line 3) exit 2 → village bus Jongno 09 to the last stop (or 20 min walk)" }
+  - { label: "Time needed", value: "City Wall Inwangsan section 4.0 km, about 2.5 hours · Chilgung tour 30 minutes (Mar–Oct)" }
+  - { label: "Best time", value: "District venues close Mondays, Chilgung and Gyeongbokgung close Tuesdays · valley, mountain, Sajikdan always open" }
 draft: false
 ---
 

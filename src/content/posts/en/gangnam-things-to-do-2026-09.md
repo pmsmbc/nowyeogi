@@ -134,6 +134,14 @@ sources:
   - { title: "Munhwa Ilbo — K-Star Road (2019-03-26)", url: "http://v.daum.net/v/20190326115024728" }
   - { title: "Asia Economy — Seongsu office deals (2026-03-31)", url: "http://v.daum.net/v/20260331070237518" }
   - { title: "Electronic Times — KWeather autumn foliage forecast (2026-09-11)", url: "http://v.daum.net/v/20260911094109489" }
+glance:
+  - { label: "Key spots", value: "Bongeunsa · Seolleung and Jeongneung tombs · Starfield Library · SEA LIFE Aquarium · Dosan Park · Garosu-gil" }
+  - { label: "Admission", value: "Bongeunsa, Starfield Library, Dosan Park free · royal tombs ₩1,000 (free in hanbok) · aquarium ₩28,000" }
+  - { label: "Hours", value: "Royal tombs 06:00-21:00 to October, 06:30-17:30 from November · Starfield Library 10:30-22:00" }
+  - { label: "Closed", value: "Royal tombs closed Mondays (next weekday after a Monday holiday) · Bongeunsa, Starfield Library open all year" }
+  - { label: "Getting there", value: "Bongeunsa Station (Line 9) exit 1 · Samseong (Line 2), COEX · Seolleung (Line 2/Suin-Bundang) exit 10, tombs" }
+  - { label: "Booking", value: "Bongeunsa overnight temple stay ₩120,000 · Tuesday BONG-PASS ₩5,000 · Dosan memorial hall tours by reservation" }
+  - { label: "Suggested plan", value: "Tombs early → Bongeunsa → Starfield Library → Dosan Park, Garosu-gil · Mondays: Bongeunsa, COEX, Dosan Park" }
 draft: false
 ---
 

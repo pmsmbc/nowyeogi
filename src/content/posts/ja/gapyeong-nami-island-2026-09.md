@@ -53,6 +53,14 @@ sources:
   - { title: "南怡島 — ジップワイヤー", url: "https://namisum-en.imweb.me/157" }
   - { title: "南怡島 — ホテル静観楼", url: "https://namisum-en.imweb.me/228" }
   - { title: "韓国観光公社 — 南怡島", url: "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=111127" }
+glance:
+  - { label: "場所", value: "北漢江に浮かぶ半月形の島 · 加平船着き場（加平邑 北漢江辺路1024）からフェリー5分" }
+  - { label: "料金", value: "大人ビザ19,000ウォン（往復フェリー込み） · 子ども13,000ウォン · 早朝・夜間入島は13,000ウォン", url: "https://namisum-en.imweb.me/163" }
+  - { label: "時間", value: "08:00〜21:00 年中無休 · 島行き最終21:00、島発最終21:05 · 9/18〜11/22は初便07:30", url: "https://namisum-en.imweb.me/165" }
+  - { label: "アクセス", value: "加平駅から船着き場まで1.5キロ — 徒歩20分、タクシー5分、路線バス10-4番" }
+  - { label: "所要時間", value: "徒歩で2〜4時間 · 自転車で一周およそ1時間（1人乗り30分5,000ウォン）" }
+  - { label: "主なスポット", value: "メタセコイア並木 · 銀杏並木 · 朝鮮松の並木 · 初めてのキスのベンチ · ジップワイヤー55,000ウォン〜" }
+  - { label: "おすすめ時期", value: "10月の最終週（銀杏は10月下旬） · 桜は4月中旬〜5月初め · 写真なら09:00前か16:00以降" }
 draft: false
 ---
 

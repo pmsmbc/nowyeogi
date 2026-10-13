@@ -25,6 +25,13 @@ sources:
   - { title: "Korea Tourism Organization — dakgalbi and makguksu", url: "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=af777ab3-69df-4bf9-97e2-6d9fa31e2b7a" }
   - { title: "Korea Tourism Organization — Gapyeong pine nut dishes", url: "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cb635d3e-0f73-4ccd-9c2a-cdec1027f3eb" }
   - { title: "Encyclopedia of Korean Local Culture — Gapyeong pine nuts", url: "https://www.grandculture.net/gapyeong/toc/GC07901626" }
+glance:
+  - { label: "Signature dishes", value: "Dakgalbi (originally a Chuncheon dish) · makguksu · pine nut noodles, porridge and makgeolli" }
+  - { label: "Budget", value: "Dakgalbi ₩12,000–16,000 per person · makguksu ₩7,000–9,000 (from restaurant listings)" }
+  - { label: "Where to eat", value: "Bukhangangbyeon-ro by the Nami wharf · around Gapyeong Station · on Nami Island · near Cheongpyeong Station" }
+  - { label: "Getting there", value: "Gapyeong Station to the wharf is five minutes by car or a twenty-minute walk" }
+  - { label: "Hours", value: "Wharf restaurants wind down early, so eat before the last ferry · dakgalbi is usually a two-person minimum" }
+  - { label: "Official info", value: "Korea Tourism Organization — dakgalbi and makguksu", url: "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=af777ab3-69df-4bf9-97e2-6d9fa31e2b7a" }
 draft: false
 ---
 

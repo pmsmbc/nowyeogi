@@ -108,6 +108,14 @@ sources:
   - { title: "Korea Tourism Organization — listings for Millac The Market, Crazy Surfers, The Yacht and Hwangnyeongsan Observatory", url: "https://kto.visitkorea.or.kr/" }
   - { title: "The Yacht — official site", url: "https://www.theyacht.co.kr/" }
   - { title: "Gwangan Bridge — Wikipedia", url: "https://en.wikipedia.org/wiki/Gwangan_Bridge" }
+glance:
+  - { label: "Key spots", value: "Gwangalli M Drone Light Show · Millak Waterside Park · Millac The Market · Hwangnyeongsan Observatory" }
+  - { label: "Hours", value: "Drone show every Saturday at 19:00 and 21:00 (Oct–Feb) · laser show on 1st and 3rd Saturdays" }
+  - { label: "Admission", value: "Drone show, beach, park, market and observatory free · SUP rental ₩35,000 · yacht tour from ₩14,900" }
+  - { label: "Getting there", value: "Gwangan (Line 2) exit 5, 13 min walk · Geumnyeonsan for Namcheon-dong · under an hour from Gimhae" }
+  - { label: "Suggested plan", value: "16:30 Millak Waterside Park, Millac The Market, sunset mid-beach, 19:00 drone show, dinner, 21:00 second show" }
+  - { label: "Note", value: "Millak Waterside Park is alcohol-free (₩50,000 fine) · drone show cancelled for rain or wind, check notices" }
+  - { label: "Official info", value: "Gwangalli M Drone Light Show official site (English, cancellation notices)", url: "https://www.gwangallimdrone.co.kr/en/home" }
 draft: false
 ---
 

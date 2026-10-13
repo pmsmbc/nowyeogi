@@ -162,6 +162,14 @@ sources:
   - { title: "패션넷 — 동대문패션타운 패러다임이 바뀐다, 60여년 만에 주 5일제 실시 (2022-03-02)", url: "https://www.fashionnet.or.kr/daily-news/65196/" }
   - { title: "한국섬유신문 — 동대문 디오트, '밤 장사' 바뀌나…영업시간 조정 다시 불붙다 (2026-01-28)", url: "https://www.ktnews.com/news/articleView.html?idxno=143686" }
   - { title: "한국관광공사 TourAPI — 동대문디자인플라자·동대문역사문화공원·흥인지문·흥인지문공원·한양도성박물관·낙산공원·채석장 전망대·서울 동관왕묘·동대문종합시장·서울 평화시장 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Key spots", value: "DDP · History & Culture Park (Igansumun) · Heunginjimun · Naksan wall trail · Dongmyo flea market" }
+  - { label: "Admission", value: "Mostly free · DDP Architecture Tour ₩10,000 · Rooftop Tour ₩26,000 (sunset tour ₩50,000)" }
+  - { label: "Hours", value: "DDP 10:00-20:00, open Mondays · museums, Paik House and Quarry Observatory closed Mondays" }
+  - { label: "Time needed", value: "Naksan wall trail Hyehwamun–Gwanghuimun 3.2km, about 1 hour 30 minutes · each DDP tour 60 minutes", url: "https://seoulcitywall.seoul.go.kr/wallcourse/2.do" }
+  - { label: "Getting there", value: "Dongdaemun History & Culture Park Station (Lines 2·4·5) · Dongdaemun Station (Lines 1·4) · Dongmyo Station (Lines 1·6)" }
+  - { label: "Best time", value: "Tue–Sat · flea market at weekends · wholesale malls often shut Fri–Sat nights · DDP 365 Light 19:00–22:00" }
+  - { label: "Booking", value: "Architecture Tour via Naver Reservation · Rooftop Tour ages 18–70, photo ID required, 15 people per session", url: "https://ddp.or.kr/index.html?menuno=797&siteno=2&bbsno=11&boardno=145&bbstopno=11&act=view&subno=1" }
 draft: false
 ---
 

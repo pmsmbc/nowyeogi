@@ -43,6 +43,14 @@ sources:
   - { title: "오마이뉴스 — 국감장에 오른 '부캉이'", url: "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274654" }
   - { title: "데일리안 — BPA, 북항 친수공원 개방 (2026-08-03)", url: "https://www.dailian.co.kr/news/view/1673919/" }
   - { title: "한국관광공사 — 부산북항 친수공원", url: "https://korean.visitkorea.or.kr/" }
+glance:
+  - { label: "Where", value: "North Port Waterfront Park canal (164 Yi Sun-sin-daero, Dong-gu) · between footbridges 4 and 5 (4 Oct)" }
+  - { label: "Hours", value: "Canal area open 06:00–18:00 only · closed 18:00–06:00" }
+  - { label: "Admission", value: "Free" }
+  - { label: "Getting there", value: "Walk from KTX Busan Station along the elevated walkway · Busan Station or Choryang Station (Line 1)" }
+  - { label: "Parking", value: "Car park fills early on busy days; public transport advised" }
+  - { label: "Best time", value: "Weekday mornings · check the news first in case the shark has left" }
+  - { label: "What to bring", value: "Camera with zoom · flash off · do not throw food or anything into the water" }
 draft: false
 ---
 

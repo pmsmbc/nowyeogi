@@ -65,6 +65,14 @@ sources:
   - { title: "Visit Busan — 祭り・イベント日程表", url: "https://www.visitbusan.net/schedule/list.do?boardId=BBS_0000009&menuCd=DOM_000000204012000000&year=2026&month=0" }
   - { title: "2026 広安里Mドローンライトショー 公式", url: "https://www.gwangallimdrone.co.kr/" }
   - { title: "釜山花火祭り 公式", url: "https://busanfireworks.com/" }
+glance:
+  - { label: "期間", value: "ロックフェス10月2〜4日 · 映画祭10月6〜15日 · ビエンナーレ11月1日まで" }
+  - { label: "主なスポット", value: "映画の殿堂（センタムシティ） · 三楽生態公園 · 釜山現代美術館（乙淑島） · 広安里ビーチ" }
+  - { label: "料金", value: "ロックフェス3日通し券212,800ウォン · ドローンショー無料 · ビエンナーレ常設無料（企画展は別料金の場合あり）" }
+  - { label: "時間", value: "広安里ドローンショーは毎週土曜、3〜9月20:00・22:00、10〜2月19:00・21:00" }
+  - { label: "花火祭り", value: "11月7日（土）19:00〜20:00、浜の立ち見エリアは無料" }
+  - { label: "アクセス", value: "センタムシティ駅・広安駅・金蓮山駅（2号線） · 美術館は下端駅（1号線）からバス" }
+  - { label: "公式案内", value: "釜山国際映画祭 公式（チケットは biff.kr のみ）", url: "https://www.biff.kr/eng/" }
 draft: false
 ---
 

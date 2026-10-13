@@ -40,6 +40,13 @@ sources:
   - { title: "ソウル未来遺産 — 北亭マウル (2015-016)", url: "https://futureheritage.seoul.go.kr/" }
   - { title: "城北区 — 城北洞 認証の店", url: "https://www.sb.go.kr/tour/contents.do?key=72" }
   - { title: "漢陽都城 — 白岳区間・恵化洞一帯", url: "https://seoulcitywall.seoul.go.kr/" }
+glance:
+  - { label: "場所", value: "ソウル城北区城北洞、漢陽都城の城郭の外側の斜面（大使館の公邸40か所と北亭マウルが同じ町）" }
+  - { label: "アクセス", value: "漢城大入口駅（4号線）6番出口 → 村バス城北02番（吉祥寺）・城北03番（北亭マウル・尋牛荘）、1,200ウォン" }
+  - { label: "主なスポット", value: "吉祥寺 · 北亭マウルと尋牛荘 · 漢陽都城" }
+  - { label: "料金", value: "吉祥寺は無料" }
+  - { label: "おすすめプラン", value: "ごはんは坂の下（5番出口）、見どころは坂の上 · 急な坂なので村バスを利用" }
+  - { label: "おすすめ時期", value: "見どころのかなりが月曜休み · 北亭マウルは撤去が告示された住宅地なので静かに通る" }
 draft: false
 ---
 

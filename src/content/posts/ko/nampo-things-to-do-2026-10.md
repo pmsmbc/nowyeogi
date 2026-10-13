@@ -109,6 +109,13 @@ sources:
   - { title: "K트립팁스 — 40계단문화관 운영시간", url: "https://www.ktriptips.com/kor/culture/130663" }
   - { title: "여기유 — 자갈치시장 운영시간·휴무일", url: "https://xn--ok0b236bp0a.com/place/29115" }
   - { title: "Wikipedia — Yeongdo Bridge", url: "https://en.wikipedia.org/wiki/Yeongdo_Bridge" }
+glance:
+  - { label: "핵심 장소", value: "국제시장·깡통야시장 · 부산근현대역사관 · 용두산공원·부산타워 · 자갈치 옥상 전망대 · 영도대교" }
+  - { label: "요금", value: "대부분 무료 · 부산타워 성인 1만 2천 원 · 송도해상케이블카 왕복 1만 9천 원~" }
+  - { label: "시간", value: "영도대교 도개 매주 토요일 14:00 약 15분 · 역사관 09:00~18:00, 월요일 휴관", url: "https://www.busan.go.kr/mmch/mdview" }
+  - { label: "교통", value: "1호선 부산역에서 남포역까지 두 정거장 · 김해공항에서 1시간 조금 넘게" }
+  - { label: "소요 시간", value: "하루 코스(부산역 09:00 출발) · 이틀이면 감천·흰여울·송도케이블카 추가" }
+  - { label: "추천 시기", value: "토요일 오후 2시 도개에 맞춰서 · 월요일은 역사관·40계단문화관이 쉬어요" }
 draft: false
 ---
 

@@ -25,6 +25,14 @@ sources:
   - { title: "Visit Busan — official accommodation register", url: "https://www.visitbusan.net/index.do?menuCd=DOM_000000301004000000" }
   - { title: "Visit Busan — Songjeong Beach", url: "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=280&lang_cd=en" }
   - { title: "Busan Transportation Corporation — fares and network", url: "https://www2.humetro.busan.kr/homepage/default/page/subLocation.do?menu_no=1001010501" }
+glance:
+  - { label: "Best areas", value: "Haeundae (beach) · Seomyeon (food, transport) · Nampo-dong (markets) · Gwangalli (view, value) · Songjeong (quiet, surf)" }
+  - { label: "Where to stay", value: "Signiel Busan · Paradise Hotel Busan · The Westin Josun Busan · Park Hyatt Busan (all in Haeundae)" }
+  - { label: "Getting there", value: "Haeundae and Gwangalli on Line 2 · Nampo-dong on Line 1 · Seomyeon is the Line 1/2 interchange" }
+  - { label: "Time needed", value: "Seomyeon to Nampo-dong 15 min · Seomyeon to Haeundae 30–35 min · Haeundae to Nampo-dong about an hour" }
+  - { label: "From the airport", value: "Limousine 1 to Haeundae ₩9,500 · Limousine 2 to Seomyeon ₩6,000 · no direct bus to Nampo-dong" }
+  - { label: "Booking", value: "July, August and the film festival (6–15 Oct) can double rates, so book early" }
+  - { label: "Official info", value: "Visit Busan official accommodation register", url: "https://www.visitbusan.net/index.do?menuCd=DOM_000000301004000000" }
 draft: false
 ---
 

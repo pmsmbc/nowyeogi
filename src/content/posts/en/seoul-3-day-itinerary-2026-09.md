@@ -25,6 +25,14 @@ sources:
   - { title: "Korea Heritage Service — palace hours and fees (official)", url: "https://royal.khs.go.kr/ROYAL/contents/R702000000.do" }
   - { title: "Seoul Metropolitan Government — official English travel guide", url: "https://english.visitseoul.net/" }
   - { title: "Korea Tourism Organization — VisitKorea", url: "https://english.visitkorea.or.kr/" }
+glance:
+  - { label: "Suggested plan", value: "Day 1 palaces and Bukchon (Jongno) · Day 2 Myeongdong and Namsan · Day 3 Hongdae and the Han River" }
+  - { label: "Budget", value: "₩70,000–120,000 per person per day for food, entry and transport, excluding accommodation" }
+  - { label: "Admission", value: "Gyeongbokgung ₩3,000 · National Folk Museum free · Namsan cable car about ₩15,000 round trip" }
+  - { label: "Closed", value: "Gyeongbokgung, Changdeokgung and Jongmyo on Tuesdays · Deoksugung on Mondays" }
+  - { label: "Best areas", value: "Stay in Myeongdong or Jongno" }
+  - { label: "What to bring", value: "T-money card (₩3,000–5,000 at convenience stores) · Naver Map or KakaoMap · proper shoes" }
+  - { label: "Official info", value: "Korea Heritage Service palace hours and fees", url: "https://royal.khs.go.kr/ROYAL/contents/R702000000.do" }
 draft: false
 ---
 

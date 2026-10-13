@@ -36,6 +36,14 @@ sources:
   - { title: "束草市 — 春川〜束草 鉄道事業", url: "https://www.sokcho.go.kr/sc/fields/traffic/railway/chuncheon-sokcho" }
   - { title: "国立公園公団 — 雪岳山", url: "https://www.knps.or.kr/front/portal/visit/visitCourseMain.do?parkId=120400&menuNo=7020093" }
   - { title: "束草市観光 — 見どころ", url: "https://www.sokcho.go.kr/ct/tour/attraction/nature" }
+glance:
+  - { label: "場所", value: "江原道の東海岸 · 雪岳山国立公園が街のすぐ外から始まり、反対方向15分で東海" }
+  - { label: "アクセス", value: "列車なし · 江南セントラルシティから高速バス約2時間 · 東ソウルから市外バス約2時間10分 · ターミナルは二つ", url: "https://www.sokcho.go.kr/ct/tour/tour_guide/traffic" }
+  - { label: "市内の移動", value: "市内バス大人1,700ウォン、90分以内に1回無料乗り換え · 雪岳山へは7番か7-1番" }
+  - { label: "主なスポット", value: "雪岳山 · アバイ村 · 束草観光水産市場 · 永郎湖 · 霊琴亭 · 束草海水浴場" }
+  - { label: "料金", value: "雪岳山の小公園は入場無料 · 雪岳ケーブルカー大人往復16,000ウォン（当日窓口のみ） · ケッペ500ウォン" }
+  - { label: "おすすめプラン", value: "2日間 — 1日目は雪岳山、2日目は市場・ケッペ・アバイ村・永郎湖" }
+  - { label: "おすすめ時期", value: "紅葉は10月中旬〜11月初め · 海水浴は夏 · 永郎湖の桜は3月下旬〜4月初め" }
 draft: false
 ---
 

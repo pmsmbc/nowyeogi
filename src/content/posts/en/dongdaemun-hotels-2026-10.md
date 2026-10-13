@@ -75,6 +75,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "Best areas", value: "Big hotels south-east of DDP and beside Heunginjimun · hostels in Changsin-dong, Jongno 5-ga and Sungin-dong" }
+  - { label: "Where to stay", value: "Novotel Ambassador Seoul Dongdaemun · The Splaisir · Toyoko Inn Dongdaemun II · JW Marriott Dongdaemun Square" }
+  - { label: "Lodging mix", value: "88 tourist lodgings (11 hotels, 77 hostels) · 231 homestays (foreign guests only) · 11 hanok stays" }
+  - { label: "Getting there", value: "Dongdaemun History & Culture Park Station (Lines 2·4·5) · Dongdaemun Station (Lines 1·4) · AREX via Seoul Station" }
+  - { label: "Airport bus", value: "6001 at DDP, last 19:56 · 6002 at Dongdaemun (Heunginjimun), last 20:39 · late-night N6002", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=1" }
+  - { label: "Bus fare", value: "Adults ₩17,000 · first come, first served, no online booking · transport card or cash" }
 draft: false
 ---
 

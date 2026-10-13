@@ -73,6 +73,14 @@ sources:
   - { title: "통일부 판문점견학지원센터 — DMZ 평화의 길", url: "https://www.panmuntour.go.kr/nlgn/pblc/guidance/dmzPeaceRoad.do" }
   - { title: "Third Tunnel of Aggression (Wikipedia)", url: "https://en.wikipedia.org/wiki/Third_Tunnel_of_Aggression" }
   - { title: "Imjingang station (Wikipedia)", url: "https://en.wikipedia.org/wiki/Imjingang_station" }
+glance:
+  - { label: "Where", value: "Imjingak Peace Nuri — 148-40 Imjingak-ro, Munsan-eup, Paju-si, Gyeonggi-do" }
+  - { label: "Key spots", value: "Imjingak Peace Nuri and Freedom Bridge · Peace Gondola · Third Tunnel · Dora Observatory" }
+  - { label: "Admission", value: "Imjingak free (parking ₩2,000 per car) · Peace Gondola round trip standard cabin ₩12,000 adult, ₩10,000 child" }
+  - { label: "Hours", value: "Gondola weekdays 09:00–18:00, weekends and holidays 09:00–19:00 · DMZ Peace Tour ticket desk 09:00–14:30, closed Mondays" }
+  - { label: "Booking", value: "Third Tunnel and Dora Observatory need a Paju City DMZ Peace Tour reservation and your passport · Panmunjom (JSA) is a separate programme", url: "https://dmz.paju.go.kr:8443/" }
+  - { label: "Getting there", value: "Gyeongui–Jungang Line to Munsan Station, then bus or taxi · by car about an hour on Jayu-ro, shuttle only past the line" }
+  - { label: "Time needed", value: "1–2 hours at Imjingak · about 3 hours past the Civilian Control Line · a full day from Seoul" }
 draft: false
 ---
 

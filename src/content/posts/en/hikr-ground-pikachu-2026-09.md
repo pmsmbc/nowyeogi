@@ -54,6 +54,13 @@ sources:
   - { title: "게임톡 — 9월 18일부터 ‘하이커그라운드’에 포켓몬 세상이 열립니다", url: "https://www.gametoc.co.kr/news/articleView.html?idxno=111181" }
   - { title: "한국관광공사 열린관광 모두의 여행 — 하이커 그라운드", url: "https://access.visitkorea.or.kr/ms/detail.do?cotId=8b6e4076-7cd6-4071-a992-443e972ae67e" }
   - { title: "내 손안에 서울 — 한류 체험 놀이터, '하이커 그라운드'를 아시나요?", url: "https://mediahub.seoul.go.kr/archives/2008342" }
+glance:
+  - { label: "Dates", value: "18 September to Sunday 11 October 2026, 10:00–20:00", url: "https://pokemonkorea.co.kr/pikachu_9/menu811" }
+  - { label: "Where", value: "HiKR Ground (KTO Seoul Center), 40 Cheonggyecheon-ro, Jung-gu; exhibits 2F–3F, pop-up 5F, prize 1F" }
+  - { label: "Admission", value: "HiKR Ground is free and no event charge is listed; goods on 5F are paid" }
+  - { label: "Getting there", value: "Two minutes on foot from Exit 5 of Jonggak Station (Line 1); the AREX express adds airport stamps" }
+  - { label: "Stamp rally", value: "Two or more stamps earn a Pokémon 30th-anniversary sticker (1F information centre); three stamps are inside" }
+  - { label: "Watch out", value: "2F–4F normally close on Mondays, so check before a Monday visit; entry may be restricted when crowded" }
 draft: false
 ---
 

@@ -25,6 +25,14 @@ sources:
   - { title: "Visit Busan — 公式の宿泊施設一覧", url: "https://www.visitbusan.net/index.do?menuCd=DOM_000000301004000000" }
   - { title: "Visit Busan — 松亭海水浴場", url: "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=280&lang_cd=en" }
   - { title: "釜山交通公社 — 運賃と路線網", url: "https://www2.humetro.busan.kr/homepage/default/page/subLocation.do?menu_no=1001010501" }
+glance:
+  - { label: "おすすめエリア", value: "海雲台（初訪問・ビーチ） · 西面（食事・交通） · 南浦洞（市場） · 広安里（眺め・割安） · 松亭（サーフィン）" }
+  - { label: "おすすめの宿", value: "シグニエル釜山 · パラダイスホテル釜山 · ウェスティン朝鮮釜山 · パーク ハイアット釜山（いずれも海雲台）" }
+  - { label: "アクセス", value: "海雲台・広安里は2号線 · 南浦洞はチャガルチ駅・南浦駅（1号線） · 西面は1・2号線の乗換駅" }
+  - { label: "所要時間", value: "西面→南浦洞約15分 · 西面→海雲台30〜35分 · 海雲台→南浦洞は乗り換え込みで約1時間" }
+  - { label: "空港アクセス", value: "金海空港リムジン1番で海雲台9,500ウォン · 2番で西面6,000ウォン · 南浦洞への直通バスなし" }
+  - { label: "予約", value: "7月・8月と映画祭（10月6〜15日）の時期は料金が倍になることもあるので早めに" }
+  - { label: "公式案内", value: "Visit Busan 公式の宿泊施設一覧", url: "https://www.visitbusan.net/index.do?menuCd=DOM_000000301004000000" }
 draft: false
 ---
 

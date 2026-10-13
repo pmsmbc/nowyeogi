@@ -93,6 +93,13 @@ sources:
   - { title: "Seoul Shinmun - Weekend rallies and Easter events across central Seoul, Sejong-daero closed (3 April 2026)", url: "https://www.seoul.co.kr/news/society/2026/04/03/20260403500116" }
   - { title: "Newspim - Large Liberation Day rallies in central Seoul, congestion expected (14 August 2026)", url: "https://www.newspim.com/news/view/20260814000757" }
   - { title: "Korea Tourism Organization TourAPI - Gwanghwamun Square, Seoul Plaza, Cheonggye Plaza, Bosingak site basic information", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Where", value: "Jongno-gu and Jung-gu, Seoul, along Sejong-daero from Gwanghwamun to Jonggak" }
+  - { label: "Getting there", value: "Gwanghwamun Station (Line 5) · City Hall (Lines 1, 2) · Jonggak (Line 1)" }
+  - { label: "Key spots", value: "Gwanghwamun Square · Seoul Plaza · Cheonggyecheon · Bosingak · Gongpyeong Historic Site Museum" }
+  - { label: "Admission", value: "Squares, stream, Bosingak and Gongpyeong museum are all free" }
+  - { label: "Suggested plan", value: "One day on foot: Gwanghwamun → City Hall → Cheonggye Plaza → Jonggak (museum last entry 17:30)" }
+  - { label: "Watch out", value: "Weekend and holiday rallies often close Sejong-daero; plan around subway stations" }
 draft: false
 ---
 

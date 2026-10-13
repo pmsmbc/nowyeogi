@@ -20,6 +20,12 @@ sources:
   - { title: "束草市観光 — 交通とターミナル", url: "https://www.sokcho.go.kr/ct/tour/tour_guide/traffic" }
   - { title: "束草市観光 — 海水浴場", url: "https://www.sokcho.go.kr/ct/tour/tour_guide/tour_policy/beach" }
   - { title: "束草市 — 市内バスの運賃と乗り換え", url: "https://www.sokcho.go.kr/sc/fields/traffic/transport/city_bus" }
+glance:
+  - { label: "おすすめエリア", value: "束草海水浴場と中心部（はじめて・車なし） · 公園入口の雪岳洞（登山） · 大浦港（遅い夕食） · 永郎湖（静かさ）" }
+  - { label: "おすすめの宿", value: "ロッテリゾート束草 · 錦湖雪岳リゾート · ベニキアホテル 山と海 大浦港 · 新世界永郎湖リゾート" }
+  - { label: "アクセス", value: "高速バスターミナルは南端（海水浴場まで徒歩5分）、市外バスターミナルは北寄りの中心部 · 雪岳山へは7番か7-1番" }
+  - { label: "予約", value: "10月中旬〜11月初めの紅葉、年末年始、7〜8月の週末は早めに · それ以外の時期は安くなる" }
+  - { label: "公式案内", value: "束草市 宿泊施設一覧 — 27軒", url: "https://www.sokcho.go.kr/ct/tour/pleasure/accommodation" }
 draft: false
 ---
 

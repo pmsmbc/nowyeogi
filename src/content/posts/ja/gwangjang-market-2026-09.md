@@ -52,6 +52,14 @@ sources:
   - { title: "鍾路区 報道資料 — 伝統市場の多言語QRの拡大", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuNo=388338&menuId=388338&nttId=250425" }
   - { title: "ソウル市公式メディア（ネ・ソナネ・ソウル） — 広蔵市場の定量表記制の解説", url: "https://mediahub.seoul.go.kr/archives/2009699" }
   - { title: "Netflix — Street Food: Asia", url: "https://www.netflix.com/title/80244996" }
+glance:
+  - { label: "場所", value: "ソウル特別市鍾路区昌慶宮路88" }
+  - { label: "アクセス", value: "鍾路5街駅8番出口（1号線）から62m · 乙支路4街駅4番出口（2・5号線）から約100m" }
+  - { label: "時間", value: "食べ物横丁は毎日09:00〜23:00で年中無休 · 一般区域は月〜土09:00〜18:00、日曜休み" }
+  - { label: "主な店", value: "ピンデトック · ユッケ · キンパ（コマキンパ・マヤクキンパ） · モドゥムジョン · スンデ · トッポッキ" }
+  - { label: "持ち物", value: "現金（カード決済代行は露店77か所のみ） · 多言語QRメニュー（露店88か所、20言語）を活用 · メニューの分量表示を確認" }
+  - { label: "問い合わせ", value: "価格表と違う、料金表がない場合はソウル市02-120か観光案内電話1330" }
+  - { label: "公式案内", value: "ソウル観光財団 — 広蔵市場", url: "https://korean.visitseoul.net/shopping/%EA%B4%91%EC%9E%A5%EC%8B%9C%EC%9E%A5/KOP000286" }
 draft: false
 ---
 

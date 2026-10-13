@@ -75,6 +75,13 @@ sources:
   - { title: "AREX - Seoul Station timetable", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "AREX - Incheon Airport Terminal 1 station timetable", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "AREX - All-stop train fares", url: "https://www.airportrailroad.com/train/normal/fare" }
+glance:
+  - { label: "Where", value: "Itaewon-dong and Haebangchon (Yongsan-dong 2-ga), Yongsan-gu" }
+  - { label: "Where to stay", value: "Mondrian Seoul Itaewon (297 rooms) · Hamilton Hotel (166) · Nuber Seoul Hotel (71)" }
+  - { label: "Best areas", value: "Hotels near Itaewon Station · homestays around Itaewon-ro 16-gil and Noksapyeong-daero 40-gil · Sinheung-ro, Haebangchon" }
+  - { label: "Getting there", value: "Itaewon or Noksapyeong Station (Line 6) · from AREX, change once at Gongdeok" }
+  - { label: "Airport bus", value: "K Limousine 6702 at Itaewon 2-dong Community Center and Boseong Girls' School · 18,000 won · last 20:20", url: "https://www.klimousine.com/bus/limousine.php?bus_no=6702" }
+  - { label: "Who it's for", value: "225 homestays are for foreign visitors only · Koreans: 8 hotels and hostels, 6 inns" }
 draft: false
 ---
 

@@ -164,6 +164,14 @@ sources:
   - { title: "신세계백화점 — 본점 영업시간", url: "https://www.shinsegae.com/store/main.do?storeCd=SC00001" }
   - { title: "롯데백화점 — 본점 영업시간", url: "https://www.lotteshopping.com/store/main?cstrCd=0001" }
   - { title: "한국관광공사 TourAPI — 서울 명동성당·남산서울타워·남산케이블카·남대문시장·숭례문·2026 숭례문 파수의식·한국은행 화폐박물관·우표박물관·국립극단 명동예술극장·남산골한옥마을·안중근의사기념관·백범광장·남산예장공원 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Key spots", value: "Myeongdong Cathedral · N Seoul Tower · Namdaemun Market · Sungnyemun · Namsangol Hanok Village" }
+  - { label: "Admission", value: "N Seoul Tower observatory ₩29,000 adult · Namsan Cable Car ₩15,000 return · museums and Hanok Village free", url: "https://www.nseoultower.co.kr/visit/use2.asp" }
+  - { label: "Hours", value: "Observatory weekdays 10:00–22:30, weekends 10:00–23:00 · cable car 10:00–23:00" }
+  - { label: "Closed", value: "Sungnyemun, both museums and Hanok Village on Mondays · Namdaemun Market mostly on Sundays" }
+  - { label: "Getting there", value: "Myeongdong or Hoehyeon Station (Line 4) · Namsan by bus 01A/01B or cable car from Exit 3" }
+  - { label: "Best time", value: "Namsan autumn colour from late October to early November" }
+  - { label: "Tax refund", value: "Instant refund under ₩1 million per purchase, ₩5 million total, ₩15,000 minimum, export within 3 months" }
 draft: false
 ---
 

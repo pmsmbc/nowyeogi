@@ -74,6 +74,13 @@ sources:
   - { title: "西帰浦市 電子チケット — 滝", url: "https://eticket.seogwipo.go.kr/contents?bmcode=cheonjiyeon" }
   - { title: "Visit Jeju — 榧子林", url: "https://www.visitjeju.net/jp/detail/view?contentsid=CONT_000000000500270" }
   - { title: "Visit Jeju — 思連伊の森の道", url: "https://www.visitjeju.net/jp/detail/view?contentsid=CONT_000000000500281" }
+glance:
+  - { label: "主なスポット", value: "城山日出峰 · 西帰浦の三つの滝（天地淵・正房・天帝淵） · 榧子林 · 思連伊の森の道 · 牛島", url: "https://www.jeju.go.kr/jejuwnh/heritage/seongsan.htm" }
+  - { label: "料金", value: "城山日出峰5,000ウォン · 天地淵滝2,000ウォン · 榧子林3,000ウォン · 思連伊・渉地コジは無料" }
+  - { label: "休業日", value: "城山日出峰は毎月第1月曜 · 万丈窟は毎月第1水曜（再開しているか要確認）" }
+  - { label: "所要時間", value: "城山日出峰の登頂25分 · 滝は各1時間 · 柱状節理帯20分 · 渉地コジ1時間" }
+  - { label: "牛島", value: "城山港からフェリー10〜15分、大人1,000ウォン · 2026.8.1〜2029.7.31は観光客の車持ち込み禁止" }
+  - { label: "おすすめ時期", value: "城山日出峰は日の出（夏は04:30開門） · 天地淵滝は夜（22:00まで、ライトアップ）" }
 draft: false
 ---
 

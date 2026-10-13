@@ -139,6 +139,13 @@ sources:
   - { title: "Korea Tourism Organization TourAPI — Hannam-dong restaurant and café records (Maison Hannam, Ommangia, Crate Coffee and others, checked 6 October 2026)", url: "https://api.visitkorea.or.kr/" }
   - { title: "Ministry of the Interior and Safety — Good-price businesses, Yongsan-gu (checked 6 October 2026)", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
   - { title: "Korea Muslim Federation — Seoul Central Mosque", url: "https://www.koreaislam.org/" }
+glance:
+  - { label: "Key eats", value: "Soseoul Hannam · Escondido · Youhan · Kyoyang Siksa (MICHELIN Guide Seoul 2026)" }
+  - { label: "Budget", value: "₩8,000 pollock soup at good-price Buja Sikdang · Kyoyang Siksa is the only ₩-band entry" }
+  - { label: "Booking", value: "Kyoyang Siksa needs a reservation · Maison Hannam terrace a month ahead" }
+  - { label: "Getting there", value: "Hangangjin Station (Line 6) · Hannam Station (Gyeongui-Jungang Line) · Oksu Station (Line 3) for Dokseodang-ro" }
+  - { label: "Parking", value: "Mostly valet (Crate Coffee ₩5,000 · Table for Four ₩3,000) · Little Neck has no car park" }
+  - { label: "Hours", value: "Early: Buja Sikdang 06:00 · Baengnyeon Sonnim 06:30 · Hannam-dong Gamjatang 24 hours" }
 draft: false
 ---
 

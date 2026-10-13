@@ -20,6 +20,12 @@ sources:
   - { title: "Sokcho City tourism — transport and terminals", url: "https://www.sokcho.go.kr/ct/tour/tour_guide/traffic" }
   - { title: "Sokcho City tourism — beaches", url: "https://www.sokcho.go.kr/ct/tour/tour_guide/tour_policy/beach" }
   - { title: "Sokcho City — city bus fares and transfers", url: "https://www.sokcho.go.kr/sc/fields/traffic/transport/city_bus" }
+glance:
+  - { label: "Best areas", value: "Sokcho Beach (first visit, no car) · Seorakdong park gate (hiking) · Daepohang (late dinners) · Yeongnangho (quiet)" }
+  - { label: "Where to stay", value: "Lotte Resort Sokcho · Kumho Seorak Resort · Benikea Hotel San Gwa Bada Daepohang · Shinsegae Yeongnangho Resort" }
+  - { label: "Getting there", value: "Express terminal south (near the beach), intercity north and central · bus 7 or 7-1 to Seoraksan" }
+  - { label: "Booking", value: "Book far ahead for mid-October to early November, New Year and July–August weekends · cheaper outside those windows" }
+  - { label: "Official info", value: "Sokcho City accommodation directory — 27 properties", url: "https://www.sokcho.go.kr/ct/tour/pleasure/accommodation" }
 draft: false
 ---
 

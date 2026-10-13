@@ -34,6 +34,13 @@ sources:
   - { title: "더팩트 — 첫 삽 뜨는 한남뉴타운…한강변 1만3000가구 본격화 (2026-09-29, 3구역 철거 공정률 99%·연내 착공, 구역별 현황)", url: "https://news.tf.co.kr/read/economy/2370585.htm" }
   - { title: "위키백과 — 한남동 (경계, 한남대로, 남산경관지구, 능터골)", url: "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%82%A8%EB%8F%99" }
   - { title: "위키백과 — 용산구의 행정 구역 (한남동 행정동 면적·인구 2018년 2분기, 1975년 일부 중구 편입, 2008년 한남1·2동 통합)", url: "https://ko.wikipedia.org/wiki/%EC%9A%A9%EC%82%B0%EA%B5%AC%EC%9D%98_%ED%96%89%EC%A0%95_%EA%B5%AC%EC%97%AD" }
+glance:
+  - { label: "Where", value: "Yongsan-gu; Hannam-daero splits the area and leads over Hannam Bridge to Gangnam; Han River to the south" }
+  - { label: "Getting there", value: "Hangangjin Station (Line 6) for the gallery street · Hannam Station (Gyeongui-Jungang Line) for the river" }
+  - { label: "Key spots", value: "Leeum Museum of Art · Blue Square · Hannam Bridge · Yongsan Children's Garden" }
+  - { label: "Suggested plan", value: "Morning gallery street from Hangangjin → lunch off Hannam-daero → afternoon Hannam Station and the river" }
+  - { label: "Hours", value: "Yongsan Children's Garden Tue-Sun 9am-6pm (Sat to 9pm), closed Mondays, no booking needed" }
+  - { label: "Status", value: "Hangangjin area joined the tourist zone Dec 2025 · Hannam New Town Zone 3 demolition 99%, slopes under construction" }
 draft: false
 ---
 

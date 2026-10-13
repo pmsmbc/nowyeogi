@@ -105,6 +105,14 @@ sources:
   - { title: "한국관광공사 TourAPI — 명동관광정보센터 (을지로 66, 09:00~18:00, 설·추석 당일 휴무)", url: "https://api.visitkorea.or.kr/" }
   - { title: "서울신문 — '명동 퇴근길 대란' 줄서기 표지판 중단…오세훈 시장 사과 (2024-01-07, 명동입구 정류소 29개 노선)", url: "https://go.seoul.co.kr/news/newsView.php?id=20240107500081" }
   - { title: "데일리안 — 서울시, 명동입구 정류소 2개 신설해 승객 분산 (2024-02-22, 광교·명동입구B 정류소, 2월 24일부터)", url: "https://www.dailian.co.kr/news/view/1331328/" }
+glance:
+  - { label: "Where", value: "Myeongdong 1–2-ga and Chungmuro 1–2-ga (the shopping streets), Namsan-dong to the south, Hoehyeon-dong to the west", url: "https://www.junggu.seoul.kr/dong/myeong/content.do?cmsid=13453" }
+  - { label: "Getting there", value: "Myeongdong Station (Line 4) · Euljiro 1-ga Station (Line 2) · Hoehyeon Station (Line 4) for Namdaemun Market" }
+  - { label: "Airport bus", value: "6001 and 6015 stop at Myeongdong Station, no night bus · AREX to Seoul Station then Line 4" }
+  - { label: "Key spots", value: "Myeongdong Cathedral (1898) · Myeongdong Theater (Meiji-za, 1936) · Namdaemun Market · Namsan cable car" }
+  - { label: "Hours", value: "Street stalls open from 4 pm weekdays in summer, 3 pm in winter, 2 pm weekends and holidays" }
+  - { label: "Suggested plan", value: "Morning cathedral and Namsan, lunch at Namdaemun Market, afternoon shopping, stalls at dusk, cable car at night" }
+  - { label: "Contact", value: "Myeongdong Tourist Information Center, 66 Eulji-ro, 09:00–18:00 · 1330 travel hotline (Korean, English, Japanese, Chinese)" }
 draft: false
 ---
 

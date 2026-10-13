@@ -68,6 +68,14 @@ sources:
   - { title: "広安里Mドローンライトショー 公式サイト", url: "https://www.gwangallimdrone.co.kr/en/home" }
   - { title: "釜山エアクルーズ — 松島海上ケーブルカー料金", url: "https://www.busanaircruise.co.kr/" }
   - { title: "韓国観光公社 VisitKorea", url: "https://japanese.visitkorea.or.kr/" }
+glance:
+  - { label: "主なスポット", value: "海東龍宮寺 · 甘川文化村 · 白汚浦文化村・太宗台 · ブルーラインパーク スカイカプセル · 広安里ドローンショー" }
+  - { label: "料金", value: "寺・村・ドローンショー無料 · スカイカプセル1台（2人）50,000ウォン · X the SKY約29,000ウォン" }
+  - { label: "時間", value: "龍宮寺04:30〜19:20 · X the SKY 10:00〜21:00 · ドローンショーは毎週土曜の夜2回" }
+  - { label: "予約", value: "スカイカプセルのオンライン予約は毎週火曜07:00（韓国時間）に4週間後の週の分が開く" }
+  - { label: "アクセス", value: "龍宮寺は海雲台駅（2号線）から181・100番バス · 甘川は土城駅（1号線）から村バス · 広安里は広安駅（2号線）" }
+  - { label: "おすすめプラン", value: "1日目は東側（龍宮寺→スカイカプセル→X the SKY→広安里） · 2日目は西側（甘川→チャガルチ→影島）" }
+  - { label: "公式案内", value: "海雲台ブルーラインパーク 公式の料金と時刻", url: "https://www.bluelinepark.com/eng/fare.do" }
 draft: false
 ---
 

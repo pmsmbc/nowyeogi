@@ -37,6 +37,14 @@ sources:
   - { title: "속초시 — 춘천~속초 동서고속화철도", url: "https://www.sokcho.go.kr/sc/fields/traffic/railway/chuncheon-sokcho" }
   - { title: "국립공원공단 — 설악산", url: "https://www.knps.or.kr/front/portal/visit/visitCourseMain.do?parkId=120400&menuNo=7020093" }
   - { title: "속초시 관광 안내 — 자연 관광지", url: "https://www.sokcho.go.kr/ct/tour/attraction/nature" }
+glance:
+  - { label: "위치", value: "강원 동해안 · 설악산국립공원이 시내 끝에서 시작하고 반대쪽 15분이면 동해" }
+  - { label: "교통", value: "기차 없음 · 강남 센트럴시티 고속버스 두 시간대 · 동서울 시외버스 2시간 10분 · 터미널 둘", url: "https://www.sokcho.go.kr/ct/tour/tour_guide/traffic" }
+  - { label: "시내 이동", value: "시내버스 어른 1,700원, 90분 안에 1회 무료 환승 · 설악산은 7번·7-1번" }
+  - { label: "핵심 장소", value: "설악산 · 아바이마을 · 속초관광수산시장 · 영랑호 · 영금정 · 속초해수욕장" }
+  - { label: "요금", value: "설악산 소공원 입장 무료 · 설악 케이블카 왕복 어른 16,000원(당일 현장 매표만) · 갯배 500원" }
+  - { label: "추천 일정", value: "이틀 — 첫날 설악산, 둘째 날 시장·갯배·아바이마을·영랑호" }
+  - { label: "추천 시기", value: "단풍 10월 중순~11월 초 · 해수욕은 여름 · 영랑호 벚꽃 3월 말~4월 초" }
 draft: false
 ---
 

@@ -75,6 +75,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "Best areas", value: "Gyedong-gil (widest choice) · Bukchon-ro 11-gil/12-gil, Gahoe-dong · whole houses near Anguk Station (Anguk-dong, Jae-dong)" }
+  - { label: "Stay types", value: "No hotels or inns; 182 hanok stays (Gye-dong 58, Gahoe-dong 56); 28 homestays for foreign visitors only" }
+  - { label: "Where to stay", value: "Rakkojae Seoul · Inwoo House · Leedo Hanok · Muwolgwan · Seoul Story Hanok" }
+  - { label: "Getting there", value: "Anguk Station (Line 3) · airport bus 6011 from the Anguk Station stop, last bus 20:45" }
+  - { label: "Red zone", value: "Around Bukchon-ro 11-gil, no tourists 17:00-10:00; guests enter with a booking confirmation, photos can be fined" }
+  - { label: "Official info", value: "Jongno-gu Bukchon special management area page", url: "https://culture.jongno.go.kr/media/ko/conts/111/web.do" }
 draft: false
 ---
 

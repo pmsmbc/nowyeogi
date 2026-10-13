@@ -41,6 +41,13 @@ sources:
   - { title: "Jeju City — Dongmun Market night market", url: "https://www.jejusi.go.kr/field/economy/dongmunNightmarket.do" }
   - { title: "Seogwipo City — traditional markets register", url: "https://www.seogwipo.go.kr/field/industryeconomy/traditionalmarket.htm" }
   - { title: "Korea Heritage Service — Jeju haenyeo, National Intangible Heritage", url: "https://www.khs.go.kr/cha/SearchKindOpenapiDt.do?ccbaKdcd=17&ccbaAsno=0001320000000&ccbaCtcd=ZZ" }
+glance:
+  - { label: "Key dishes", value: "Grilled black pork · gogi guksu · dombegogi · galchi jorim · okdom · momguk" }
+  - { label: "Choosing a restaurant", value: "Certified Jeju pork retailers (100 percent Jeju-raised pork) · the fair price business register", url: "https://www.jeju.go.kr/jeju/local/info.htm" }
+  - { label: "Key spots", value: "Dongmun Market night market (Jeju City) · Seogwipo Maeil Olle Market (Seogwipo)", url: "https://www.jejusi.go.kr/field/economy/dongmunNightmarket.do" }
+  - { label: "Hours", value: "Dongmun night market 18:00–24:00 every day; stalls close early when they sell out" }
+  - { label: "Best time", value: "The night market before nine; gogi guksu on a rainy day" }
+  - { label: "Payment", value: "Cards work nearly everywhere, including most market stalls; the Jeju local currency card at the night market" }
 draft: false
 ---
 

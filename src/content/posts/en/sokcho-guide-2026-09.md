@@ -36,6 +36,14 @@ sources:
   - { title: "Sokcho City — Chuncheon–Sokcho railway project", url: "https://www.sokcho.go.kr/sc/fields/traffic/railway/chuncheon-sokcho" }
   - { title: "Korea National Park Service — Seoraksan", url: "https://www.knps.or.kr/front/portal/visit/visitCourseMain.do?parkId=120400&menuNo=7020093" }
   - { title: "Sokcho City tourism — attractions", url: "https://www.sokcho.go.kr/ct/tour/attraction/nature" }
+glance:
+  - { label: "Where", value: "North-east coast, Gangwon · Seoraksan at the edge of town, the East Sea fifteen minutes the other way" }
+  - { label: "Getting there", value: "No train · Central City express bus about two hours · Dong Seoul intercity 2h10 · two terminals", url: "https://www.sokcho.go.kr/ct/tour/tour_guide/traffic" }
+  - { label: "Getting around", value: "City bus ₩1,700, one free transfer within 90 minutes · bus 7 or 7-1 to Seoraksan" }
+  - { label: "Key spots", value: "Seoraksan · Abai Village · Sokcho Tourist and Fishery Market · Yeongnangho · Yeonggeumjeong · Sokcho Beach" }
+  - { label: "Admission", value: "Seoraksan Sogongwon free · Seorak cable car ₩16,000 return, same-day window only · Gaetbae ₩500" }
+  - { label: "Suggested plan", value: "Two days — Seoraksan on day one; market, Gaetbae, Abai Village and Yeongnangho on day two" }
+  - { label: "Best time", value: "Foliage mid-October to early November · beach in summer · Yeongnangho cherry blossom late March to early April" }
 draft: false
 ---
 

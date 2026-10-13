@@ -30,6 +30,13 @@ places: []
 sources:
   - { title: "ソウル特別市 公式観光案内", url: "https://japanese.visitseoul.net/" }
   - { title: "韓国観光公社 VisitKorea", url: "https://japanese.visitkorea.or.kr/" }
+glance:
+  - { label: "おすすめエリア", value: "はじめては明洞 · 夜遊びは弘大 · 王宮・韓屋は鍾路・北村 · 子ども連れは蚕室" }
+  - { label: "価格帯", value: "ダブル1泊 弘大・東大門6万ウォン〜 · 明洞9〜22万ウォン · 江南15〜50万ウォン" }
+  - { label: "アクセス", value: "仁川空港からA'REX直通は弘大入口駅 · 明洞は6001・6015番バス、またはソウル駅から4号線で2駅" }
+  - { label: "おすすめ時期", value: "12〜2月が安い · 4〜5月と9〜10月（桜・紅葉）は2〜4割高く、先に満室になる" }
+  - { label: "予算", value: "予算重視なら弘大のゲストハウスか東大門のビジネスホテル" }
+  - { label: "予約", value: "駅までの歩きを確認 · 市税込みの総額で比較 · チェックイン15時、チェックアウト11時が一般的" }
 draft: false
 ---
 

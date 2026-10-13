@@ -44,6 +44,14 @@ sources:
   - { title: "Jongno District — top-rated district in the street-stall management evaluation", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuId=388338&menuNo=388338&nttId=250507" }
   - { title: "Jongno District — Songhae-gil honorary road name", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuId=388338&menuNo=388338&nttId=249115" }
   - { title: "Seoul Metropolitan Government — the street-stall permit system", url: "https://news.seoul.go.kr/traffic/archives/503438" }
+glance:
+  - { label: "Where", value: "Donhwamun-ro 11-gil, Jongno-gu; about 250m from Nakwon Arcade to Myodong intersection" }
+  - { label: "Getting there", value: "Jongno 3-ga Station (Lines 1, 3, 5); exit 5 to Nakwon Arcade, 114m" }
+  - { label: "Hours", value: "18:00–04:00 (Jongno-gu, 29 Sep 2026); stalls go up from around 5pm" }
+  - { label: "Menu", value: "Chicken feet · rolled omelette · udon · seafood pancake (no official prices)" }
+  - { label: "Note", value: "May close over Halloween and year-end; card payment unconfirmed, carry cash" }
+  - { label: "Contact", value: "Overcharging reports: Seoul 02-120 · tourist line 1330" }
+  - { label: "Official info", value: "Seoul Tourism Organization — Jongno 3-ga pocha street", url: "https://korean.visitseoul.net/editorspicks/yajang/KONddisdp" }
 draft: false
 ---
 

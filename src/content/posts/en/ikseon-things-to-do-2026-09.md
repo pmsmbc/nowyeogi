@@ -142,6 +142,14 @@ sources:
   - { title: "궁능유적본부 공지 — 2026년 10~11월 궁능유적 휴무일 개방 및 관람객 무료입장 안내(2026-09-30)", url: "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260930093346212667&schBcid=notice01" }
   - { title: "궁능유적본부 공지 — 「문화가 있는 날」 무료개방 단계적 확대(창덕궁·창경궁·종묘 10월 7일부터 매주 수요일)", url: "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260528151556017843&schBcid=notice01" }
   - { title: "한국관광공사 TourAPI — 서순라길, 익선동 한옥거리, 서울돈화문국악당, 서울우리소리박물관, 우리소리도서관, 낙원 악기상가 (2026-10-02 조회)", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Key spots", value: "Ikseon-dong Hanok Street · Seosulla-gil · Seoul Museum of Korean Folk Music · Seoul Donhwamun Traditional Theater · Nakwon Arcade" }
+  - { label: "Admission", value: "Lanes, Seosulla-gil and the folk-music museum free · Jongmyo ₩1,000 · Hollywood Classic ₩2,000 for 55+" }
+  - { label: "Hours", value: "Seosulla-gil car-free Sat–Sun 10:00–22:00 · museum closed Mondays · Jongmyo closed Tuesdays" }
+  - { label: "Best time", value: "Saturday: Jongmyo walk-in, car-free Seosulla-gil, and the museum, library and showroom all open" }
+  - { label: "Time needed", value: "Jongno-gu walking route 2 hours; a full Saturday for everything", url: "https://tour.jongno.go.kr/tour/main/contents.do?menuNo=110753" }
+  - { label: "Getting there", value: "Jongno 3-ga Station (Lines 1, 3, 5) exits 4, 7, 8 · Anguk Station (Line 3) exit 4" }
+  - { label: "Parking", value: "None at the theatre, museum, Seosulla-gil or the hanok lanes" }
 draft: false
 ---
 

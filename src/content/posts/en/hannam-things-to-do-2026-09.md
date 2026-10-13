@@ -88,6 +88,13 @@ sources:
   - { title: "서울시 내 손안에 서울 — 도심에서 즐기는 숲캉스! 남산 야외식물원과 소나무숲탐방로", url: "https://mediahub.seoul.go.kr/archives/2005116" }
   - { title: "비건뉴스 — 9월 28일은 평일…개천절 대체공휴일은 10월 5일", url: "https://www.vegannews.co.kr/news/article.html?no=389153" }
   - { title: "한국관광공사 TourAPI — 리움미술관·블루스퀘어 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Key spots", value: "Leeum Museum of Art · Blue Square · Hyundai Card Music Library · Namsan Korean Forest Garden · Yongsan Children's Garden" }
+  - { label: "Admission", value: "Leeum traditional art and Orozco Garden free, Koo Jeong A show ₩18,000 · Children's Garden and Complex 5 free" }
+  - { label: "Booking", value: "Leeum opens online booking 14 days ahead, up to four people · Children's Garden needs no booking", url: "https://www.leeumhoam.org/leeum/info/visit" }
+  - { label: "Hours", value: "Leeum Tue-Sun 10:00-18:00 · Children's Garden Tue-Sun 09:00-18:00 (Sat to 21:00) · most sites closed Mondays" }
+  - { label: "Getting there", value: "Hangangjin Station (Line 6) for Leeum and Blue Square · Sinyongsan Station (Line 4) exit 1 for the Children's Garden" }
+  - { label: "Suggested plan", value: "Morning Children's Garden → Music Library café and Leeum → bus 405 to the Forest Garden → evening at Blue Square" }
 draft: false
 ---
 

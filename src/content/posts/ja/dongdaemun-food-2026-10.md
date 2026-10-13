@@ -164,6 +164,13 @@ sources:
   - { title: "다이닝코드 — 카페 우즈베키스탄 (광희동1가 121, 2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=KKj370cGx1hR" }
   - { title: "다이닝코드 — 스타사마르칸트 (을지로6가, 2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=sK2iF7AzOCWO" }
   - { title: "다이닝코드 — 러시아 케익 (을지로42길 7, 2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=BGnWT2KFtGYP" }
+glance:
+  - { label: "主な店", value: "陳玉華ハルメ元祖タッカンマリ · 湖南家 · マボクリムおばあさんの店 · クムテジ食堂" }
+  - { label: "予算", value: "タッカンマリ33,000ウォン · 即席トッポッキ2人セット17,000ウォン · 焼き魚13,000ウォン前後" }
+  - { label: "予約", value: "クムテジ食堂は予約不可 · コサリ・エクスプレスは店に直接予約 · エベレストは電話予約可" }
+  - { label: "アクセス", value: "東大門駅（1・4号線）タッカンマリ横丁 · 新堂駅（2・6号線）トッポッキ横丁 · 東大門歴史文化公園駅 光熙洞" }
+  - { label: "おすすめ時間帯", value: "夕食は鍾路5街の横丁、深夜は新堂洞 · 末っ子の店と東大門韓国トンダクは24時間" }
+  - { label: "いちばん安い一食", value: "東大門韓国トンダクの丸鶏4,500ウォン · 東門食堂のコンナムルビビンバ5,000ウォン", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
 draft: false
 ---
 

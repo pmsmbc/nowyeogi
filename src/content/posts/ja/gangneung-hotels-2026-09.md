@@ -26,6 +26,12 @@ sources:
   - { title: "船橋荘 — 韓屋ステイ", url: "https://knsgj.net/tour" }
   - { title: "Visit Gangneung — 鏡浦台", url: "https://visitgangneung.net/pub/ruins.do?mode=v&seq=3" }
   - { title: "江陵市内バス案内", url: "https://bis.gn.go.kr/info" }
+glance:
+  - { label: "おすすめエリア", value: "鏡浦（夏のビーチ） · 安木（コーヒー） · 駅前の中心部（短い旅行・車なし） · 正東津（日の出）" }
+  - { label: "おすすめの宿", value: "江陵セントジョンズホテル · シエスタゲストハウス鏡浦 · ホンCホテル江陵駅 · 船橋荘の韓屋ステイ" }
+  - { label: "アクセス", value: "鏡浦は202・202-1・202-2番バスで市内まで20分 · 正東津は112番バスか列車17分" }
+  - { label: "予約", value: "12月31日の正東津は数か月前に埋まる · 安木は部屋数が少ないので早めに" }
+  - { label: "公式案内", value: "Visit Gangneung 宿泊施設一覧 — 5地区205軒", url: "https://visitgangneung.net/pub/gnaccommodation.do" }
 draft: false
 ---
 

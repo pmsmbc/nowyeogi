@@ -124,6 +124,13 @@ sources:
   - { title: "서울시 축제 — 2026 서울빛초롱축제", url: "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=360" }
   - { title: "서울시 축제 — 2026 서울라이트 광화문", url: "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=372" }
   - { title: "비건뉴스 — 9월 28일은 평일…개천절 대체공휴일은 10월 5일", url: "https://www.vegannews.co.kr/news/article.html?no=389153" }
+glance:
+  - { label: "主なスポット", value: "徳寿宮 · 守門将交代儀式（大漢門・光化門）· 世宗物語・忠武公物語 · ソウル歴史博物館 · 大韓民国歴史博物館" }
+  - { label: "料金", value: "徳寿宮1,000ウォン（韓服着用で無料）· 博物館・展示館は無料 · イ・デウォン回顧展2,000ウォン", url: "https://royal.khs.go.kr/ROYAL/contents/R703000000.do" }
+  - { label: "時間", value: "徳寿宮09:00〜21:00（入場20:00）· ソウル歴史博物館は11/30まで21時（木曜18時）" }
+  - { label: "アクセス", value: "市庁駅（1・2号線）大漢門前 · 光化門駅（5号線）1・8番出口 · 鍾閣駅（1号線）4番出口" }
+  - { label: "おすすめ時期", value: "月曜は光化門の守門将と大韓民国歴史博物館、火曜は大漢門の守門将 · 10/5（月）は振替休日" }
+  - { label: "予約", value: "石造殿の解説付き観覧は1週間前の午前10時にオンライン先着 · 惇徳殿は10/25まで観覧中止" }
 draft: false
 ---
 

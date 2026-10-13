@@ -31,6 +31,14 @@ sources:
   - { title: "開天芸術祭 — 2026年の行事案内", url: "https://www.gaecheonart.com/sub2026/sub2_1.php" }
   - { title: "晋州南江流灯展示館 — 流灯の由来", url: "https://www.jinju.go.kr/yudeung/sub/sub6_6.php" }
   - { title: "晋州市 報道資料 — 2026 晋州南江流灯祭りの日程（2026年9月3日）", url: "https://www.jinju.go.kr/00130/02730/00138.web?amode=view&gcode=1004&idx=39617781" }
+glance:
+  - { label: "場所", value: "見どころは南江路626の晋州城一帯に集中 · 晋州駅は佳左洞（晋州駅路130）で市内から離れている" }
+  - { label: "アクセス", value: "ソウル南部から市外バス3時間35分 · KTX・SRT直通 · 釜山沙上から1時間30分、9,200ウォン" }
+  - { label: "料金", value: "市内バス カード1,650ウォン・現金1,700ウォン · 30分以内1回乗り換え無料 · T-money可" }
+  - { label: "主なスポット", value: "晋州城 · 矗石楼 · 国立晋州博物館 · 晋州南江流灯展示館" }
+  - { label: "おすすめプラン", value: "1泊で十分 · 釜山から日帰り可 · 月曜は博物館と流灯展示館が休み" }
+  - { label: "おすすめ時期", value: "10月がハイシーズン：南江流灯祭り10月3〜18日、開天芸術祭10月9〜18日 · 静かなら春か11月" }
+  - { label: "公式案内", value: "晋州市 報道資料 — 2026 晋州南江流灯祭りの日程", url: "https://www.jinju.go.kr/00130/02730/00138.web?amode=view&gcode=1004&idx=39617781" }
 draft: false
 ---
 

@@ -73,6 +73,14 @@ sources:
   - { title: "統一部 板門店見学支援センター — DMZ平和の道", url: "https://www.panmuntour.go.kr/nlgn/pblc/guidance/dmzPeaceRoad.do" }
   - { title: "Third Tunnel of Aggression（Wikipedia）", url: "https://en.wikipedia.org/wiki/Third_Tunnel_of_Aggression" }
   - { title: "Imjingang station（Wikipedia）", url: "https://en.wikipedia.org/wiki/Imjingang_station" }
+glance:
+  - { label: "場所", value: "臨津閣平和ヌリ — 京畿道坡州市汶山邑臨津閣路148-40" }
+  - { label: "主なスポット", value: "臨津閣平和ヌリ・自由の橋 · 平和ゴンドラ · 第3トンネル · 都羅展望台" }
+  - { label: "料金", value: "臨津閣は入場無料（駐車は乗用車2,000ウォン） · 平和ゴンドラ往復一般キャビン大人12,000ウォン、子ども10,000ウォン" }
+  - { label: "時間", value: "ゴンドラ平日09:00〜18:00、土日祝09:00〜19:00 · DMZ平和観光のチケット窓口09:00〜14:30、月曜休み" }
+  - { label: "予約", value: "第3トンネル・都羅展望台は坡州市DMZ平和観光の予約とパスポートの現物が必須 · 板門店（JSA）は別のプログラム", url: "https://dmz.paju.go.kr:8443/" }
+  - { label: "アクセス", value: "京義・中央線で汶山駅、そこからバスかタクシー · 車は自由路で約1時間、線の先はシャトルバスのみ" }
+  - { label: "所要時間", value: "臨津閣で1〜2時間 · 民間人統制線の先の区間で約3時間 · ソウルから丸一日" }
 draft: false
 ---
 

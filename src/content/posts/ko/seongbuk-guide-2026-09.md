@@ -40,6 +40,13 @@ sources:
   - { title: "서울미래유산 — 북정마을 (2015-016)", url: "https://futureheritage.seoul.go.kr/" }
   - { title: "성북구 — 성북동 인증가게", url: "https://www.sb.go.kr/tour/contents.do?key=72" }
   - { title: "한양도성 — 백악구간·혜화동 일대", url: "https://seoulcitywall.seoul.go.kr/" }
+glance:
+  - { label: "위치", value: "서울 성북구 성북동, 한양도성 성곽 바깥 비탈 (대사관저 40곳과 북정마을이 같은 동네)" }
+  - { label: "교통", value: "4호선 한성대입구역 6번 출구 → 마을버스 성북02(길상사) · 성북03(북정마을·심우장), 1,200원" }
+  - { label: "핵심 장소", value: "길상사 · 북정마을과 심우장 · 한양도성" }
+  - { label: "요금", value: "길상사 무료" }
+  - { label: "추천 일정", value: "밥은 언덕 아래(5번 출구), 볼거리는 언덕 위 · 경사가 가파르니 마을버스 이용" }
+  - { label: "추천 시기", value: "볼거리 상당수가 월요일 휴관 · 북정마을은 철거 고시된 주거지라 조용히 지나가기" }
 draft: false
 ---
 

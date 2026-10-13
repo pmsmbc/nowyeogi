@@ -68,6 +68,12 @@ sources:
   - { title: "AREX - Gongdeok station timetable", url: "https://www.airportrailroad.com/train/normal/info/020/0" }
   - { title: "AREX - Incheon Airport Terminal 1 station timetable", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "AREX - All-stop train fares", url: "https://www.airportrailroad.com/train/normal/fare" }
+glance:
+  - { label: "Where to stay", value: "Grand Hyatt Seoul (620 rooms) · Imperial Palace Boutique Hotel (128) · Hannam 67 Hotel (inn, 35 rooms)" }
+  - { label: "Best areas", value: "Namsan resort-style: Grand Hyatt · between Itaewon and Hangangjin: Imperial Palace · foreign visitors: 21 homestays" }
+  - { label: "Getting there", value: "Hangangjin Station (Line 6) · Hannam Station (Gyeongui-Jungang Line) · AREX: change at Gongdeok to Line 6" }
+  - { label: "Airport bus", value: "6702 at Grand Hyatt, 18,000 won (last 20:18) · 6010 at Hannam Station, 17,000 won (last 20:56)" }
+  - { label: "Good to know", value: "Homestays are foreigner-only, host must live in · south of Usadan-ro is the Hannam 3 site (99% demolished)" }
 draft: false
 ---
 

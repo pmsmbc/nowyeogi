@@ -75,6 +75,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 일반열차 운임안내", url: "https://www.airportrailroad.com/train/normal/fare" }
+glance:
+  - { label: "위치", value: "용산구 이태원동 · 해방촌(용산동2가)" }
+  - { label: "추천 숙소", value: "몬드리안 서울 이태원(297실) · 해밀톤호텔(166실) · 누베르 서울호텔(71실)" }
+  - { label: "추천 구역", value: "호텔은 이태원역 주변 · 도시민박은 이태원로16길·녹사평대로40길 일대 · 해방촌 신흥로" }
+  - { label: "교통", value: "6호선 이태원역·녹사평역 · 공항철도는 공덕역에서 6호선 환승 1회" }
+  - { label: "공항버스", value: "6702번 이태원2동주민센터·보성여중고입구 정류장 · 성인 18,000원 · 공항행 막차 20:20", url: "https://www.klimousine.com/bus/limousine.php?bus_no=6702" }
+  - { label: "대상", value: "도시민박 225곳은 외국인 전용 · 내국인은 호텔·호스텔 8곳, 여관 6곳" }
 draft: false
 ---
 

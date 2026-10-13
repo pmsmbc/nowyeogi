@@ -26,6 +26,13 @@ sources:
   - { title: "한국관광공사 — 닭갈비와 막국수", url: "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=af777ab3-69df-4bf9-97e2-6d9fa31e2b7a" }
   - { title: "한국관광공사 — 가평 잣 요리", url: "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cb635d3e-0f73-4ccd-9c2a-cdec1027f3eb" }
   - { title: "한국향토문화전자대전 — 가평 잣", url: "https://www.grandculture.net/gapyeong/toc/GC07901626" }
+glance:
+  - { label: "대표 음식", value: "닭갈비(원래 춘천 음식) · 막국수 · 잣국수 · 잣죽 · 잣막걸리" }
+  - { label: "예산", value: "닭갈비 1인분 1만 2천~1만 6천 원 · 막국수 7천~9천 원(식당 정보 기준)" }
+  - { label: "식당 구역", value: "남이섬 선착장 쪽 달전리 북한강변로 · 가평역 주변 · 남이섬 안 · 청평역·터미널 근처" }
+  - { label: "교통", value: "가평역에서 선착장까지 차로 5분, 걸어서 20분" }
+  - { label: "시간", value: "선착장 식당은 시내보다 일찍 닫아요 · 남이섬 막배 전에 식사 · 닭갈비는 보통 2인분부터" }
+  - { label: "공식 안내", value: "한국관광공사 — 닭갈비와 막국수", url: "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=af777ab3-69df-4bf9-97e2-6d9fa31e2b7a" }
 draft: false
 ---
 

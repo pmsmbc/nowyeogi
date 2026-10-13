@@ -71,6 +71,14 @@ sources:
   - { title: "Jeonju City tourism — Nambu Market night market", url: "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101006003000&paging=ok&startPage=1&dataSid=16085" }
   - { title: "Jeonju Hanji Museum — official site", url: "https://hanjimuseum.co.kr/" }
   - { title: "Jeonju Hanok Village — alleyways", url: "https://hanok.jeonju.go.kr/contents/alleyway1" }
+glance:
+  - { label: "Key spots", value: "Gyeonggijeon · Jeondong Cathedral · Omokdae · Hyanggyo · Nambu Market · Hanji Museum · Deokjin Park" }
+  - { label: "Admission", value: "Gyeonggijeon ₩3,000 (free on the last Wednesday) · the rest free · paper workshops from ₩5,000" }
+  - { label: "Hours", value: "Gyeonggijeon 09:00–19:00 (to 20:00 in summer, 18:00 in winter) · Hyanggyo closed Mondays · night market Fri–Sat 17:00–23:00" }
+  - { label: "Time needed", value: "Gyeonggijeon about an hour, ninety minutes with the cathedral · Omokdae a ten-minute climb from the village" }
+  - { label: "Getting there", value: "Almost everything is walkable inside the Hanok Village · Hanji Museum and Deokjin Park in Deokjin-gu are separate" }
+  - { label: "Best time", value: "Hyanggyo ginkgos November · Deokjin lotus July–August · Omokdae at golden hour · night market Friday or Saturday" }
+  - { label: "Official info", value: "Jeonju Hanok Village attractions", url: "https://hanok.jeonju.go.kr/contents/place" }
 draft: false
 ---
 

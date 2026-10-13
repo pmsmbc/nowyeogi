@@ -164,6 +164,14 @@ sources:
   - { title: "신세계백화점 — 본점 영업시간", url: "https://www.shinsegae.com/store/main.do?storeCd=SC00001" }
   - { title: "롯데백화점 — 본점 영업시간", url: "https://www.lotteshopping.com/store/main?cstrCd=0001" }
   - { title: "한국관광공사 TourAPI — 서울 명동성당·남산서울타워·남산케이블카·남대문시장·숭례문·2026 숭례문 파수의식·한국은행 화폐박물관·우표박물관·국립극단 명동예술극장·남산골한옥마을·안중근의사기념관·백범광장·남산예장공원 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "핵심 장소", value: "명동성당 · N서울타워 · 남대문시장 · 숭례문 · 남산골한옥마을" }
+  - { label: "요금", value: "N서울타워 전망대 대인 29,000원 · 남산케이블카 왕복 15,000원 · 박물관·한옥마을 무료", url: "https://www.nseoultower.co.kr/visit/use2.asp" }
+  - { label: "시간", value: "전망대 평일 10:00~22:30, 주말·공휴일 10:00~23:00 · 케이블카 10:00~23:00" }
+  - { label: "휴무", value: "숭례문·화폐박물관·우표박물관·한옥마을 월요일 · 남대문시장 일요일 대체로 휴무" }
+  - { label: "교통", value: "4호선 명동역·회현역 · 남산은 순환버스 01A·01B 또는 명동역 3번 출구에서 케이블카 도보 10분" }
+  - { label: "추천 시기", value: "남산 단풍 10월 말~11월 초" }
+  - { label: "세금 환급", value: "즉시환급 1회 100만 원 미만 · 누적 500만 원 이하 · 1만 5천 원 이상 · 3개월 안에 반출" }
 draft: false
 ---
 

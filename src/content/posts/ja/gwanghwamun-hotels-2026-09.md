@@ -67,6 +67,12 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "おすすめエリア", value: "大きなホテルは光化門・市庁 · 低予算のホステルは鍾閣・貫鉄洞 · 客室数は小公洞・北倉洞に集中" }
+  - { label: "おすすめの宿", value: "フォーシーズンズホテル・ソウル · 新羅ステイ光化門 · ザ・プラザ · コリアナホテル" }
+  - { label: "アクセス", value: "市庁駅（1・2号線）· 光化門駅（5号線）· 鍾閣駅（1号線）· 空港鉄道はソウル駅で1号線に乗り換え" }
+  - { label: "空港バス", value: "6701番（終バス18:40〜19:00）· 6002番（光化門20:52）· 6005番（1日10本）· 深夜N6002番" }
+  - { label: "注意", value: "週末は世宗大路で集会の規制が多い · 「明洞」を名乗るホテルは北倉洞・小公洞の住所か確認" }
 draft: false
 ---
 

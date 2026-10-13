@@ -169,6 +169,12 @@ sources:
   - { title: "다이닝코드 — 명동교자 본점 (2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=L4miF0diqkcW" }
   - { title: "다이닝코드 — 백제삼계탕 명동, 개화, 명동돈가스, 원조 남산 왕돈까스 (2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=d5oI3DvmGSrh" }
   - { title: "다이닝코드 — 은호식당, 진주집, 희락갈치, 왕성식당, 남해식당, 가메골 손만두, 남대문 야채호떡, 부원면옥 (2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=8k4cyoKFsFQB" }
+glance:
+  - { label: "Key eats", value: "Myeongdong Kyoja · Hadongkwan · Huirak Galchi · Eunho Sikdang" }
+  - { label: "Budget", value: "Kalguksu ₩12,000 · gomtang ₩18,000 · galchi-jorim ₩14,000 per person · vegetable hotteok ₩2,500" }
+  - { label: "Hours", value: "Myeongdong Kyoja 10:30-21:00 · Hadongkwan Mon-Sat 07:00-16:00, closed Sunday" }
+  - { label: "Getting there", value: "Myeongdong Station (Line 4) Exit 8 · Euljiro 1-ga Station (Line 2) · Hoehyeon Station (Line 4)" }
+  - { label: "Best time", value: "Lunch at Myeongdong Kyoja or Hadongkwan · snacks from stalls and hotteok · dinner in Namdaemun's hairtail alley" }
 draft: false
 ---
 

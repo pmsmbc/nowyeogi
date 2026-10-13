@@ -61,6 +61,13 @@ sources:
   - { title: "Creatrip — A'REX直通列車ガイド（2026年4月更新）", url: "https://creatrip.com/en/blog/1696" }
   - { title: "空港リムジン — 路線と料金（公式・韓国語）", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2" }
   - { title: "Korea Travel Lab — 観光客向け気候同行カード（2026年7月更新）", url: "https://koreatravellab.com/seoul-climate-card-tourists-2026/" }
+glance:
+  - { label: "A'REX直通", value: "ソウル駅までノンストップ43〜51分 · 大人13,000ウォン（ネット予約で約11,600ウォン） · 切符が必要、T-money不可" }
+  - { label: "A'REX各駅停車", value: "弘大入口駅に停車、ソウル駅が終点 · 大人最大5,350ウォン · ソウル駅まで59〜66分 · T-moneyで乗車" }
+  - { label: "空港バス", value: "6002番 弘大入口駅方面 · 6001番 ソウル駅・明洞方面 · 大人17,000ウォン、子ども12,000ウォン · 60〜90分" }
+  - { label: "気候同行カード", value: "1日券5,000ウォン〜7日券20,000ウォン＋カード3,000ウォン · 1〜8号線の駅の券売機・コンビニ · 仁川空港からのA'REX乗車は不可" }
+  - { label: "時間", value: "直通列車は第2ターミナル発 始発5:16、最終22:40" }
+  - { label: "公式案内", value: "ソウル特別市 気候同行カード", url: "https://english.seoul.go.kr/policy/transportation/climate-card/" }
 draft: false
 ---
 

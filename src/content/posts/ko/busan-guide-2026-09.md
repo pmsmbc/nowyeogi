@@ -28,6 +28,14 @@ sources:
   - { title: "김해국제공항 — 교통 안내", url: "https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=170" }
   - { title: "부산광역시 — 공항 리무진 노선과 요금", url: "https://www.busan.go.kr/depart/khairportlm" }
   - { title: "한국경제 — 고속철도 통합과 운임 인하 (2026년 9월 1일)", url: "https://www.hankyung.com/article/2026083145861" }
+glance:
+  - { label: "교통", value: "서울역→부산역 KTX 2시간 17분·일반실 5만 4,400원 · 고속버스 4시간 15분·2만 3,600원" }
+  - { label: "공항 교통", value: "김해공항 경전철→사상 환승, 서면까지 25~35분 · 리무진 1번 9,500원, 2번 6,000원" }
+  - { label: "요금", value: "지하철 1구간 1,600원 · 하루권 6,000원 · 3일권 1만 3,000원 · 서울 교통카드 사용 가능" }
+  - { label: "추천 구역", value: "해운대(해변·호텔) · 서면(교통·식당) · 남포동(시장·구도심) · 광안리(광안대교 야경)" }
+  - { label: "추천 시기", value: "9월 말~11월 초 · 5~6월도 좋음 · 7~8월은 붐비고 숙소 값 상승" }
+  - { label: "추천 일정", value: "최소 2박 · 서면에 묵고 동쪽(해운대·광안리·기장)과 서쪽(남포동·감천·영도)을 하루씩" }
+  - { label: "공식 안내", value: "부산시 공식 관광 안내 Visit Busan", url: "https://www.visitbusan.net/en/index.do" }
 draft: false
 ---
 

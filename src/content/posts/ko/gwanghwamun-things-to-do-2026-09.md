@@ -125,6 +125,13 @@ sources:
   - { title: "서울시 축제 — 2026 서울빛초롱축제", url: "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=360" }
   - { title: "서울시 축제 — 2026 서울라이트 광화문", url: "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=372" }
   - { title: "비건뉴스 — 9월 28일은 평일…개천절 대체공휴일은 10월 5일", url: "https://www.vegannews.co.kr/news/article.html?no=389153" }
+glance:
+  - { label: "핵심 장소", value: "덕수궁 · 수문장 교대의식(대한문·광화문) · 세종이야기·충무공이야기 · 서울역사박물관 · 대한민국역사박물관" }
+  - { label: "요금", value: "덕수궁 1,000원(한복 착용 시 무료) · 박물관·전시관은 무료 · 이대원 회고전 2,000원", url: "https://royal.khs.go.kr/ROYAL/contents/R703000000.do" }
+  - { label: "시간", value: "덕수궁 09:00~21:00(입장 20:00) · 서울역사박물관 11/30까지 21시(목 18시)" }
+  - { label: "교통", value: "1·2호선 시청역(대한문 앞) · 5호선 광화문역 1·8번 출구 · 1호선 종각역 4번 출구" }
+  - { label: "추천 시기", value: "월요일엔 광화문 수문장·대한민국역사박물관, 화요일엔 대한문 수문장 · 10/5(월) 대체공휴일" }
+  - { label: "예약", value: "석조전 해설 관람은 관람일 1주 전 오전 10시 온라인 선착순 · 돈덕전은 10/25까지 관람 중지" }
 draft: false
 ---
 

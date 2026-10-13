@@ -27,6 +27,14 @@ sources:
   - { title: "Gyeongju City tourism — city tour bus", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4602" }
   - { title: "Gyeongju City tourism — cycling routes", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4746" }
   - { title: "Hankyung — high-speed rail integration and fare cut, 1 September 2026", url: "https://www.hankyung.com/article/2026083145861" }
+glance:
+  - { label: "Where", value: "KTX Gyeongju Station is 10 km west of the old city (Geoncheon-eup) · express bus terminal beside Daereungwon" }
+  - { label: "Getting there", value: "KTX from Seoul about 2h10, express bus 3h30 · from the station take bus 50, 51 or 70" }
+  - { label: "Admission", value: "City bus ₩1,450 by card, ₩1,500 cash · taxi from KTX station to Hwangnidan-gil about ₩15,000" }
+  - { label: "Key spots", value: "Daereungwon · Cheomseongdae · Wolji · Woljeonggyo · Bulguksa and Seokguram" }
+  - { label: "Suggested plan", value: "Two nights · day one: old city on foot, Wolji after dark · day two: Bulguksa, Seokguram, museum" }
+  - { label: "Best time", value: "Cherry blossom peaks about 1–7 April · October to early November, Silla Cultural Festival 9–11 October 2026" }
+  - { label: "Official info", value: "Gyeongju City tourism — transport", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4847" }
 draft: false
 ---
 

@@ -51,6 +51,13 @@ sources:
   - { title: "Dailian — clothing by temperature for big day-night swings (13 Sep 2026, Korean)", url: "https://n.news.naver.com/mnews/article/119/0003131964" }
   - { title: "Yonhap — winter hiking safety: 0.6°C per 100 m, 2°C wind chill per 1 m/s (19 Jan 2017, Korean)", url: "https://n.news.naver.com/mnews/article/001/0008971496" }
   - { title: "Maeil Business — national park safety rules (19 Apr 2016, Korean)", url: "https://n.news.naver.com/mnews/article/009/0003717084" }
+glance:
+  - { label: "As of", value: "KMA data at 13:40 KST on 6 October 2026 · Seoul low 10.0°C, forecast high 22°C, day–night swing around 15°C" }
+  - { label: "Forecast", value: "Seoul 7–8 Oct 11–12/24°C clear · Hangeul Day weekend 9–11 Oct 13–14/25–27°C clear · rain Wed 14 (60%), 9°C on the morning of the 16th" }
+  - { label: "Averages", value: "Seoul October 15.0°C (low 10.6°C) · November 7.5°C (low 3.5°C) · first frost 28 Oct, first snow 20 Nov" }
+  - { label: "What to wear", value: "Mornings 11–14°C long sleeves plus a jacket · afternoons 23–27°C one long-sleeve top · after 9pm 15–18°C jacket back on · layer thin pieces" }
+  - { label: "What to bring", value: "A packable light jacket · on hills allow for wind (2°C per 1 m/s) and altitude (0.6°C per 100 m) · umbrella only on the 14th" }
+  - { label: "Official info", value: "KMA weather information and warnings (6 Oct 2026)", url: "https://www.weather.go.kr/w/special-report/list.do?stn=108&kind=inf&date=2026-10-06" }
 draft: false
 ---
 

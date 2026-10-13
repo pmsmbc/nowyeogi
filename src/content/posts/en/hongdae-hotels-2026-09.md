@@ -76,6 +76,13 @@ sources:
   - { title: "공항리무진 — 6002번 노선안내 (공항방면, 정류장별 시간표)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2" }
   - { title: "공항리무진 — 6002번 노선안내 (시내방면)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=6" }
   - { title: "공항리무진 — N6002번 심야 노선안내", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=80" }
+glance:
+  - { label: "Best areas", value: "Big hotels on Yanghwa-ro · hostels and homestays in Seogyo and Donggyo · Hapjeong or Sangsu for quiet" }
+  - { label: "Where to stay", value: "L7 Hongdae by Lotte · Holiday Inn Express Seoul Hongdae · RYSE Hotel" }
+  - { label: "Getting there", value: "AREX all-stop train Hongik Univ. → Incheon Airport ₩4,650–5,250 · last train 23:48 (Express does not stop)", url: "https://www.airportrailroad.com/train/normal/info/030/0" }
+  - { label: "Airport bus", value: "6002 from Hongik Univ. stop, ₩17,000 adult · last bus 21:11 · late-night N6002 23:00–04:00", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2" }
+  - { label: "Watch out", value: "Marigold Hotel (112 Yanghwa-ro) recorded closed since July 2022 · homestays not open to Korean nationals" }
+  - { label: "Best time", value: "Halloween (31 Oct) and year-end weekend nights pack the Red Road; stay a few blocks away" }
 draft: false
 ---
 

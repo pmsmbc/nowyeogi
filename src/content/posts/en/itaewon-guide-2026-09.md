@@ -96,6 +96,14 @@ sources:
   - { title: "미디어써치 — 용산구 이태원 지구촌 축제, 자부담 부담으로 취소…새로운 방향 모색 (2024-07-28)", url: "https://www.mediasearch.co.kr/news/articleView.html?idxno=14017" }
   - { title: "한국이슬람교 — 서울중앙성원 안내 (1969년 5월 부지, 1974년 10월 착공, 1976년 5월 21일 개원, 착의실 안내)", url: "https://www.koreaislam.org/seoul-muslim-info%EC%84%9C%EC%9A%B8%EC%A4%91%EC%95%99%EC%84%B1%EC%9B%90%EC%95%88%EB%82%B4/" }
   - { title: "한국관광공사 TourAPI — 이태원 관광특구 (이태원로 150, 1997년 지정), 이태원 우사단길 (주소 한남동), 경리단길, 해방촌마을 (2026-10-06 조회)", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Where", value: "Itaewon 1-dong, 2-dong and Yongsan 2-ga-dong (Haebangchon), Yongsan-gu, Seoul, on the southern foot of Namsan" }
+  - { label: "Getting there", value: "Noksapyeong Station (Line 6) for Haebangchon and Gyeongnidan-gil · Itaewon Station (Line 6) for Itaewon-ro" }
+  - { label: "Key spots", value: "World Food Street · Sinheung Market and the 108 steps · Seoul Central Mosque · 10.29 Memorial Alley" }
+  - { label: "Admission", value: "The streets, the 10.29 Memorial Alley and the Seoul Central Mosque are all free" }
+  - { label: "Suggested plan", value: "Morning Haebangchon → lunch Gyeongnidan-gil → afternoon Usadan-gil and the mosque → evening Itaewon-ro" }
+  - { label: "Etiquette", value: "Do not photograph mourners in the memorial alley · keep moving in the World Food Street at Halloween" }
+  - { label: "Contact", value: "Itaewon tourist information 02-3785-0942 · Seoul Central Mosque 02-793-6908" }
 draft: false
 ---
 

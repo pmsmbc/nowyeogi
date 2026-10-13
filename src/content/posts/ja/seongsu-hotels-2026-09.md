@@ -63,6 +63,12 @@ sources:
   - { title: "空港リムジン — 6010番（往十里／鷹峰洞／漢南駅／東部二村洞）路線・停留所別時刻表", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=16" }
   - { title: "空港鉄道（AREX）— 孔徳駅 時刻表", url: "https://www.airportrailroad.com/train/normal/info/020/0" }
   - { title: "空港鉄道（AREX）— 一般列車 運賃案内", url: "https://www.airportrailroad.com/train/normal/fare" }
+glance:
+  - { label: "おすすめの宿", value: "ホテルポコ聖水（聖水洞1・2街で唯一の観光ホテル、80室、聖水駅から徒歩2分）" }
+  - { label: "おすすめエリア", value: "聖水のなかはホテル1軒・ホステル7軒・旅館14軒 · 大きなホテルは建大入口（広津区）か往十里" }
+  - { label: "対象", value: "都市民泊140か所は外国人専用 · 韓国人はホテル・ホステル・旅館から" }
+  - { label: "アクセス", value: "聖水駅・トゥクソム駅（2号線）· 空港リムジン6013は聖水119センター終発20:43、大人17,000ウォン" }
+  - { label: "予約", value: "都市民泊に24時間フロントはなし · 遅く着くならチェックイン方法を前もって" }
 draft: false
 ---
 

@@ -27,6 +27,12 @@ sources:
   - { title: "선교장 — 한옥스테이", url: "https://knsgj.net/tour" }
   - { title: "Visit Gangneung — 경포대", url: "https://visitgangneung.net/pub/ruins.do?mode=v&seq=3" }
   - { title: "강릉 시내버스 정보", url: "https://bis.gn.go.kr/info" }
+glance:
+  - { label: "추천 구역", value: "경포(여름 해변) · 안목(커피) · 시내 강릉역 근처(짧은 일정·차 없음) · 정동진(일출)" }
+  - { label: "추천 숙소", value: "강릉세인트존스 호텔 · 씨에스타 게스트하우스 경포 · 홍씨호텔 강릉역 · 선교장 한옥스테이" }
+  - { label: "교통", value: "경포는 202·202-1·202-2번 버스로 시내 20분 · 정동진은 112번 버스 또는 기차 17분" }
+  - { label: "예약", value: "12월 31일 정동진 해돋이축제는 몇 달 전 마감 · 안목은 객실이 적어 일찍 잡기" }
+  - { label: "공식 안내", value: "Visit Gangneung 숙박 정보 — 다섯 권역 205곳", url: "https://visitgangneung.net/pub/gnaccommodation.do" }
 draft: false
 ---
 

@@ -25,6 +25,14 @@ sources:
   - { title: "国家遺産庁 — 宮殿の開館時間と料金（公式）", url: "https://royal.khs.go.kr/ROYAL/contents/R702000000.do" }
   - { title: "ソウル特別市 公式観光案内", url: "https://japanese.visitseoul.net/" }
   - { title: "韓国観光公社 VisitKorea", url: "https://japanese.visitkorea.or.kr/" }
+glance:
+  - { label: "おすすめプラン", value: "1日目 宮殿・北村（鍾路） · 2日目 明洞・南山 · 3日目 弘大・漢江" }
+  - { label: "予算", value: "宿泊費を除き食事・入場・交通で1人1日7万〜12万ウォン" }
+  - { label: "料金", value: "景福宮3,000ウォン · 国立民俗博物館無料 · 南山ケーブルカー往復およそ15,000ウォン" }
+  - { label: "休館日", value: "景福宮・昌徳宮・宗廟は火曜 · 徳寿宮は月曜" }
+  - { label: "おすすめエリア", value: "宿は明洞か鍾路" }
+  - { label: "持ち物", value: "T-moneyカード（コンビニで3,000〜5,000ウォン） · NAVERマップかカカオマップ · しっかりした靴" }
+  - { label: "公式案内", value: "国家遺産庁 宮殿の開館時間と料金", url: "https://royal.khs.go.kr/ROYAL/contents/R702000000.do" }
 draft: false
 ---
 

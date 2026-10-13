@@ -41,6 +41,13 @@ sources:
   - { title: "済州市 — 東門市場 夜市", url: "https://www.jejusi.go.kr/field/economy/dongmunNightmarket.do" }
   - { title: "西帰浦市 — 伝統市場一覧", url: "https://www.seogwipo.go.kr/field/industryeconomy/traditionalmarket.htm" }
   - { title: "国家遺産庁 — 済州海女（国家無形遺産）", url: "https://www.khs.go.kr/cha/SearchKindOpenapiDt.do?ccbaKdcd=17&ccbaAsno=0001320000000&ccbaCtcd=ZZ" }
+glance:
+  - { label: "主な料理", value: "黒豚の焼肉 · 肉ククス · トンベゴギ · カルチジョリム · オクトム · モムグク" }
+  - { label: "店選び", value: "済州豚肉販売認証店（100パーセント済州産） · 良心価格店のリスト", url: "https://www.jeju.go.kr/jeju/local/info.htm" }
+  - { label: "主なスポット", value: "東門市場 夜市（済州市） · 西帰浦 毎日オルレ市場（西帰浦）", url: "https://www.jejusi.go.kr/field/economy/dongmunNightmarket.do" }
+  - { label: "時間", value: "東門夜市は年中無休 18:00〜24:00、売り切れた屋台から早じまい" }
+  - { label: "おすすめ時期", value: "夜市は21時前 · 肉ククスは雨の日" }
+  - { label: "支払い", value: "ほとんどの店でカード可、市場の屋台も大半対応 · 夜市は地域通貨カードも可" }
 draft: false
 ---
 

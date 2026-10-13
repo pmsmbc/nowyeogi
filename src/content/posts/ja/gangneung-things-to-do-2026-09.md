@@ -64,6 +64,14 @@ sources:
   - { title: "正東深谷 バダプチェキル — 公式サイト", url: "http://searoad.gtdc.or.kr/buchae_intro.html" }
   - { title: "Visit Gangneung — 鏡浦台", url: "https://visitgangneung.net/pub/ruins.do?mode=v&seq=3" }
   - { title: "Visit Gangneung — 見どころ", url: "https://visitgangneung.net/pub/gnhot.do" }
+glance:
+  - { label: "主なスポット", value: "烏竹軒 · 船橋荘 · 鏡浦台と鏡浦海水浴場 · 正東津 · 正東深谷バダプチェキル" }
+  - { label: "料金", value: "烏竹軒 大人3,000ウォン · 船橋荘 5,000ウォン · バダプチェキル 5,000ウォン · 鏡浦台 無料" }
+  - { label: "時間", value: "烏竹軒・船橋荘 9〜18時 · バダプチェキル 9〜17時30分 · 冬は短縮" }
+  - { label: "所要時間", value: "烏竹軒は博物館込みで1時間半 · 鏡浦の浜・湖・楼閣は半日" }
+  - { label: "アクセス", value: "鏡浦は202・202-1・202-2番バス · 正東津は112番バスか江陵駅から列車17分" }
+  - { label: "おすすめ時期", value: "毎月最終水曜は烏竹軒が半額 · 日の出祭りは12月31日〜1月1日（宿は数か月前に売り切れ）" }
+  - { label: "公式案内", value: "Visit Gangneung 見どころ", url: "https://visitgangneung.net/pub/gnhot.do" }
 draft: false
 ---
 

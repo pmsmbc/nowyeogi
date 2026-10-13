@@ -68,6 +68,13 @@ sources:
   - { title: "空港鉄道（AREX） — ソウル駅 時刻表", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "空港鉄道（AREX） — 仁川空港第1ターミナル駅 時刻表", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "空港鉄道（AREX） — 仁川空港第2ターミナル駅 時刻表", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "おすすめエリア", value: "大きなホテルは楽園洞 · 韓屋は勧農洞の栗谷路10ギル · ホステルは益善洞の三一大路32ガギル" }
+  - { label: "おすすめの宿", value: "イビス・アンバサダー・ソウル仁寺洞（363室）· オラカイ仁寺洞スイーツ（213室）· モクシー・ソウル仁寺洞（140室）" }
+  - { label: "韓屋の宿", value: "月雲（一棟貸し、最大8人） · ソウルアリ（2階建て一棟貸し） · ステイモイル" }
+  - { label: "宿の数", value: "観光宿泊業27軒（1,148室） · 宿泊業74軒（2,664室） · 韓屋体験業14か所" }
+  - { label: "アクセス", value: "鍾路3街駅（1・3・5号線） · 勧農洞側は安国駅（3号線）" }
+  - { label: "空港バス", value: "6002番 鍾路3街の終発20:45 · 6011番 昌徳宮20:42 · 大人17,000ウォン" }
 draft: false
 ---
 

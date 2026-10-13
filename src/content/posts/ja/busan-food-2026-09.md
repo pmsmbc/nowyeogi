@@ -34,6 +34,14 @@ sources:
   - { title: "釜山広域市 公式観光案内 Visit Busan", url: "https://www.visitbusan.net/jp/index.do" }
   - { title: "チャガルチ市場 公式サイト", url: "https://www.bisco.or.kr/jagalchimarket/" }
   - { title: "韓国観光公社 — テジクッパ", url: "https://japanese.visitkorea.or.kr/" }
+glance:
+  - { label: "主な料理", value: "テジクッパ · ミルミョン · シアッホットク" }
+  - { label: "主なスポット", value: "チャガルチ市場 · 国際市場・BIFF広場 · 海雲台市場" }
+  - { label: "予算", value: "テジクッパ9,000〜12,000ウォン · ミルミョン6,000〜8,000ウォン · シアッホットク2,000ウォン" }
+  - { label: "時間", value: "チャガルチ5:00〜22:00（第1・第3・第5火曜休み） · 国際市場は毎週日曜休み" }
+  - { label: "アクセス", value: "チャガルチ駅（1号線）から徒歩2分 · 海雲台市場は駅から徒歩5分" }
+  - { label: "おすすめ時期", value: "海鮮は午前中 · 南浦洞は昼食と屋台、夜は西面" }
+  - { label: "公式案内", value: "チャガルチ市場 公式サイト", url: "https://www.bisco.or.kr/jagalchimarket/" }
 draft: false
 ---
 

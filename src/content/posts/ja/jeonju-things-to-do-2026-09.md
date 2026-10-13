@@ -71,6 +71,14 @@ sources:
   - { title: "全州市観光 — 南部市場 夜市", url: "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101006003000&paging=ok&startPage=1&dataSid=16085" }
   - { title: "全州韓紙博物館 公式サイト", url: "https://hanjimuseum.co.kr/" }
   - { title: "全州韓屋村 — 路地", url: "https://hanok.jeonju.go.kr/contents/alleyway1" }
+glance:
+  - { label: "主なスポット", value: "慶基殿 · 殿洞聖堂 · 梧木台 · 全州郷校 · 南部市場の夜市 · 全州韓紙博物館 · 徳津公園" }
+  - { label: "料金", value: "慶基殿 大人3,000ウォン（最終水曜無料） · ほかは無料 · 紙漉き体験5,000ウォン〜" }
+  - { label: "時間", value: "慶基殿 09:00〜19:00（夏20:00、冬18:00まで） · 郷校は月曜休み · 夜市は金・土17〜23時" }
+  - { label: "所要時間", value: "慶基殿は1時間、殿洞聖堂と合わせて90分 · 梧木台は村から階段で10分" }
+  - { label: "アクセス", value: "ほぼ韓屋村の中か、すぐそばで徒歩 · 韓紙博物館と徳津公園は徳津区なので別行程" }
+  - { label: "おすすめ時期", value: "郷校のイチョウは11月 · 徳津公園の蓮は7〜8月 · 梧木台は夕方の光 · 夜市は金・土" }
+  - { label: "公式案内", value: "全州韓屋村 見どころ", url: "https://hanok.jeonju.go.kr/contents/place" }
 draft: false
 ---
 

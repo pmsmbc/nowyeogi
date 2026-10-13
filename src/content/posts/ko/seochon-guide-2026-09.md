@@ -112,6 +112,13 @@ sources:
   - { title: "종로문화재단 — 윤동주문학관 관람 안내 (매주 월요일 휴관)", url: "https://www.jfac.or.kr/site/main/content/yoondj01" }
   - { title: "종로문화재단 — 박노수미술관 관람 안내 (매주 월요일 휴관)", url: "https://www.jfac.or.kr/site/main/content/parkns01" }
   - { title: "한국관광공사 TourAPI — 서촌마을, 통인시장(1941년 공설시장, 점포 70여 개), 수성동계곡 (2026-10-02 조회)", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "위치", value: "경복궁 서쪽과 인왕산 사이, 종로구 체부동 외 14개 동 일대" }
+  - { label: "교통", value: "3호선 경복궁역 · 수성동 계곡은 마을버스 종로09 · 공항리무진 6011 경복궁역 정차" }
+  - { label: "핵심 장소", value: "통인시장 · 수성동 계곡 · 박노수미술관 · 윤동주문학관 · 경복궁 서쪽 담장길" }
+  - { label: "추천 일정", value: "오전 통인동·시장 → 점심 통인시장 → 오후 옥인동·수성동 계곡 → 해질녘 통의동" }
+  - { label: "요금", value: "골목 산책·수성동 계곡 무료 (통인시장 도시락카페 11:00~15:00)" }
+  - { label: "추천 시기", value: "경복궁이 쉬는 화요일에 알맞음 · 월요일은 문학관·미술관 휴관" }
 draft: false
 ---
 

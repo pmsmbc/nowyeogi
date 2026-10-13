@@ -138,6 +138,13 @@ sources:
   - { title: "Seoul Mediahub — Seoul Edition 25 alley trips (2026-08-12, Euljiro 3-ga exits 3, 4, 10, 11; Euljiro 4-ga exits 1, 2)", url: "https://opengov.seoul.go.kr/mediahub/36733867" }
   - { title: "kfenews — 'Matryoshka' Chuseok discount (2026-09-22, Myeongbo Art Hall Raon Hall, until 3 January 2027)", url: "https://www.kfenews.co.kr/news/articleView.html?idxno=665146" }
   - { title: "Korea Tourism Organization TourAPI — Sewoon Sangga, Sewoon Electronics Market, Cheonggye lighting market, Euljiro steel furniture street, Chungmuro printing alley, Inhyeon Market, Euljiro Nogari Alley, Cheonggyecheon and Myeongbo Art Hall basic information", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Key spots", value: "Sewoon Sangga · printing alleys · Inhyeon Market · Cheonggyecheon bridges · Bangsan Market · Nogari Alley" }
+  - { label: "Admission", value: "All sights free · guided walk free · Sewoon car park ₩500 per 5 minutes" }
+  - { label: "Hours", value: "Sewoon, Cheonggye and Daelim buildings Mon-Sat 09:00-19:00, closed Sundays and holidays · stream always open" }
+  - { label: "Getting there", value: "Jongno 3-ga exit 12 (Lines 1, 3, 5) · Euljiro 4-ga exit 1 (Lines 2, 5)" }
+  - { label: "Best time", value: "Weekday or Saturday daytime · most buildings shut Sundays and holidays · Nogari Alley in the evening" }
+  - { label: "Booking", value: "Yi Sun-sin Road walk Wed/Fri/Sat 10:00 and 14:00 · book five days ahead · none Dec-Feb", url: "https://www.junggu.seoul.kr/tour/content.do?cmsid=16792" }
 draft: false
 ---
 

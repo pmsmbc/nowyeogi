@@ -1,0 +1,35 @@
+---
+import type { Lang } from '../site.config';
+import type { Post } from '../lib/posts';
+import { t } from '../i18n/ui';
+
+type Row = Post['data']['glance'][number];
+interface Props { rows: Row[]; lang: Lang }
+const { rows, lang } = Astro.props;
+const id = 'glance-title';
+---
+<section class="glance prose" aria-labelledby={id}>
+  <h2 class="glance-title" id={id}>{t(lang, 'post.glance')}</h2>
+  <div class="table-wrap" tabindex="0">
+    <table>
+      <tbody>
+        {rows.map((r) => (
+          <tr>
+            <th scope="row">{r.label}</th>
+            <td>{r.url ? <a href={r.url} target="_blank" rel="noopener noreferrer nofollow">{r.value}<span class="visually-hidden"> ({t(lang, 'a11y.newWindow')})</span></a> : r.value}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</section>
+<style>
+  .glance { margin-bottom: 1.5rem; }
+  .glance-title { border: 0; margin-top: 0; padding-top: 0; font-size: 1.2rem; margin-bottom: .6rem; }
+  .glance .table-wrap { margin: 0; border: 1px solid var(--c-line); border-radius: var(--radius); background: var(--c-surface); box-shadow: var(--shadow-sm); }
+  .glance table { font-size: .95rem; }
+  .glance th { width: 7.5em; white-space: nowrap; background: var(--c-primary-soft); color: var(--c-muted); font-weight: 600; vertical-align: top; }
+  .glance td { vertical-align: top; }
+  .glance tr:last-child th, .glance tr:last-child td { border-bottom: 0; }
+  @media (max-width: 480px) { .glance th { width: 5.5em; white-space: normal; } }
+</style>

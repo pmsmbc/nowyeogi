@@ -164,6 +164,13 @@ sources:
   - { title: "다이닝코드 — 카페 우즈베키스탄 (광희동1가 121, 2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=KKj370cGx1hR" }
   - { title: "다이닝코드 — 스타사마르칸트 (을지로6가, 2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=sK2iF7AzOCWO" }
   - { title: "다이닝코드 — 러시아 케익 (을지로42길 7, 2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=BGnWT2KFtGYP" }
+glance:
+  - { label: "핵심 가게", value: "진옥화할매원조닭한마리 · 호남집 · 마복림할머니집 · 금돼지식당" }
+  - { label: "예산", value: "닭한마리 33,000원 · 즉석떡볶이 2인 세트 17,000원 · 생선구이 13,000원 안팎" }
+  - { label: "예약", value: "금돼지식당 예약 불가 · 고사리 익스프레스 직접 예약 · 에베레스트 레스토랑 전화 예약 가능" }
+  - { label: "교통", value: "동대문역(1·4호선) 닭한마리 골목 · 신당역(2·6호선) 떡볶이 골목 · 동대문역사문화공원역 광희동" }
+  - { label: "추천 시간대", value: "저녁은 종로5가 골목, 늦은 밤은 신당동 · 막내아들네·동대문 한국통닭은 24시간" }
+  - { label: "가장 싼 한 끼", value: "동대문 한국통닭 통닭 4,500원 · 동문식당 콩나물비빔밥 5,000원 (착한가격업소)", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
 draft: false
 ---
 

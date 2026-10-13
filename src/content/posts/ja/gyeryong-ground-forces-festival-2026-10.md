@@ -56,6 +56,14 @@ sources:
   - { title: "뉴스프라임 (2025-09-17) — 육군, 2025 지상군페스티벌 개최 (2002년 대전 시작, 2008년 계룡대 이전)", url: "https://www.newsprime.co.kr/news/article/?no=704714" }
   - { title: "위키백과 — 계룡역 (정차 열차)", url: "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%97%AD" }
   - { title: "한국관광공사 TourAPI — 지상군페스티벌, 동학사", url: "https://kto.visitkorea.or.kr/" }
+glance:
+  - { label: "期間", value: "2026年10月1日（木）〜5日（月）9:00〜17:00 · 開幕日の10月1日のみ21:00まで" }
+  - { label: "場所", value: "忠清南道 鶏龍市 神都案面、鶏龍台の滑走路一帯" }
+  - { label: "料金", value: "入場無料 · 駐車無料 · シャトルバス無料" }
+  - { label: "アクセス", value: "鶏龍駅（湖南線KTX・ITXセマウル・ムグンファ号）から無料シャトル 8:50〜17:40、10〜15分間隔", url: "https://armyfest.or.kr/armyfests/5077/subview.do" }
+  - { label: "駐車場", value: "無料、第1駐車場3,178台（계룡대로 734）など · 第1正門前は進入禁止、ナビは駐車場の住所に" }
+  - { label: "おすすめ時期", value: "ブラックイーグルスは10月3日（土）16:30〜16:40の1回だけ · 搭乗体験は午前 · 高高度降下は14:40" }
+  - { label: "問い合わせ", value: "プログラム042-550-5311 · 交通042-550-5333（韓国語） · armyfest.or.kr", url: "https://armyfest.or.kr" }
 draft: false
 ---
 

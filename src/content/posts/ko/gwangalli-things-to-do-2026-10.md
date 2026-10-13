@@ -108,6 +108,14 @@ sources:
   - { title: "한국관광공사 관광정보 — 밀락더마켓·크레이지서퍼스·더요트·황령산 전망대", url: "https://kto.visitkorea.or.kr/" }
   - { title: "더요트 공식 사이트", url: "https://www.theyacht.co.kr/" }
   - { title: "Gwangan Bridge — Wikipedia", url: "https://en.wikipedia.org/wiki/Gwangan_Bridge" }
+glance:
+  - { label: "핵심 장소", value: "광안리 M 드론라이트쇼 · 민락수변공원 · 밀락더마켓 · 황령산 전망대" }
+  - { label: "시간", value: "드론쇼 매주 토요일 19:00·21:00(10~2월) · 첫째·셋째 토요일은 레이저쇼 포함" }
+  - { label: "요금", value: "드론쇼·해변·수변공원·밀락더마켓·전망대 무료 · SUP 대여 35,000원 · 요트 투어 14,900원부터" }
+  - { label: "교통", value: "2호선 광안역 5번 출구에서 해변 중앙 도보 13분 · 남천동 쪽은 금련산역 · 김해공항에서 1시간 안쪽" }
+  - { label: "추천 일정", value: "16:30 민락수변공원 → 밀락더마켓 → 해변 중앙 노을 → 19:00 드론쇼 → 저녁 → 21:00 2회차" }
+  - { label: "주의", value: "민락수변공원은 금주구역(과태료 5만 원) · 드론쇼는 비·강풍이면 취소, 공식 공지 확인" }
+  - { label: "공식 안내", value: "광안리 M 드론라이트쇼 공식 사이트(영어 안내·취소 공지)", url: "https://www.gwangallimdrone.co.kr/en/home" }
 draft: false
 ---
 

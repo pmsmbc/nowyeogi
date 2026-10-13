@@ -116,6 +116,13 @@ sources:
   - { title: "Korea JoongAng Daily — Catch Table launches English version (2022-11-09)", url: "https://www.koreajoongangdaily.com/lifestyle/restaurant-reservation-app-catch-table-launches-english-version/10502999" }
   - { title: "KoreaTechDesk — 서울시·캐치테이블 외국인 예약·원격 줄서기 협약", url: "https://koreatechdesk.com/?p=17701" }
   - { title: "HalalSpy — Halal Food in Busan (2026년 3월 확인)", url: "https://halalspy.com/halal-food-guide/asia/busan/" }
+glance:
+  - { label: "핵심 가게", value: "해운대암소갈비집 · 해운대 원조할매국밥 · 상국이네 · 수민이네" }
+  - { label: "예산", value: "국밥 9,500~11,000원 · 조개구이 시세 · 한우 갈비 1인 수만 원대" }
+  - { label: "예약", value: "암소갈비집 생갈비는 일주일 전 예약 가능 · 줄서기는 캐치테이블 앱" }
+  - { label: "교통", value: "2호선 해운대역(구남로·시장) · 중동역(미포·밀면) · 센텀시티역(백화점)" }
+  - { label: "추천 시기", value: "생갈비는 점심 전 · 가야밀면은 11시 전후나 오후 늦게" }
+  - { label: "휴무", value: "상국이네 수요일 · 센텀시티 식당가 2026년 10월 19일" }
 draft: false
 ---
 

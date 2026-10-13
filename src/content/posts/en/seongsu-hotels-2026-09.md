@@ -63,6 +63,12 @@ sources:
   - { title: "Airport Limousine — Route 6010 (Wangsimni / Eungbong / Hannam / Dongbu Ichon-dong) stops and timetables", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=16" }
   - { title: "AREX — Gongdeok Station timetable", url: "https://www.airportrailroad.com/train/normal/info/020/0" }
   - { title: "AREX — All-stop train fares", url: "https://www.airportrailroad.com/train/normal/fare" }
+glance:
+  - { label: "Where to stay", value: "Hotel POCO Seongsu (the only tourist hotel in Seongsu-dong 1-ga and 2-ga, 80 rooms, 2 min from Seongsu Station)" }
+  - { label: "Best areas", value: "Inside Seongsu: 1 hotel, 7 hostels, 14 inns · larger hotels are at Konkuk University (Gwangjin-gu) or Wangsimni" }
+  - { label: "Who it's for", value: "The 140 homestays are for foreign visitors only · Korean nationals use the hotel, hostels or inns" }
+  - { label: "Getting there", value: "Seongsu and Ttukseom (Line 2) · airport bus 6013, last from Seongsu 119 Center 20:43, ₩17,000" }
+  - { label: "Booking", value: "Homestays have no 24-hour front desk · get check-in instructions before a late arrival" }
 draft: false
 ---
 

@@ -72,6 +72,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "위치", value: "인사동 쪽 · 종로2~4가·청계천 쪽 · 대학로 (종로구 22개 동)" }
+  - { label: "숙소 수", value: "관광호텔 12곳 · 호스텔 34곳 (1,853실) · 도시민박 183곳 · 한옥 26곳" }
+  - { label: "추천 구역", value: "큰 호텔은 인사동 쪽 · 호스텔은 관수동·종로4가·효제동 · 도시민박은 대학로" }
+  - { label: "추천 숙소", value: "나인트리 바이 파르나스 서울 인사동 · 아미드 호텔 서울 · 오라카이 대학로 호텔 · 호텔베뉴지" }
+  - { label: "교통", value: "1·3·5호선 종로3가역 · 3호선 안국역(인사동 쪽) · 4호선 혜화역(대학로) · 공항철도는 서울역 환승" }
+  - { label: "공항버스", value: "6002번 종로3가 막차 20:45 · 6011번 창경궁 20:39 · 성인 17,000원" }
 draft: false
 ---
 

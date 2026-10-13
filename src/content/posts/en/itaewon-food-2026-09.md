@@ -237,6 +237,14 @@ sources:
   - { title: "Seoul Metropolitan Government — 해방촌 신흥시장 도시재생 (2021-03-29)", url: "https://news.seoul.go.kr/citybuild/archives/512062" }
   - { title: "Seoul city media hub — 해방촌 신흥시장이 새로 쓰는 해방일지 (2023-07-21)", url: "https://mediahub.seoul.go.kr/archives/2008539" }
   - { title: "Seoul city media hub — '건축상 수상' 해방촌 신흥시장 (2024-09-11)", url: "https://mediahub.seoul.go.kr/archives/2012201" }
+glance:
+  - { label: "Key eats", value: "Mosu · Soul · ALT.a · Bogwangjeong Itaewon" }
+  - { label: "Key spots", value: "Usadan-ro halal streets below Seoul Central Mosque · Haebangchon Sinheung Market" }
+  - { label: "Budget", value: "Bogwangjeong stew or noodles ₩8,000 · Myeonmaru spicy pork ₩8,000 (published good-price figures)" }
+  - { label: "Booking", value: "Chez Nous Private Kitchen is dinner only and needs a reservation (MICHELIN)" }
+  - { label: "Getting there", value: "Itaewon Station (Line 6) exit 3 for Usadan-ro · Noksapyeong Station (Line 6) for Gyeongnidan-gil and Haebangchon" }
+  - { label: "Best time", value: "Early: Tepom from 07:00 Mon–Sat · Late: Kkuttijareudang until 03:00 Fri–Sat" }
+  - { label: "Official info", value: "KTO Muslim-friendly list: 22 places as of December 2021 · check the certificate on site today", url: "https://english.visitkorea.or.kr/svc/thingsToDo/subMuslimFriendly.do" }
 draft: false
 ---
 

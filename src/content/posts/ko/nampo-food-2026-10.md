@@ -123,6 +123,13 @@ sources:
   - { title: "Trip.com Moments — 할매가야밀면 (영업시간·가격 후기)", url: "https://nz.trip.com/moments/poi-halmae-gaya-milmyeon-17199762" }
   - { title: "GQ Korea — 영도 카페 (무명일기 봉래나루로 178)", url: "https://www.gqkorea.co.kr/?p=145667" }
   - { title: "트래블맵저니 — 부산 남포동 먹자골목 가이드, 호떡·떡볶이 가격 (2026년 1월 기준)", url: "https://travelmapjourney.com/busan-nampo-food-alley-guide/" }
+glance:
+  - { label: "핵심 장소", value: "자갈치시장 · 국제시장 먹자골목 · 비프광장 · 부평깡통야시장", url: "https://www.bisco.or.kr/jagalchimarket/" }
+  - { label: "핵심 가게", value: "18번완당집 · 양산집 · 부산족발 · 할매가야밀면" }
+  - { label: "예산", value: "자갈치 상차림비 1인 5,000원 선 · 회정식 20,000원 · 밀면 8,000원" }
+  - { label: "시간", value: "자갈치 05:00~22:00 (1·3·5째 화요일 휴무) · 야시장 19:30~24:00" }
+  - { label: "교통", value: "1호선 남포역 2번 출구·자갈치역 10번 출구에서 걸어서 6분" }
+  - { label: "추천 일정", value: "점심은 자갈치 2층, 간식은 비프광장, 저녁은 깡통야시장" }
 draft: false
 ---
 

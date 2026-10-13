@@ -72,6 +72,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "場所", value: "仁寺洞側・鍾路2〜4街・清渓川側・大学路（鍾路区の22の洞）" }
+  - { label: "宿の数", value: "観光ホテル12軒・ホステル34軒（1,853室）・都市民泊183か所・韓屋26か所" }
+  - { label: "おすすめエリア", value: "大型ホテルは仁寺洞側・ホステルは貫水洞・鍾路4街・孝悌洞・都市民泊は大学路" }
+  - { label: "おすすめの宿", value: "ナインツリー・バイ・パルナス ソウル仁寺洞・アミッドホテル ソウル・オラカイ大学路ホテル・ホテルベニューG" }
+  - { label: "アクセス", value: "鍾路3街駅（1・3・5号線）・安国駅（3号線、仁寺洞側）・恵化駅（4号線、大学路）・空港鉄道はソウル駅乗り換え" }
+  - { label: "空港バス", value: "6002番 鍾路3街 終発20:45・6011番 昌慶宮 終発20:39・大人17,000ウォン" }
 draft: false
 ---
 

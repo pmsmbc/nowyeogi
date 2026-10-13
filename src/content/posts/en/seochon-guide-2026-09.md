@@ -112,6 +112,13 @@ sources:
   - { title: "종로문화재단 — 윤동주문학관 관람 안내 (매주 월요일 휴관)", url: "https://www.jfac.or.kr/site/main/content/yoondj01" }
   - { title: "종로문화재단 — 박노수미술관 관람 안내 (매주 월요일 휴관)", url: "https://www.jfac.or.kr/site/main/content/parkns01" }
   - { title: "한국관광공사 TourAPI — 서촌마을, 통인시장(1941년 공설시장, 점포 70여 개), 수성동계곡 (2026-10-02 조회)", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Where", value: "Between Gyeongbokgung Palace and Inwangsan, Chebu-dong and 14 other dong, Jongno-gu" }
+  - { label: "Getting there", value: "Gyeongbokgung Station (Line 3) · village bus Jongno 09 to Suseongdong Valley · airport bus 6011" }
+  - { label: "Key spots", value: "Tongin Market · Suseongdong Valley · Park No-soo Art Museum · Yun Dong-ju Literature Museum" }
+  - { label: "Suggested plan", value: "Morning Tongin-dong → lunch at Tongin Market → afternoon Ogin-dong and the valley → Tongui-dong" }
+  - { label: "Admission", value: "Alleys and Suseongdong Valley are free (Tongin lunchbox cafe 11:00–15:00)" }
+  - { label: "Best time", value: "A good Tuesday plan, when Gyeongbokgung is closed · museums close Mondays" }
 draft: false
 ---
 

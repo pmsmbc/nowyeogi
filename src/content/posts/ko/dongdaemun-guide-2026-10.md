@@ -120,6 +120,13 @@ sources:
   - { title: "서울시 내 손안에 서울 — 사람 사는 냄새 물씬~ '동묘 벼룩시장' 나들이! (2023-03-03, 1980년대 말 형성)", url: "https://mediahub.seoul.go.kr/archives/2007137" }
   - { title: "위키백과 — 신당동 (서울) (神堂에서 新堂으로, 광희문 밖 무당촌)", url: "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%8B%B9%EB%8F%99_(%EC%84%9C%EC%9A%B8)" }
   - { title: "중구관광 — 광희동 중앙아시아거리 (1990년대 초 한·러 수교 이후 형성, 몽골타워)", url: "https://www.junggu.seoul.kr/tour/content.do?cmsid=15027&contentId=3512" }
+glance:
+  - { label: "위치", value: "종로구(흥인지문·창신동·동묘)와 중구(DDP·패션타운), 경계는 청계천" }
+  - { label: "교통", value: "2·4·5호선 동대문역사문화공원역(DDP) · 1·4호선 동대문역(흥인지문)" }
+  - { label: "핵심 장소", value: "DDP · 흥인지문 · 동대문역사문화공원(이간수문) · 동묘", url: "https://ddp.or.kr/?menuno=307" }
+  - { label: "요금", value: "DDP 건물·광장, 흥인지문, 동대문역사관, 동묘 모두 무료 (전시는 별도)" }
+  - { label: "추천 일정", value: "오전 동묘 → 점심 무렵 흥인지문 → 오후 DDP → 저녁 광희동·신당동 → 밤 쇼핑몰" }
+  - { label: "시간", value: "DDP 10:00~20:00 · 동대문역사관 10:00~19:00(월 휴관) · 도매상가 밤 9시~아침 7시" }
 draft: false
 ---
 

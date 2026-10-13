@@ -63,6 +63,12 @@ sources:
   - { title: "공항리무진 — 6010번 (왕십리/응봉동/한남역/동부이촌동) 노선 및 정류장별 시간표", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=16" }
   - { title: "공항철도(AREX) — 공덕역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/020/0" }
   - { title: "공항철도(AREX) — 일반열차 운임안내", url: "https://www.airportrailroad.com/train/normal/fare" }
+glance:
+  - { label: "추천 숙소", value: "호텔 포코 성수 (성수동1·2가의 유일한 관광호텔, 80실, 성수역 도보 2분)" }
+  - { label: "추천 구역", value: "성수 안은 호텔 1곳·호스텔 7곳·여관 14곳 · 큰 호텔은 건대입구(광진구)나 왕십리" }
+  - { label: "대상", value: "도시민박 140곳은 외국인 전용 · 내국인은 호텔·호스텔·여관 중에서" }
+  - { label: "교통", value: "2호선 성수역·뚝섬역 · 공항리무진 6013 성수119센터 막차 20:43, 성인 17,000원" }
+  - { label: "예약", value: "도시민박은 24시간 프런트 없음 · 늦게 도착하면 체크인 방법 미리 받기" }
 draft: false
 ---
 

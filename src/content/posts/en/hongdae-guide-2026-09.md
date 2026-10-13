@@ -85,6 +85,14 @@ sources:
   - { title: "위키백과 — 합정역 (2호선 1984-05-22, 6호선 2000-12-15)", url: "https://ko.wikipedia.org/wiki/%ED%95%A9%EC%A0%95%EC%97%AD" }
   - { title: "위키백과 — 상수역 (6호선 2000-12-15, 부역명 홍익대학교)", url: "https://ko.wikipedia.org/wiki/%EC%83%81%EC%88%98%EC%97%AD" }
   - { title: "한국관광공사 TourAPI — 홍대걷고싶은거리 기본 정보 (2016년 10월~2017년 7월 조성, 어울마당로 약 500m)", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Where", value: "In front of Hongik University across Seogyo, Donggyo, Sangsu and Hapjeong-dong, Mapo-gu (1.13 km² tourist zone)" }
+  - { label: "Getting there", value: "Hongik Univ. Station (Line 2, AREX, Gyeongui) · Sangsu Station (Line 6) · Hapjeong Station (Lines 2, 6)" }
+  - { label: "Key spots", value: "Red Road (about 2 km) · Walking Street and Eoulmadang-ro · Gyeongui Line Book Street · Danginri power plant" }
+  - { label: "Suggested plan", value: "Exit 6 Book Street → buskers on Eoulmadang-ro → dinner near Sangsu or Hapjeong → clubs and live venues" }
+  - { label: "Best time", value: "Last weekend of October and December weekend nights draw huge crowds (Halloween peak 140,000); use Sangsu or Hapjeong" }
+  - { label: "E-scooters", value: "Banned on the Red Road 12:00–23:00 daily, ₩30,000 fine (permanent from 30 September 2026)" }
+  - { label: "Contact", value: "Mapo Tourist Information Center (Red Road R2, 140 Eoulmadang-ro) +82-2-334-7878" }
 draft: false
 ---
 

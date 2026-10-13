@@ -72,6 +72,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "Where", value: "Insadong side, Jongno 2–4-ga & Cheonggyecheon side, Daehak-ro (22 dong in Jongno-gu)" }
+  - { label: "How many", value: "12 tourist hotels, 34 hostels (1,853 rooms), 183 homestays, 26 hanok stays" }
+  - { label: "Best areas", value: "Big hotels on the Insadong side, hostels in Gwansu-dong, Jongno 4-ga and Hyoje-dong, homestays in Daehak-ro" }
+  - { label: "Where to stay", value: "Nine Tree by Parnas Seoul Insadong · Amid Hotel Seoul · Orakai Daehakro Hotel · Hotel Venue G" }
+  - { label: "Getting there", value: "Jongno 3-ga Station (Lines 1, 3, 5), Anguk (Line 3), Hyehwa (Line 4); AREX via Seoul Station" }
+  - { label: "Airport bus", value: "6002 from Jongno 3-ga, last 20:45 · 6011 from Changgyeonggung, last 20:39 · ₩17,000 adult" }
 draft: false
 ---
 

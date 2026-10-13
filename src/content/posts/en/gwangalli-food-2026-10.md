@@ -114,6 +114,14 @@ sources:
   - { title: "Koreabridge — 광안리 M 드론라이트쇼 일정", url: "https://koreabridge.net/event/gwangalli-drone-show" }
   - { title: "KNN — 광안리 관광객 급증에 따른 주민 소음·쓰레기 민원 (2025)", url: "https://news.knn.co.kr/news/article/176672" }
   - { title: "폴레 — 조개대표 광안본점·개미집 광안리직영·컵앤컵·뚜벅스 메뉴판", url: "https://polle.com/place/4IhygZ/%EC%A1%B0%EA%B0%9C%EB%8C%80%ED%91%9C" }
+glance:
+  - { label: "Key eats", value: "Anmok (pork soup) · 100.1 Pyeongnaeng (cold noodles) · Millak fish market (raw fish) · Jogae Daepyo (shellfish)" }
+  - { label: "Budget", value: "Pork soup ₩10,000 · cheese shellfish grill ₩35,500 per person · table charge about ₩5,000–6,000" }
+  - { label: "Booking", value: "Anmok by phone only · 100.1 Pyeongnaeng and Jogae Daepyo via Naver · queues via the Tabling tablet" }
+  - { label: "Hours", value: "Anmok closed Wednesday · fish market closed 2nd and 4th Tuesday · Subyeon Choego pork soup 24 hours" }
+  - { label: "Getting there", value: "Gwangan (Line 2) exit 5, 13 min walk · Geumnyeonsan for Namcheon-dong · fish market at eastern end" }
+  - { label: "Best time", value: "Cafes by day, Millak raw fish at sunset, Saturday drone show (19:00 and 21:00 Oct–Feb), then pork soup" }
+  - { label: "Note", value: "Millak Waterfront Park is a no-alcohol zone since July 2023, ₩50,000 fine for drinking" }
 draft: false
 ---
 

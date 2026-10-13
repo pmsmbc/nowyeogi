@@ -44,6 +44,14 @@ sources:
   - { title: "종로구 — 거리가게 정비실적 평가 최우수구", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuId=388338&menuNo=388338&nttId=250507" }
   - { title: "종로구 — 송해길 명예도로명", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuId=388338&menuNo=388338&nttId=249115" }
   - { title: "서울시 — 거리가게 허가제", url: "https://news.seoul.go.kr/traffic/archives/503438" }
+glance:
+  - { label: "위치", value: "종로구 돈화문로11길, 낙원상가~묘동사거리 약 250m 구간" }
+  - { label: "교통", value: "1·3·5호선 종로3가역 (5번 출구에서 낙원상가 114m)" }
+  - { label: "시간", value: "18:00~04:00 (종로구 2026-09-29 발표) · 오후 5시 무렵부터 천막 설치" }
+  - { label: "메뉴", value: "닭발 · 계란말이 · 우동 · 해물파전 (가격은 공식 자료에 없음)" }
+  - { label: "주의", value: "할로윈·연말연시는 운영 중단 권고 · 카드 결제 미확인, 현금 지참" }
+  - { label: "문의", value: "바가지요금 신고 서울시 02-120 · 관광안내전화 1330" }
+  - { label: "공식 안내", value: "서울관광재단 종로3가 포차 거리", url: "https://korean.visitseoul.net/editorspicks/yajang/KONddisdp" }
 draft: false
 ---
 

@@ -114,6 +114,14 @@ sources:
   - { title: "トリップダウム — 海雲台ブルーラインパーク予約方法（2026年10月の料金表）", url: "https://www.trvlogue.com/ko/busan-haeundae-blueline-park-booking-guide" }
   - { title: "釜山広域市 イベント案内 — 映画の殿堂シネマテーク2026", url: "https://www.busan.go.kr/eng/bsevents/1741418" }
   - { title: "テルトリップ — 海雲台海水浴場2026年開場案内（パラソル・シャワー料金）", url: "https://www.telltrip.com/domestic-travel/haeundae-beach-opens-for-2026-summer/" }
+glance:
+  - { label: "主なスポット", value: "冬柏島・ヌリマル · ブルーラインパーク（スカイカプセル） · 青沙浦タリットル展望台 · タルマジ道" }
+  - { label: "料金", value: "スカイカプセル2人5万ウォン（1台） · ビーチトレイン1万ウォン · X the SKY 2.7〜2.9万ウォン", url: "https://www.bluelinepark.com/eng/fare.do" }
+  - { label: "時間", value: "ビーチトレイン09:00〜19:30 · スカイカプセル08:30〜18:30 · ヌリマル09:00〜18:00" }
+  - { label: "予約", value: "スカイカプセルのオンライン販売は毎週火曜07:00に4週間後の週の分が開く" }
+  - { label: "所要時間", value: "半日なら4〜5時間 · 冬柏島からタルマジまで一本に歩けば1日" }
+  - { label: "アクセス", value: "冬柏駅（2号線）冬柏島 · 海雲台駅3・5番出口 砂浜 · 中洞駅 X the SKY・尾浦" }
+  - { label: "おすすめ時期", value: "X the SKYは日没の1時間前に上がる" }
 draft: false
 ---
 

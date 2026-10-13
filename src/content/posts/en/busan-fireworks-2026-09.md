@@ -46,6 +46,14 @@ sources:
   - { title: "Busan Fireworks Festival official — festival overview", url: "https://www.busanfireworks.com/content/overview" }
   - { title: "Busan Fireworks Festival official — ticket booking information", url: "https://www.busanfireworks.com/reservation" }
   - { title: "Interpark Ticket — 21st Busan Fireworks Festival", url: "https://tickets.interpark.com/goods/26009342" }
+glance:
+  - { label: "Dates", value: "Saturday 7 November 2026, 19:00–20:00 (intermission 19:15–19:25)" }
+  - { label: "Where", value: "Gwangalli Beach (219 Gwanganhaebyeon-ro, Suyeong-gu) · Igidae · Dongbaekseom" }
+  - { label: "Admission", value: "R seat (table and chair) ₩100,000 · S seat (chair) ₩70,000 · beach viewing free" }
+  - { label: "Booking", value: "NOL Ticket until 6 Nov 17:00 · max 4 tickets per person · tickets posted 12 Oct" }
+  - { label: "Hours", value: "Paid-seat entry from 15:00; not in your seat by 18:00 means no entry, no refund" }
+  - { label: "Getting there", value: "Walk from Gwangan or Geumnyeonsan Station (Line 2) · about 12 min from Seomyeon or Haeundae" }
+  - { label: "Contact", value: "051-713-5000 · official ticket booking information", url: "https://www.busanfireworks.com/reservation" }
 draft: false
 ---
 

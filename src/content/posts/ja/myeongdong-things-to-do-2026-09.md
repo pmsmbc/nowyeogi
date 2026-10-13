@@ -164,6 +164,14 @@ sources:
   - { title: "신세계백화점 — 본점 영업시간", url: "https://www.shinsegae.com/store/main.do?storeCd=SC00001" }
   - { title: "롯데백화점 — 본점 영업시간", url: "https://www.lotteshopping.com/store/main?cstrCd=0001" }
   - { title: "한국관광공사 TourAPI — 서울 명동성당·남산서울타워·남산케이블카·남대문시장·숭례문·2026 숭례문 파수의식·한국은행 화폐박물관·우표박물관·국립극단 명동예술극장·남산골한옥마을·안중근의사기념관·백범광장·남산예장공원 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "主なスポット", value: "明洞聖堂・Nソウルタワー・南大門市場・崇礼門・南山コル韓屋村" }
+  - { label: "料金", value: "Nソウルタワー展望台 大人29,000ウォン・南山ケーブルカー往復15,000ウォン・博物館と韓屋村は無料", url: "https://www.nseoultower.co.kr/visit/use2.asp" }
+  - { label: "時間", value: "展望台 平日10:00〜22:30、土日祝10:00〜23:00・ケーブルカー10:00〜23:00" }
+  - { label: "休み", value: "崇礼門・貨幣博物館・切手博物館・韓屋村は月曜・南大門市場は日曜ほぼ休み" }
+  - { label: "アクセス", value: "明洞駅・会賢駅（4号線）・南山は循環バス01A・01Bかケーブルカー（明洞駅3番出口から徒歩10分）" }
+  - { label: "おすすめ時期", value: "南山の紅葉は10月末〜11月初め" }
+  - { label: "免税", value: "即時還付は1回100万ウォン未満・累計500万ウォン以下・1万5千ウォン以上・3か月以内に持ち出し" }
 draft: false
 ---
 

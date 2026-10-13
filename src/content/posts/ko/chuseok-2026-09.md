@@ -44,6 +44,14 @@ sources:
   - { title: "공항철도 — 추석 연휴 막차 운행 구간 연장", url: "https://www.arex.or.kr/contentView.do?menuNo=MN202602270000000001&contentNo=CT202609160000000001&etcNo=" }
   - { title: "국가유산진흥원 — 2026 국가유산 명절이음", url: "https://www.kh.or.kr/brd/board/715/L/menu/373?brdType=R&bbIdx=119827" }
   - { title: "국가유산청 보도자료 — 추석 맞아 궁·능 무료개방 (2026-09-18)", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
+glance:
+  - { label: "기간", value: "2026년 9월 24일(목)~27일(일) 나흘 · 대체공휴일 없음, 28일(월)은 평일" }
+  - { label: "요금", value: "경복궁·창덕궁·덕수궁·창경궁·종묘·조선왕릉 나흘간 무료(창덕궁 후원 제외) · 한복 착용 시 연중 무료" }
+  - { label: "휴관일", value: "국립중앙박물관·국립민속박물관·국립고궁박물관은 9월 25일 하루만 휴관" }
+  - { label: "닫는 곳", value: "서울 백화점 전부 9월 25일 휴점+점포별 하루 더 · 은행 창구 나흘간 휴무, 공항 환전소는 운영" }
+  - { label: "교통", value: "지하철·시내버스 막차 연장(새벽 1시)은 26·27일 이틀만 · 공항철도 막차 구간 연장도 26·27일" }
+  - { label: "행사", value: "국립민속박물관 추석한마당 9월 26·27일 10:00~17:00 무료 · 인천공항 2터미널 명절이음 9월 23·24일" }
+  - { label: "공식 안내", value: "국가유산청 보도자료 — 추석 맞아 궁·능 무료개방", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
 draft: false
 ---
 

@@ -75,6 +75,13 @@ sources:
   - { title: "空港鉄道（AREX）— ソウル駅 時刻表", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "空港鉄道（AREX）— 仁川空港第1ターミナル駅 時刻表", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "空港鉄道（AREX）— 一般列車 運賃案内", url: "https://www.airportrailroad.com/train/normal/fare" }
+glance:
+  - { label: "場所", value: "龍山区 梨泰院洞・解放村（龍山洞2街）" }
+  - { label: "おすすめの宿", value: "モンドリアン ソウル梨泰院（297室）・ハミルトンホテル（166室）・ヌベル ソウルホテル（71室）" }
+  - { label: "おすすめエリア", value: "ホテルは梨泰院駅周辺・都市民泊は梨泰院路16ギル・緑莎坪大路40ギル一帯・解放村の新興路" }
+  - { label: "アクセス", value: "梨泰院駅・緑莎坪駅（6号線）・空港鉄道からは孔徳で6号線に乗り換え1回" }
+  - { label: "空港バス", value: "6702番 梨泰院2洞住民センター・普成女子中高入口停留所・大人18,000ウォン・空港行き終発20:20", url: "https://www.klimousine.com/bus/limousine.php?bus_no=6702" }
+  - { label: "対象", value: "都市民泊225か所は外国人専用・韓国人はホテル・ホステル8軒と旅館6軒" }
 draft: false
 ---
 

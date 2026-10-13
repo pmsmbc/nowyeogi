@@ -32,6 +32,14 @@ sources:
   - { title: "Seoul Metropolitan Government — Climate Card (official)", url: "https://english.seoul.go.kr/policy/transportation/climate-card/" }
   - { title: "Trazy — Korea subway and T-money card guide (2026)", url: "https://blog.trazy.com/korea-subway-t-money-card-guide/" }
   - { title: "Unpackorea — Seoul bus and subway fares (2026)", url: "https://unpackorea.com/seoul-bus-subway-fares-2026-guide/" }
+glance:
+  - { label: "Who it's for", value: "First-time visitors riding the Seoul subway" }
+  - { label: "Fares", value: "Base fare with a transit card ₩1,550 for the first 10 km · single-ride ticket ₩1,500 plus ₩500 deposit" }
+  - { label: "Where to buy", value: "T-money card ₩3,000–5,000 at convenience stores (GS25, CU, 7-Eleven, Emart24), station machines, tourist counters" }
+  - { label: "Climate Card", value: "₩5,000 for one day to ₩20,000 for seven plus ₩3,000 card · worth it from about four rides a day · not valid on the airport railway" }
+  - { label: "Transfers", value: "Within 30 minutes of tapping out (60 minutes 21:00–07:00) · up to four transfers · tap in and out every time" }
+  - { label: "Hours", value: "Trains run roughly 05:30 to midnight · rush hour 07:30–09:00 and 18:00–19:30" }
+  - { label: "Official info", value: "Seoul Metropolitan Government transport fares", url: "https://news.seoul.go.kr/traffic/traffic_price" }
 draft: false
 ---
 

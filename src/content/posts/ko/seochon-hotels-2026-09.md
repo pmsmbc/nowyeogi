@@ -73,6 +73,12 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "추천 구역", value: "체부동 자하문로5가길·1다길 · 누하동 필운대로 골목 (한옥체험업 121곳 중 66곳)" }
+  - { label: "추천 숙소", value: "한옥에세이 서촌 · 누와 · 소소하우스 · 아담한옥" }
+  - { label: "대상", value: "호텔·호스텔 0곳 · 한옥체험업은 내국인도 가능 · 도시민박 116곳은 외국인 전용" }
+  - { label: "교통", value: "3호선 경복궁역 · 공항리무진 6011 경복궁역 막차 20:48, 성인 17,000원" }
+  - { label: "예약", value: "한옥은 24시간 프런트 의무 없음 · 늦은 도착이면 셀프 체크인 방법 미리 확인" }
 draft: false
 ---
 

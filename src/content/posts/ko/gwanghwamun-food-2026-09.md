@@ -174,6 +174,12 @@ sources:
   - { title: "다이닝코드 — 진주회관", url: "https://www.diningcode.com/profile.php?rid=3Iupq3x5RoJ6" }
   - { title: "다이닝코드 — 유림면", url: "https://www.diningcode.com/profile.php?rid=RibyrYTmx3ib" }
   - { title: "다이닝코드 — 고려삼계탕", url: "https://www.diningcode.com/profile.php?rid=3D2EVkSoU9hN" }
+glance:
+  - { label: "핵심 가게", value: "청진옥 · 이문설농탕 · 미진 · 유림면 · 남포면옥" }
+  - { label: "예산", value: "해장국 12,000원 · 설렁탕 15,000원 · 착한가격업소 뼈해장국 10,000원" }
+  - { label: "교통", value: "5호선 광화문역 · 1호선 종각역 · 1·2호선 시청역" }
+  - { label: "추천 시간대", value: "평일 점심 정오 전후는 줄이 길어요 · 아침은 청진옥(06:00)·무교동북어국집(07:00)" }
+  - { label: "시간", value: "부민옥·광화문국밥·진주회관·흥진옥은 일요일 휴무" }
 draft: false
 ---
 

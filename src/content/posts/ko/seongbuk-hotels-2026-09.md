@@ -29,6 +29,12 @@ sources:
   - { title: "국가법령정보센터 — 관광진흥법 시행령 [별표 1] 관광사업의 등록기준", url: "https://www.law.go.kr/법령/관광진흥법시행령" }
   - { title: "공항리무진 — 6011번 노선안내", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=17" }
   - { title: "서울한옥포털 — 성북동 한옥밀집지역", url: "https://hanok.seoul.go.kr/" }
+glance:
+  - { label: "추천 구역", value: "한성대입구역·성신여대입구 일대 (성북동 안 등록 숙박업 0곳, 성북구 54곳 1,283실은 언덕 아래)" }
+  - { label: "대상", value: "한옥에서 자고 싶다면 서촌·북촌으로 · 성북구 한옥 숙소 7곳은 모두 언덕 아래" }
+  - { label: "교통", value: "4호선 한성대입구역 · 공항리무진 6011 한성대입구 정차, 공항 방면 막차 20:33, 성인 17,000원" }
+  - { label: "예약", value: "한옥 숙소는 24시간 프런트 없음 · 늦게 도착하면 미리 연락" }
+  - { label: "추천 일정", value: "성북동은 낮에 반나절 · 가파르니 짐 들고 언덕 오르지 않기" }
 draft: false
 ---
 

@@ -27,6 +27,12 @@ sources:
   - { title: "제주특별자치도 — 안전인증 민박 목록", url: "https://www.jeju.go.kr/jeju/local/bnb.htm" }
   - { title: "서귀포시 — 권역별 관광 안내", url: "https://www.seogwipo.go.kr/tourismculture/destination/ataglance.htm" }
   - { title: "비짓제주 공식 관광 안내", url: "https://www.visitjeju.net/kr" }
+glance:
+  - { label: "추천 구역", value: "제주시(북쪽, 공항) · 서귀포(남쪽) · 중문(리조트) · 애월·서쪽 해안 · 성산·동쪽" }
+  - { label: "추천 일정", value: "2~3박은 거점 1곳 · 4~6박은 2곳(북쪽→남쪽) · 일주일 이상은 2~3곳" }
+  - { label: "교통", value: "공항에서 서귀포까지 버스 98분 · 중문은 600번 리무진 52분 · 차 없으면 제주시·서귀포·중문" }
+  - { label: "게스트하우스", value: "농어촌민박 안전인증제(도에서 인증 목록 공개), 예약 사이트에서 안전인증 표기 확인", url: "https://www.jeju.go.kr/jeju/local/bnb.htm" }
+  - { label: "주의", value: "7~9월 태풍철은 취소 위험 있음, 8월이 정점 · 제주시 시내 숙소는 주차 유료·없는 곳 있음" }
 draft: false
 ---
 

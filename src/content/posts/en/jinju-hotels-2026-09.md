@@ -21,6 +21,13 @@ sources:
   - { title: "Jinju City — motels and inns", url: "https://www.jinju.go.kr/02234/02350/02376.web" }
   - { title: "Jinju City — pensions and minbak", url: "https://www.jinju.go.kr/02234/02350/02381.web" }
   - { title: "Jinju City — tourist information offices", url: "https://www.jinju.go.kr/02235/02404/02418.web" }
+glance:
+  - { label: "Best areas", value: "Around Jinju Fortress (tourists) · Innovation City, Chungmugong-dong (work trips, car) · Jinyangho lake (quiet)" }
+  - { label: "Where", value: "114 lodgings near the fortress (Jangdae-dong, Bonggok-dong, Okbong-dong), mostly motels and inns of 10–30 rooms" }
+  - { label: "Where to stay", value: "Golden Tulip Hotel Namgang (128 rooms) · Hotel Dongbang (83) · Almond Hotel Jinjuseong (77)" }
+  - { label: "Getting there", value: "Fortress area: Jinju Fortress, Chokseongnu, National Museum and Namgang all walkable · Innovation City means driving" }
+  - { label: "Booking", value: "No rates on the city lists, check a booking site · book ahead for the October lantern festival" }
+  - { label: "Official info", value: "Jinju City — lodgings near Jinju Fortress", url: "https://www.jinju.go.kr/02234/02350/07392.web" }
 draft: false
 ---
 

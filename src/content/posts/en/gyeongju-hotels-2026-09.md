@@ -27,6 +27,13 @@ sources:
   - { title: "Gyeongju City tourism — condominiums", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4818&code_uid=1028" }
   - { title: "Gyeongju City tourism — transport", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4847" }
   - { title: "Gyeongju City tourism — templestay", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4762" }
+glance:
+  - { label: "Best areas", value: "Hwangnam-dong hanok cluster (walk everywhere) · Bomun Lake Resort (families, car) · Bulguksa side (temples first)" }
+  - { label: "Price range", value: "Lahan Select from ₩135,000 · Hilton from ₩243,000 · Kolon Hotel from ₩98,000 (own sites)" }
+  - { label: "Getting there", value: "KTX station is out west in Geoncheon-eup · from the train, transfer by bus or taxi" }
+  - { label: "Where to stay", value: "Hilton Gyeongju · Lahan Select Gyeongju · Kolon Hotel Gyeongju · Gyeongju STAY409" }
+  - { label: "Booking", value: "Many hanok book by phone or KakaoTalk · early April fills Bomun months ahead and doubles prices" }
+  - { label: "Official info", value: "Gyeongju City tourism — hotels", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4817&code_uid=1027" }
 draft: false
 ---
 

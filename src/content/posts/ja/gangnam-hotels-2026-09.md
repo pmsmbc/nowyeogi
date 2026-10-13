@@ -73,6 +73,13 @@ sources:
   - { title: "韓国都心空港 — お知らせ（6103番 時刻表変更、2026年7月16日から）", url: "https://www.calt.co.kr/center/01.php" }
   - { title: "旅行新聞 — 国際線は拡大するのに…ソウル駅だけが残った都心空港ターミナル（2023-04-25）", url: "https://www.traveltimes.co.kr/news/articleView.html?idxno=404730" }
   - { title: "空港リムジン — 運行路線と時刻表（6016・N6000）", url: "https://www.airportlimousine.co.kr/sub/sub01.php" }
+glance:
+  - { label: "おすすめエリア", value: "COEXの催しは三成洞・出張は駅三洞のテヘラン路・カロスキル／狎鴎亭ロデオの買い物は新沙洞の島山大路" }
+  - { label: "宿の内訳", value: "観光宿泊業84軒（観光ホテル客室8,646室でソウル2位）・都市民泊407か所は外国人専用" }
+  - { label: "おすすめの宿", value: "ウェスティン・ソウル・パルナス・グランドインターコンチネンタル・朝鮮パレス ソウル江南・アンダーズ・ソウル江南" }
+  - { label: "アクセス", value: "三成駅（2号線、COEX直結）・奉恩寺駅・新論峴駅（9号線）・空港鉄道は金浦空港駅で9号線に乗り換え" }
+  - { label: "空港バス", value: "6703番 終発18:38〜19:42・6103番 COEX発〜21:00・深夜N6703・18,000ウォン", url: "https://www.klimousine.com/bus/limousine.php?bus_no=6703" }
+  - { label: "注意", value: "「ホテル」の名でも旅館・一般ホテルの場合が多い・ラマダソウルホテルは2021年に廃業、停留所名だけ残る" }
 draft: false
 ---
 

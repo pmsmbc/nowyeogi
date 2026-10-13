@@ -55,6 +55,14 @@ sources:
   - { title: "뉴시스 — 황금빛 가을 향연, 원주시 국내 최고령 은행나무 축제(2025-10-30)", url: "https://www.newsis.com/view/NISX20251030_0003382548" }
   - { title: "뉴스1 — 막 물드는 것도 멋지네요, 반계리 은행나무 보러 인파(2025-10-23)", url: "https://www.news1.kr/local/kangwon/5951088" }
   - { title: "make2t — 원주 반계리 은행나무 CCTV 보는 법 2026, 단풍 절정·주차장", url: "https://www.make2t.kr/2026/10/wonju-bangye-ginkgo-cctv-autumn.html" }
+glance:
+  - { label: "위치", value: "강원특별자치도 원주시 문막읍 반저리2길 42(광장 주소 문막읍 반계리 1495-1)" }
+  - { label: "추천 시기", value: "2026년 단풍 절정 예측은 10월 말~11월 1일께(한국관광공사 단풍지도) · 날씨에 따라 며칠 변동" }
+  - { label: "축제", value: "2026년 10월 26일(월)~11월 8일(일) 2주간 · 세부 프로그램은 원주시 관광 누리집 확인", url: "https://www.wonju.go.kr/tour/" }
+  - { label: "요금", value: "입장·주차 무료, 상시 개방" }
+  - { label: "교통", value: "문막읍행정복지센터까지 버스 후 공영버스 1번 환승 · 10/17~11/8 주말·공휴일 왕복 8회 증차" }
+  - { label: "주차", value: "광장 주차장 170면, 축제 기간 임시주차장 포함 500면대 계획 · 절정기 주말은 9시 전 도착" }
+  - { label: "문의", value: "원주 관광 문의 033-742-2111" }
 draft: false
 ---
 

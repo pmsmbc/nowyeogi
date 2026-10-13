@@ -95,6 +95,14 @@ sources:
   - { title: "메트로신문 — 서울시, 북촌 한옥 지켜낸 '한옥왕' 정세권 선생 기념사업 추진 (2018-01-24)", url: "http://www.metroseoul.co.kr/news/newsview?newscd=2018012400145" }
   - { title: "헤럴드경제 — [고령여성의 빈곤청구서] 돈의동 쪽방촌 주민 인터뷰", url: "https://biz.heraldcorp.com/article/10888353" }
   - { title: "한국관광공사 TourAPI — 익선동 한옥거리, 서순라길 (종로 150-3~권농동 26, 상시, 주차 불가) (2026-10-02 조회)", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Where", value: "North of Jongno 3-ga Station between Donhwamun-ro and Samil-daero; 7,565.9 m² preservation zone around 166 Ikseon-dong" }
+  - { label: "Getting there", value: "Jongno 3-ga Station (Lines 1, 3, 5) exit 4, 141 m; Anguk Station (Line 3) for Seosulla-gil's north end" }
+  - { label: "Admission", value: "Alleys free; Jongmyo ₩1,000 for adults, closed Tuesdays" }
+  - { label: "Key spots", value: "Ikseon-dong Hanok Village · Seosulla-gil · Galmaegi-golmok yajang street · site of Ojinam" }
+  - { label: "Suggested plan", value: "Hanok lanes in the morning, cafés and Seosulla-gil after lunch, yajang street after 18:00" }
+  - { label: "Hours", value: "Seosulla-gil car-free Sat–Sun 10:00–22:00; yajang street 18:00–04:00" }
+  - { label: "Parking", value: "No new car parks in the plan area and none on Seosulla-gil; leave the car behind" }
 draft: false
 ---
 

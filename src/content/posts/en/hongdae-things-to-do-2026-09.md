@@ -129,6 +129,14 @@ sources:
   - { title: "양화진외국인선교사묘원 — 방문수칙", url: "https://www.yanghwajin.net/guide/policy.php" }
   - { title: "양화진외국인선교사묘원 — 안내예약신청", url: "https://www.yanghwajin.net/guide/reservation.php" }
   - { title: "내 손안에 서울 — 선교사의 삶이 녹아있는 '양화진 외국인 선교사 묘원' (2021-06-28)", url: "https://mediahub.seoul.go.kr/archives/2002057" }
+glance:
+  - { label: "Key spots", value: "Red Road and Walking Street · KT&G Sangsangmadang · Gyeongui Line Book Street · Jeoldusan Shrine and Yanghwajin Cemetery" }
+  - { label: "Admission", value: "Book Street, Alternative Space LOOP and Yanghwajin free · Jeoldusan museum by donation · Sangsangmadang basic tour free" }
+  - { label: "Time needed", value: "Red Road R1–R7 about 25 minutes on foot · Sangsangmadang tour 40–60 min · Mapo Village Tour about 2 hours" }
+  - { label: "Getting there", value: "Hongik Univ. Station exits 8–9 and 6 · Sangsu Station (Line 6) · Hapjeong exit 7 for the shrines" }
+  - { label: "Hours", value: "Busking ends 22:00 · Book Street and Jeoldusan museum closed Mondays · Yanghwajin closed Sundays" }
+  - { label: "Booking", value: "Yanghwajin free guide: book online by 18:00 the day before · Sangsangmadang tour by phone 02-2014-2003", url: "https://www.yanghwajin.net/guide/reservation.php" }
+  - { label: "Best time", value: "Seoul Wow Book Festival 16–18 October on Red Road R1 · Halloween and year-end weeks draw the biggest crowds", url: "https://wowlab.or.kr/wowbook-festival/2026-wowfestival/" }
 draft: false
 ---
 

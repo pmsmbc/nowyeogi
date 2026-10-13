@@ -83,6 +83,14 @@ sources:
   - { title: "한국관광공사 — 석굴암", url: "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94436" }
   - { title: "국립경주박물관 — 관람 안내", url: "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html" }
   - { title: "양동마을 공식 사이트", url: "http://yangdongvillage.or.kr/" }
+glance:
+  - { label: "핵심 장소", value: "불국사 · 석굴암 · 대릉원·천마총 · 동궁과 월지 · 국립경주박물관" }
+  - { label: "요금", value: "불국사·석굴암·대릉원 공원·박물관 무료 · 천마총·월지 성인 3,000원 · 양동마을 성인 4,000원" }
+  - { label: "시간", value: "불국사·석굴암 09:00~18:00 · 대릉원·월지 09:00~22:00(입장 마감 21:30)" }
+  - { label: "교통", value: "불국사는 황리단길에서 10·11번, KTX역에서 711번 · 석굴암은 불국사에서 12번(하루 열 번쯤)" }
+  - { label: "소요 시간", value: "구도심 유적은 걸어서 하루 · 불국사·석굴암 반나절 · 양동마을은 사흘째에" }
+  - { label: "추천 시기", value: "벚꽃 4월 1~7일쯤 절정 · 단풍 10월 말~11월 초 · 월지는 일몰 30~60분 전 입장" }
+  - { label: "공식 안내", value: "경주시 관광 안내 — 관람료", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838" }
 draft: false
 ---
 

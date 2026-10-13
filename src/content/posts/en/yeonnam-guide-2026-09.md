@@ -89,6 +89,13 @@ sources:
   - { title: "Future Hangang Headquarters - Getting to Mangwon Hangang Park (Mapo 09 and Mapo 16 from exit 1 of Mangwon and Hapjeong stations, 50,000 won parking fine, Mangwon pier)", url: "https://hangang.seoul.go.kr/www/contents/668.do?mid=471" }
   - { title: "Korea Tourism Organization TourAPI - Gyeongui Line Forest Park, Mangwonjeong site, Mangwon Hangang Park (retrieved 7 October 2026)", url: "https://api.visitkorea.or.kr/" }
   - { title: "Wikipedia (Korean) - Hongik University Station (Line 2 1984, AREX 29 December 2010, Gyeongui Line 15 December 2012)", url: "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD" }
+glance:
+  - { label: "Where", value: "Yeonnam-dong (north of Hongik Univ. Station, either side of the forest park) and Mangwon-dong (market, Mangridan-gil, river park), Mapo-gu" }
+  - { label: "Getting there", value: "Yeonnam: Hongik University Station exit 3 (Line 2, Gyeongui, AREX) · Mangwon: Mangwon Station (Line 6) · river park by village bus Mapo 09 or 16" }
+  - { label: "Key spots", value: "Yeontral Park (Gyeongui Line Forest Park) · Mangwon Market and Mangridan-gil · Mangwon Hangang Park · Mangwonjeong site" }
+  - { label: "Suggested plan", value: "Morning Yeontral Park → lunch in Yeonnam lanes → afternoon Mangwon Market and Mangridan-gil → sunset at Mangwon Hangang Park" }
+  - { label: "Admission", value: "Yeontral Park and Mangwon Hangang Park free · Hangang Bus from Mangwon pier ₩3,000 adult (at time of writing)" }
+  - { label: "Best time", value: "Weekend afternoons are busiest · Yeontral Park is an alcohol-clean zone, drunken nuisance fined up to ₩100,000" }
 draft: false
 ---
 

@@ -27,6 +27,14 @@ sources:
   - { title: "Gimhae International Airport — access information", url: "https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=170" }
   - { title: "Busan Metropolitan City — airport limousine bus routes and fares", url: "https://www.busan.go.kr/depart/khairportlm" }
   - { title: "Hankyung — high-speed rail integration and fare cut, 1 September 2026", url: "https://www.hankyung.com/article/2026083145861" }
+glance:
+  - { label: "Getting there", value: "KTX Seoul–Busan 2 h 17 min, ₩54,400 standard · express bus 4 h 15 min, about ₩23,600" }
+  - { label: "From the airport", value: "Light rail to Sasang then Line 2, 25–35 min to Seomyeon · Limousine 1 ₩9,500, Limousine 2 ₩6,000" }
+  - { label: "Admission", value: "Metro ₩1,600 zone 1 · one-day pass ₩6,000 · three-day pass ₩13,000 · Seoul T-money works" }
+  - { label: "Best areas", value: "Haeundae (beach, hotels) · Seomyeon (transport, food) · Nampo-dong (markets, old downtown) · Gwangalli (bridge view)" }
+  - { label: "Best time", value: "Late September to early November · May and June also comfortable · July–August hot and crowded" }
+  - { label: "Suggested plan", value: "Two nights minimum, three better · Seomyeon for transport, Haeundae for the beach, Nampo-dong for markets" }
+  - { label: "Official info", value: "Visit Busan, official city tourism site", url: "https://www.visitbusan.net/en/index.do" }
 draft: false
 ---
 

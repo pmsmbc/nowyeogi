@@ -35,6 +35,13 @@ sources:
   - { title: "Visit Gangneung — SEA TEA city tour bus", url: "https://visitgangneung.net/pub/tourtheme.do?mode=v&seq=133" }
   - { title: "Express bus timetable and fares — Kobus", url: "https://www.kobus.co.kr/oprninf/alcninqr/oprnAlcnPage.do" }
   - { title: "Visit Gangneung — festival calendar", url: "https://visitgangneung.net/pub/gnfestival.do" }
+glance:
+  - { label: "Where", value: "East coast, Gangwon · about two hours from Seoul by KTX · station is in the city centre" }
+  - { label: "Getting there", value: "KTX Gyeonggang Line from Seoul Station, about 2 hours · express bus 2h30–2h50, deluxe ₩24,600–26,100" }
+  - { label: "Getting around", value: "City bus ₩1,530 by card · SEA TEA coastal bus every 40 min from 08:00 at normal fare", url: "https://visitgangneung.net/pub/tourtheme.do?mode=v&seq=133" }
+  - { label: "Key spots", value: "Anmok Coffee Street · Gyeongpo Beach and Gyeongpodae · Ojukheon · Jeongdongjin · Chodang · Jungang Market" }
+  - { label: "Suggested plan", value: "Two days — Anmok, Gyeongpo and Chodang tofu; then Ojukheon, Jungang Market, Jumunjin or Jeongdongjin" }
+  - { label: "Best time", value: "October (bread, noodle and coffee festivals) · beaches July–August · Danoje 15–22 June", url: "https://visitgangneung.net/pub/gnfestival.do" }
 draft: false
 ---
 

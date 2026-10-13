@@ -42,6 +42,13 @@ sources:
   - { title: "Visit Gangneung — 중앙시장", url: "https://visitgangneung.net/pub/traditional_markets.do?mode=v&seq=99" }
   - { title: "Visit Gangneung — 안목 커피거리", url: "https://visitgangneung.net/pub/specialized_distance.do?mode=v&seq=93" }
   - { title: "Visit Gangneung — 축제 일정", url: "https://visitgangneung.net/pub/gnfestival.do" }
+glance:
+  - { label: "대표 음식", value: "초당순두부 · 커피 · 감자옹심이 · 물회" }
+  - { label: "핵심 가게", value: "초당두부마을 · 안목 커피거리 · 병산 옹심이 마을 · 사천 물회 마을 · 강릉중앙시장" }
+  - { label: "시간", value: "두부는 점심(초당 식당은 이른 저녁 마감) · 안목은 오전 · 시장은 낮" }
+  - { label: "교통", value: "중앙시장은 강릉역에서 도보 · 사천 물회 마을은 시티버스 경유" }
+  - { label: "추천 시기", value: "10월 음식 축제(빵 10/9~11 · 국수 10/15~18 · 커피 10/21~25) · 물회는 7~8월", url: "https://visitgangneung.net/pub/gnfestival.do" }
+  - { label: "공식 안내", value: "Visit Gangneung 향토 음식", url: "https://visitgangneung.net/pub/tourtheme.do?mode=v&seq=585" }
 draft: false
 ---
 

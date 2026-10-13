@@ -133,6 +133,13 @@ sources:
   - { title: "ppss — 保安1942 企画展「私たちと彼ら」（2026-08-12）", url: "https://www.ppss.kr/news/articleView.html?idxno=304964" }
   - { title: "ソウル未来遺産 — 李箱の家（2013-215）", url: "https://futureheritage.seoul.go.kr/" }
   - { title: "韓国観光公社 TourAPI — 水声洞渓谷・尹東柱文学館・七宮・朴魯寿美術館・清雲文学図書館・上村斎・黄鶴亭・洪建翊家屋・仁王山・哨所書房・森の休憩所・ムムデ展望台・社稷壇・通仁市場・大林美術館・石坡亭の基本情報", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "主なスポット", value: "水声洞渓谷 · 尹東柱文学館 · 七宮 · 朴魯寿美術館 · 仁王山の哨所書房" }
+  - { label: "料金", value: "水声洞渓谷・尹東柱文学館・七宮・社稷壇は無料 · 朴魯寿美術館は大人3,000ウォン" }
+  - { label: "予約", value: "七宮は希望日の9日前〜3日前にオンライン予約、3人以上で実施、解説は韓国語のみ", url: "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=gbg" }
+  - { label: "アクセス", value: "景福宮駅（3号線）2番出口 → マウルバス鍾路09の終点が水声洞渓谷（徒歩なら約20分）" }
+  - { label: "所要時間", value: "漢陽都城 仁王山区間4.0km 約2時間30分 · 七宮の解説30分（3〜10月）" }
+  - { label: "おすすめ時期", value: "月曜は区立施設が休館、火曜は七宮・景福宮が休み · 渓谷・仁王山・社稷壇は常時開放" }
 draft: false
 ---
 

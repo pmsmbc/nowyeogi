@@ -35,6 +35,12 @@ sources:
   - { title: "ソウル未来遺産 — サンダリ食堂 (2016-034)", url: "https://futureheritage.seoul.go.kr/" }
   - { title: "吉祥寺 公式サイト — テンプルステイ", url: "https://gilsangsa.or.kr/" }
   - { title: "ソウル市 — オレガゲ（老舗の店）", url: "https://oraegage.co.kr/" }
+glance:
+  - { label: "主な店", value: "ククシチプ · 城北洞チプ · ソンガネ コムグクス · ナポレオン菓子店" }
+  - { label: "予算", value: "坂の下の着実な価格の店の公示価格：カルグクス5,000ウォン · チャンチククス3,000ウォン · アメリカーノ1,500ウォン" }
+  - { label: "時間", value: "ホンドゥッケ ソンカルグクス 毎日10:00〜21:00 · アリラン スミカムジャタン 11:00〜20:00、日曜休み" }
+  - { label: "アクセス", value: "漢城大入口駅（4号線）5番出口が食事の店 · 6番出口から村バス城北02・03番で坂の上へ" }
+  - { label: "公式案内", value: "城北区「城北洞 認証の店」21か所（30年以上の営業が基準、食べもの14か所）", url: "https://www.sb.go.kr/tour/contents.do?key=72" }
 draft: false
 ---
 

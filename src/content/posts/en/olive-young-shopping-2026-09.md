@@ -41,6 +41,14 @@ sources:
   - { title: "CJ올리브영 보도자료 — 189개 국적 외국인 942만건 결제", url: "https://corp.oliveyoung.com/ko/news/45" }
   - { title: "CJ올리브영 보도자료 — 홍대타운 그랜드 오픈", url: "https://corp.oliveyoung.com/ko/news/6" }
   - { title: "한국세정신문 — 외국인 사후면세 부가세 즉시환급 한도 500만원으로 상향", url: "https://www.taxtimes.co.kr/news/article.html?no=262134" }
+glance:
+  - { label: "Who it's for", value: "Foreign shoppers doing their K-beauty shopping in one stop" }
+  - { label: "Key spots", value: "Myeongdong Global Town (53 Myeongdong-gil) · Hongdae Town (Hongik Univ. Station Exit 8) · Gangnam Town (429 Gangnam-daero)" }
+  - { label: "Hours", value: "Myeongdong Town daily 10:00–22:30 · Town stores run past 22:00, neighbourhood branches close earlier" }
+  - { label: "Tax refund", value: "₩15,000 or more on one receipt · physical passport at the register · under ₩1,000,000 per transaction, ₩5,000,000 per stay · leave within 3 months" }
+  - { label: "Best time", value: "Olive Young Sale four times a year (about March, June, September, December), about a week · Olive Young Day monthly 25th–27th" }
+  - { label: "What to bring", value: "Physical passport (no photo or copy) · bags go in subway station lockers, Myeongdong Town has no storage" }
+  - { label: "Official info", value: "Olive Young Myeongdong Global Town", url: "https://myeongdongtown.oliveyoung.com/ko/" }
 draft: false
 ---
 

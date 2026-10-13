@@ -59,6 +59,13 @@ sources:
   - { title: "国立公園公団 — 通行統制のお知らせ", url: "https://www.knps.or.kr/front/portal/safe/acsCtrList.do?menuNo=8000340" }
   - { title: "雪岳ケーブルカー 公式サイト", url: "https://www.sorakcablecar.co.kr/guide" }
   - { title: "束草市観光 — 自然の見どころ", url: "https://www.sokcho.go.kr/ct/tour/attraction/nature" }
+glance:
+  - { label: "主なスポット", value: "雪岳山（新興寺 · ケーブルカー · 蔚山岩 · 飛仙台 · 土旺城滝展望台） · アバイ村 · 永郎湖 · 霊琴亭" }
+  - { label: "料金", value: "雪岳山は入園無料 · 雪岳ケーブルカー往復 大人16,000ウォン・子ども12,000ウォン · ケッペ片道500ウォン", url: "https://www.sorakcablecar.co.kr/guide" }
+  - { label: "時間", value: "入山は飛仙台方面で4〜10月03:00〜14:00、11〜3月04:00〜12:00 · ケーブルカーは当日窓口のみ", url: "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198" }
+  - { label: "所要時間", value: "蔚山岩 往復7.6キロ約4時間 · 飛仙台 片道3.0キロ1時間20分 · 土旺城滝展望台 片道2.8キロ約1時間半" }
+  - { label: "アクセス", value: "市内から7番か7-1番バスで小公園へ · アバイ村へはケッペで渡る" }
+  - { label: "おすすめ時期", value: "紅葉は10月中旬〜11月初め · その時期は市内が満室になりケーブルカーの行列も早い" }
 draft: false
 ---
 

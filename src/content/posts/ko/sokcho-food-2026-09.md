@@ -38,6 +38,14 @@ sources:
   - { title: "속초시 관광 안내 — 향토 음식", url: "https://www.sokcho.go.kr/ct/tour/pleasure/food" }
   - { title: "속초시 관광 안내 — 시장과 쇼핑", url: "https://www.sokcho.go.kr/ct/tour/pleasure/shopping" }
   - { title: "속초시 — 착한가격업소", url: "https://www.sokcho.go.kr/ct/tour/pleasure/restaurant/good_price" }
+glance:
+  - { label: "대표 음식", value: "닭강정 · 오징어순대·아바이순대 · 물회 · 생선구이 · 홍게 · 곰치국" }
+  - { label: "핵심 가게", value: "속초관광수산시장 닭전골목 · 아바이마을 생선구이 구역 · 대포항관광수산시장" }
+  - { label: "시간", value: "수산시장 지하 회센터는 매월 둘째 수요일 휴무 · 대포항 시장은 매일 10:00~23:00" }
+  - { label: "교통", value: "아바이마을은 갯배로 500원 · 속초해수욕장 주변은 고속버스터미널에서 5분" }
+  - { label: "주차", value: "수산시장은 주차권 확인 시 무료 · 대포항은 유료" }
+  - { label: "추천 시기", value: "물회는 여름 · 곰치국은 겨울 · 홍게 축제는 10월" }
+  - { label: "공식 안내", value: "속초시 관광 안내 향토 음식", url: "https://www.sokcho.go.kr/ct/tour/pleasure/food" }
 draft: false
 ---
 

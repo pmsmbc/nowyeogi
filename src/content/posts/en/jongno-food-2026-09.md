@@ -165,6 +165,14 @@ sources:
   - { title: "행정안전부 착한가격업소 — 지정기준", url: "https://www.goodprice.go.kr/intro/bsshInfo.do?tabId=3" }
   - { title: "국가법령정보센터 — 여신전문금융업법 제19조(가맹점의 준수사항)", url: "https://www.law.go.kr/법령/여신전문금융업법/제19조" }
   - { title: "다이닝코드 — 개성만두 궁, 열차집, 원조낙원떡집, 낙원아구찜 옛날집, 유진식당, 을지면옥, 선천집, 귀천, 경인미술관 전통다원, 산촌, 오세계향, 뉘조, 꽃밥에피다, 찬양집, 진아춘, 학림다방, 림스치킨 (2026-10-02 조회)", url: "https://www.diningcode.com/profile.php?rid=sZjcIKe0jlZU" }
+glance:
+  - { label: "Key eats", value: "Balwoo Gongyang · Gaeseong Mandu Koong · Yeolchajip · Yetnaljip Nagwon Agujjim · Yujin Sikdang" }
+  - { label: "Daehangno classics", value: "Jinachun · Hakrim Dabang · Lim's Chicken Hyehwa" }
+  - { label: "Suggested plan", value: "Lunch temple food or dumplings in Insadong, afternoon rice cakes and tea, dinner Nagwon-dong alleys or Daehangno" }
+  - { label: "Budget", value: "Balwoo Gongyang ₩36,000–120,000 · Mandu Koong dumpling soup ₩19,000 · cabbage hangover soup ₩3,000" }
+  - { label: "Hours", value: "Balwoo Gongyang, Seoncheonjip, Chanyangjip closed Sun · Nwijo, Kali closed Mon · The Green Table closed Mon–Tue" }
+  - { label: "Getting there", value: "Anguk Station (Line 3) · Jongno 3-ga Station (Lines 1, 3, 5) exit 5 · Hyehwa Station (Line 4)" }
+  - { label: "Parking", value: "None at Gaeseong Mandu Koong · mechanical parking in Balwoo Gongyang's building (cars up to 2,500cc)" }
 draft: false
 ---
 

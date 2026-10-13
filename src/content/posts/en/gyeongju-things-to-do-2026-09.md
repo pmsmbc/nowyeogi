@@ -82,6 +82,14 @@ sources:
   - { title: "Korea Tourism Organization — Seokguram Grotto", url: "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94436" }
   - { title: "Gyeongju National Museum — visitor information", url: "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html" }
   - { title: "Yangdong Folk Village — official site", url: "http://yangdongvillage.or.kr/" }
+glance:
+  - { label: "Key spots", value: "Bulguksa · Seokguram · Daereungwon and Cheonmachong · Donggung and Wolji · Gyeongju National Museum" }
+  - { label: "Admission", value: "Bulguksa, Seokguram, Daereungwon park and museum free · Cheonmachong and Wolji ₩3,000 · Yangdong ₩4,000" }
+  - { label: "Hours", value: "Bulguksa and Seokguram 09:00–18:00 · Daereungwon and Wolji 09:00–22:00, last entry 21:30" }
+  - { label: "Getting there", value: "Bulguksa by bus 10 or 11 from Hwangnidan-gil, or 711 from KTX station · Seokguram by bus 12" }
+  - { label: "Time needed", value: "Old city: one day on foot · Bulguksa and Seokguram: half a day · Yangdong: third day only" }
+  - { label: "Best time", value: "Cherry blossom peaks about 1–7 April · autumn October to early November · Wolji 30–60 minutes before sunset" }
+  - { label: "Official info", value: "Gyeongju City tourism — admission fee table", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838" }
 draft: false
 ---
 

@@ -120,6 +120,13 @@ sources:
   - { title: "서울시 내 손안에 서울 — 사람 사는 냄새 물씬~ '동묘 벼룩시장' 나들이! (2023-03-03, 1980년대 말 형성)", url: "https://mediahub.seoul.go.kr/archives/2007137" }
   - { title: "위키백과 — 신당동 (서울) (神堂에서 新堂으로, 광희문 밖 무당촌)", url: "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%8B%B9%EB%8F%99_(%EC%84%9C%EC%9A%B8)" }
   - { title: "중구관광 — 광희동 중앙아시아거리 (1990년대 초 한·러 수교 이후 형성, 몽골타워)", url: "https://www.junggu.seoul.kr/tour/content.do?cmsid=15027&contentId=3512" }
+glance:
+  - { label: "Where", value: "Jongno-gu (the gate, Changsin-dong, Dongmyo) and Jung-gu (DDP, Fashion Town), split by Cheonggyecheon" }
+  - { label: "Getting there", value: "DDP: Dongdaemun History & Culture Park Station (Lines 2, 4, 5) · Gate: Dongdaemun Station (Lines 1, 4)" }
+  - { label: "Key spots", value: "DDP · Heunginjimun Gate · Dongdaemun History & Culture Park (Igansumun water gate) · Dongmyo shrine", url: "https://ddp.or.kr/?menuno=307" }
+  - { label: "Admission", value: "DDP building and plaza, the gate, the History Museum and Dongmyo are all free (exhibitions charged separately)" }
+  - { label: "Suggested plan", value: "Morning Dongmyo → lunchtime Heunginjimun → afternoon DDP → evening Gwanghui-dong or Sindang-dong → night malls" }
+  - { label: "Hours", value: "DDP 10:00–20:00 · History Museum 10:00–19:00, closed Mondays · wholesale malls 9 p.m.–7 a.m." }
 draft: false
 ---
 

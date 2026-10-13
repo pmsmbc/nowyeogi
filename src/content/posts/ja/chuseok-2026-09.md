@@ -45,6 +45,14 @@ sources:
   - { title: "国家遺産振興院 — 2026 国家遺産 名節イウム", url: "https://www.kh.or.kr/brd/board/715/L/menu/373?brdType=R&bbIdx=119827" }
   - { title: "国家遺産庁 報道資料 — 秋夕に合わせ宮・陵を無料開放（2026年9月18日）", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
 
+glance:
+  - { label: "期間", value: "2026年9月24日（木）〜27日（日）の4日間 · 振替休日なし、28日（月）は平日" }
+  - { label: "料金", value: "景福宮・昌徳宮・徳寿宮・昌慶宮・宗廟・朝鮮王陵が4日間無料（昌徳宮後苑を除く） · 韓服着用なら一年中無料" }
+  - { label: "休館日", value: "国立中央博物館・国立民俗博物館・国立古宮博物館は9月25日の1日だけ休館" }
+  - { label: "閉まる場所", value: "ソウルの百貨店は全店9月25日休業＋店舗ごとにもう1日 · 銀行窓口は4日間閉まる、空港の両替所は営業" }
+  - { label: "交通", value: "地下鉄・市内バスの終電延長（午前1時）は26・27日の2日間だけ · 空港鉄道の終電区間延長も26・27日" }
+  - { label: "イベント", value: "国立民俗博物館 秋夕ハンマダン 9月26・27日10:00〜17:00 無料 · 仁川空港第2ターミナル 名節イウム 9月23・24日" }
+  - { label: "公式案内", value: "国家遺産庁 報道資料 — 秋夕に合わせ宮・陵を無料開放", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
 draft: false
 ---
 

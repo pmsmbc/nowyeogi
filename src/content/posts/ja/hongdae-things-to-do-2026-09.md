@@ -129,6 +129,14 @@ sources:
   - { title: "양화진외국인선교사묘원 — 방문수칙", url: "https://www.yanghwajin.net/guide/policy.php" }
   - { title: "양화진외국인선교사묘원 — 안내예약신청", url: "https://www.yanghwajin.net/guide/reservation.php" }
   - { title: "내 손안에 서울 — 선교사의 삶이 녹아있는 '양화진 외국인 선교사 묘원' (2021-06-28)", url: "https://mediahub.seoul.go.kr/archives/2002057" }
+glance:
+  - { label: "主なスポット", value: "レッドロード・歩きたい通り · KT&Gサンサンマダン弘大 · 京義線ブックストリート · 切頭山殉教聖地・楊花津墓園" }
+  - { label: "料金", value: "ブックストリート・ループ・楊花津墓園は無料 · 切頭山の博物館は任意の献金 · サンサンマダンのベーシックツアーは無料" }
+  - { label: "所要時間", value: "レッドロードR1〜R7は徒歩約25分 · サンサンマダン館内ツアー40〜60分 · 麻浦まち旅は約2時間" }
+  - { label: "アクセス", value: "弘大入口駅8・9番出口（歩きたい通り）・6番出口（ブックストリート） · 上水駅（6号線） · 合井駅7番出口（聖地）" }
+  - { label: "時間", value: "路上ライブは夜10時まで · ブックストリート・切頭山の博物館は月曜休み · 楊花津墓園は日曜休み" }
+  - { label: "予約", value: "楊花津の無料案内は前日18時までにオンライン予約 · サンサンマダン館内ツアーは電話 02-2014-2003", url: "https://www.yanghwajin.net/guide/reservation.php" }
+  - { label: "おすすめ時期", value: "ソウル・ワウブックフェスティバル10月16〜18日（レッドロードR1） · ハロウィン・年末の週は大混雑", url: "https://wowlab.or.kr/wowbook-festival/2026-wowfestival/" }
 draft: false
 ---
 

@@ -36,6 +36,13 @@ sources:
   - { title: "전주시 관광 안내 — 시내버스와 교통카드", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012002000" }
   - { title: "고속버스 통합 예매 — 코버스", url: "https://www.kobus.co.kr/oprninf/alcninqr/oprnAlcnPage.do" }
   - { title: "유네스코 창의도시 네트워크 — 전주", url: "https://www.unesco.org/en/creative-cities/jeonju" }
+glance:
+  - { label: "위치", value: "전라도 전주 · 전주한옥마을(완산구 전동성당길 110)은 입장료 없이 24시간 개방", url: "https://hanok.jeonju.go.kr/contents/info" }
+  - { label: "교통", value: "KTX 용산→전주 1시간 40분 · 고속버스 2시간 40분, 일반 15,000원 · 터미널이 마을에 가까움" }
+  - { label: "시내 이동", value: "전주역→마을 버스 25분(택시 7,000~8,000원) · 터미널→마을 15분 · 시내버스 1,700원", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012002000" }
+  - { label: "핵심 장소", value: "경기전(3,000원) · 전동성당 · 오목대 · 전주향교 · 남부시장 야시장(금·토 17:00~23:00)" }
+  - { label: "추천 일정", value: "1박 2일 — 첫날 비빔밥·경기전·전동성당·오목대·야시장, 둘째 날 콩나물국밥·향교·한지박물관·덕진공원" }
+  - { label: "추천 시기", value: "영화제 4월 29일~5월 8일 · 한지문화축제 10월 8~10일 · 향교 은행나무 11월 · 주말보다 평일" }
 draft: false
 ---
 

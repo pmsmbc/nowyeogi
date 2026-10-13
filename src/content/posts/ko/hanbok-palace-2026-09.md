@@ -46,6 +46,14 @@ sources:
   - { title: "궁능유적본부 — 관람 요금", url: "https://royal.khs.go.kr/ROYAL/contents/R703000000.do" }
   - { title: "궁능유적본부 — 관람 규칙(궁·능 관람 등에 관한 규정)", url: "https://royal.khs.go.kr/ROYAL/contents/R704000000.do" }
   - { title: "궁능유적본부 — 2026년 하반기 경복궁 야간관람 안내", url: "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260818101010114410&schBcid=notice01" }
+glance:
+  - { label: "대상", value: "한복을 입고 고궁에 가려는 내·외국인 · 입장료 실익은 만 19~64세 외국인(18세 이하·65세 이상은 원래 무료)" }
+  - { label: "요건", value: "여미는 깃 형태의 저고리+치마 또는 바지 · 고름 없어도 됨 · 생활한복 인정, 소재·머리·신발 규정 없음" }
+  - { label: "안 되는 것", value: "티셔츠형 저고리 · 원피스형 한복 · 청바지+저고리 · 한복 하의+티셔츠 · 두루마기만" }
+  - { label: "핵심 장소", value: "경복궁 · 창덕궁(전각) · 창경궁 · 덕수궁 · 종묘 · 조선왕릉 무료 · 창덕궁 후원(5,000원)만 제외" }
+  - { label: "요금", value: "경복궁 3,000원 · 창덕궁 전각 3,000원 · 창경궁·덕수궁·종묘 각 1,000원 · 통합관람권 6,000원" }
+  - { label: "야간관람", value: "경복궁 2026년 9월 2일~10월 2일 19:00~21:30(입장 마감 20:30), 월·화 휴무 · 한복이면 예매 없이 무료" }
+  - { label: "공식 안내", value: "궁능유적본부 한복 무료관람 가이드라인", url: "https://royal.khs.go.kr/ROYAL/contents/R705000000.do" }
 draft: false
 ---
 

@@ -79,6 +79,13 @@ sources:
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
   - { title: "한국관광공사 관광정보 — 을지로 노가리골목", url: "https://korean.visitkorea.or.kr/" }
+glance:
+  - { label: "おすすめエリア", value: "乙支路入口側1,644室・東大門側（乙支路5街・五壮洞・雙林洞）1,876室・乙支路3・4街は431室のみ" }
+  - { label: "おすすめの宿", value: "ロッテシティホテル明洞435室・ナインツリー明洞Ⅱ408室・フォーポイント朝鮮明洞375室・メルキュール東大門336室" }
+  - { label: "アクセス", value: "乙支路入口駅（2号線）・乙支路3街駅（2・3号線）・乙支路4街駅（2・5号線）・忠武路駅（3・4号線）" }
+  - { label: "空港バス", value: "乙支路1〜4街は6015番、乙支路5街・五壮洞は6001番・終発19:42〜19:55・大人17,000ウォン", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=21" }
+  - { label: "ホステル", value: "42軒のうち40軒が2025年以降の登録・周橋洞と乙支路3街に多く、客室1〜10室のところが大半" }
+  - { label: "空港鉄道", value: "ソウル駅で乗り換え・ソウル駅発の終発は一般23:40、直通23:00・都心空港ターミナルは直通列車の乗客だけ", url: "https://www.airportrailroad.com/train/express/city/info" }
 draft: false
 ---
 

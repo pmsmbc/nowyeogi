@@ -116,6 +116,13 @@ sources:
   - { title: "Korea JoongAng Daily — Catch Table launches English version (2022-11-09)", url: "https://www.koreajoongangdaily.com/lifestyle/restaurant-reservation-app-catch-table-launches-english-version/10502999" }
   - { title: "KoreaTechDesk — 서울시·캐치테이블 외국인 예약·원격 줄서기 협약", url: "https://koreatechdesk.com/?p=17701" }
   - { title: "HalalSpy — Halal Food in Busan (2026년 3월 확인)", url: "https://halalspy.com/halal-food-guide/asia/busan/" }
+glance:
+  - { label: "Key eats", value: "Haeundae Amso Galbi · Wonjo Halmae Gukbap · Sanggukine · Suminine" }
+  - { label: "Budget", value: "Gukbap ₩9,500–11,000 · clams at market price · hanwoo galbi tens of thousands of won per person" }
+  - { label: "Booking", value: "Saeng-galbi can be reserved a week ahead · queues run through the CatchTable Global app" }
+  - { label: "Getting there", value: "Haeundae Station (Line 2) for Gunam-ro and market · Jung-dong for Mipo · Centum City for Shinsegae" }
+  - { label: "Best time", value: "Saeng-galbi before it sells out after lunch · milmyeon late morning or mid-afternoon" }
+  - { label: "Closed", value: "Sanggukine on Wednesdays · Shinsegae Centum City on 19 October 2026" }
 draft: false
 ---
 

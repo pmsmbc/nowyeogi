@@ -63,6 +63,13 @@ sources:
   - { title: "쁘띠프랑스 — 이용권", url: "http://www.pfcamp.com/page/page6" }
   - { title: "강촌레일파크 — 가평 코스", url: "https://www.railpark.co.kr/course/gapyeong/map" }
   - { title: "자라섬 재즈페스티벌 공식 사이트", url: "https://www.jarasumjazz.com/" }
+glance:
+  - { label: "핵심 장소", value: "아침고요수목원 · 쁘띠프랑스·이탈리아마을 · 가평 레일바이크 · 자라섬 · 청평호" }
+  - { label: "요금", value: "수목원 11,000원 · 쁘띠프랑스 통합권 19,500원 · 레일바이크 2인승 36,000원 · 자라섬 무료" }
+  - { label: "시간", value: "수목원 08:30~19:00 · 쁘띠프랑스 09:00~18:00 · 레일바이크 하루 6회 출발" }
+  - { label: "교통", value: "수목원·청평호는 청평역(30-6번 버스) · 레일바이크·자라섬은 가평역 · 쁘띠프랑스는 순환버스" }
+  - { label: "예약", value: "수목원은 현장 판매만(온라인 예매 없음) · 순환버스는 수요일 운휴" }
+  - { label: "추천 시기", value: "수목원 겨울 조명 12월~3월(야간 요금 동일) · 재즈페스티벌 10월 9~11일 · 청평호 레저 7~8월", url: "https://www.jarasumjazz.com/" }
 draft: false
 ---
 

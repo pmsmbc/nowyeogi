@@ -68,6 +68,12 @@ sources:
   - { title: "空港鉄道（AREX）— 孔徳駅 時刻表", url: "https://www.airportrailroad.com/train/normal/info/020/0" }
   - { title: "空港鉄道（AREX）— 仁川空港第1ターミナル駅 時刻表", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "空港鉄道（AREX）— 一般列車 運賃案内", url: "https://www.airportrailroad.com/train/normal/fare" }
+glance:
+  - { label: "おすすめの宿", value: "グランドハイアット ソウル（620室）・インペリアルパレス ブティックホテル（128室）・漢南67ホテル（旅館35室）" }
+  - { label: "おすすめエリア", value: "南山側のリゾート型はグランドハイアット・梨泰院駅〜漢江鎮駅の間はインペリアルパレス・外国人は都市民泊21か所" }
+  - { label: "アクセス", value: "漢江鎮駅（6号線）・漢南駅（京義中央線）・空港鉄道は孔徳駅で6号線に乗り換え" }
+  - { label: "空港バス", value: "6702番グランドハイアット前18,000ウォン（終発20:18）・6010番漢南駅17,000ウォン（終発20:56）" }
+  - { label: "注意", value: "都市民泊は外国人専用・ホストが住む家・宇士壇路の南は漢南第3区域の工事（解体99%）" }
 draft: false
 ---
 

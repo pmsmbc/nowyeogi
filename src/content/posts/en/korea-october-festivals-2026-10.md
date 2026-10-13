@@ -120,6 +120,14 @@ sources:
   - { title: "비건뉴스 — 9월 28일은 평일…개천절 대체공휴일은 10월 5일", url: "https://www.vegannews.co.kr/news/article.html?no=389153" }
   - { title: "국가법령정보센터 — 관공서의 공휴일에 관한 규정", url: "https://www.law.go.kr/법령/관공서의공휴일에관한규정" }
   - { title: "코레일 — 승차권 예매", url: "https://www.letskorail.com/" }
+glance:
+  - { label: "Who it's for", value: "Twelve October 2026 festivals across Korea in date order, chosen for visitors planning a trip" }
+  - { label: "Public holidays", value: "Sat 3 Oct (Foundation Day) · Mon 5 Oct (substitute holiday) · Fri 9 Oct (Hangeul Day): two three-day weekends" }
+  - { label: "Top picks", value: "Jinju Namgang Yudeung Festival (3–18 Oct, free); staying in Seoul, the Royal Culture Festival (7–11 Oct)", url: "https://yudeung.com/" }
+  - { label: "Also on", value: "Andong Mask Dance (to 4 Oct) · Busan Film Festival (6–15 Oct, ₩10,000) · Seoul Silver Grass (17–23 Oct, free)" }
+  - { label: "Best time", value: "Weekdays 12–16 October are quieter: holidays over, Jinju lanterns and BIFF still running" }
+  - { label: "Watch out", value: "The Seoul fireworks already happened on 5 September; remaining fireworks are Yeosu (31 Oct) and Busan (7 Nov)" }
+  - { label: "Booking", value: "Book holiday-weekend trains and regional hotels early; SRT merged into KTX on 1 September, book on Korail" }
 draft: false
 ---
 

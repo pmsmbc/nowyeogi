@@ -89,6 +89,14 @@ sources:
   - { title: "맘맘 — 켄트호텔 광안리 by 켄싱턴 시설·주차 안내", url: "https://mom-mom.net/travel/properties/64f80bafacd3f742aa51a681" }
   - { title: "SBS Biz — 민락수변공원 금주구역 지정 (2023)", url: "https://biz.sbs.co.kr/article/20000119602" }
   - { title: "위키백과 — 광안대교", url: "https://ko.wikipedia.org/wiki/광안대교" }
+glance:
+  - { label: "추천 구역", value: "광안해변로 앞 라인(오션뷰) · 한 블록 뒤 광남로·남천바다로(가성비) · 수영역 쪽(조용, 도보 20분)" }
+  - { label: "추천 숙소", value: "호텔 아쿠아펠리스 · 켄트호텔 광안리 · 호메르스호텔 · 호텔1 광안리 (광안해변로 203~229)" }
+  - { label: "가격대", value: "광안동 평균 화요일 98,942원, 토요일 218,541원 · 11월 최고, 2월 최저(비교 사이트)" }
+  - { label: "교통", value: "2호선 광안역 5번 출구 도보 13분 · 금련산역 3번 출구에서 남천 쪽 끝 5분 · 해운대역 12분" }
+  - { label: "공항 교통", value: "김해공항→경전철 사상 환승→2호선 광안역, 1시간 안팎 · 리무진 1번은 광안리에 서지 않음" }
+  - { label: "시간", value: "드론쇼 토요일 10~2월 19:00·21:00, 3~9월 20:00·22:00 무료 · 체크인 15:00" }
+  - { label: "공식 안내", value: "광안리 M 드론라이트쇼 공식 사이트", url: "https://www.gwangallimdrone.co.kr/" }
 draft: false
 ---
 

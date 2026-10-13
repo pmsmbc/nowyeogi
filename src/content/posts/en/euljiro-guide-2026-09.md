@@ -117,6 +117,13 @@ sources:
   - { title: "공항리무진 — 6015번 노선안내 (공항방면, 정류장별 시간표: 로얄호텔 02156, 을지로2가 02159, 국도호텔 02163)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=21" }
   - { title: "공항리무진 — 6015번 노선안내 (시내방면, 로얄호텔·을지로2가·국도호텔 하차 위치)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=47" }
   - { title: "중구 — 맛집거리와 모범음식점 (을지로 골뱅이골목, 을지로3가역 12번 출구)", url: "https://www.junggu.seoul.kr/tour/content.do?cmsid=14934" }
+glance:
+  - { label: "Where", value: "Euljiro 1-ga to 5-ga and the alleys behind them, plus the Sewoon arcades from Jongno to Toegye-ro" }
+  - { label: "Getting there", value: "Euljiro 3-ga Station (Lines 2, 3) · Euljiro 4-ga (Lines 2, 5) · Euljiro 1-ga (Line 2)" }
+  - { label: "Key spots", value: "Sewoon Sangga third-floor deck · Nogari Alley · Golbaengi Alley · Ipjeong-dong ironworks alley · printing alley" }
+  - { label: "Admission", value: "Alleys and arcade corridors are free · airport bus 6015 ₩17,000 adults, ₩12,000 children" }
+  - { label: "Suggested plan", value: "Weekdays: Sewoon's deck and the working alleys · lunch at old restaurants · outdoor beer at night" }
+  - { label: "Airport bus", value: "6015 stops at Euljiro 1-ga, Euljiro 3-ga Exit 12 and Euljiro 4-ga · last to airport 19:42-19:50", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=21" }
 draft: false
 ---
 

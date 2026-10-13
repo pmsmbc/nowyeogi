@@ -56,6 +56,14 @@ sources:
   - { title: "Jagalchi Market — official operator site", url: "https://www.bisco.or.kr/jagalchimarket/" }
   - { title: "Korea Tourism Organization — dwaeji gukbap", url: "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221285" }
   - { title: "Korea Tourism Organization — ssiat hotteok", url: "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=180199" }
+glance:
+  - { label: "Key eats", value: "Dwaeji gukbap · milmyeon · ssiat hotteok" }
+  - { label: "Key spots", value: "Jagalchi Fish Market · Gukje Market and BIFF Square · Haeundae Traditional Market" }
+  - { label: "Budget", value: "Dwaeji gukbap ₩9,000–12,000 · milmyeon ₩6,000–8,000 · ssiat hotteok about ₩2,000" }
+  - { label: "Hours", value: "Jagalchi 05:00–22:00 (closed 1st, 3rd, 5th Tuesday) · Gukje Market closed Sundays" }
+  - { label: "Getting there", value: "Jagalchi Station (Line 1), 2 min walk · Haeundae Station exit 3, 5 min" }
+  - { label: "Best time", value: "Mornings for seafood · Nampo-dong for lunch and street food, Seomyeon for dinner" }
+  - { label: "Official info", value: "Jagalchi Market official operator site", url: "https://www.bisco.or.kr/jagalchimarket/" }
 draft: false
 ---
 

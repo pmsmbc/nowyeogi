@@ -109,6 +109,13 @@ sources:
   - { title: "K Trip Tips — 40 Steps Culture Center hours", url: "https://www.ktriptips.com/kor/culture/130663" }
   - { title: "Yeogiyu — Jagalchi Market hours and closed days", url: "https://xn--ok0b236bp0a.com/place/29115" }
   - { title: "Wikipedia — Yeongdo Bridge", url: "https://en.wikipedia.org/wiki/Yeongdo_Bridge" }
+glance:
+  - { label: "Key spots", value: "Gukje and Kkangtong markets · History Museum · Yongdusan Park and Busan Tower · Jagalchi rooftop deck · Yeongdo Bridge" }
+  - { label: "Admission", value: "Mostly free · Busan Tower adult ₩12,000 · Songdo Marine Cable Car round trip from ₩19,000" }
+  - { label: "Hours", value: "Yeongdo Bridge lift every Saturday 14:00, about 15 min · museum 09:00–18:00, closed Mondays", url: "https://www.busan.go.kr/mmch/mdview" }
+  - { label: "Getting there", value: "Nampo is two stops from Busan Station on Line 1 · a little over an hour from Gimhae Airport" }
+  - { label: "Time needed", value: "One day starting 09:00 at Busan Station · two days add Gamcheon, Huinnyeoul and Songdo" }
+  - { label: "Best time", value: "Time your visit for the Saturday 14:00 bridge lift · museum and 40 Steps center close Mondays" }
 draft: false
 ---
 

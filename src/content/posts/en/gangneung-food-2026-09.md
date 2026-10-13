@@ -41,6 +41,13 @@ sources:
   - { title: "Visit Gangneung — Jungang Market", url: "https://visitgangneung.net/pub/traditional_markets.do?mode=v&seq=99" }
   - { title: "Visit Gangneung — Anmok Coffee Street", url: "https://visitgangneung.net/pub/specialized_distance.do?mode=v&seq=93" }
   - { title: "Visit Gangneung — festival calendar", url: "https://visitgangneung.net/pub/gnfestival.do" }
+glance:
+  - { label: "Signature dishes", value: "Chodang sundubu · coffee · gamja ongsimi · mulhoe" }
+  - { label: "Key eats", value: "Chodang Tofu Village · Anmok Coffee Street · Byeongsan Ongsimi Village · Sacheon Mulhoe Village · Jungang Market" }
+  - { label: "Hours", value: "Tofu at lunch (Chodang closes early evening) · Anmok in the morning · market by day" }
+  - { label: "Getting there", value: "Jungang Market is in the city centre · SEA TEA tour bus passes Sacheon" }
+  - { label: "Best time", value: "October food festivals (bread 9–11, noodles 15–18, coffee 21–25 Oct) · mulhoe in July–August", url: "https://visitgangneung.net/pub/gnfestival.do" }
+  - { label: "Official info", value: "Visit Gangneung local food", url: "https://visitgangneung.net/pub/tourtheme.do?mode=v&seq=585" }
 draft: false
 ---
 

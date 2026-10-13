@@ -52,6 +52,14 @@ sources:
   - { title: "Jongno District press release — expansion of multilingual QR menus in traditional markets", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuNo=388338&menuId=388338&nttId=250425" }
   - { title: "Seoul City media outlet — explainer on the Gwangjang Market quantity-labelling rule", url: "https://mediahub.seoul.go.kr/archives/2009699" }
   - { title: "Netflix — Street Food: Asia", url: "https://www.netflix.com/title/80244996" }
+glance:
+  - { label: "Where", value: "88 Changgyeonggung-ro, Jongno-gu, Seoul" }
+  - { label: "Getting there", value: "Jongno 5-ga Station exit 8 (Line 1), 62 m · Euljiro 4-ga Station exit 4 (Lines 2, 5), about 100 m" }
+  - { label: "Hours", value: "Food Alley daily 09:00–23:00, open all year · general section Mon–Sat 09:00–18:00, closed Sundays" }
+  - { label: "Key eats", value: "Bindaetteok · yukhoe · gimbap (kkoma or mayak gimbap) · modum-jeon · sundae · tteokbokki" }
+  - { label: "What to bring", value: "Cash (card payment only at 77 stalls) · use the multilingual QR menus (88 stalls, 20 languages) · check the quantity on the menu" }
+  - { label: "Contact", value: "Overcharging or no price list: Seoul 02-120 or the tourist information line 1330" }
+  - { label: "Official info", value: "Seoul Tourism Organization — Gwangjang Market", url: "https://korean.visitseoul.net/shopping/%EA%B4%91%EC%9E%A5%EC%8B%9C%EC%9E%A5/KOP000286" }
 draft: false
 ---
 

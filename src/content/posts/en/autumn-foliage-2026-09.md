@@ -87,6 +87,14 @@ sources:
   - { title: "Jeongeup City — 19th Jeongeup Gujeolcho Flower Festival", url: "https://www.jeongeup.go.kr/culture/index.jeongeup?menuCd=DOM_000000602004000000" }
   - { title: "Haeinsa — official site", url: "http://www.haeinsa.or.kr/" }
   - { title: "Seorak Cable Car — visitor guide", url: "https://www.sorakcablecar.co.kr/guide" }
+glance:
+  - { label: "Best time", value: "Korea Forest Service 2026 peak forecast: Seoraksan 20 October · Songnisan 28 October · Naejangsan 4 November · Hallasan 6 November" }
+  - { label: "How it moves", value: "Starts at Seoraksan in late September · moves south 20–25 km a day · peak two to three weeks after first foliage · top down" }
+  - { label: "Admission", value: "No national park fee (abolished 2007) · most temple fees gone, Haeinsa still ₩3,000 · Seorak cable car ₩16,000 return" }
+  - { label: "Booking", value: "Heullimgol at Seoraksan 1 Oct–30 Nov (5,000 a day) · Naejangsan Seoraebong and Gatbawi 18 Oct–16 Nov · Odaesan needs none" }
+  - { label: "Hours", value: "Designated entry times: Osaek to Daecheongbong 03:00–12:00 April–October, 04:00–11:00 November–March" }
+  - { label: "Parking", value: "Naejangsan small or mid-size car ₩4,000 weekdays · ₩5,000 at weekends and in the peak period (1 Oct–15 Nov)" }
+  - { label: "Official info", value: "Korea Forest Service 2026 foliage peak prediction map press release", url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782827" }
 draft: false
 ---
 

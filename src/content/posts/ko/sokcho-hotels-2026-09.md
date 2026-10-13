@@ -21,6 +21,12 @@ sources:
   - { title: "속초시 관광 안내 — 교통과 터미널", url: "https://www.sokcho.go.kr/ct/tour/tour_guide/traffic" }
   - { title: "속초시 관광 안내 — 해수욕장", url: "https://www.sokcho.go.kr/ct/tour/tour_guide/tour_policy/beach" }
   - { title: "속초시 — 시내버스 요금과 환승", url: "https://www.sokcho.go.kr/sc/fields/traffic/transport/city_bus" }
+glance:
+  - { label: "추천 구역", value: "속초해수욕장·시내(첫 방문·차 없음) · 설악동 공원 입구(등산) · 대포항(늦은 저녁) · 영랑호(조용함)" }
+  - { label: "추천 숙소", value: "롯데리조트 속초 · 금호설악리조트 · 베니키아호텔 산과바다 대포항 · 신세계 영랑호 리조트" }
+  - { label: "교통", value: "고속버스터미널은 남쪽(해변 도보 5분), 시외버스터미널은 북쪽 시내 · 설악산은 7번·7-1번 버스" }
+  - { label: "예약", value: "단풍철 10월 중순~11월 초, 연말, 7~8월 주말은 일찍 · 비수기 평일은 훨씬 싸요" }
+  - { label: "공식 안내", value: "속초시 숙박 정보 — 27곳", url: "https://www.sokcho.go.kr/ct/tour/pleasure/accommodation" }
 draft: false
 ---
 

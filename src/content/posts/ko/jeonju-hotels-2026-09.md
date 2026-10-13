@@ -20,6 +20,12 @@ sources:
   - { title: "전주한옥마을 — 숙박", url: "https://hanok.jeonju.go.kr/contents/lodgment" }
   - { title: "전주시 관광 안내 — 숙박 정보", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104001000000" }
   - { title: "전주시 관광 안내 — 찾아오시는 길", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012001000" }
+glance:
+  - { label: "추천 구역", value: "한옥마을 안 한옥스테이(마을이 목적) · 전주역 근처(아침 기차·큰 짐) · 객사(밤 번화가) · 터미널 쪽" }
+  - { label: "추천 숙소", value: "가은채 · 갤러리스테이 · 교동명가 · 교동살래 · 귀거래사 · 금원당(전주시 한옥스테이 예약 포털)", url: "https://hanok.jeonju.go.kr/contents/lodgment" }
+  - { label: "교통", value: "전주역→마을 버스 25분, 택시 7,000~8,000원 · 터미널→마을 15분, 택시 5,000~6,000원" }
+  - { label: "예약", value: "한옥은 침대인지 이부자리인지, 욕실, 전화 예약 여부 확인 · 영화제 4월 29일~5월 8일은 도시가 차요" }
+  - { label: "공식 안내", value: "전주시 숙박 정보 — 한옥체험·관광숙박 101곳", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104001000000" }
 draft: false
 ---
 

@@ -62,6 +62,13 @@ sources:
   - { title: "Creatrip 공항철도 직통열차 안내(2026년 4월 갱신)", url: "https://creatrip.com/en/blog/1696" }
   - { title: "공항리무진 노선·요금(공식)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2" }
   - { title: "Korea Travel Lab 기후동행카드 관광객 안내(2026년 7월 갱신)", url: "https://koreatravellab.com/seoul-climate-card-tourists-2026/" }
+glance:
+  - { label: "공항철도 직통", value: "서울역까지 무정차 43~51분 · 성인 13,000원(온라인 약 11,600원) · 승차권 필요, 교통카드 불가" }
+  - { label: "공항철도 일반", value: "홍대입구역 정차, 서울역 종점 · 성인 최대 5,350원 · 서울역까지 59~66분 · 교통카드로 탑승" }
+  - { label: "리무진 버스", value: "6002번 홍대입구 · 6001번 서울역·명동 · 성인 17,000원, 어린이 12,000원 · 60~90분" }
+  - { label: "기후동행카드", value: "1일 5,000원~7일 20,000원+카드 3,000원 · 1~8호선 역 자판기·편의점 · 인천공항 공항철도 승차 불가" }
+  - { label: "시간", value: "직통열차 2터미널 기준 첫차 05:16, 막차 22:40" }
+  - { label: "공식 안내", value: "서울시 기후동행카드 안내", url: "https://english.seoul.go.kr/policy/transportation/climate-card/" }
 draft: false
 ---
 

@@ -67,6 +67,14 @@ sources:
   - { title: "부산관광공사 — 태종대(다누비열차 운행 중단 안내)", url: "https://www.bisco.or.kr/taejongdae/" }
   - { title: "광안리 M 드론라이트쇼 공식 사이트", url: "https://www.gwangallimdrone.co.kr/en/home" }
   - { title: "부산에어크루즈 — 송도해상케이블카 요금", url: "https://www.busanaircruise.co.kr/" }
+glance:
+  - { label: "핵심 장소", value: "해동용궁사 · 감천문화마을 · 흰여울문화마을·태종대 · 블루라인파크 스카이캡슐 · 광안리 드론쇼" }
+  - { label: "요금", value: "사찰·마을·태종대·드론쇼 무료 · 스카이캡슐 2인 5만 원(캡슐당) · 엑스더스카이 성인 2만 9천 원 내외" }
+  - { label: "시간", value: "용궁사 04:30~19:20 · 엑스더스카이 10:00~21:00 · 드론쇼 매주 토요일 밤 2회" }
+  - { label: "예약", value: "스카이캡슐 온라인 예약은 매주 화요일 오전 7시에 4주 뒤 주간 오픈" }
+  - { label: "교통", value: "용궁사는 해운대역에서 181·100번 버스 · 감천은 1호선 토성역에서 마을버스 · 2호선 광안역" }
+  - { label: "추천 일정", value: "첫날 동쪽(용궁사→스카이캡슐→엑스더스카이→광안리) · 둘째 날 서쪽(감천→자갈치→영도)" }
+  - { label: "공식 안내", value: "해운대 블루라인파크 공식 요금·운행시간", url: "https://www.bluelinepark.com/eng/fare.do" }
 draft: false
 ---
 

@@ -37,6 +37,13 @@ sources:
   - { title: "Jeju Province — airport bus routes", url: "https://bus.jeju.go.kr/publicTrafficInformation/airportBusInfo" }
   - { title: "UNESCO — Jeju Island Biosphere Reserve", url: "https://www.unesco.org/en/mab/jeju-island" }
   - { title: "UNESCO — Culture of Jeju Haenyeo", url: "https://ich.unesco.org/en/RL/culture-of-jeju-haenyeo-women-divers-01068" }
+glance:
+  - { label: "Getting there", value: "75–85 minute flight from Gimpo, 115–125 departures a day each way; Incheon has one round trip a day" }
+  - { label: "From the airport", value: "600 limousine: Jungmun 52 min, Seogwipo 98 min, ₩4,500–5,500; taxis start at ₩3,000", url: "https://bus.jeju.go.kr/publicTrafficInformation/airportBusInfo" }
+  - { label: "Bus fares", value: "Flat ₩1,150 by card, express capped at ₩3,000; T-money works, two free transfers within 40 minutes", url: "https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule" }
+  - { label: "Booking", value: "Only the Hallasan summit trails (Seongpanak, Gwaneumsa); opens 09:00 on the first business day each month", url: "https://visithalla.jeju.go.kr" }
+  - { label: "Best time", value: "Spring (cherry blossom and canola, late March to early April); 90 percent of typhoons arrive July–September" }
+  - { label: "Suggested plan", value: "For five nights or more, split your stay between the north (Jeju City) and the south (Seogwipo)" }
 draft: false
 ---
 

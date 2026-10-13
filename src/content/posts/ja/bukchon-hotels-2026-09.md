@@ -75,6 +75,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "おすすめエリア", value: "選択肢の多い桂洞キル・韓屋路地の中心 嘉会洞の北村路11ギル・12ギル・駅に近い一棟貸しの安国洞・斎洞" }
+  - { label: "宿のタイプ", value: "ホテル・旅館0軒、韓屋体験業182か所（桂洞58・嘉会洞56）、外国人専用の都市民泊28か所" }
+  - { label: "おすすめの宿", value: "楽古斎ソウル 北村韓屋ホテル・仁友ハウス・イド韓屋・舞月館・ソウルストーリー韓屋" }
+  - { label: "アクセス", value: "安国駅（3号線）・空港リムジン6011 安国駅停留所（空港行き終発20:45）" }
+  - { label: "レッドゾーン", value: "北村路11ギル一帯は17:00〜翌10:00観光禁止・宿泊客は予約確認書で出入り可、写真撮影は過料の対象" }
+  - { label: "公式案内", value: "鍾路区 北村特別管理地域の案内", url: "https://culture.jongno.go.kr/media/ko/conts/111/web.do" }
 draft: false
 ---
 

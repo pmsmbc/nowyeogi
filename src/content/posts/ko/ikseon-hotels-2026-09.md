@@ -68,6 +68,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "추천 구역", value: "큰 호텔은 낙원동 · 한옥은 권농동 율곡로10길 · 호스텔은 익선동 삼일대로32가길" }
+  - { label: "추천 숙소", value: "이비스 앰배서더 인사동(363실) · 오라카이 인사동 스위츠(213실) · 목시 서울 인사동(140실)" }
+  - { label: "한옥 숙소", value: "월운(독채, 최대 8인) · 서울아리(2층 독채) · 스테이모일" }
+  - { label: "숙소 수", value: "관광숙박업 27곳 1,148실 · 숙박업 74곳 2,664실 · 한옥체험업 14곳" }
+  - { label: "교통", value: "1·3·5호선 종로3가역 · 권농동 쪽은 3호선 안국역" }
+  - { label: "공항버스", value: "6002번 종로3가 막차 20:45 · 6011번 창덕궁 20:42 · 성인 17,000원" }
 draft: false
 ---
 

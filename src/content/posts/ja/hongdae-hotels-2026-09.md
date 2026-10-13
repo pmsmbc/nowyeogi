@@ -76,6 +76,13 @@ sources:
   - { title: "공항리무진 — 6002번 노선안내 (공항방면, 정류장별 시간표)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2" }
   - { title: "공항리무진 — 6002번 노선안내 (시내방면)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=6" }
   - { title: "공항리무진 — N6002번 심야 노선안내", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=80" }
+glance:
+  - { label: "おすすめエリア", value: "弘大入口駅〜合井駅の楊花路に大型ホテル · 西橋洞・東橋洞はホステル・民泊 · 静かに眠るなら合井・上水側" }
+  - { label: "おすすめの宿", value: "L7弘大 by LOTTE · ホリデイ・イン・エクスプレス・ソウル弘大 · RYSEホテル" }
+  - { label: "アクセス", value: "空港鉄道 弘大入口駅 → 仁川空港 4,650〜5,250ウォン · 空港行き終電23:48（直通列車は停まらない）", url: "https://www.airportrailroad.com/train/normal/info/030/0" }
+  - { label: "空港バス", value: "6002番 弘大入口停留所 大人17,000ウォン · 空港行き終発21:11 · 深夜N6002は23:00〜04:00", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2" }
+  - { label: "注意", value: "メリーゴールドホテル（楊花路112）は2022年7月に廃業処理 · 都市民泊は韓国人は原則として泊まれない" }
+  - { label: "おすすめ時期", value: "ハロウィン（2026年10月31日・土）と年末の週末の夜はレッドロード・クラブ通りに人波集中 · 離れた宿を" }
 draft: false
 ---
 

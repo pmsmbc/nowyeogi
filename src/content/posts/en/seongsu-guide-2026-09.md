@@ -105,6 +105,13 @@ sources:
   - { title: "파이낸셜뉴스 — '성수동 랜드마크'에 K패션 쇼핑 성지 만든다 (2024-09-12, 무신사 스토어 성수@대림창고)", url: "http://www.fnnews.com/news/202409121443099516" }
   - { title: "뉴스1 — 2026 서울국제정원박람회 (2026, 5월 1일~10월 27일 180일, 서울숲·한강·성수 일대 53만㎡)", url: "https://www.news1.kr/industry/general-industry/6307256" }
   - { title: "공항리무진 — 6013번 노선안내 (성수119센터·성수 이마트·경일초등학교, 성인 17,000원)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=19" }
+glance:
+  - { label: "Where", value: "Seongsu-dong 1-ga (Seoul Forest, Atelier-gil, Ttukseom) and 2-ga (Yeonmujang-gil, shoe street, Seongsu Station), Seongdong-gu" }
+  - { label: "Getting there", value: "Seongsu and Ttukseom (Line 2), Seoul Forest (Suin-Bundang) · airport bus 6013 stops in Seongsu-dong, ₩17,000" }
+  - { label: "Key spots", value: "Seoul Forest · Atelier-gil · Yeonmujang-gil cafe street · the handmade shoe street" }
+  - { label: "Suggested plan", value: "Morning Seoul Forest → Atelier-gil → lunch near Ttukseom or Yeonmujang-gil → afternoon Yeonmujang-gil → shoe street" }
+  - { label: "Dates", value: "Creative × Seongsu 2026, 5–11 October · Seoul International Garden Expo until 27 October" }
+  - { label: "Best time", value: "Yeonmujang-gil car restrictions Sat–Sun 2–6pm (to 29 Nov) · avoid Seongsu Station exit 3 on weekdays 5–7pm" }
 draft: false
 ---
 

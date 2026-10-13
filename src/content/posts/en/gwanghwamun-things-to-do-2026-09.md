@@ -124,6 +124,13 @@ sources:
   - { title: "서울시 축제 — 2026 서울빛초롱축제", url: "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=360" }
   - { title: "서울시 축제 — 2026 서울라이트 광화문", url: "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=372" }
   - { title: "비건뉴스 — 9월 28일은 평일…개천절 대체공휴일은 10월 5일", url: "https://www.vegannews.co.kr/news/article.html?no=389153" }
+glance:
+  - { label: "Key spots", value: "Deoksugung · guard ceremonies at Daehanmun and Gwanghwamun · King Sejong exhibition · Seoul Museum of History · Contemporary History museum" }
+  - { label: "Admission", value: "Deoksugung ₩1,000 (free in hanbok) · museums and exhibitions free · Lee Dai-won show ₩2,000", url: "https://royal.khs.go.kr/ROYAL/contents/R703000000.do" }
+  - { label: "Hours", value: "Deoksugung 09:00-21:00 (last entry 20:00) · Seoul Museum of History until 21:00 through 30 Nov (Thu 18:00)" }
+  - { label: "Getting there", value: "City Hall (Lines 1, 2) · Gwanghwamun (Line 5) exits 1, 8 · Jonggak (Line 1) exit 4" }
+  - { label: "Best time", value: "Mondays: Gwanghwamun guards and the Contemporary History museum · Tuesdays: Daehanmun guards · 5 Oct is a holiday" }
+  - { label: "Booking", value: "Seokjojeon guided entry opens online one week ahead at 10:00 · Dondeokjeon closed until 25 October" }
 draft: false
 ---
 

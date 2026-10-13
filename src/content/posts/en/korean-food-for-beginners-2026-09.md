@@ -42,6 +42,14 @@ places: []
 sources:
   - { title: "Korea Tourism Organization — VisitKorea", url: "https://english.visitkorea.or.kr/" }
   - { title: "Seoul Metropolitan Government — official English travel guide", url: "https://english.visitseoul.net/" }
+glance:
+  - { label: "Who it's for", value: "First-time visitors ordering Korean food in Seoul" }
+  - { label: "Start with", value: "Bulgogi, bibimbap, japchae or kalguksu first · kimchi jjigae next · naengmyeon in summer" }
+  - { label: "Budget", value: "Gimbap ₩3,000–6,000 · bibimbap ₩10,000–15,000 · samgyeopsal ₩15,000–20,000 a portion · whole chicken ₩20,000–28,000" }
+  - { label: "Spice level", value: "Not spicy: bulgogi, japchae, gimbap, kalguksu, jjajangmyeon · mild to medium: sundubu, kimchi jjigae · hot: buldak, jjamppong" }
+  - { label: "Banchan", value: "Side dishes are free, refills included · say \"deo juseyo\" · water is self-service" }
+  - { label: "Ordering", value: "Press the table button or say \"jeogiyo\" · two-portion minimums for barbecue, stews, chicken · no tipping · lunch sets 20–30% cheaper" }
+  - { label: "Vegetarian and halal", value: "Soups and sides often use anchovy or beef stock, so ask · temple food restaurants are fully vegetarian · certified halal in Itaewon" }
 draft: false
 ---
 

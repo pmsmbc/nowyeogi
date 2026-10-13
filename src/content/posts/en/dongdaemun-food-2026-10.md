@@ -164,6 +164,13 @@ sources:
   - { title: "다이닝코드 — 카페 우즈베키스탄 (광희동1가 121, 2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=KKj370cGx1hR" }
   - { title: "다이닝코드 — 스타사마르칸트 (을지로6가, 2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=sK2iF7AzOCWO" }
   - { title: "다이닝코드 — 러시아 케익 (을지로42길 7, 2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=BGnWT2KFtGYP" }
+glance:
+  - { label: "Key eats", value: "Jinokhwa Halmae Wonjo Dakhanmari · Honamjip · Mabokrim Halmeoni-jip · Geumdwaeji Sikdang" }
+  - { label: "Budget", value: "Dakhanmari ₩33,000 · tteokbokki set for two ₩17,000 · grilled fish around ₩13,000" }
+  - { label: "Booking", value: "Geumdwaeji Sikdang takes no reservations · Gosari Express books directly · Everest Restaurant by phone" }
+  - { label: "Getting there", value: "Dongdaemun Station (Lines 1, 4) · Sindang Station (Lines 2, 6) · Dongdaemun History & Culture Park Station" }
+  - { label: "Best time", value: "Dinner at the Jongno 5-ga alleys · late nights in Sindang-dong · Maknae Adeul-ne open 24 hours" }
+  - { label: "Cheapest meals", value: "Whole fried chicken ₩4,500 at Hanguk Tongdak · bean sprout bibimbap ₩5,000 at Dongmun Sikdang", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
 draft: false
 ---
 

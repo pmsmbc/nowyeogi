@@ -120,6 +120,14 @@ sources:
   - { title: "KoreaToDo — Skyline Luge Busan 料金・交通", url: "https://koreatodo.com/skyline-luge-busan" }
   - { title: "東海線 オシリア駅・機張駅・日光駅 始発・終電（国土交通部公共データ）", url: "http://subway.koreatriptips.com/subway-station/PSS6/SUB70835.html" }
   - { title: "ナムウィキ — 東海線広域電鉄・釜山バス181", url: "https://namu.wiki/w/동해선%20광역전철" }
+glance:
+  - { label: "主なスポット", value: "海東龍宮寺 · ロッテワールド・アドベンチャー釜山 · 機張市場のカニ横丁 · 竹城聖堂" }
+  - { label: "料金", value: "龍宮寺・竹城聖堂は無料 · ロッテワールド1Day大人49,000ウォン · リュージュ2回27,000ウォン" }
+  - { label: "アクセス", value: "BEXCO駅（2号線）で東海線に乗り換え（オシリア・機張・日光駅） · バス181番が海雲台駅→龍宮寺→大辺港" }
+  - { label: "時間", value: "東海線は日中30分間隔 · 釜田方面の終電は機張駅23:37、オシリア駅23:41（平日）" }
+  - { label: "所要時間", value: "半日4〜5時間（龍宮寺・リュージュ・機張市場） · ロッテワールドを入れると1日" }
+  - { label: "おすすめ時期", value: "10月はタチウオが旬 · 大辺港のイワシ祭りは春（2026年は4月24〜26日）" }
+  - { label: "公式案内", value: "ロッテワールド・アドベンチャー釜山 公式サイト（営業カレンダー）", url: "https://adventurebusan.lotteworld.com/" }
 draft: false
 ---
 

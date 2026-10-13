@@ -108,6 +108,14 @@ sources:
   - { title: "韓国観光公社 観光情報 — ミラク・ザ・マーケット、クレイジーサーファーズ、ザ・ヨット、荒嶺山展望台", url: "https://kto.visitkorea.or.kr/" }
   - { title: "ザ・ヨット 公式サイト", url: "https://www.theyacht.co.kr/" }
   - { title: "Gwangan Bridge — Wikipedia", url: "https://en.wikipedia.org/wiki/Gwangan_Bridge" }
+glance:
+  - { label: "主なスポット", value: "広安里Mドローンライトショー · 民楽水辺公園 · ミラク・ザ・マーケット · 荒嶺山展望台" }
+  - { label: "時間", value: "ドローンショーは毎週土曜19:00と21:00（10〜2月） · 第1・第3土曜はレーザーショー付き" }
+  - { label: "料金", value: "ドローンショー・ビーチ・公園・マーケット・展望台は無料 · SUP35,000ウォン · ヨット14,900ウォンから" }
+  - { label: "アクセス", value: "広安駅（2号線）5番出口からビーチ中央まで徒歩13分 · 南川洞側は金蓮山駅 · 金海空港から1時間以内" }
+  - { label: "おすすめプラン", value: "16:30民楽水辺公園→ミラク・ザ・マーケット→ビーチ中央で夕焼け→19:00ドローンショー→夕食→21:00の2回目" }
+  - { label: "注意", value: "民楽水辺公園は飲酒禁止区域（過料5万ウォン） · ドローンショーは雨・強風で中止、公式の告知を確認" }
+  - { label: "公式案内", value: "広安里Mドローンライトショー 公式サイト（英語案内・中止のお知らせ）", url: "https://www.gwangallimdrone.co.kr/en/home" }
 draft: false
 ---
 

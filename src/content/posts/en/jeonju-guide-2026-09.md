@@ -35,6 +35,13 @@ sources:
   - { title: "Jeonju City tourism — city buses and transport cards", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012002000" }
   - { title: "Express bus timetable and fares — Kobus", url: "https://www.kobus.co.kr/oprninf/alcninqr/oprnAlcnPage.do" }
   - { title: "UNESCO Creative Cities Network — Jeonju", url: "https://www.unesco.org/en/creative-cities/jeonju" }
+glance:
+  - { label: "Where", value: "Jeolla province · Jeonju Hanok Village, 110 Jeondongseongdang-gil, no admission and open 24 hours", url: "https://hanok.jeonju.go.kr/contents/info" }
+  - { label: "Getting there", value: "KTX Yongsan–Jeonju about 1h40 · express bus 2h40, ₩15,000 standard · terminal is closer to the village" }
+  - { label: "Getting around", value: "Station to village 25 min by bus (₩7,000–8,000 taxi) · terminal 15 min · city bus ₩1,700", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012002000" }
+  - { label: "Key spots", value: "Gyeonggijeon (₩3,000) · Jeondong Cathedral · Omokdae · Jeonju Hyanggyo · Nambu Market night market (Fri–Sat 17:00–23:00)" }
+  - { label: "Suggested plan", value: "One night — bibimbap, Gyeonggijeon, cathedral, Omokdae, night market; then bean sprout soup, Hyanggyo, Hanji Museum, Deokjin Park" }
+  - { label: "Best time", value: "Film festival 29 April–8 May · Hanji festival 8–10 October · Hyanggyo ginkgos November · weekdays over weekends" }
 draft: false
 ---
 

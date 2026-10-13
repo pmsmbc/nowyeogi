@@ -75,6 +75,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "추천 구역", value: "큰 호텔은 DDP 남동쪽과 흥인지문 옆 · 호스텔은 창신동·종로5가·숭인동" }
+  - { label: "추천 숙소", value: "노보텔 앰배서더 서울 동대문 · 더 스프라지르 · 토요코인 동대문 Ⅱ · JW 메리어트 동대문 스퀘어" }
+  - { label: "숙소 현황", value: "관광숙박업 88곳(호텔 11·호스텔 77) · 도시민박 231곳(외국인 전용) · 한옥체험업 11곳" }
+  - { label: "교통", value: "2·4·5호선 동대문역사문화공원역 · 1·4호선 동대문역 · 공항철도는 서울역 환승" }
+  - { label: "공항버스", value: "6001 DDP 막차 19:56 · 6002 동대문(흥인지문) 막차 20:39 · 심야 N6002", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=1" }
+  - { label: "버스 요금", value: "성인 17,000원 · 선착순 좌석, 온라인 예약 없음 · 교통카드·현금 탑승" }
 draft: false
 ---
 

@@ -68,6 +68,13 @@ sources:
   - { title: "AREX — Seoul Station timetable", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "AREX — Incheon Airport Terminal 1 timetable", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "AREX — Incheon Airport Terminal 2 timetable", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "Best areas", value: "Big hotels in Nagwon-dong, hanok on Yulgok-ro 10-gil in Gwonnong-dong, hostels on Samil-daero 32ga-gil" }
+  - { label: "Where to stay", value: "ibis Ambassador Seoul Insadong (363 rooms) · Orakai Insadong Suites (213) · Moxy Seoul Insadong (140)" }
+  - { label: "Hanok stays", value: "Wolun (whole house, up to 8) · Seoul Ari (two-storey house) · Stay Moil" }
+  - { label: "By the numbers", value: "27 hotels and hostels (1,148 rooms) · 74 lodging businesses (2,664 rooms) · 14 hanok stays" }
+  - { label: "Getting there", value: "Jongno 3-ga Station (Lines 1, 3, 5); Anguk Station (Line 3) for Gwonnong-dong" }
+  - { label: "Airport bus", value: "6002 last bus from Jongno 3-ga 20:45 · 6011 from Changdeokgung 20:42 · adult ₩17,000" }
 draft: false
 ---
 

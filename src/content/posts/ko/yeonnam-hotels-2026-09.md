@@ -79,6 +79,12 @@ sources:
   - { title: "공항리무진 — 6002번 노선안내 (시내방면)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=6" }
   - { title: "공항리무진 — N6002번 심야 노선안내", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=80" }
   - { title: "공항리무진 — 6011번 (월계동/길음뉴타운/안국동/마포구청역) 노선 및 정류장별 시간표", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=17" }
+glance:
+  - { label: "추천 구역", value: "연남동(홍대입구역 3번 출구 북쪽, 도시민박 413곳) · 망원동(149곳, 93%가 2024년 이후 지정)" }
+  - { label: "대상", value: "도시민박 562곳은 외국인 전용 · 한국인은 연남동 호스텔 크리스 하우스(6실)나 동교동 호텔" }
+  - { label: "추천 숙소", value: "크리스 하우스(연남동 유일 관광숙박업) · 호텔은 동교동 L7 홍대·홀리데이 인 익스프레스·머큐어" }
+  - { label: "교통", value: "공항철도 홍대입구 → 인천공항 막차 23:48(4,650원) · 공항버스 6002 홍대입구 막차 21:11 · 심야 N6002" }
+  - { label: "예약", value: "도시민박은 24시간 프런트 없음, 엘리베이터 없는 다가구주택 많음 · 늦은 도착 시 체크인 방법 미리" }
 draft: false
 ---
 

@@ -147,6 +147,13 @@ sources:
   - { title: "데일리안 — 학전→한강, '둥지' 떠나는 창작자들 (2004년 문화지구 지정 뒤 대학로 땅값·소극장 임대료 상승)", url: "https://www.dailian.co.kr/news/view/1685754/" }
   - { title: "서울시 내 손안에 서울 — 종로청계 관광특구 지정 (2006-03-22 지정, 광화문빌딩~숭인동 사거리)", url: "https://mediahub.seoul.go.kr/archives/156734" }
   - { title: "아주경제 — 창덕궁 '돈화문', 2027년까지 보수정비…금호문으로 입구 임시 변경 (2024-11-25, 105억 원, 2027년 7월까지)", url: "https://www.ajunews.com/view/20241125091836793" }
+glance:
+  - { label: "Where", value: "Jongno 1-4 ga corridor, Insadong, Nagwon-dong and Tapgol Park, Jongmyo and the eastern palaces, Daehangno" }
+  - { label: "Getting there", value: "Jongno 3-ga Station (Lines 1, 3, 5) · Anguk (Line 3) · Jonggak (Line 1) · Hyehwa (Line 4)" }
+  - { label: "Key spots", value: "Jongmyo · Changdeokgung and Changgyeonggung · Tapgol Park · Insadong-gil and Jogyesa · Jongno 3-ga night street · Marronnier Park" }
+  - { label: "Hours", value: "Changdeokgung and Changgyeonggung closed Mondays, Jongmyo and Gyeongbokgung Tuesdays · Changgyeonggung open until 21:00 (last entry 20:00)", url: "https://royal.khs.go.kr/ROYAL/contents/R702000000.do" }
+  - { label: "Admission", value: "Jongmyo and Changgyeonggung ₩1,000 · Changdeokgung ₩3,000 (Secret Garden +₩5,000) · Tapgol Park, Jogyesa, Insadong-gil free", url: "https://royal.khs.go.kr/ROYAL/contents/R703000000.do" }
+  - { label: "Suggested plan", value: "Morning palaces → midday Tapgol Park → afternoon Insadong and Jogyesa → evening Daehangno show or Jongno 3-ga tent bars" }
 draft: false
 ---
 

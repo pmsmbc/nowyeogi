@@ -61,6 +61,13 @@ sources:
   - { title: "Creatrip — AREX Express Train guide (updated Apr 2026)", url: "https://creatrip.com/en/blog/1696" }
   - { title: "Airport Limousine — routes and fares (official, Korean)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2" }
   - { title: "Korea Travel Lab — Seoul Climate Card for tourists (updated Jul 2026)", url: "https://koreatravellab.com/seoul-climate-card-tourists-2026/" }
+glance:
+  - { label: "AREX express", value: "Non-stop to Seoul Station in 43–51 min · adult ₩13,000 (about ₩11,600 online) · ticket only, no T-money" }
+  - { label: "AREX all-stop", value: "Stops at Hongik Univ. Station, ends at Seoul Station · adult up to ₩5,350 · 59–66 min · pay with T-money" }
+  - { label: "Airport bus", value: "6002 to Hongik Univ. Station · 6001 to Seoul Station and Myeongdong · adult ₩17,000, child ₩12,000 · 60–90 min" }
+  - { label: "Climate Card", value: "₩5,000 (1 day) to ₩20,000 (7 days) plus ₩3,000 card · station machines on Lines 1–8 · not for boarding AREX at the airport" }
+  - { label: "Hours", value: "Express from Terminal 2 first 05:16, last 22:40" }
+  - { label: "Official info", value: "Seoul Metropolitan Government Climate Card", url: "https://english.seoul.go.kr/policy/transportation/climate-card/" }
 draft: false
 ---
 

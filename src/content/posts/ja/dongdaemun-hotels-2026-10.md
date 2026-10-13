@@ -75,6 +75,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "おすすめエリア", value: "大型ホテルはDDPの南東と興仁之門の横 · ホステルは昌信洞・鍾路5街・崇仁洞" }
+  - { label: "おすすめの宿", value: "ノボテル アンバサダー ソウル東大門 · スプラジール · 東横イン東大門Ⅱ · JWマリオット東大門" }
+  - { label: "宿の内訳", value: "観光宿泊業88軒（ホテル11・ホステル77） · 都市民泊231か所（外国人専用） · 韓屋体験業11か所" }
+  - { label: "アクセス", value: "東大門歴史文化公園駅（2・4・5号線） · 東大門駅（1・4号線） · 空港鉄道はソウル駅で乗り換え" }
+  - { label: "空港バス", value: "6001番 DDP 終発19:56 · 6002番 東大門（興仁之門） 終発20:39 · 深夜N6002番", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=1" }
+  - { label: "バス運賃", value: "大人17,000ウォン · 先着順、オンライン予約なし · 交通カード・現金で乗車" }
 draft: false
 ---
 

@@ -107,6 +107,14 @@ sources:
   - { title: "JoongAng Ilbo — Samcheong-dong gets even hotter with K-Pop Demon Hunters (23 Aug 2025)", url: "https://www.joongang.co.kr/article/25361078" }
   - { title: "Airport Limousine — Route 6011 (Changdeokgung and Anguk Station stops, adult 17,000 won)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=17" }
   - { title: "Korea Tourism Organization TourAPI — Bukchon Hanok Village (37 Gyedong-gil, visitor centre, restricted hours, no parking), Samcheong-dong street (checked 6 Oct 2026)", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Where", value: "Jongno-gu, Seoul: 11 neighbourhoods incl. Gahoe, Gye, Samcheong and Wonseo-dong, between Gyeongbokgung and Changdeokgung" }
+  - { label: "Getting there", value: "Anguk Station (Line 3): Exit 2 red zone, Exit 1 MMCA · village buses Jongno 01/02/11" }
+  - { label: "Hours", value: "Red zone (Bukchon-ro 11-gil): tourists 10:00-17:00 only; barred 17:00-10:00, 100,000 won fine" }
+  - { label: "Key spots", value: "Bukchon-ro 11-gil · Samcheong-dong-gil · Gamgodang-gil and Jeongdok Library · MMCA Seoul · Songhyeon green plaza" }
+  - { label: "Suggested plan", value: "Red zone after 10am → lunch Gyedong-gil/Samcheong-dong-gil → afternoon Gamgodang-gil, MMCA → out of red zone by 5pm" }
+  - { label: "Parking", value: "No parking at Bukchon Hanok Village (KTO) · charter buses banned at all times, three drop-off zones" }
+  - { label: "Official info", value: "Jongno-gu Bukchon special management area page", url: "https://culture.jongno.go.kr/media/ko/conts/111/web.do" }
 draft: false
 ---
 

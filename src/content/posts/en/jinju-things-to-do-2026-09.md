@@ -74,6 +74,14 @@ sources:
   - { title: "Jinju City — the Eight Scenic Views of Jinju", url: "https://www.jinju.go.kr/02232/02244.web" }
   - { title: "Jinju City — Jinyangho Zoo visitor information", url: "https://www.jinju.go.kr/park/00290/00320.web" }
   - { title: "Jinju City press release — 2026 Jinju Namgang Yudeung Festival dates (3 Sept 2026)", url: "https://www.jinju.go.kr/00130/02730/00138.web?amode=view&gcode=1004&idx=39617781" }
+glance:
+  - { label: "Key spots", value: "Jinjuseong · Chokseongnu · Uiam and Uigisa · Jinju National Museum · Namgang Yudeung Exhibition Hall" }
+  - { label: "Admission", value: "Jinjuseong ₩2,000 adult, free in hanbok · museum free but fortress ticket needed · exhibition hall ₩2,000" }
+  - { label: "Hours", value: "Jinjuseong paid viewing 09:00–18:00, gates from 05:00 · museum 09:00–18:00 · museum and hall closed Mondays" }
+  - { label: "Parking", value: "Jinjuseong ₩500 per 30 minutes · tour bus car park opposite the west gate ticket office free" }
+  - { label: "Time needed", value: "Jinjuseong alone takes half a day · one day is enough, two is comfortable" }
+  - { label: "Best time", value: "Namgang Yudeung Festival 3–18 October 2026, overlapping Gaecheon Arts Festival 9–18 Oct · otherwise the exhibition hall" }
+  - { label: "Official info", value: "Jinju City — Jinjuseong visitor information", url: "https://www.jinju.go.kr/02238.web" }
 draft: false
 ---
 

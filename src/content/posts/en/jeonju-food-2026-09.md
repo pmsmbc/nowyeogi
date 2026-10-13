@@ -31,6 +31,14 @@ sources:
   - { title: "Jeonju City tourism — Jeonju bibimbap", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104003006000" }
   - { title: "Jeonju City tourism — local food", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104002000000" }
   - { title: "Jeonju City tourism — Nambu Market night market", url: "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101006003000&paging=ok&startPage=1&dataSid=16085" }
+glance:
+  - { label: "Signature dishes", value: "Jeonju bibimbap · Nambu Market kongnamul gukbap with suran and moju · hanjeongsik · night market street food" }
+  - { label: "Key eats", value: "Gajokhoegwan · Hanguk-jip · Seongmidang (bibimbap) · Hyeondae-ok (bean sprout soup) · Giwa (hanjeongsik)" }
+  - { label: "Budget", value: "A bowl of bibimbap around ₩10,000 at Baeksong-hoegwan, the city's cheaper pick" }
+  - { label: "Hours", value: "Nambu Market night market Friday and Saturday 17:00–23:00, year-round · many village restaurants close by nine", url: "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101006003000&paging=ok&startPage=1&dataSid=16085" }
+  - { label: "Booking", value: "Hanjeongsik usually needs two people and is worth booking · bibimbap is a one-person dish" }
+  - { label: "Where to eat", value: "Hanok Village (bibimbap, hanjeongsik, Taejo-ro snacks) · Nambu Market (bean sprout soup, night market) · Gaeksa (open later)" }
+  - { label: "Official info", value: "Jeonju City tourism, local food", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104002000000" }
 draft: false
 ---
 

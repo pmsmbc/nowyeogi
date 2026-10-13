@@ -56,6 +56,14 @@ sources:
   - { title: "뉴스프라임 (2025-09-17) — 육군, 2025 지상군페스티벌 개최 (2002년 대전 시작, 2008년 계룡대 이전)", url: "https://www.newsprime.co.kr/news/article/?no=704714" }
   - { title: "위키백과 — 계룡역 (정차 열차)", url: "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%97%AD" }
   - { title: "한국관광공사 TourAPI — 지상군페스티벌, 동학사", url: "https://kto.visitkorea.or.kr/" }
+glance:
+  - { label: "Dates", value: "Thu 1 to Mon 5 October 2026, 09:00–17:00; until 21:00 on 1 October only" }
+  - { label: "Where", value: "Gyeryongdae runway area, Sindoan-myeon, Gyeryong, Chungcheongnam-do" }
+  - { label: "Admission", value: "Free entry · free parking · free shuttle bus" }
+  - { label: "Getting there", value: "Train to Gyeryong Station (Honam Line KTX, ITX-Saemaeul, Mugunghwa), then free shuttle 08:50–17:40 every 10–15 minutes", url: "https://armyfest.or.kr/armyfests/5077/subview.do" }
+  - { label: "Parking", value: "Free; Car Park 1 has 3,178 spaces (734 Gyeryongdae-ro); Gate 1 road closed, navigate to a car park" }
+  - { label: "Best time", value: "Black Eagles Sat 3 October 16:30–16:40 only · vehicle rides in the morning · freefall at 14:40" }
+  - { label: "Contact", value: "Programme +82-42-550-5311 · transport +82-42-550-5333 (Korean) · armyfest.or.kr", url: "https://armyfest.or.kr" }
 draft: false
 ---
 

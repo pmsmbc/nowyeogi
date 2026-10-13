@@ -45,6 +45,14 @@ sources:
   - { title: "Korea Heritage Service Agency — 2026 Heritage Holiday Connection", url: "https://www.kh.or.kr/brd/board/715/L/menu/373?brdType=R&bbIdx=119827" }
   - { title: "Korea Heritage Service press release — free palace opening for Chuseok (18 Sept 2026)", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
 
+glance:
+  - { label: "Dates", value: "Thursday 24 to Sunday 27 September 2026, four days · no substitute holiday, Monday 28 is a working day" }
+  - { label: "Admission", value: "Gyeongbokgung, Changdeokgung, Deoksugung, Changgyeonggung, Jongmyo and the Royal Tombs free all four days (Huwon excluded) · hanbok free year-round" }
+  - { label: "Closed", value: "National Museum of Korea, National Folk Museum and National Palace Museum closed on 25 September only" }
+  - { label: "Also closed", value: "Every Seoul department store on 25 September plus one more day per branch · bank branches shut all four days, airport exchange counters open" }
+  - { label: "Transport", value: "Subway and bus last services extended to 01:00 on 26 and 27 September only · AREX last-train extension also 26 and 27" }
+  - { label: "Events", value: "National Folk Museum Chuseok Hanmadang 26–27 September 10:00–17:00, free · Incheon Airport Terminal 2 Heritage Holiday Connection 23–24 September" }
+  - { label: "Official info", value: "Korea Heritage Service press release on free palace opening", url: "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706380&sectionId=b_sec_1&mn=NS_01_02" }
 draft: false
 ---
 **Chuseok 2026 falls on Friday 25 September, and the holiday runs four days, Thursday 24 to Sunday 27 September.** Monday 28 September is a normal working day. Chuseok is the autumn harvest festival, sometimes introduced as Korean Thanksgiving; families travel to their hometowns for it.

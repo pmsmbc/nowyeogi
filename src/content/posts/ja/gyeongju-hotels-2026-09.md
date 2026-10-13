@@ -27,6 +27,13 @@ sources:
   - { title: "慶州市観光 — コンドミニアム", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4818&code_uid=1028" }
   - { title: "慶州市観光 — 交通案内", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4847" }
   - { title: "慶州市観光 — テンプルステイ", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4762" }
+glance:
+  - { label: "おすすめエリア", value: "皇南洞・大陵苑の韓屋（徒歩で観光） · 普門湖リゾート（家族・車あり） · 仏国寺側（寺が目的）" }
+  - { label: "価格帯", value: "ラハンセレクト約135,000ウォン〜 · ヒルトン約243,000ウォン〜 · コーロン約98,000ウォン〜" }
+  - { label: "アクセス", value: "KTX慶州駅は旧市街の外の乾川邑 · 旧市街はバスターミナルが中心、列車ならバスかタクシーに乗り換え" }
+  - { label: "おすすめの宿", value: "ヒルトン慶州 · ラハンセレクト慶州 · コーロンホテル慶州 · Gyeongju STAY409" }
+  - { label: "予約", value: "韓屋は電話やカカオトーク予約が多い · 4月初旬の桜の時期は普門が数か月前に埋まり料金も倍近く" }
+  - { label: "公式案内", value: "慶州市観光 — ホテル", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4817&code_uid=1027" }
 draft: false
 ---
 

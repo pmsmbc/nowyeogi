@@ -54,6 +54,13 @@ sources:
   - { title: "게임톡 — 9월 18일부터 ‘하이커그라운드’에 포켓몬 세상이 열립니다", url: "https://www.gametoc.co.kr/news/articleView.html?idxno=111181" }
   - { title: "한국관광공사 열린관광 모두의 여행 — 하이커 그라운드", url: "https://access.visitkorea.or.kr/ms/detail.do?cotId=8b6e4076-7cd6-4071-a992-443e972ae67e" }
   - { title: "내 손안에 서울 — 한류 체험 놀이터, '하이커 그라운드'를 아시나요?", url: "https://mediahub.seoul.go.kr/archives/2008342" }
+glance:
+  - { label: "기간", value: "2026년 9월 18일~10월 11일(일), 10:00~20:00", url: "https://pokemonkorea.co.kr/pikachu_9/menu811" }
+  - { label: "장소", value: "하이커 그라운드(한국관광공사 서울센터), 서울 중구 청계천로 40 · 전시 2·3층, 팝업 5층, 경품 1층" }
+  - { label: "요금", value: "하이커 그라운드 무료, 행사 별도 입장료 안내 없음 · 5층 굿즈는 유료" }
+  - { label: "교통", value: "1호선 종각역 5번 출구에서 도보 약 2분 · 공항철도 직통열차 이용 시 서울역·인천공항 스탬프도 가능" }
+  - { label: "스탬프랠리", value: "스탬프 2개 이상 모으면 포켓몬 30주년 스티커, 1층 안내센터 앞에서 수령 · 건물 안에만 3곳" }
+  - { label: "주의", value: "평소 2~4층은 월요일 휴관이라 월요일 운영 여부 확인 · 혼잡하면 입장 제한 가능" }
 draft: false
 ---
 

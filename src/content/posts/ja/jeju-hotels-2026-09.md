@@ -26,6 +26,12 @@ sources:
   - { title: "済州特別自治道 — 認証民泊リスト", url: "https://www.jeju.go.kr/jeju/local/bnb.htm" }
   - { title: "西帰浦市 — 観光エリア案内", url: "https://www.seogwipo.go.kr/tourismculture/destination/ataglance.htm" }
   - { title: "Visit Jeju — 済州観光公式サイト", url: "https://www.visitjeju.net/jp" }
+glance:
+  - { label: "おすすめエリア", value: "済州市（北、空港） · 西帰浦（南） · 中文（リゾート） · 涯月と西海岸 · 城山と東部" }
+  - { label: "おすすめプラン", value: "2〜3泊は拠点1か所 · 4〜6泊は2か所（北→南） · 1週間以上は2〜3か所" }
+  - { label: "アクセス", value: "西帰浦は空港から島を横断して1時間ほど · 車がないなら拠点は済州市か西帰浦" }
+  - { label: "ゲストハウス", value: "農漁村民泊 安全認証制、認証リストは道が公開", url: "https://www.jeju.go.kr/jeju/local/bnb.htm" }
+  - { label: "注意", value: "7〜9月は台風の季節でキャンセルリスクあり、ピークは8月" }
 draft: false
 ---
 

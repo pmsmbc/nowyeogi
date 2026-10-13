@@ -33,6 +33,14 @@ sources:
   - { title: "祭り公式 — サンチョノ素手つかみ", url: "https://www.narafestival.com/01_icenara/?wr_id=19" }
   - { title: "祭り公式 — 祭りの沿革", url: "https://www.narafestival.com/01_icenara/?wr_id=9" }
   - { title: "華川郡庁 — 市外バス時刻表", url: "https://www.ihc.go.kr/www/contents.do?key=237" }
+glance:
+  - { label: "期間", value: "2027年の日程は未発表（2026年9月時点） · 直近の回は2026年1月10日〜2月1日の23日間", url: "https://www.narafestival.com/ice_en/" }
+  - { label: "場所", value: "江原特別自治道 華川郡 華川邑、凍った華川川の上の祭り会場" }
+  - { label: "時間", value: "外国人専用釣り場09:00〜18:00（発券17:00まで） · 素手つかみは10〜16時の毎正時" }
+  - { label: "料金", value: "外国人釣り場1人10,000ウォン（商品券5,000ウォン還付） · パスポート提示で15,000→10,000ウォン", url: "https://www.narafestival.com/01_icenara/?wr_id=89" }
+  - { label: "アクセス", value: "東ソウル発直行バス2時間55分、14,400ウォン · 春川経由は市外バス5,800ウォン · シャトルは土日のみ", url: "https://www.narafestival.com/01_icenara/?wr_id=8" }
+  - { label: "持ち物", value: "パスポートの現物 · 釣り竿・人工餌・椅子（氷を開ける道具だけ備え付け） · 防寒着、テント・ストーブは禁止" }
+  - { label: "問い合わせ", value: "外国人専用釣り場の予約は華川郡グローバルマーケティングチーム 033-440-2328", url: "https://www.narafestival.com/ice_en/?wr_id=16" }
 draft: false
 ---
 

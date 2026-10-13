@@ -68,6 +68,12 @@ sources:
   - { title: "공항철도(AREX) — 공덕역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/020/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 일반열차 운임안내", url: "https://www.airportrailroad.com/train/normal/fare" }
+glance:
+  - { label: "추천 숙소", value: "그랜드 하얏트 서울(620실) · 임피리얼팰리스 부티크호텔(128실) · 한남67호텔(여관 35실)" }
+  - { label: "추천 구역", value: "남산 쪽 리조트형은 그랜드 하얏트 · 이태원역~한강진역 사이는 임피리얼팰리스 · 외국인은 도시민박 21곳" }
+  - { label: "교통", value: "6호선 한강진역 · 경의중앙선 한남역 · 공항철도는 공덕역에서 6호선 환승" }
+  - { label: "공항버스", value: "6702번 그랜드 하얏트 앞 18,000원(막차 20:18) · 6010번 한남역 17,000원(막차 20:56)" }
+  - { label: "주의", value: "도시민박은 외국인 전용·주인 거주 주택 · 우사단로 남쪽은 한남3구역 공사(철거 99%)" }
 draft: false
 ---
 

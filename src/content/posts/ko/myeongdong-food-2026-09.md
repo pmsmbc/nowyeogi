@@ -169,6 +169,12 @@ sources:
   - { title: "다이닝코드 — 명동교자 본점 (2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=L4miF0diqkcW" }
   - { title: "다이닝코드 — 백제삼계탕 명동, 개화, 명동돈가스, 원조 남산 왕돈까스 (2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=d5oI3DvmGSrh" }
   - { title: "다이닝코드 — 은호식당, 진주집, 희락갈치, 왕성식당, 남해식당, 가메골 손만두, 남대문 야채호떡, 부원면옥 (2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=8k4cyoKFsFQB" }
+glance:
+  - { label: "핵심 가게", value: "명동교자 · 하동관 · 희락갈치 · 은호식당" }
+  - { label: "예산", value: "칼국수 12,000원 · 곰탕 18,000원 · 갈치조림 1인분 14,000원 · 야채호떡 2,500원" }
+  - { label: "시간", value: "명동교자 10:30~21:00 · 하동관 월~토 07:00~16:00(일 휴무)" }
+  - { label: "교통", value: "4호선 명동역 8번 출구 · 2호선 을지로입구역 · 4호선 회현역(남대문시장)" }
+  - { label: "추천 시간대", value: "점심 명동교자·하동관 · 간식 거리가게·호떡 · 저녁 남대문 갈치조림 골목" }
 draft: false
 ---
 

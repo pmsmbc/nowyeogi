@@ -108,6 +108,14 @@ sources:
   - { title: "연합뉴스 — 용산구, '핼러윈 안전' 특별대책 가동…4단계 혼잡도 관리(2025-10-24)", url: "http://v.daum.net/v/20251024094253508" }
   - { title: "경향신문 — 용산구, 세계음식거리·이태원로·퀴논길 중점 관리(2023-10-16)", url: "http://v.daum.net/v/20231016100516047" }
   - { title: "한국관광공사 TourAPI — 전쟁기념관·경리단길·해방촌마을 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Where", value: "Itaewon 1-dong and 2-dong, Haebangchon and around Noksapyeong Station, Yongsan-gu, Seoul" }
+  - { label: "Key spots", value: "War Memorial of Korea · Seoul Central Mosque · Gyeongridan-gil · Haebangchon 108 steps · Sinheung Market" }
+  - { label: "Admission", value: "War Memorial and Seoul Central Mosque free; the streets and 108 steps are free too" }
+  - { label: "Hours", value: "War Memorial 09:30-18:00, last entry 17:00, closed Mondays", url: "https://www.warmemo.or.kr/Home/H10000/H10100/html" }
+  - { label: "Getting there", value: "Itaewon or Noksapyeong Station (Line 6); War Memorial: Samgakji Station exit 12, 3 min walk" }
+  - { label: "Suggested plan", value: "War Memorial in the morning → Haebangchon and Gyeongridan-gil in the afternoon → Itaewon-ro in the evening" }
+  - { label: "Best time", value: "Avoid Mondays (War Memorial closed); expect Halloween crowds on 30-31 October" }
 draft: false
 ---
 

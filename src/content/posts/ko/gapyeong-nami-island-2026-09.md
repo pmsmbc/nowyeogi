@@ -54,6 +54,14 @@ sources:
   - { title: "남이섬 공식 사이트 — 짚와이어", url: "https://namisum-en.imweb.me/157" }
   - { title: "남이섬 공식 사이트 — 호텔 정관루", url: "https://namisum-en.imweb.me/228" }
   - { title: "한국관광공사 — 남이섬", url: "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=111127" }
+glance:
+  - { label: "위치", value: "북한강 위 반달 모양 섬 · 가평선착장(가평읍 북한강변로 1024)에서 배로 5분" }
+  - { label: "요금", value: "입국비자 성인 19,000원(왕복 배 포함) · 어린이 13,000원 · 이른·늦은 입장 13,000원", url: "https://namisum-en.imweb.me/163" }
+  - { label: "시간", value: "08:00~21:00 연중무휴 · 막배 21:00, 귀환 21:05 · 9/18~11/22 첫 배 07:30", url: "https://namisum-en.imweb.me/165" }
+  - { label: "교통", value: "가평역에서 선착장까지 1.5km — 걸어서 20분, 택시 5분, 마을버스 10-4번" }
+  - { label: "소요 시간", value: "걸어서 두세 시간 · 자전거 한 바퀴 한 시간쯤(1인용 30분 5,000원)" }
+  - { label: "핵심 장소", value: "메타세쿼이아길 · 은행나무길 · 잣나무길 · 첫키스 벤치 · 짚와이어(55,000원부터)" }
+  - { label: "추천 시기", value: "10월 마지막 주(은행나무는 10월 말) · 벚꽃 4월 중순~5월 초 · 사진은 09시 전·16시 후" }
 draft: false
 ---
 

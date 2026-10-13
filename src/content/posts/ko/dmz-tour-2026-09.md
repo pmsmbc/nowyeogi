@@ -73,6 +73,14 @@ sources:
   - { title: "통일부 판문점견학지원센터 — DMZ 평화의 길", url: "https://www.panmuntour.go.kr/nlgn/pblc/guidance/dmzPeaceRoad.do" }
   - { title: "Third Tunnel of Aggression (Wikipedia)", url: "https://en.wikipedia.org/wiki/Third_Tunnel_of_Aggression" }
   - { title: "Imjingang station (Wikipedia)", url: "https://en.wikipedia.org/wiki/Imjingang_station" }
+glance:
+  - { label: "위치", value: "임진각 평화누리 — 경기도 파주시 문산읍 임진각로 148-40" }
+  - { label: "핵심 장소", value: "임진각 평화누리·자유의 다리 · 평화곤돌라 · 제3땅굴 · 도라전망대" }
+  - { label: "요금", value: "임진각 입장 무료(주차 승용차 2,000원) · 평화곤돌라 왕복 일반캐빈 대인 12,000원, 소인 10,000원" }
+  - { label: "시간", value: "평화곤돌라 평일 09:00~18:00, 주말·공휴일 09:00~19:00 · DMZ 평화관광 매표 09:00~14:30, 월요일 휴무" }
+  - { label: "예약", value: "제3땅굴·도라전망대는 파주시 DMZ 평화관광 예약과 신분증(외국인은 여권) 필수 · 판문점(JSA)은 별개 프로그램", url: "https://dmz.paju.go.kr:8443/" }
+  - { label: "교통", value: "경의중앙선 문산역에서 임진각행 버스·택시 · 자가용은 자유로로 1시간 안팎, 민통선 안쪽은 셔틀만" }
+  - { label: "소요 시간", value: "임진각 1~2시간 · 민통선 안쪽 코스 3시간 안팎 · 서울에서 당일로 하루" }
 draft: false
 ---
 

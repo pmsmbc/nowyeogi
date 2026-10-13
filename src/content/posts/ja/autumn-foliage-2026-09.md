@@ -87,6 +87,14 @@ sources:
   - { title: "国立公園公団 — リアルタイム統制情報", url: "https://www.knps.or.kr/front/portal/safe/acsCtrList.do?menuNo=8000340" }
   - { title: "内蔵山国立公園 — 秋の紅葉シーズンの無料シャトルバス運行 (2025)", url: "https://www.knps.or.kr/front/portal/open/pnewsDtl.do?menuNo=8000319&pnewsId=PNEWSM032200&pnewsGrpCd=PNE02" }
   - { title: "井邑市 — 第19回 井邑九節草花祭り", url: "https://www.jeongeup.go.kr/culture/index.jeongeup?menuCd=DOM_000000602004000000" }
+glance:
+  - { label: "おすすめ時期", value: "山林庁2026年予測の見頃：雪岳山10月20日 · 俗離山10月28日 · 内蔵山11月4日 · 漢拏山11月6日" }
+  - { label: "進み方", value: "雪岳山で9月末に始まる · 1日20〜25kmずつ南下 · 初紅葉の2〜3週間後に見頃 · 山は上から下へ" }
+  - { label: "料金", value: "国立公園の入場料なし（2007年廃止） · 寺院の拝観料もほぼ廃止、海印寺のみ大人3,000ウォン · 雪岳ケーブルカー往復16,000ウォン" }
+  - { label: "予約", value: "雪岳山フルリムゴル10月1日〜11月30日（1日5,000人） · 内蔵山ソレボン・カッパウィ10月18日〜11月16日 · 五台山は予約不要" }
+  - { label: "時間", value: "入山時間指定制：オセク→大青峰は4〜10月03:00〜12:00、11〜3月04:00〜11:00" }
+  - { label: "駐車場", value: "内蔵山の中小型乗用車は平日4,000ウォン · 週末と集中需要期間（10月1日〜11月15日）は5,000ウォン" }
+  - { label: "公式案内", value: "山林庁 2026年 韓半島 紅葉ピーク予測地図（報道資料）", url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782827" }
 draft: false
 ---
 

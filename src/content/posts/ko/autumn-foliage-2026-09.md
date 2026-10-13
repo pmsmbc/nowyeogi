@@ -87,6 +87,14 @@ sources:
   - { title: "국립공원공단 — 실시간 통제정보", url: "https://www.knps.or.kr/front/portal/safe/acsCtrList.do?menuNo=8000340" }
   - { title: "내장산국립공원 — 가을 단풍철 무료 셔틀버스 운행 (2025)", url: "https://www.knps.or.kr/front/portal/open/pnewsDtl.do?menuNo=8000319&pnewsId=PNEWSM032200&pnewsGrpCd=PNE02" }
   - { title: "정읍시 — 제19회 정읍 구절초 꽃축제", url: "https://www.jeongeup.go.kr/culture/index.jeongeup?menuCd=DOM_000000602004000000" }
+glance:
+  - { label: "추천 시기", value: "산림청 2026 예측 절정: 설악산 10월 20일 · 속리산 10월 28일 · 내장산 11월 4일 · 한라산 11월 6일" }
+  - { label: "진행 규칙", value: "설악산 9월 말 시작 · 하루 20~25km 남하 · 첫단풍 2~3주 뒤 절정 · 산은 위에서 아래로" }
+  - { label: "요금", value: "국립공원 입장료 없음(2007년 폐지) · 사찰 관람료 대부분 폐지, 해인사만 성인 3,000원 · 설악 케이블카 왕복 대인 16,000원" }
+  - { label: "예약", value: "설악산 흘림골 10월 1일~11월 30일(일 5,000명) · 내장산 서래봉·갓바위 10월 18일~11월 16일 · 오대산은 예약 없음" }
+  - { label: "시간", value: "입산시간지정제: 오색→대청봉 4~10월 03:00~12:00, 11~3월 04:00~11:00" }
+  - { label: "주차", value: "내장산 중소형 승용차 주중 4,000원 · 주말과 집중수요기간(10월 1일~11월 15일) 5,000원" }
+  - { label: "공식 안내", value: "산림청 2026년 한반도 단풍절정 예측지도 보도자료", url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782827" }
 draft: false
 ---
 

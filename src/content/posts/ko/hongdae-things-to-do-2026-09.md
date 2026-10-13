@@ -129,6 +129,14 @@ sources:
   - { title: "양화진외국인선교사묘원 — 방문수칙", url: "https://www.yanghwajin.net/guide/policy.php" }
   - { title: "양화진외국인선교사묘원 — 안내예약신청", url: "https://www.yanghwajin.net/guide/reservation.php" }
   - { title: "내 손안에 서울 — 선교사의 삶이 녹아있는 '양화진 외국인 선교사 묘원' (2021-06-28)", url: "https://mediahub.seoul.go.kr/archives/2002057" }
+glance:
+  - { label: "핵심 장소", value: "레드로드·걷고싶은거리 · KT&G 상상마당 홍대 · 경의선책거리 · 절두산 순교성지·양화진외국인선교사묘원" }
+  - { label: "요금", value: "경의선책거리·대안공간 루프·양화진 묘원 무료 · 절두산 박물관 자율 봉헌금 · 상상마당 베이직 공간투어 무료" }
+  - { label: "소요 시간", value: "레드로드 R1~R7 걸어서 약 25분 · 상상마당 공간투어 40~60분 · 마포 마을여행 약 2시간" }
+  - { label: "교통", value: "홍대입구역 8·9번 출구(걷고싶은거리)·6번 출구(책거리) · 6호선 상수역 · 합정역 7번 출구(성지)" }
+  - { label: "시간", value: "버스킹 밤 10시까지 · 경의선책거리·절두산 박물관 월요일 휴무 · 양화진 묘원 일요일 휴무" }
+  - { label: "예약", value: "양화진 무료 안내는 전날 18시까지 온라인 예약 · 상상마당 공간투어는 전화 02-2014-2003", url: "https://www.yanghwajin.net/guide/reservation.php" }
+  - { label: "추천 시기", value: "서울와우북페스티벌 10월 16~18일(레드로드 R1) · 핼러윈·연말 주간은 인파 집중", url: "https://wowlab.or.kr/wowbook-festival/2026-wowfestival/" }
 draft: false
 ---
 

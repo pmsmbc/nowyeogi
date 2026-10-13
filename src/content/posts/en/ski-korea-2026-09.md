@@ -53,6 +53,14 @@ sources:
   - { title: "Konjiam Resort — Lesson information", url: "https://www.konjiamresort.co.kr/funny/funnyLesson.dev" }
   - { title: "High1 Resort — Getting here", url: "https://www.high1.com/www/contents.do?key=948" }
   - { title: "Pyeongchang Olympic and Paralympic Memorial Museum", url: "https://legacy2018.or.kr/Home/H30000/H30200/H30203/html" }
+glance:
+  - { label: "Who it's for", value: "First-time skiers in Korea travelling without a car" }
+  - { label: "Picks", value: "No car, one day: Elysian Gangchon · English lessons: Yongpyong or Elysian · Seoul shuttle: Vivaldi Park or Welli Hilli · real mountain: Yongpyong, High1, Muju" }
+  - { label: "Getting there", value: "Elysian: Gyeongchun Line to Baegyangri (ITX does not stop) · Yongpyong and Alpensia: KTX to Jinbu plus free shuttle · High1: Taebaek Line from Cheongnyangni to Gohan" }
+  - { label: "Admission", value: "Last season (25/26): Elysian lift 4 hours ₩72,000 weekdays, ₩85,000 weekends, equipment ₩33,000 · Yongpyong beginner group half day ₩70,000" }
+  - { label: "Booking", value: "Foreigner shuttles: Vivaldi Park ₩20,000 return · Welli Hilli ₩40,000 return (27 Nov 2026 – 1 Mar 2027) · both need advance booking" }
+  - { label: "Dates", value: "Only Oak Valley has announced 26/27 dates (11 Dec 2026 – 20 Feb 2027) · the other nine unannounced as of 17 September" }
+  - { label: "What to bring", value: "Helmet (mandatory at Elysian, free loan at High1) · rent the clothing (low ₩20,000s for 4 hours last season) · book shuttles early" }
 draft: false
 ---
 

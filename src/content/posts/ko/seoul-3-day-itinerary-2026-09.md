@@ -26,6 +26,14 @@ sources:
   - { title: "국가유산청 궁능유적본부 관람 안내(공식)", url: "https://royal.khs.go.kr/ROYAL/contents/R702000000.do" }
   - { title: "서울시 공식 관광 안내(영문)", url: "https://english.visitseoul.net/" }
   - { title: "한국관광공사 VisitKorea", url: "https://english.visitkorea.or.kr/" }
+glance:
+  - { label: "추천 일정", value: "1일차 고궁·북촌(종로) · 2일차 명동·남산 · 3일차 홍대·한강" }
+  - { label: "예산", value: "숙박 제외 식비·입장료·교통 합쳐 하루 7만~12만 원" }
+  - { label: "요금", value: "경복궁 3,000원 · 국립민속박물관 무료 · 남산 케이블카 왕복 약 15,000원" }
+  - { label: "휴관일", value: "경복궁·창덕궁·종묘 화요일 · 덕수궁 월요일" }
+  - { label: "추천 구역", value: "숙소는 명동 또는 종로" }
+  - { label: "준비물", value: "티머니(편의점 3,000~5,000원) · 네이버 지도 또는 카카오맵 · 편한 신발" }
+  - { label: "공식 안내", value: "국가유산청 궁능유적본부 관람 안내", url: "https://royal.khs.go.kr/ROYAL/contents/R702000000.do" }
 draft: false
 ---
 

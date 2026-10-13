@@ -68,6 +68,14 @@ sources:
   - { title: "Gwangalli M Drone Light Show — official site", url: "https://www.gwangallimdrone.co.kr/en/home" }
   - { title: "Busan Air Cruise — Songdo Marine Cable Car fares", url: "https://www.busanaircruise.co.kr/" }
   - { title: "Korea Tourism Organization — VisitKorea", url: "https://english.visitkorea.or.kr/" }
+glance:
+  - { label: "Key spots", value: "Haedong Yonggungsa · Gamcheon Culture Village · Huinnyeoul and Taejongdae · Sky Capsule · Gwangalli drone show" }
+  - { label: "Admission", value: "Temples, villages, drone show free · Sky Capsule ₩50,000 per 2-person capsule · X the SKY ₩29,000" }
+  - { label: "Hours", value: "Yonggungsa 04:30–19:20 · X the SKY 10:00–21:00 · drone show every Saturday, 20:00 and 22:00 Mar–Sep" }
+  - { label: "Booking", value: "Sky Capsule online booking opens every Tuesday at 07:00 KST for the week four weeks later" }
+  - { label: "Getting there", value: "Bus 181/100 from Haeundae Station to Yonggungsa · village bus from Toseong to Gamcheon · Gwangan Station" }
+  - { label: "Suggested plan", value: "Day one east (Yonggungsa, Sky Capsule, X the SKY, Gwangalli) · day two west (Gamcheon, Jagalchi, Yeongdo)" }
+  - { label: "Official info", value: "Haeundae Blue Line Park official fares and timetable", url: "https://www.bluelinepark.com/eng/fare.do" }
 draft: false
 ---
 

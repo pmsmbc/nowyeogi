@@ -79,6 +79,13 @@ sources:
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
   - { title: "한국관광공사 관광정보 — 을지로 노가리골목", url: "https://korean.visitkorea.or.kr/" }
+glance:
+  - { label: "Best areas", value: "Euljiro 1-ga end 1,644 rooms · Dongdaemun end (Euljiro 5-ga, Ojang-dong) 1,876 · Euljiro 3-4-ga only 431" }
+  - { label: "Where to stay", value: "Lotte City Myeongdong (435) · Ninetree Myeongdong II (408) · Four Points (375) · Mercure Dongdaemun (336)" }
+  - { label: "Getting there", value: "Line 2 to Euljiro 1-ga, 3-ga or 4-ga · Lines 3 and 4 to Chungmuro" }
+  - { label: "Airport bus", value: "6015 for Euljiro 1-4-ga (last 19:42-19:55) · 6001 for Euljiro 5-ga and Ojang-dong (last 19:50-19:52) · ₩17,000", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=21" }
+  - { label: "Hostels", value: "42 hostels, 40 registered since 2025, mostly in Jugyo-dong and Euljiro 3-ga with 1-10 rooms" }
+  - { label: "AREX", value: "Change at Seoul Station · last train 23:40, express 23:00 · City Airport Terminal: Express passengers only", url: "https://www.airportrailroad.com/train/express/city/info" }
 draft: false
 ---
 

@@ -64,6 +64,14 @@ sources:
   - { title: "Jeongdongsimgok Badabuchae-gil — official site", url: "http://searoad.gtdc.or.kr/buchae_intro.html" }
   - { title: "Visit Gangneung — Gyeongpodae", url: "https://visitgangneung.net/pub/ruins.do?mode=v&seq=3" }
   - { title: "Visit Gangneung — attractions", url: "https://visitgangneung.net/pub/gnhot.do" }
+glance:
+  - { label: "Key spots", value: "Ojukheon · Seongyojang · Gyeongpodae and Gyeongpo Beach · Jeongdongjin · Badabuchae-gil cliff path" }
+  - { label: "Admission", value: "Ojukheon ₩3,000 · Seongyojang ₩5,000 · cliff path ₩5,000 · Gyeongpodae free" }
+  - { label: "Hours", value: "Ojukheon and Seongyojang 09:00–18:00 · cliff path 09:00–17:30 · shorter in winter" }
+  - { label: "Time needed", value: "Ojukheon about 1.5 hours with the museum · Gyeongpo beach, lagoon and pavilion half a day" }
+  - { label: "Getting there", value: "Gyeongpo by bus 202, 202-1, 202-2 · Jeongdongjin by bus 112 or 17-minute train from Gangneung Station" }
+  - { label: "Best time", value: "Ojukheon half price on the last Wednesday · sunrise festival 31 Dec–1 Jan, rooms sell out months ahead" }
+  - { label: "Official info", value: "Visit Gangneung attractions", url: "https://visitgangneung.net/pub/gnhot.do" }
 draft: false
 ---
 

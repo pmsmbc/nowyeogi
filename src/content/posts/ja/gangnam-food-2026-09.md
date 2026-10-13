@@ -252,6 +252,13 @@ sources:
   - { title: "韓国観光公社 — Muslim-Friendly Restaurants in Korea（2021年12月時点の情報、PDF）", url: "https://english.visitkorea.or.kr/public/asis/upload/Muslim-friendly_restaurants.pdf" }
   - { title: "スターフィールドCOEXモール — グルメストリート、フードストリート、レストラン（2026年10月6日確認）", url: "https://www.starfield.co.kr/coexmall/cafeDining/restaurant.do" }
   - { title: "ダイニングコード — 한일관 압구정점、모퉁이집、뉴만두집、게방식당、곰탕랩（2026年10月6日確認）", url: "https://www.diningcode.com/" }
+glance:
+  - { label: "主な店", value: "ミングルス（3つ星）・マンドゥチプ・コムタンラボ・ケバンシクタン・ミョンソウル（ビブグルマン）・韓一館" }
+  - { label: "予算", value: "着実な価格の店はビビンバ・うどん7,000ウォン、カルグクス8,000ウォン・ビブグルマンは1人45,000ウォン以下" }
+  - { label: "予約", value: "星付きは予約を先に・コムタンラボは行列が長く開店時間に・ガゲンの夕食は19時ちょうどに開始" }
+  - { label: "アクセス", value: "清潭は狎鴎亭ロデオ駅（水仁盆唐線）・カロスキルは新沙駅（3号線）・食堂街は江南駅（2号線）・COEXは三成駅" }
+  - { label: "おすすめ時間帯", value: "江南駅の着実な価格の店は土日休みが多い・チョンドゥンキンパは24時間・楊口食堂は朝6時開店" }
+  - { label: "公式案内", value: "行政安全部 着実な価格の店（江南区）", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
 draft: false
 ---
 

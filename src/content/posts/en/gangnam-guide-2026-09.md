@@ -93,6 +93,12 @@ sources:
   - { title: "헤럴드경제 — '강남페스티벌', 올해는 영동대로 대신 도산대로서 열린다 (2026-09-28, 15회)", url: "https://biz.heraldcorp.com/article/10886012" }
   - { title: "KBS연예 — 3~5일, 도산대로 일대 '2026 강남페스티벌' (2026-10-03, 학동사거리~도산공원사거리 3~4일 전 차로 통제)", url: "https://kstar.kbs.co.kr/list_view.html?idx=411198" }
   - { title: "한국관광공사 TourAPI — 신사동 가로수길 (가로수길 23, 강남관광정보센터 02-3445-0111), 봉은사(서울) (봉은사로 531, 794년 창건·1498년 봉은사로 개칭) (2026-10-06 조회)", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Where", value: "Northern Gangnam-gu: Gangnam Station, Sinnonhyeon, Garosu-gil, Apgujeong, Cheongdam, Samseong-dong, Teheran-ro (Gangnam and Sinsa stations straddle Seocho-gu)" }
+  - { label: "Getting there", value: "Gangnam (Line 2/Sinbundang) · Sinsa (Line 3), Garosu-gil · Apgujeong Rodeo (Suin-Bundang) · Samseong (Line 2), COEX" }
+  - { label: "Key spots", value: "Garosu-gil · Apgujeong Rodeo and K-Star Road · COEX and Bongeunsa · Teheran-ro and Seonjeongneung" }
+  - { label: "Suggested plan", value: "Morning Garosu-gil → Apgujeong Rodeo and Cheongdam → Bongeunsa and COEX → Seonjeongneung, Teheran-ro → Gangnam Station" }
+  - { label: "Watch out", value: "GTX-A not yet serving Samseong · Climate Card invalid on Sinbundang Line · avoid Gangnam Station in downpours" }
 draft: false
 ---
 

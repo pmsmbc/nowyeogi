@@ -76,6 +76,13 @@ sources:
   - { title: "공항리무진 — 6002번 노선안내 (공항방면, 정류장별 시간표)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2" }
   - { title: "공항리무진 — 6002번 노선안내 (시내방면)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=6" }
   - { title: "공항리무진 — N6002번 심야 노선안내", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=80" }
+glance:
+  - { label: "추천 구역", value: "양화로 큰길(홍대입구역~합정역)에 큰 호텔 · 서교·동교동은 호스텔·도시민박 · 조용히 자려면 합정·상수 쪽" }
+  - { label: "추천 숙소", value: "L7 홍대 바이 롯데 · 홀리데이 인 익스프레스 서울 홍대 · 라이즈 호텔(RYSE)" }
+  - { label: "교통", value: "공항철도 홍대입구역 → 인천공항 4,650~5,250원 · 공항행 막차 23:48 (직통열차는 정차 안 함)", url: "https://www.airportrailroad.com/train/normal/info/030/0" }
+  - { label: "공항버스", value: "6002번 홍대입구 정류장 성인 17,000원 · 공항행 막차 21:11 · 심야 N6002 23:00~04:00", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=2" }
+  - { label: "주의", value: "메리골드호텔(양화로 112)은 2022년 7월 폐업 처리 · 도시민박은 내국인 원칙상 숙박 불가" }
+  - { label: "추천 시기", value: "핼러윈(2026-10-31 토)·연말 주말 밤은 레드로드·클럽거리 인파 집중 · 떨어진 곳을 고르세요" }
 draft: false
 ---
 

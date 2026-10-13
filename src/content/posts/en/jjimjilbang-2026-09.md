@@ -43,6 +43,14 @@ sources:
   - { title: "Seoul Tourism Organization — Seoul jjimjilbang", url: "https://korean.visitseoul.net/editorspicks/%EC%84%9C%EC%9A%B8-%EC%B0%9C%EC%A7%88%EB%B0%A9/KON042914" }
   - { title: "Visit Seoul — Riverside Spa Land", url: "https://english.visitseoul.net/entertainment/Riverside-Spa-Land-EN/ENP009576" }
   - { title: "Visit Seoul — Park Habio Water Kingdom & Jjimjil Spa", url: "https://english.visitseoul.net/entertainment/ParkHabio-WaterKingdom/ENP0jakmu" }
+glance:
+  - { label: "Who it's for", value: "First-time visitors to a Korean bathhouse" }
+  - { label: "The order", value: "Shoe locker → outfit and towels at the counter → undress → wash and bathe → change into the outfit for the common area" }
+  - { label: "Dress code", value: "Bathing area separated by sex and naked (no swimwear) · sweating area mixed sex, the issued outfit is compulsory by law" }
+  - { label: "Tattoos", value: "No legal basis for a ban, each business sets its own rule · phone ahead · some refuse freshly dyed hair too" }
+  - { label: "Price range", value: "Bathing and jjimjil priced separately, list must be posted · e.g. sauna ₩13,000, jjimjilbang ₩15,000, outfit rental ₩2,000 extra at some" }
+  - { label: "Sleeping over", value: "Not a lodging business, no bedding beyond large towels and pillows · not all are 24 hours (one listing runs 07:00–22:00), check first" }
+  - { label: "Safety", value: "No bathing within two hours of alcohol (named in the law) · 89.3% of bathhouse injuries are slips and falls" }
 draft: false
 ---
 A **jjimjilbang** is a Korean bathhouse with hot rooms attached: you bathe, then sit in a heated common area in an outfit the place issues you. Foreign visitors want to try it and dread trying it, because nobody tells them where you undress, what you put on, or whether tattoos will get you turned away. This post answers that **from the law** — from the Public Health Control Act and its Enforcement Rule.

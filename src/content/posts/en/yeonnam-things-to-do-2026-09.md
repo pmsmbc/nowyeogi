@@ -137,6 +137,13 @@ sources:
   - { title: "bnt뉴스 — '홍대그라운드 락페스티벌' 무료 개최 (연남그라운드 페스티벌 포함)(2026-10-07)", url: "http://v.daum.net/v/20261007070113349" }
   - { title: "지디넷코리아 — 마샬, 글로벌 캠페인 'KLMA' 10월 연남동서 혁오 라이브 개최(2026-09-16)", url: "http://v.daum.net/v/20260916111451271" }
   - { title: "헤럴드경제 — 주민들이 만든 가을잔치...마포 곳곳 동 축제 풍성(2026-09-09)", url: "http://v.daum.net/v/20260909074151383" }
+glance:
+  - { label: "Key spots", value: "Gyeongui Line Forest Park, Yeonnam section · Mangwon Hangang Park · Seoul Battleship Park · Mangwonjeong · Haneul Park" }
+  - { label: "Admission", value: "Forest park, river park and Mangwonjeong free · Seoul Battleship Park ₩3,000 adult · electric shuttle ₩2,000 one way" }
+  - { label: "Dates", value: "Seoul Silver Grass Festival 17–23 October, 10:00–21:00 · Yeonnam Ground Festival 24 October, 16:00–18:00, free", url: "https://news.seoul.go.kr/env/archives/570795" }
+  - { label: "Hours", value: "Seoul Battleship Park: October Tue–Fri 10–19, Sat–Sun 10–20, from November 10–18 · park busking 11–13, 14–16, 17–19" }
+  - { label: "Getting there", value: "Hongik Univ. Station exit 3 (forest park) · Mangwon Station (Line 6) exit 2, 5 min (market) · exit 1 then village bus Mapo 09 (river park)" }
+  - { label: "Best time", value: "Seoul Battleship Park closes Mondays · sunset spot near the Mangwon Hangang Bus pier (city sunset map)" }
 draft: false
 ---
 

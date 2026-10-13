@@ -75,6 +75,14 @@ sources:
   - { title: "Korea National Park Service — designated entry-time system", url: "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198" }
   - { title: "Korea National Park Service — Bukhansan fees (peak-season parking)", url: "https://www.knps.or.kr/front/portal/visit/visitCourseAmt.do" }
   - { title: "Seoul Tourism Organization — Seoul Hiking Tourism Center (Bukhansan)", url: "https://korean.visitseoul.net/nature/2024-SHTCbukhansan/KOPmt730g" }
+glance:
+  - { label: "Best time", value: "Early November downtown · around 28 October on Bukhansan · leaves left unswept 24 October to mid-November" }
+  - { label: "Key spots", value: "Huwon at Changdeokgung · Deoksugung-gil · Sungkyunkwan Myeongnyundang ginkgo · Bukhansan Daenammun Course" }
+  - { label: "Admission", value: "Huwon ₩5,000 plus ₩3,000 palace ticket (₩8,000 minimum) · Deoksugung-gil, the ginkgo and Bukhansan free" }
+  - { label: "Booking", value: "Huwon online at 10:00 six days ahead, on site at 09:00 on the day · 100 people per slot" }
+  - { label: "Getting there", value: "City Hall Station Exit 1 (Line 1, 2) · Hyehwa Station Exit 4 (Line 4) · Gupabal Station (Line 3) then Bus 704" }
+  - { label: "Hours", value: "Bukhansan entry Mar–Nov 04:00–17:00 · Myeongnyundang Mar–Oct 09:00–18:00, Nov–Feb 09:00–17:00" }
+  - { label: "Official info", value: "Royal Palaces and Tombs Center booking guide for Huwon", url: "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=cdg" }
 draft: false
 ---
 

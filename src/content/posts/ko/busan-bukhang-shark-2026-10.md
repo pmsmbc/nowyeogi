@@ -43,6 +43,14 @@ sources:
   - { title: "오마이뉴스 — 국감장에 오른 '부캉이'", url: "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274654" }
   - { title: "데일리안 — BPA, 북항 친수공원 개방 (2026-08-03)", url: "https://www.dailian.co.kr/news/view/1673919/" }
   - { title: "한국관광공사 — 부산북항 친수공원", url: "https://korean.visitkorea.or.kr/" }
+glance:
+  - { label: "위치", value: "부산북항 친수공원 경관수로(동구 이순신대로 164) · 10월 4일 기준 제4~제5보도교 사이" }
+  - { label: "시간", value: "수로 주변 06:00~18:00만 개방 · 18:00~다음 날 06:00 출입 통제" }
+  - { label: "요금", value: "무료" }
+  - { label: "교통", value: "KTX 부산역에서 공중보행교 도보 · 1호선 부산역·초량역" }
+  - { label: "주차", value: "공원 주차장 있으나 연휴에는 금세 만차, 대중교통 권장" }
+  - { label: "추천 시기", value: "평일이나 이른 오전 · 가기 전 상어가 바다로 나갔는지 뉴스 확인" }
+  - { label: "준비물", value: "망원 기능 카메라 · 플래시 끄기 · 먹이나 물건 던지지 않기" }
 draft: false
 ---
 

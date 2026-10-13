@@ -59,6 +59,13 @@ sources:
   - { title: "Seoul Future Heritage - Gilsangsa Temple (2013-036)", url: "https://futureheritage.seoul.go.kr/" }
   - { title: "Seongbuk-gu - culture and tourism", url: "https://www.sb.go.kr/tour/" }
   - { title: "Seoul Hanok Portal - the Seongbuk-dong hanok concentration area", url: "https://hanok.seoul.go.kr/" }
+glance:
+  - { label: "Key spots", value: "Gilsangsa Temple · Simujang · Choi Sun-u's house · Korea Furniture Museum · Kansong Art Museum (exhibitions only)" }
+  - { label: "Admission", value: "Gilsangsa, Simujang and Choi Sun-u's house free · Korea Furniture Museum 20,000 won" }
+  - { label: "Hours", value: "Choi Sun-u's house 1 Apr–30 Nov, Tue–Sat 10:00–17:00 (closed Dec–Mar) · Gilsangsa and Simujang open all year" }
+  - { label: "Booking", value: "Korea Furniture Museum: compulsory booking, guided tours only (English Mon–Sat 14, 15, 16, 17h) · Kansong by booking during exhibitions" }
+  - { label: "Getting there", value: "Hansung University Station (Line 4) exit 6 → village bus Seongbuk 02 (Gilsangsa, Furniture Museum) or 03 (Simujang)" }
+  - { label: "Best time", value: "On Mondays go to Simujang and Gilsangsa · most indoor sites close on Mondays" }
 draft: false
 ---
 

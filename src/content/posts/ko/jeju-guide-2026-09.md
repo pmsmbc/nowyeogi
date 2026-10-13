@@ -38,6 +38,13 @@ sources:
   - { title: "제주특별자치도 — 공항버스 안내", url: "https://bus.jeju.go.kr/publicTrafficInformation/airportBusInfo" }
   - { title: "UNESCO — 제주도 생물권보전지역", url: "https://www.unesco.org/en/mab/jeju-island" }
   - { title: "UNESCO — 제주해녀문화", url: "https://ich.unesco.org/en/RL/culture-of-jeju-haenyeo-women-divers-01068" }
+glance:
+  - { label: "교통", value: "김포에서 비행기 75~85분, 하루 편도 115~125편 · 인천은 하루 왕복 1편" }
+  - { label: "공항에서", value: "600번 리무진 중문 52분·서귀포 98분, 4,500~5,500원 · 택시 2킬로미터 3,000원", url: "https://bus.jeju.go.kr/publicTrafficInformation/airportBusInfo" }
+  - { label: "버스 요금", value: "카드 1,150원 단일, 급행은 최대 3,000원 · 티머니 가능, 40분 안에 2회 무료 환승", url: "https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule" }
+  - { label: "예약", value: "한라산 정상 코스(성판악·관음사)만 예약, 매월 첫 영업일 오전 9시에 다음 달 전체 오픈", url: "https://visithalla.jeju.go.kr" }
+  - { label: "추천 시기", value: "봄(3월 말~4월 초 벚꽃·유채) · 태풍의 90퍼센트가 7~9월" }
+  - { label: "추천 일정", value: "5박 이상이면 북쪽 제주시와 남쪽 서귀포 등 거점 두세 곳에 나눠 숙박" }
 draft: false
 ---
 

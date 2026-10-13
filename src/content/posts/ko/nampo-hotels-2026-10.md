@@ -94,6 +94,13 @@ sources:
   - { title: "라발스호텔 — 오시는 길", url: "https://www.lavalsehotel.com/about_directions" }
   - { title: "코모도호텔 부산 — 오시는 길", url: "https://www.commodore.co.kr/html/10_location/01.php" }
   - { title: "김해공항 리무진버스, 동부산관광단지 정류소 신설…운행 개편 (2025-12-31)", url: "https://www.twig24.com/news/local_bs/2025/12/31/20251231500054" }
+glance:
+  - { label: "추천 구역", value: "부산역 앞(기차·배) · 남포동·중앙동(시장) · 영도(항구·다리 전망)" }
+  - { label: "추천 숙소", value: "라마다 앙코르 부산역 · 토요코인 부산역1 · 코모도호텔 · 호텔포레 프리미어 남포 · 라발스호텔" }
+  - { label: "위치", value: "세 구역 모두 1호선 위, 부산역에서 남포역까지 두 정거장" }
+  - { label: "교통", value: "김해공항에서 경전철+지하철 1,800원, 50분~1시간 · 공항리무진 2는 6,000원" }
+  - { label: "시간", value: "체크인 15:00 · 체크아웃 11:00 (라마다·코모도·라발스)" }
+  - { label: "추천 시기", value: "부산국제영화제(2026년 10월 6~15일) 기간은 남포동이 더 붐벼요" }
 draft: false
 ---
 

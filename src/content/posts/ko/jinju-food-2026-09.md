@@ -43,6 +43,13 @@ sources:
   - { title: "한국민족문화대백과사전 — 헛제사밥", url: "https://encykorea.aks.ac.kr/Article/E0076622" }
   - { title: "디지털진주문화대전 — 진주냉면", url: "http://jinju.grandculture.net/jinju/toc/GC00402096" }
   - { title: "디지털진주문화대전 — 진주중앙시장", url: "http://jinju.grandculture.net/jinju/toc/GC00401966" }
+glance:
+  - { label: "대표 음식", value: "진주냉면 · 진주비빔밥 · 헛제사밥 · 진주장어 · 교방음식·한정식 (시청 공식 분류 5가지)" }
+  - { label: "핵심 장소", value: "중앙시장(진양호로547번길 8-1, 1884년 개장) · 로데오거리 · 진주성 주변 장어집" }
+  - { label: "대상", value: "비빔밥·냉면 모두 채식 불가 · 돼지고기만 피하면 냉면·장어 가능 · 할랄 업소는 확인 안 됨" }
+  - { label: "추천 시기", value: "냉면은 사철 파는 집 있음 · 오일장 문산 4·9일, 금곡·대곡 1·6일, 일반성 3·8일" }
+  - { label: "문의", value: "가격·영업시간은 공개되지 않아 가기 전 시청 맛집 페이지의 전화번호로 확인" }
+  - { label: "공식 안내", value: "진주시청 — 진주냉면", url: "https://www.jinju.go.kr/02234/02349/02355.web" }
 draft: false
 ---
 

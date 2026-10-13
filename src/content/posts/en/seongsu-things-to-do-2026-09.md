@@ -140,6 +140,13 @@ sources:
   - { title: "아시아경제 — 성수관광안내소 '한국관광 100선' 선정(2025-05-11)", url: "http://v.daum.net/v/20250511074007560" }
   - { title: "머니투데이 — \"마트 닫고 매출 반토막\" 시장 상인 곡소리(2026-06-21)", url: "http://v.daum.net/v/20260621063156456" }
   - { title: "성동구, 동양하루살이 '친환경 방제' 선제 대응(2026-06-17)", url: "http://v.daum.net/v/20260617150757210" }
+glance:
+  - { label: "Key spots", value: "Seoul Forest (Garden Expo) · Water Works Museum · handmade shoe shops and Hope Platform · Yeonmujang-gil" }
+  - { label: "Admission", value: "Seoul Forest, greenhouse and Water Works Museum free · Seoul Forest parking ₩200 per 5 minutes" }
+  - { label: "Dates", value: "Garden Expo until 27 October · Creative×Seongsu 5–11 October · free garden cinema 10, 16 and 24 October" }
+  - { label: "Hours", value: "Water Works Museum 09:00–18:00 · greenhouse 10:00–17:00 (16:00 from November) · eco forest 05:30–21:30", url: "https://parks.seoul.go.kr/mini/content.do?key=2605260009" }
+  - { label: "Getting there", value: "Seoul Forest Station (Suin-Bundang) exit 4, 2 min to the park, exit 3 to the museum · Seongsu Station (Line 2) exit 3 for Yeonmujang-gil" }
+  - { label: "Best time", value: "Greenhouse and museum close Mondays · Yeonmujang-gil cars restricted Sat–Sun 14:00–18:00" }
 draft: false
 ---
 

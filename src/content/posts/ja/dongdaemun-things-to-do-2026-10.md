@@ -162,6 +162,14 @@ sources:
   - { title: "패션넷 — 동대문패션타운 패러다임이 바뀐다, 60여년 만에 주 5일제 실시 (2022-03-02)", url: "https://www.fashionnet.or.kr/daily-news/65196/" }
   - { title: "한국섬유신문 — 동대문 디오트, '밤 장사' 바뀌나…영업시간 조정 다시 불붙다 (2026-01-28)", url: "https://www.ktnews.com/news/articleView.html?idxno=143686" }
   - { title: "한국관광공사 TourAPI — 동대문디자인플라자·동대문역사문화공원·흥인지문·흥인지문공원·한양도성박물관·낙산공원·채석장 전망대·서울 동관왕묘·동대문종합시장·서울 평화시장 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "主なスポット", value: "DDP · 東大門歴史文化公園（二間水門） · 興仁之門 · 駱山の城郭道 · 東廟の蚤の市" }
+  - { label: "料金", value: "ほとんど無料 · DDP建築ツアー10,000ウォン · 屋上ツアー26,000ウォン（夕焼けツアー50,000ウォン）" }
+  - { label: "時間", value: "DDP 10:00〜20:00、月曜も開館 · 博物館・記念館・採石場展望台は月曜休み" }
+  - { label: "所要時間", value: "駱山の城郭道 恵化門〜光熙門3.2km 約1時間30分 · DDPのツアーは各60分", url: "https://seoulcitywall.seoul.go.kr/wallcourse/2.do" }
+  - { label: "アクセス", value: "東大門歴史文化公園駅（2・4・5号線） · 東大門駅（1・4号線） · 東廟前駅（1・6号線）" }
+  - { label: "おすすめ時期", value: "火〜土 · 蚤の市は週末 · 卸売モールは金・土の夜に休み多い · DDP 365ライト19〜22時" }
+  - { label: "予約", value: "建築ツアーはNAVER予約 · 屋上ツアーは18〜70歳、身分証必須、1回15人", url: "https://ddp.or.kr/index.html?menuno=797&siteno=2&bbsno=11&boardno=145&bbstopno=11&act=view&subno=1" }
 draft: false
 ---
 

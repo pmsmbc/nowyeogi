@@ -252,6 +252,13 @@ sources:
   - { title: "한국관광공사 — Muslim-Friendly Restaurants in Korea (2021년 12월 기준 정보, PDF)", url: "https://english.visitkorea.or.kr/public/asis/upload/Muslim-friendly_restaurants.pdf" }
   - { title: "스타필드 코엑스몰 — 고메스트리트, 푸드스트리트, 레스토랑 (2026년 10월 6일 조회)", url: "https://www.starfield.co.kr/coexmall/cafeDining/restaurant.do" }
   - { title: "다이닝코드 — 한일관 압구정점, 모퉁이집, 뉴만두집, 게방식당, 곰탕랩 (2026년 10월 6일 조회)", url: "https://www.diningcode.com/" }
+glance:
+  - { label: "핵심 가게", value: "밍글스(3스타) · 만두집·곰탕랩·게방식당·면서울(빕 구르망) · 한일관" }
+  - { label: "예산", value: "착한가격업소 비빔밥·우동 7,000원, 칼국수 8,000원 · 빕 구르망은 1인 45,000원 이하" }
+  - { label: "예약", value: "스타 식당은 예약 먼저 · 곰탕랩은 대기가 길어 개점 시간에 · 가겐 저녁은 19시 정시 시작" }
+  - { label: "교통", value: "청담은 수인분당선 압구정로데오역 · 가로수길은 3호선 신사역 · 밥집 골목은 2호선 강남역 · 코엑스 삼성역" }
+  - { label: "추천 시간대", value: "강남역 착한가격업소는 토·일 휴무 많음 · 정든김밥 24시간 · 양구식당 06:00 개점" }
+  - { label: "공식 안내", value: "행정안전부 착한가격업소 (강남구)", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
 draft: false
 ---
 

@@ -42,6 +42,13 @@ sources:
   - { title: "제주시 — 동문재래시장 야시장", url: "https://www.jejusi.go.kr/field/economy/dongmunNightmarket.do" }
   - { title: "서귀포시 — 전통시장 현황", url: "https://www.seogwipo.go.kr/field/industryeconomy/traditionalmarket.htm" }
   - { title: "국가유산청 — 제주해녀(국가무형유산)", url: "https://www.khs.go.kr/cha/SearchKindOpenapiDt.do?ccbaKdcd=17&ccbaAsno=0001320000000&ccbaCtcd=ZZ" }
+glance:
+  - { label: "대표 음식", value: "흑돼지구이 · 고기국수 · 돔베고기 · 갈치조림 · 옥돔 · 몸국" }
+  - { label: "식당 고르기", value: "제주 돼지고기 판매 인증점(100퍼센트 제주산) · 착한가격업소 명단", url: "https://www.jeju.go.kr/jeju/local/info.htm" }
+  - { label: "핵심 장소", value: "동문시장 야시장(제주시) · 서귀포매일올레시장(서귀포)", url: "https://www.jejusi.go.kr/field/economy/dongmunNightmarket.do" }
+  - { label: "시간", value: "동문시장 야시장 매일 18:00~24:00, 재료가 떨어지면 일찍 닫음" }
+  - { label: "추천 시기", value: "야시장은 아홉 시 전 · 고기국수는 비 오는 날" }
+  - { label: "결제", value: "카드 거의 다 됨, 시장 노점도 대부분 · 야시장은 탐나는전도 가능" }
 draft: false
 ---
 

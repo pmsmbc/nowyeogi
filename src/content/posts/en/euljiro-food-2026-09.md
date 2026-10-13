@@ -154,6 +154,13 @@ sources:
   - { title: "국가법령정보센터 — 여신전문금융업법 제19조(가맹점의 준수사항)", url: "https://www.law.go.kr/법령/여신전문금융업법/제19조" }
   - { title: "국립국어원 표준국어대사전 — 노가리", url: "https://stdict.korean.go.kr/search/searchResult.do?searchKeyword=%EB%85%B8%EA%B0%80%EB%A6%AC" }
   - { title: "다이닝코드 — 우래옥 본점, 오장동흥남집 본점, 오장동함흥냉면, 안동장, 산수갑산, 조선옥, 평래옥, 문화옥, 을지다방 (2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=TjHHaWq8Ylqt" }
+glance:
+  - { label: "Key eats", value: "Woo Lae Oak (MICHELIN 2026 Bib Gourmand) · Pyeongraeok · Ojang-dong Heungnamjip · Munhwaok · Andongjang" }
+  - { label: "Budget", value: "Old-school naengmyeon ₩15,000-18,000 (DiningCode) · good-price stew ₩7,000, Americano ₩1,800" }
+  - { label: "Booking", value: "Woo Lae Oak takes no reservations (MICHELIN) · cards confirmed at Woo Lae Oak and Pyeongraeok" }
+  - { label: "Getting there", value: "Euljiro 3-ga Station (Lines 2, 3) for the alleys · Euljiro 4-ga Station (Lines 2, 5), exit 4" }
+  - { label: "Suggested plan", value: "Lunch near Euljiro 4-ga · evenings in the golbaengi and nogari alleys · tea at Eulji Dabang" }
+  - { label: "Hours", value: "Woo Lae Oak closed Mon · Sansugapsan, Joseonok closed Sun · Munhwaok opens 07:00, Geomok Sikdang 05:00" }
 draft: false
 ---
 

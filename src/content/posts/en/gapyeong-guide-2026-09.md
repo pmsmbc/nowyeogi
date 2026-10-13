@@ -35,6 +35,14 @@ sources:
   - { title: "Nami Island — access and transport", url: "https://www.namisum.com/277" }
   - { title: "The Garden of Morning Calm — directions and admission", url: "https://www.morningcalm.co.kr/about/about03.php" }
   - { title: "Petite France — directions", url: "http://www.pfcamp.com/page/page7" }
+glance:
+  - { label: "Where", value: "Northeast of Seoul, an hour by train · Gapyeong Station for Nami, Cheongpyeong Station for the arboretum" }
+  - { label: "Getting there", value: "ITX-Cheongchun Yongsan–Gapyeong about 60 min, ₩6,900 (no transport card) · Gyeongchun Line from Sangbong about 50 min" }
+  - { label: "Getting around", value: "Circular bus day pass ₩8,000 · two courses, transfer at Petite France · closed Wednesdays · pay driver" }
+  - { label: "Key spots", value: "Nami Island · Garden of Morning Calm · Petite France · rail bike · Jaraseom" }
+  - { label: "Suggested plan", value: "Day trip — Nami Island only, or Nami plus Petite France · pick two, not four" }
+  - { label: "Hours", value: "Earliest useful train Yongsan 08:50, arriving 09:49 · last ITX back about 22:33, last Nami ferry 21:05" }
+  - { label: "Best time", value: "Autumn mid-October to November · Jarasum Jazz Festival 9–11 October · arboretum winter lights December to March" }
 draft: false
 ---
 

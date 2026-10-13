@@ -33,6 +33,14 @@ sources:
   - { title: "서울시 기후동행카드 안내(영문 공식)", url: "https://english.seoul.go.kr/policy/transportation/climate-card/" }
   - { title: "Trazy — 한국 지하철·티머니 안내(2026)", url: "https://blog.trazy.com/korea-subway-t-money-card-guide/" }
   - { title: "Unpackorea — 서울 버스·지하철 요금(2026)", url: "https://unpackorea.com/seoul-bus-subway-fares-2026-guide/" }
+glance:
+  - { label: "대상", value: "처음 서울 지하철을 타는 여행자·외국인 손님" }
+  - { label: "요금", value: "교통카드 기본요금 1,550원(10km 이내) · 1회용 종이 승차권 1,500원+보증금 500원" }
+  - { label: "구입처", value: "티머니 카드값 3,000~5,000원 · 편의점(GS25·CU·세븐일레븐·이마트24), 역 발매기, 관광안내소" }
+  - { label: "기후동행카드", value: "1일 5,000원~7일 20,000원+카드값 3,000원 · 하루 4회 이상 탈 때 이득 · 인천공항 공항철도 불가" }
+  - { label: "환승", value: "하차 후 30분 안(21시~익일 7시는 60분) · 최대 4회 · 탈 때와 내릴 때 모두 태그" }
+  - { label: "시간", value: "운행 약 05:30~자정 · 혼잡 시간 07:30~09:00, 18:00~19:30" }
+  - { label: "공식 안내", value: "서울시 교통 요금 안내", url: "https://news.seoul.go.kr/traffic/traffic_price" }
 draft: false
 ---
 

@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import AdSlot from '../components/AdSlot.astro';
 import PostCard from '../components/PostCard.astro';
 import PlaceCard from '../components/PlaceCard.astro';
+import GlanceTable from '../components/GlanceTable.astro';
 import { render } from 'astro:content';
 import { getPosts, getTranslations, postPath, type Post } from '../lib/posts';
 import { pickRelated, localePath } from '../lib/postUtils';
@@ -76,6 +77,8 @@ const jsonLd = [
     <figure class="cover">
       <img src={post.data.cover} alt={cover?.alt ?? ''} width={cover?.width ?? 1600} height={cover?.height ?? 1000} loading="eager" fetchpriority="high" />
     </figure>
+
+    {post.data.glance.length > 0 && <GlanceTable rows={post.data.glance} lang={lang} />}
 
     <div class="prose"><AdSlot lang={lang} slot="top" /></div>
 

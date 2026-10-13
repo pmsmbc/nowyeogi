@@ -35,6 +35,13 @@ sources:
   - { title: "Visit Gangneung — SEA TEA シティツアーバス", url: "https://visitgangneung.net/pub/tourtheme.do?mode=v&seq=133" }
   - { title: "高速バスの時刻と運賃 — Kobus", url: "https://www.kobus.co.kr/oprninf/alcninqr/oprnAlcnPage.do" }
   - { title: "Visit Gangneung — 祭りカレンダー", url: "https://visitgangneung.net/pub/gnfestival.do" }
+glance:
+  - { label: "場所", value: "江原道の東海岸 · ソウルからKTXで約2時間 · 江陵駅は街の中心" }
+  - { label: "アクセス", value: "KTX京江線でソウル駅から約2時間 · 高速バス2時間30〜50分、優等24,600〜26,100ウォン" }
+  - { label: "市内の移動", value: "市内バスはカード1,530ウォン（現金1,700ウォン） · SEA TEAバスは8時から40分間隔、普通運賃", url: "https://visitgangneung.net/pub/tourtheme.do?mode=v&seq=133" }
+  - { label: "主なスポット", value: "安木コーヒー通り · 鏡浦海水浴場と鏡浦台 · 烏竹軒 · 正東津 · 草堂 · 中央市場" }
+  - { label: "おすすめプラン", value: "2日間 — 1日目は安木・鏡浦・草堂の豆腐、2日目は烏竹軒・中央市場・注文津か正東津" }
+  - { label: "おすすめ時期", value: "10月（パン・麺・コーヒー祭り） · 海水浴は7〜8月 · 端午祭は6月15〜22日", url: "https://visitgangneung.net/pub/gnfestival.do" }
 draft: false
 ---
 

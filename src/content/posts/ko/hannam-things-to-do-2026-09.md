@@ -88,6 +88,13 @@ sources:
   - { title: "서울시 내 손안에 서울 — 도심에서 즐기는 숲캉스! 남산 야외식물원과 소나무숲탐방로", url: "https://mediahub.seoul.go.kr/archives/2005116" }
   - { title: "비건뉴스 — 9월 28일은 평일…개천절 대체공휴일은 10월 5일", url: "https://www.vegannews.co.kr/news/article.html?no=389153" }
   - { title: "한국관광공사 TourAPI — 리움미술관·블루스퀘어 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "핵심 장소", value: "리움미술관 · 블루스퀘어 · 현대카드 뮤직라이브러리 · 남산 한국숲정원 · 용산어린이정원" }
+  - { label: "요금", value: "리움 고미술 상설전·오로즈코 정원 무료, 구정아전 일반 18,000원 · 용산어린이정원·장교숙소 5단지 무료" }
+  - { label: "예약", value: "리움은 관람일 14일 전부터 온라인 예약, 한 번에 4명까지 · 용산어린이정원은 예약 없음", url: "https://www.leeumhoam.org/leeum/info/visit" }
+  - { label: "시간", value: "리움 화~일 10:00~18:00 · 용산어린이정원 화~일 09:00~18:00(토 21:00) · 월요일 휴관" }
+  - { label: "교통", value: "6호선 한강진역(리움 1번 출구 5분, 블루스퀘어 연결통로) · 4호선 신용산역 1번 출구(용산어린이정원)" }
+  - { label: "추천 일정", value: "오전 용산어린이정원 → 낮 뮤직라이브러리 카페·리움 → 405번 버스로 한국숲정원 → 저녁 블루스퀘어 공연" }
 draft: false
 ---
 

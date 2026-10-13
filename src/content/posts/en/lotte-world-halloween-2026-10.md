@@ -71,6 +71,14 @@ sources:
   - { title: "뉴스1 (2026-09-29) — 동심 가득했던 기차의 반전… 롯데월드 '환타지드림'에 무슨 일이", url: "https://www.news1.kr/industry/hotel-tourism/6303962" }
   - { title: "뉴스1 (2026-09-22) — 윤호중 '4년 전과 같은 참사 없도록… 핼러윈 인파 관리 만전'", url: "https://www.news1.kr/local/moi/6298533" }
   - { title: "한국관광공사 TourAPI — 롯데월드 어드벤처 (주소, 운영시간, 입장 마감, 주차)", url: "https://kto.visitkorea.or.kr/" }
+glance:
+  - { label: "Dates", value: "Sat 12 September to Sun 15 November 2026; open as normal on Saturday 31 October" }
+  - { label: "Where", value: "Lotte World Adventure (indoor) and Magic Island (outdoor), 240 Olympic-ro, Songpa-gu, Seoul" }
+  - { label: "Hours", value: "Sun–Thu 10:00–21:00, Fri–Sat 10:00–22:00; Dark Fantasy Festival parade 20:20 daily; Strange Nightmare 18:00–20:50", url: "https://adventure.lotteworld.com/enjoy/performance/list" }
+  - { label: "Admission", value: "1Day pass adult ₩67,000 · After4 ₩55,000 · Gwidam ₩10,000 and Madosindang ₩8,000 extra, online only" }
+  - { label: "Getting there", value: "Jamsil Station (Lines 2 and 8), direct underground link, follow signs for exits 3 and 4" }
+  - { label: "Watch out", value: "Closed to the public Friday 16 October (private event); Strange Nightmare is 13+, not on Magic Pass", url: "https://adventure.lotteworld.com/communication/notice/detail?notiSeq=721" }
+  - { label: "Contact", value: "Call centre 1661-2000 (Korean) · show enquiries 02-411-4339 (12:00–20:00)" }
 draft: false
 ---
 

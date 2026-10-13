@@ -25,6 +25,13 @@ sources:
   - { title: "韓国観光公社 — タッカルビとマッククス", url: "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=af777ab3-69df-4bf9-97e2-6d9fa31e2b7a" }
   - { title: "韓国観光公社 — 加平の松の実料理", url: "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cb635d3e-0f73-4ccd-9c2a-cdec1027f3eb" }
   - { title: "韓国郷土文化電子大典 — 加平の松の実", url: "https://www.grandculture.net/gapyeong/toc/GC07901626" }
+glance:
+  - { label: "名物料理", value: "タッカルビ（もとは春川の料理） · マッククス · チャッククス · チャッチュク · チャッマッコリ" }
+  - { label: "予算", value: "タッカルビ1人12,000〜16,000ウォン · マッククス7,000〜9,000ウォン（飲食店の掲載情報）" }
+  - { label: "食事エリア", value: "南怡島の船着き場近くの達川里・北漢江辺路 · 加平駅周辺 · 南怡島の島内 · 清平駅・ターミナル周辺" }
+  - { label: "アクセス", value: "加平駅から船着き場まで車で5分、徒歩20分" }
+  - { label: "時間", value: "船着き場の店は早く閉まるので最終フェリーの前に食事 · タッカルビはたいてい2人前から" }
+  - { label: "公式案内", value: "韓国観光公社 — タッカルビとマッククス", url: "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=af777ab3-69df-4bf9-97e2-6d9fa31e2b7a" }
 draft: false
 ---
 

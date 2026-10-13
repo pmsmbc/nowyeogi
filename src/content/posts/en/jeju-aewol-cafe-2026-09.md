@@ -51,6 +51,13 @@ places:
 sources:
   - { title: "Visit Jeju — official tourism site", url: "https://www.visitjeju.net/en" }
   - { title: "Korea Tourism Organization — tourist information service", url: "https://kto.visitkorea.or.kr/" }
+glance:
+  - { label: "Where", value: "Jeju's north-west shore, about 10 km from Jeju Airport" }
+  - { label: "Key spots", value: "Aewol Coast Road (9 km) · Handam Coastal Trail (1.2 km) · Gwakji Beach · Gueom Stone Salt Field" }
+  - { label: "Admission", value: "All free, open at any hour" }
+  - { label: "Getting there", value: "20 minutes by rental car from the airport; buses reach Aewol but stopping at will needs a car" }
+  - { label: "Best time", value: "Mornings (weekend afternoons mean parking trouble and queues); the Handam trail at sunset" }
+  - { label: "Suggested plan", value: "Leave the airport around 10:00: salt field, coast road, Handam trail, Gwakji Beach; half a day" }
 draft: false
 ---
 

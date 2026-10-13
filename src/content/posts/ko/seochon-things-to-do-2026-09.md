@@ -133,6 +133,13 @@ sources:
   - { title: "ppss — 보안1942 기획전시 '우리와 그들'(2026-08-12)", url: "https://www.ppss.kr/news/articleView.html?idxno=304964" }
   - { title: "서울미래유산 — 이상의 집 (2013-215)", url: "https://futureheritage.seoul.go.kr/" }
   - { title: "한국관광공사 TourAPI — 수성동계곡·윤동주문학관·청와대칠궁·박노수미술관·청운문학도서관·상촌재·황학정·홍건익 가옥·인왕산·초소책방·숲속쉼터·무무대 전망대·사직단·통인시장·대림미술관·석파정 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "핵심 장소", value: "수성동 계곡 · 윤동주문학관 · 칠궁 · 박노수미술관 · 인왕산 초소책방" }
+  - { label: "요금", value: "수성동 계곡·윤동주문학관·칠궁·사직단 무료 · 박노수미술관 어른 3,000원" }
+  - { label: "예약", value: "칠궁은 희망일 9일 전~3일 전 온라인 예약, 3명 이상일 때만 진행, 한국어 해설", url: "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=gbg" }
+  - { label: "교통", value: "3호선 경복궁역 2번 출구 → 마을버스 종로09 종점이 수성동 계곡 (걸어서 약 20분)" }
+  - { label: "소요 시간", value: "한양도성 인왕산 구간 4.0km 약 2시간 30분 · 칠궁 해설 30분(3~10월)" }
+  - { label: "추천 시기", value: "월요일은 구립 시설 휴관, 화요일은 칠궁·경복궁 휴관 · 계곡·인왕산·사직단은 상시 개방" }
 draft: false
 ---
 

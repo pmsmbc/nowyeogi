@@ -65,6 +65,14 @@ sources:
   - { title: "Visit Busan — 축제·행사 일정표", url: "https://www.visitbusan.net/schedule/list.do?boardId=BBS_0000009&menuCd=DOM_000000204012000000&year=2026&month=0" }
   - { title: "2026 광안리 M 드론라이트쇼 공식", url: "https://www.gwangallimdrone.co.kr/" }
   - { title: "부산불꽃축제 공식", url: "https://busanfireworks.com/" }
+glance:
+  - { label: "Dates", value: "Rock Festival 2–4 Oct · Film Festival 6–15 Oct · Biennale through 1 Nov" }
+  - { label: "Key spots", value: "Busan Cinema Center (Centum City) · Samnak Ecological Park · Museum of Contemporary Art Busan · Gwangalli Beach" }
+  - { label: "Admission", value: "Rock 3-day pass ₩212,800 · drone show free · Biennale general admission free (some exhibitions charge)" }
+  - { label: "Hours", value: "Gwangalli drone show every Saturday, 20:00 & 22:00 Mar–Sep, 19:00 & 21:00 Oct–Feb" }
+  - { label: "Fireworks", value: "Saturday 7 November, 19:00–20:00, beach standing zones free" }
+  - { label: "Getting there", value: "Centum City, Gwangan or Geumnyeonsan Station (Line 2) · museum by bus from Hadan Station (Line 1)" }
+  - { label: "Official info", value: "Busan International Film Festival (tickets at biff.kr only)", url: "https://www.biff.kr/eng/" }
 draft: false
 ---
 

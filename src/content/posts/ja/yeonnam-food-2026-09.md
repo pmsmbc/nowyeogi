@@ -102,6 +102,12 @@ sources:
   - { title: "アヌンドンネ・マガジン — 중식당 간판 뒤에 숨은 이야기, '화교거리'（2022-05-13）", url: "https://www.iknowhere.co.kr/magazine/31578" }
   - { title: "CNBニュース — [생생현장] 유커 사라진 '연남동 차이나타운' 가보니…（2015-07-07）", url: "http://www.cnbnews.com/news/articleView.html?idxno=297896" }
   - { title: "教育部 外国教育機関および外国人学校総合案内 — 韓国漢城華僑中高等学校", url: "https://www.isi.go.kr/schl/info/SinfoView.do?schoolType=ST01&schoolId=14" }
+glance:
+  - { label: "主な店", value: "サルカメ · ニシムラメン · 望遠市場 · コヒャンチプ · トンイルル" }
+  - { label: "予算", value: "コヒャンチプのカルグクス4,000ウォン · 望遠市場手打ちカルグクス5,000ウォン · キンパ3,000ウォン · ユニチャジャン7,000ウォン" }
+  - { label: "時間", value: "望遠市場は10:00〜20:00の間が無難 · コヒャンチプ毎日10:00〜20:00 · トンイルル月曜定休" }
+  - { label: "アクセス", value: "延南洞は弘大入口駅（2号線・京義線・空港鉄道）· 望遠市場は望遠駅（6号線）2番出口から徒歩5分" }
+  - { label: "公式案内", value: "行政安全部「着実な価格の店」の公示価格（2026年9月28日照会）", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
 draft: false
 ---
 

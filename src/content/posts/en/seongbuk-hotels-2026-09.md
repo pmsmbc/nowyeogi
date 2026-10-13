@@ -29,6 +29,12 @@ sources:
   - { title: "Korean Law Information Center - Enforcement Decree of the Tourism Promotion Act, annex 1, registration standards for tourism businesses", url: "https://www.law.go.kr/법령/관광진흥법시행령" }
   - { title: "Airport Limousine - route 6011", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=17" }
   - { title: "Seoul Hanok Portal - the Seongbuk-dong hanok concentration area", url: "https://hanok.seoul.go.kr/" }
+glance:
+  - { label: "Best areas", value: "Around Hansung University and Sungshin Women's University (zero lodging inside Seongbuk-dong; the gu's 54 businesses are downhill)" }
+  - { label: "Who it's for", value: "For a hanok stay go to Seochon or Bukchon · all seven hanok in Seongbuk-gu are at the bottom of the hill" }
+  - { label: "Getting there", value: "Hansung University Station (Line 4) · airport limousine 6011 stops here, last bus to the airport 20:33, adult 17,000 won" }
+  - { label: "Booking", value: "Hanok stays have no 24-hour front desk · contact them in advance if arriving late" }
+  - { label: "Suggested plan", value: "Treat Seongbuk-dong as a half-day daytime trip · it is steep, do not drag luggage up" }
 draft: false
 ---
 

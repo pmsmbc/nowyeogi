@@ -32,6 +32,14 @@ sources:
   - { title: "전주시 관광 안내 — 전주비빔밥", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104003006000" }
   - { title: "전주시 관광 안내 — 향토 음식", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104002000000" }
   - { title: "전주시 관광 안내 — 남부시장 야시장", url: "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101006003000&paging=ok&startPage=1&dataSid=16085" }
+glance:
+  - { label: "대표 음식", value: "전주비빔밥 · 남부시장식 콩나물국밥(수란·모주) · 한정식 · 야시장 길거리 음식" }
+  - { label: "핵심 가게", value: "가족회관 · 한국집 · 성미당(비빔밥) · 현대옥(콩나물국밥) · 기와(한정식)" }
+  - { label: "예산", value: "비빔밥 한 그릇 1만 원 선(시가 소개하는 백송회관 기준)" }
+  - { label: "시간", value: "남부시장 야시장 금·토 17:00~23:00 연중 · 마을 안 식당은 9시면 닫는 곳이 많아요", url: "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101006003000&paging=ok&startPage=1&dataSid=16085" }
+  - { label: "예약", value: "한정식은 대개 2인부터, 예약 권장 · 비빔밥은 1인 메뉴라 혼자여도 괜찮아요" }
+  - { label: "식당 구역", value: "한옥마을 안(비빔밥·한정식·태조로 간식) · 남부시장(콩나물국밥·야시장) · 객사·시내(늦게까지)" }
+  - { label: "공식 안내", value: "전주시 관광 안내 향토 음식", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104002000000" }
 draft: false
 ---
 

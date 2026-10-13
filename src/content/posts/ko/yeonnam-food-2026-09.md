@@ -102,6 +102,12 @@ sources:
   - { title: "아는동네 매거진 — 중식당 간판 뒤에 숨은 이야기, '화교거리' (2022-05-13)", url: "https://www.iknowhere.co.kr/magazine/31578" }
   - { title: "CNB뉴스 — [생생현장] 유커 사라진 '연남동 차이나타운' 가보니… (2015-07-07)", url: "http://www.cnbnews.com/news/articleView.html?idxno=297896" }
   - { title: "교육부 외국교육기관 및 외국인학교 종합안내 — 한국한성화교중고등학교", url: "https://www.isi.go.kr/schl/info/SinfoView.do?schoolType=ST01&schoolId=14" }
+glance:
+  - { label: "핵심 가게", value: "사루카메 · 니시무라멘 · 망원시장 · 고향집 · 동일루" }
+  - { label: "예산", value: "고향집 칼국수 4,000원 · 망원시장손칼국수 5,000원 · 홍익분식 김밥 3,000원 · 동일루 유니짜장 7,000원" }
+  - { label: "시간", value: "망원시장은 10:00~20:00 사이가 안전 · 고향집 매일 10:00~20:00 · 동일루 월요일 휴무" }
+  - { label: "교통", value: "연남동은 홍대입구역(2호선·경의선·공항철도) · 망원시장은 6호선 망원역 2번 출구 도보 5분" }
+  - { label: "공식 안내", value: "행정안전부 착한가격업소 공시 가격 (2026년 9월 28일 조회, 연남동 5곳·망원동 10곳)", url: "https://www.goodprice.go.kr/bssh/bsshList.do" }
 draft: false
 ---
 

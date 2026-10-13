@@ -114,6 +114,14 @@ sources:
   - { title: "트립다움 — 해운대 블루라인파크 예약 방법 (2026년 10월 요금표)", url: "https://www.trvlogue.com/ko/busan-haeundae-blueline-park-booking-guide" }
   - { title: "부산광역시 행사 안내 — 영화의전당 시네마테크 2026", url: "https://www.busan.go.kr/eng/bsevents/1741418" }
   - { title: "텔트립 — 해운대해수욕장 2026 개장 안내 (파라솔·샤워장 요금)", url: "https://www.telltrip.com/domestic-travel/haeundae-beach-opens-for-2026-summer/" }
+glance:
+  - { label: "핵심 장소", value: "동백섬·누리마루 · 블루라인파크(스카이캡슐) · 청사포 다릿돌전망대 · 달맞이길" }
+  - { label: "요금", value: "스카이캡슐 2인 5만 원(캡슐당) · 해변열차 1만 원 · 엑스더스카이 2만 7천~2만 9천 원", url: "https://www.bluelinepark.com/eng/fare.do" }
+  - { label: "시간", value: "10월 해변열차 09:00~19:30 · 스카이캡슐 08:30~18:30 · 누리마루 09:00~18:00" }
+  - { label: "예약", value: "스카이캡슐 온라인 예매는 매주 화요일 오전 7시에 4주 뒤 주간 오픈" }
+  - { label: "소요 시간", value: "반나절 4~5시간 · 동백섬~달맞이길을 한 줄로 걸으면 하루" }
+  - { label: "교통", value: "2호선 동백역(동백섬) · 해운대역 3·5번 출구(백사장) · 중동역(엑스더스카이·미포)" }
+  - { label: "추천 시기", value: "엑스더스카이는 일몰 한 시간 전에 올라가기" }
 draft: false
 ---
 

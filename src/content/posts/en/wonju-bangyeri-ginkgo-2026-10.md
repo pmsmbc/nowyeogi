@@ -55,6 +55,14 @@ sources:
   - { title: "Newsis — Wonju holds festival at Korea's oldest ginkgo (2025-10-30)", url: "https://www.newsis.com/view/NISX20251030_0003382548" }
   - { title: "News1 — Crowds gather at Bangyeri ginkgo before peak (2025-10-23)", url: "https://www.news1.kr/local/kangwon/5951088" }
   - { title: "make2t — Bangyeri ginkgo 2026: live cams, peak timing, parking", url: "https://www.make2t.kr/2026/10/wonju-bangye-ginkgo-cctv-autumn.html" }
+glance:
+  - { label: "Where", value: "42 Banjeo-ri 2-gil, Munmak-eup, Wonju (plaza lot: 1495-1 Bangye-ri)" }
+  - { label: "Best time", value: "2026 peak forecast: late October to around 1 November (KTO foliage map), shifting with the weather" }
+  - { label: "Festival", value: "Mon 26 October to Sun 8 November 2026, two weeks; programme on the Wonju tourism site", url: "https://www.wonju.go.kr/tour/" }
+  - { label: "Admission", value: "Entry and parking free, open at all times" }
+  - { label: "Getting there", value: "Bus to Munmak-eup Community Service Center, then community bus No. 1; 8 extra weekend trips 17 Oct–8 Nov" }
+  - { label: "Parking", value: "170 plaza spaces, temporary lots planned to reach around 500; arrive before 9 am on peak weekends" }
+  - { label: "Contact", value: "Wonju tourist information 033-742-2111" }
 draft: false
 ---
 

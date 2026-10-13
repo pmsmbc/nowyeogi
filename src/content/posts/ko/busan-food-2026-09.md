@@ -56,6 +56,14 @@ sources:
   - { title: "자갈치시장 공식 운영 사이트", url: "https://www.bisco.or.kr/jagalchimarket/" }
   - { title: "한국관광공사 — 돼지국밥", url: "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221285" }
   - { title: "한국관광공사 — 씨앗호떡", url: "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=180199" }
+glance:
+  - { label: "대표 음식", value: "돼지국밥 · 밀면 · 씨앗호떡" }
+  - { label: "핵심 가게", value: "자갈치시장 · 국제시장·비프광장 · 해운대시장" }
+  - { label: "예산", value: "돼지국밥 9,000~1만 2,000원 · 밀면 6,000~8,000원 · 씨앗호떡 2,000원 선" }
+  - { label: "시간", value: "자갈치 05:00~22:00(첫째·셋째·다섯째 화요일 휴무) · 국제시장 일요일 휴무" }
+  - { label: "교통", value: "1호선 자갈치역 도보 2분 · 2호선 해운대역 3번 출구 5분" }
+  - { label: "추천 시기", value: "해산물은 오전 · 남포동은 점심·길거리 음식, 저녁은 서면" }
+  - { label: "공식 안내", value: "자갈치시장 공식 운영 사이트", url: "https://www.bisco.or.kr/jagalchimarket/" }
 draft: false
 ---
 

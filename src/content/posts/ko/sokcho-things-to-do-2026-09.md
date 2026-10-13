@@ -60,6 +60,13 @@ sources:
   - { title: "국립공원공단 — 통제 정보", url: "https://www.knps.or.kr/front/portal/safe/acsCtrList.do?menuNo=8000340" }
   - { title: "설악 케이블카 공식 사이트", url: "https://www.sorakcablecar.co.kr/guide" }
   - { title: "속초시 관광 안내 — 자연 관광지", url: "https://www.sokcho.go.kr/ct/tour/attraction/nature" }
+glance:
+  - { label: "핵심 장소", value: "설악산(신흥사 · 케이블카 · 울산바위 · 비선대 · 토왕성폭포 전망대) · 아바이마을 · 영랑호 · 영금정" }
+  - { label: "요금", value: "설악산 입장 무료 · 설악 케이블카 왕복 어른 16,000원, 어린이 12,000원 · 갯배 편도 500원", url: "https://www.sorakcablecar.co.kr/guide" }
+  - { label: "시간", value: "입산 비선대 4~10월 03:00~14:00, 11~3월 04:00~12:00 · 케이블카는 당일 매표만", url: "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198" }
+  - { label: "소요 시간", value: "울산바위 왕복 7.6km 4시간 · 비선대 편도 3km 1시간 20분 · 토왕성폭포 전망대 편도 1시간 반" }
+  - { label: "교통", value: "시내에서 7번·7-1번 버스로 소공원 · 아바이마을은 갯배로 건너기" }
+  - { label: "추천 시기", value: "단풍 10월 중순~11월 초 · 그때 도시가 차고 케이블카 줄이 일찍 서요" }
 draft: false
 ---
 

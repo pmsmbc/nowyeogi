@@ -123,6 +123,13 @@ sources:
   - { title: "Trip.com Moments — Halmae Gaya Milmyeon (hours and prices from reviews)", url: "https://nz.trip.com/moments/poi-halmae-gaya-milmyeon-17199762" }
   - { title: "GQ Korea — Yeongdo cafes (Mumyeong Ilgi, 178 Bongnaenaru-ro)", url: "https://www.gqkorea.co.kr/?p=145667" }
   - { title: "Travel Map Journey — Nampo-dong food alley guide, hotteok and tteokbokki prices (January 2026)", url: "https://travelmapjourney.com/busan-nampo-food-alley-guide/" }
+glance:
+  - { label: "Key spots", value: "Jagalchi Fish Market · Gukje Market food alley · BIFF Square · Bupyeong Kkangtong Night Market", url: "https://www.bisco.or.kr/jagalchimarket/" }
+  - { label: "Key eats", value: "18beon Wandangjip · Yangsanjip · Busan Jokbal · Halmae Gaya Milmyeon" }
+  - { label: "Budget", value: "Jagalchi table charge about ₩5,000 per person · ₩20,000 sashimi set · milmyeon ₩8,000" }
+  - { label: "Hours", value: "Jagalchi 05:00–22:00, closed 1st/3rd/5th Tuesday · night market 19:30–24:00" }
+  - { label: "Getting there", value: "Six-minute walk from Nampo Station exit 2 or Jagalchi Station exit 10 (Line 1)" }
+  - { label: "Suggested plan", value: "Lunch on Jagalchi's 2nd floor, a snack at BIFF Square, dinner at the night market" }
 draft: false
 ---
 

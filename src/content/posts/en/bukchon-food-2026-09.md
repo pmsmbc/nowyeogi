@@ -136,6 +136,13 @@ sources:
   - { title: "정독도서관 — 오시는 길 (종로11 정독도서관 입구)", url: "https://jdlib.sen.go.kr/jdlib/html.do?menu_idx=52" }
   - { title: "국가법령정보센터 — 여신전문금융업법 제19조(가맹점의 준수사항)", url: "https://www.law.go.kr/법령/여신전문금융업법/제19조" }
   - { title: "다이닝코드 — 삼청동수제비, 황생가칼국수, 안암, 무구옥, 서울서 둘째로 잘하는집, 비원떡집, 눈나무집, 서울풍경, 다락정, 소선재 (2026-10-06 조회)", url: "https://www.diningcode.com/profile.php?rid=IPBKstNYfNW5" }
+glance:
+  - { label: "Where", value: "Main streets Samcheong-ro, Bukchon-ro 5-gil and Bukchon-ro; all outside the red zone" }
+  - { label: "Key eats", value: "Samcheongdong Sujebi · Hwangsaengga Kalguksu · Anam · Muguok (MICHELIN Guide Seoul 2026)" }
+  - { label: "Budget", value: "Sujebi ₩10,000 · beef-bone kalguksu ₩13,000 · kimchi mari guksu ₩7,000 (good-price listing)" }
+  - { label: "Queues", value: "Hwangsaengga Kalguksu lines all day · Samcheongdong Sujebi busiest noon-2pm · Muguok waiting list before opening" }
+  - { label: "Getting there", value: "Walk from Anguk Station (Line 3) · village bus Jongno 11 to Jeongdok Library entrance" }
+  - { label: "Best time", value: "Lunch at a Bib Gourmand → afternoon snack at Seoul's Second Best or Biwon Tteokjip (to 17:00)" }
 draft: false
 ---
 

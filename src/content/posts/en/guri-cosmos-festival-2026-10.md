@@ -66,6 +66,14 @@ sources:
   - { title: "스포츠Q (2018-10-04) — 구리 코스모스축제, 입장료 없는 무료 축제", url: "http://www.sportsq.co.kr/news/articleView.html?idxno=305049" }
   - { title: "위키백과 — 구리역 (경의·중앙선, 8호선 2024년 8월 10일 개업)", url: "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%97%AD" }
   - { title: "한국관광공사 TourAPI — 구리한강시민공원(코스모스공원), 구리 동구릉, 장자호수공원", url: "https://kto.visitkorea.or.kr/" }
+glance:
+  - { label: "Dates", value: "Fri 9 (Hangul Day) to Sun 11 October 2026; daily schedule not yet published" }
+  - { label: "Where", value: "Guri Hangang Park, 249 Cosmos-gil 14beon-gil, Topyeong-dong, Guri" }
+  - { label: "Flower field", value: "79,620㎡, 11,940㎡ larger than last year; the 18th edition" }
+  - { label: "Getting there", value: "Festival village buses from Line 8 Guri, Donggureung and Jangja Lake Park stations, 09:00–23:00, 4 routes, 36 buses" }
+  - { label: "Parking", value: "About 800 spaces; no temporary car parks announced and 360,000 visitors last year, so take the subway" }
+  - { label: "Best time", value: "Morning of 9 October for the flowers; closing night (11 Oct) is busiest after the concert and fireworks" }
+  - { label: "Contact", value: "Guri City parks team +82-31-550-2472 (Korean)" }
 draft: false
 ---
 

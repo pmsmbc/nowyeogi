@@ -62,6 +62,13 @@ sources:
   - { title: "Petite France — tickets", url: "http://www.pfcamp.com/page/page6" }
   - { title: "Gangchon Rail Park — Gapyeong course", url: "https://www.railpark.co.kr/course/gapyeong/map" }
   - { title: "Jarasum International Jazz Festival — official site", url: "https://www.jarasumjazz.com/" }
+glance:
+  - { label: "Key spots", value: "Garden of Morning Calm · Petite France and Italian Village · rail bike · Jaraseom · Cheongpyeong Lake" }
+  - { label: "Admission", value: "Arboretum ₩11,000 · Two Park Pass ₩19,500 · rail bike ₩36,000 per two-seat cart · Jaraseom free" }
+  - { label: "Hours", value: "Arboretum 08:30–19:00 daily · Petite France 09:00–18:00 · rail bike six departures a day" }
+  - { label: "Getting there", value: "Cheongpyeong Station for arboretum and lake · Gapyeong Station for rail bike, Jaraseom and Petite France" }
+  - { label: "Booking", value: "Arboretum tickets sold on site only, no advance booking · circular bus does not run on Wednesdays" }
+  - { label: "Best time", value: "Arboretum lights December to mid-March, same price at night · jazz festival 9–11 October · lake sports July–August", url: "https://www.jarasumjazz.com/" }
 draft: false
 ---
 

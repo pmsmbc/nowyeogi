@@ -75,6 +75,13 @@ sources:
   - { title: "서귀포시 전자관람권 — 폭포", url: "https://eticket.seogwipo.go.kr/contents?bmcode=cheonjiyeon" }
   - { title: "비짓제주 — 비자림", url: "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270" }
   - { title: "비짓제주 — 사려니숲길", url: "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500281" }
+glance:
+  - { label: "핵심 장소", value: "성산일출봉 · 서귀포 폭포 셋(천지연·정방·천제연) · 비자림 · 사려니숲길 · 우도", url: "https://www.jeju.go.kr/jejuwnh/heritage/seongsan.htm" }
+  - { label: "요금", value: "성산일출봉 어른 5,000원 · 천지연 2,000원 · 비자림 3,000원 · 사려니숲길·섭지코지·해변 무료" }
+  - { label: "휴무일", value: "성산일출봉 매월 첫째 월요일 · 만장굴 매월 첫째 수요일(재개장 여부 먼저 확인)" }
+  - { label: "소요 시간", value: "성산일출봉 정상 25분 · 폭포 각 1시간 · 주상절리 20분 · 섭지코지 1시간" }
+  - { label: "우도", value: "성산항에서 배 10~15분, 어른 1,000원 · 2026.8.1~2029.7.31 외부 차량 반입 금지" }
+  - { label: "추천 시기", value: "성산일출봉은 일출(여름 04:30 개장) · 천지연폭포는 밤(22:00까지, 조명)" }
 draft: false
 ---
 

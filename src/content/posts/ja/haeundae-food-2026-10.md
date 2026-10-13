@@ -116,6 +116,13 @@ sources:
   - { title: "Korea JoongAng Daily — Catch Table launches English version (2022-11-09)", url: "https://www.koreajoongangdaily.com/lifestyle/restaurant-reservation-app-catch-table-launches-english-version/10502999" }
   - { title: "KoreaTechDesk — 서울시·캐치테이블 외국인 예약·원격 줄서기 협약", url: "https://koreatechdesk.com/?p=17701" }
   - { title: "HalalSpy — Halal Food in Busan (2026년 3월 확인)", url: "https://halalspy.com/halal-food-guide/asia/busan/" }
+glance:
+  - { label: "主な店", value: "海雲台アムソカルビチプ · 海雲台元祖ハルメクッパ · サングギネ · スミニネ" }
+  - { label: "予算", value: "クッパ9,500〜11,000ウォン · 貝焼きは時価 · 韓牛カルビは1人数万ウォン台" }
+  - { label: "予約", value: "センカルビは1週間前まで予約可 · 順番待ちはキャッチテーブル・グローバル" }
+  - { label: "アクセス", value: "海雲台駅（2号線）亀南路・市場 · 中洞駅 尾浦・ミルミョン · センタムシティ駅 百貨店" }
+  - { label: "おすすめ時期", value: "センカルビは昼前 · カヤミルミョンは11時前後か午後遅め" }
+  - { label: "定休", value: "サングギネは水曜 · 新世界センタムシティは2026年10月19日" }
 draft: false
 ---
 

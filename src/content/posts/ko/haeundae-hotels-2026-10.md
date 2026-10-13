@@ -93,6 +93,13 @@ sources:
   - { title: "뉴데일리경제 — 시그니엘 부산 6월 개관 (2020-04-22)", url: "https://biz.newdaily.co.kr/site/data/html/2020/04/22/2020042200035.html" }
   - { title: "뉴데일리경제 — 그랜드 조선 부산 7일부터 영업 (2020-10-07)", url: "https://biz.newdaily.co.kr/site/data/html/2020/10/07/2020100700253.html" }
   - { title: "이투데이 — 부산 최고(最古) 호텔 웨스틴 조선 부산, 전관 리뉴얼 오픈 (2024-07-10)", url: "https://www.etoday.co.kr/news/view/2378656" }
+glance:
+  - { label: "추천 구역", value: "해변 앞(5성급) · 마린시티 · 구남로 일대(중가) · 달맞이길·미포 · 센텀시티" }
+  - { label: "추천 숙소", value: "파라다이스 · 그랜드 조선 · 웨스틴 조선 · 시그니엘 · 파크 하얏트 (5성급 5곳)" }
+  - { label: "교통", value: "2호선 해운대역(구남로·해변 중앙) · 동백역(웨스틴·마린시티) · 중동역(엘시티)" }
+  - { label: "요금", value: "김해공항 리무진 1번 9,500원 · 지하철 교통카드 1,800원(2구간)", url: "https://www.busan.go.kr/depart/khairportlm" }
+  - { label: "소요 시간", value: "김해공항에서 지하철 1시간 남짓 · 부산역에서 50분 안팎" }
+  - { label: "추천 시기", value: "7~8월 해수욕 시즌과 영화제 기간(10월 6~15일)은 일찍 예약" }
 draft: false
 ---
 

@@ -79,6 +79,12 @@ sources:
   - { title: "Airport Limousine — Route 6002 (to the city)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=6" }
   - { title: "Airport Limousine — Late-night route N6002", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=80" }
   - { title: "Airport Limousine — Route 6011 (Wolgye-dong / Gireum New Town / Anguk-dong / Mapo-gu Office Station), timetable by stop", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=17" }
+glance:
+  - { label: "Best areas", value: "Yeonnam-dong (north of Hongik Univ. exit 3, 413 homestays) · Mangwon-dong (149, 93% designated since 2024)" }
+  - { label: "Who it's for", value: "The 562 homestays are foreigners-only · Korean nationals: Chris House hostel (6 rooms) or Donggyo-dong hotels" }
+  - { label: "Where to stay", value: "Chris House (Yeonnam's only tourist accommodation) · hotels in Donggyo-dong: L7 Hongdae, Holiday Inn Express, Mercure" }
+  - { label: "Getting there", value: "AREX Hongik Univ. → Incheon Airport, last 23:48 (₩4,650) · bus 6002 from Hongik Univ., last 21:11 · late-night N6002" }
+  - { label: "Booking", value: "Homestays have no 24-hour desk and often no lift · get check-in instructions before a late arrival" }
 draft: false
 ---
 

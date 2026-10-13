@@ -36,6 +36,13 @@ sources:
   - { title: "Visit Gangneung — 시티(SEA TEA)버스", url: "https://visitgangneung.net/pub/tourtheme.do?mode=v&seq=133" }
   - { title: "고속버스 통합 예매 — 코버스", url: "https://www.kobus.co.kr/oprninf/alcninqr/oprnAlcnPage.do" }
   - { title: "Visit Gangneung — 축제 일정", url: "https://visitgangneung.net/pub/gnfestival.do" }
+glance:
+  - { label: "위치", value: "강원 동해안 · 서울에서 KTX로 약 두 시간 · 강릉역이 시내 한가운데" }
+  - { label: "교통", value: "KTX 경강선 서울역→강릉역 약 2시간 · 고속버스 2시간 30~50분, 우등 24,600~26,100원" }
+  - { label: "시내 이동", value: "시내버스 교통카드 1,530원 · 시티(SEA TEA)버스 08:00부터 40분 간격, 일반 요금", url: "https://visitgangneung.net/pub/tourtheme.do?mode=v&seq=133" }
+  - { label: "핵심 장소", value: "안목 커피거리 · 경포해변·경포대 · 오죽헌 · 정동진 · 초당두부마을 · 중앙시장" }
+  - { label: "추천 일정", value: "이틀 — 첫날 안목·경포·초당 순두부, 둘째 날 오죽헌·중앙시장·주문진 또는 정동진" }
+  - { label: "추천 시기", value: "10월(빵·국수·커피 축제) · 해수욕은 7~8월 · 단오제 6월 15~22일", url: "https://visitgangneung.net/pub/gnfestival.do" }
 draft: false
 ---
 

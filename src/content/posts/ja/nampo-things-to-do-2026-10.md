@@ -109,6 +109,13 @@ sources:
   - { title: "Kトリップティップス — 40階段文化館の運営時間", url: "https://www.ktriptips.com/kor/culture/130663" }
   - { title: "ヨギユ — チャガルチ市場の営業時間・休業日", url: "https://xn--ok0b236bp0a.com/place/29115" }
   - { title: "Wikipedia — Yeongdo Bridge", url: "https://en.wikipedia.org/wiki/Yeongdo_Bridge" }
+glance:
+  - { label: "主なスポット", value: "国際市場・カントン夜市 · 釜山近現代歴史館 · 龍頭山公園・釜山タワー · チャガルチ屋上展望台 · 影島大橋" }
+  - { label: "料金", value: "ほとんど無料 · 釜山タワー大人12,000ウォン · 松島海上ケーブルカー往復19,000ウォン〜" }
+  - { label: "時間", value: "影島大橋の跳開は毎週土曜14:00から約15分 · 歴史館09:00〜18:00、月曜休館", url: "https://www.busan.go.kr/mmch/mdview" }
+  - { label: "アクセス", value: "1号線で釜山駅から南浦駅まで2駅 · 金海空港からは1時間強" }
+  - { label: "所要時間", value: "1日コース（釜山駅09:00出発）· 2日あれば甘川・白汚浦・松島ケーブルカーを追加" }
+  - { label: "おすすめ時期", value: "土曜14時の跳開に合わせて · 月曜は歴史館と40階段文化館が休み" }
 draft: false
 ---
 

@@ -44,6 +44,14 @@ sources:
   - { title: "鍾路区 — 街頭店舗整備実績評価で最優秀区", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuId=388338&menuNo=388338&nttId=250507" }
   - { title: "鍾路区 — 名誉道路名「ソンヘギル」", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuId=388338&menuNo=388338&nttId=249115" }
   - { title: "ソウル市 — 街頭店舗の許可制", url: "https://news.seoul.go.kr/traffic/archives/503438" }
+glance:
+  - { label: "場所", value: "鍾路区敦化門路11ギル、楽園商店街から廟洞交差点まで約250m" }
+  - { label: "アクセス", value: "鍾路3街駅（1・3・5号線）、5番出口から楽園商店街まで114m" }
+  - { label: "時間", value: "18:00〜翌4:00（鍾路区 2026年9月29日発表）・夕方5時ごろから屋台設営" }
+  - { label: "メニュー", value: "タッパル（鶏の足）・卵焼き・うどん・海鮮チヂミ（価格は公式資料になし）" }
+  - { label: "注意", value: "ハロウィン・年末年始は営業中断を勧告・カード可否は未確認、現金を持参" }
+  - { label: "問い合わせ", value: "ぼったくり通報 ソウル市 02-120・観光案内電話 1330" }
+  - { label: "公式案内", value: "ソウル観光財団 — 鍾路3街の屋台通り", url: "https://korean.visitseoul.net/editorspicks/yajang/KONddisdp" }
 draft: false
 ---
 

@@ -142,6 +142,14 @@ sources:
   - { title: "궁능유적본부 공지 — 2026년 10~11월 궁능유적 휴무일 개방 및 관람객 무료입장 안내(2026-09-30)", url: "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260930093346212667&schBcid=notice01" }
   - { title: "궁능유적본부 공지 — 「문화가 있는 날」 무료개방 단계적 확대(창덕궁·창경궁·종묘 10월 7일부터 매주 수요일)", url: "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260528151556017843&schBcid=notice01" }
   - { title: "한국관광공사 TourAPI — 서순라길, 익선동 한옥거리, 서울돈화문국악당, 서울우리소리박물관, 우리소리도서관, 낙원 악기상가 (2026-10-02 조회)", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "핵심 장소", value: "익선동 한옥거리 · 서순라길 · 서울우리소리박물관 · 서울돈화문국악당 · 낙원상가" }
+  - { label: "요금", value: "골목·서순라길·우리소리박물관 무료 · 종묘 1,000원 · 허리우드클래식 55세 이상 2,000원" }
+  - { label: "시간", value: "서순라길 차 없는 거리 토·일 10:00~22:00 · 우리소리박물관 월요일 휴관 · 종묘 화요일 휴관" }
+  - { label: "추천 시기", value: "토요일 (종묘 자유관람, 차 없는 거리, 박물관·도서관·쇼룸 모두 개방)" }
+  - { label: "소요 시간", value: "종로구 골목길 탐방 코스 2시간 · 토요일에 다 돌면 하루", url: "https://tour.jongno.go.kr/tour/main/contents.do?menuNo=110753" }
+  - { label: "교통", value: "1·3·5호선 종로3가역 4·7·8번 출구 · 3호선 안국역 4번 출구" }
+  - { label: "주차", value: "국악당·우리소리박물관·서순라길·한옥거리 모두 주차 불가" }
 draft: false
 ---
 

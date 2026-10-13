@@ -46,6 +46,14 @@ sources:
   - { title: "Royal Palaces and Tombs Center — admission fees", url: "https://royal.khs.go.kr/ROYAL/contents/R703000000.do" }
   - { title: "Royal Palaces and Tombs Center — visiting rules (Regulations on Visiting Palaces and Royal Tombs)", url: "https://royal.khs.go.kr/ROYAL/contents/R704000000.do" }
   - { title: "Royal Palaces and Tombs Center — Gyeongbokgung night viewing, second half of 2026", url: "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260818101010114410&schBcid=notice01" }
+glance:
+  - { label: "Who it's for", value: "Anyone visiting the palaces in hanbok · the real saving is for foreign visitors aged 19–64 (under 18 and 65+ are already free)" }
+  - { label: "Requirements", value: "A jeogori with a wrapping collar plus a skirt or trousers · no goreum needed · modern hanbok counts, no rules on fabric, hair or shoes" }
+  - { label: "Not accepted", value: "T-shirt-style jeogori · one-piece hanbok · jeogori with jeans · hanbok bottoms with a T-shirt · durumagi alone" }
+  - { label: "Key spots", value: "Gyeongbokgung · Changdeokgung (buildings) · Changgyeonggung · Deoksugung · Jongmyo · Royal Tombs free · Huwon (₩5,000) is the one exclusion" }
+  - { label: "Admission", value: "Gyeongbokgung ₩3,000 · Changdeokgung buildings ₩3,000 · Changgyeonggung, Deoksugung, Jongmyo ₩1,000 each · combined ticket ₩6,000" }
+  - { label: "Night viewing", value: "Gyeongbokgung 2 September – 2 October 2026, 19:00–21:30 (last entry 20:30), closed Mon and Tue · free in hanbok with no booking" }
+  - { label: "Official info", value: "Royal Palaces and Tombs Center hanbok free admission guideline", url: "https://royal.khs.go.kr/ROYAL/contents/R705000000.do" }
 draft: false
 ---
 

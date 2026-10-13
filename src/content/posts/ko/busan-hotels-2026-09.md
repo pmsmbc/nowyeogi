@@ -26,6 +26,14 @@ sources:
   - { title: "부산시 공식 관광 안내 — 숙박업소 등록 정보", url: "https://www.visitbusan.net/index.do?menuCd=DOM_000000301004000000" }
   - { title: "부산시 공식 관광 안내 — 송정해수욕장", url: "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=280&lang_cd=en" }
   - { title: "부산교통공사 — 운임과 노선", url: "https://www2.humetro.busan.kr/homepage/default/page/subLocation.do?menu_no=1001010501" }
+glance:
+  - { label: "추천 구역", value: "해운대(첫 방문·바다) · 서면(식사·이동) · 남포동(시장) · 광안리(전망·가성비) · 송정(휴식·서핑)" }
+  - { label: "추천 숙소", value: "시그니엘 부산 · 파라다이스호텔 부산 · 웨스틴조선 부산 · 파크 하얏트 부산 (모두 해운대)" }
+  - { label: "교통", value: "해운대·광안리는 2호선, 남포동은 1호선 자갈치역·남포역, 서면은 1·2호선 환승역" }
+  - { label: "소요 시간", value: "서면→남포동 15분 · 서면→해운대 30~35분 · 해운대→남포동 환승 포함 약 1시간" }
+  - { label: "공항 교통", value: "김해공항 리무진 1번 해운대 9,500원 · 2번 서면 6,000원 · 남포동은 직행 없음(경전철 환승)" }
+  - { label: "예약", value: "7~8월과 영화제(10월 6~15일) 기간은 요금이 두 배 가까이 오르니 일찍 예약" }
+  - { label: "공식 안내", value: "부산시 공식 숙박업소 등록 정보", url: "https://www.visitbusan.net/index.do?menuCd=DOM_000000301004000000" }
 draft: false
 ---
 

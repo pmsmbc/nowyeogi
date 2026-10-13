@@ -237,6 +237,14 @@ sources:
   - { title: "서울특별시 — 서울시, 핫플 '해방촌 신흥시장' 지역경제 이끄는 명소 부활…도시재생 하반기 마무리 (2021-03-29)", url: "https://news.seoul.go.kr/citybuild/archives/512062" }
   - { title: "내 손안에 서울 — 끌리는 공간의 탄생! 해방촌 신흥시장이 새로 쓰는 해방일지 (2023-07-21)", url: "https://mediahub.seoul.go.kr/archives/2008539" }
   - { title: "내 손안에 서울 — '건축상 수상' 해방촌 신흥시장, 특별한 비밀은 지붕에 있다! (2024-09-11)", url: "https://mediahub.seoul.go.kr/archives/2012201" }
+glance:
+  - { label: "핵심 가게", value: "모수 · 소울 · 알트에이 · 보광정 이태원점" }
+  - { label: "핵심 장소", value: "우사단로 할랄 식당 거리(서울중앙성원 일대) · 해방촌 신흥시장" }
+  - { label: "예산", value: "보광정 찌개·칼국수 8,000원 · 면마루 제육볶음 8,000원 (착한가격업소 공시)" }
+  - { label: "예약", value: "셰누 프라이빗 키친은 저녁만 운영, 예약 필수 (미쉐린)" }
+  - { label: "교통", value: "6호선 이태원역 3번 출구(우사단로 할랄) · 6호선 녹사평역(경리단길·해방촌)" }
+  - { label: "추천 시간대", value: "이른 아침은 테폼(월~토 07:00부터) · 늦은 밤은 꾸띠자르당(금·토 03:00까지)" }
+  - { label: "공식 안내", value: "관광공사 무슬림 친화 식당 목록(2021년 12월 기준) 22곳 · 현재 인증은 매장 인증서로 확인", url: "https://english.visitkorea.or.kr/svc/thingsToDo/subMuslimFriendly.do" }
 draft: false
 ---
 

@@ -75,6 +75,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "추천 구역", value: "선택지가 많은 계동길 · 한옥 골목 한가운데 가회동 북촌로11길·12길 · 역 가까운 독채 안국동·재동" }
+  - { label: "숙소 유형", value: "호텔·여관 0곳, 한옥체험업 182곳(계동 58·가회동 56), 외국인 전용 도시민박 28곳" }
+  - { label: "추천 숙소", value: "락고재 서울 북촌 한옥호텔 · 인우하우스 · 이도한옥 · 무월관 · 서울이야기 한옥" }
+  - { label: "교통", value: "3호선 안국역 · 공항리무진 6011 안국역 정류장(공항 방면 막차 20:45)" }
+  - { label: "레드존", value: "북촌로11길 일대 17:00~익일 10:00 관광 금지 · 투숙객은 예약확인서로 출입, 사진 촬영은 과태료" }
+  - { label: "공식 안내", value: "종로구 북촌 특별관리지역 안내", url: "https://culture.jongno.go.kr/media/ko/conts/111/web.do" }
 draft: false
 ---
 

@@ -120,6 +120,14 @@ sources:
   - { title: "KoreaToDo — Skyline Luge Busan prices and transport", url: "https://koreatodo.com/skyline-luge-busan" }
   - { title: "Donghae Line Osiria, Gijang and Ilgwang station first/last trains (MOLIT public data)", url: "http://subway.koreatriptips.com/subway-station/PSS6/SUB70835.html" }
   - { title: "Namu Wiki — Donghae Line metro and Busan bus 181", url: "https://namu.wiki/w/동해선%20광역전철" }
+glance:
+  - { label: "Key spots", value: "Haedong Yonggungsa · Lotte World Adventure Busan · Gijang Market crab alley · Jukseong Church" }
+  - { label: "Admission", value: "Yonggungsa and Jukseong Church free · Lotte World 1-Day adult ₩49,000 · Skyline Luge 2 rides ₩27,000" }
+  - { label: "Getting there", value: "Change to the Donghae Line at BEXCO Station for Osiria, Gijang, Ilgwang · bus 181 from Haeundae Station" }
+  - { label: "Hours", value: "Donghae Line every 30 min by day · last trains to Bujeon: Gijang 23:37, Osiria 23:41 (weekdays)" }
+  - { label: "Time needed", value: "Half day, 4–5 hours (temple, luge, Gijang Market) · full day if you add Lotte World" }
+  - { label: "Best time", value: "October is hairtail season · Daebyeon anchovy festival is in spring (24–26 April 2026)" }
+  - { label: "Official info", value: "Lotte World Adventure Busan official site (hours calendar)", url: "https://adventurebusan.lotteworld.com/" }
 draft: false
 ---
 

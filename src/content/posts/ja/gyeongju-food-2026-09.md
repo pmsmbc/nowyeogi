@@ -43,6 +43,13 @@ sources:
   - { title: "慶州市観光 — 慶州韓牛", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4814" }
   - { title: "慶州市観光 — 特産品", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4823" }
   - { title: "皇南パン 公式サイト", url: "https://hwangnam.com/" }
+glance:
+  - { label: "主な店", value: "皇南パン本店 · ヌルボム（サムパプ） · ビョルチェバン指定店（六部村ユッケジャン） · 校洞法酒" }
+  - { label: "予算", value: "皇南パン20個28,000ウォン · サムパプ16,000〜21,000ウォン · 法酒35,000〜43,500ウォン" }
+  - { label: "時間", value: "皇南パン本店 08:00〜22:00 年中無休 · 校洞法酒 09:30〜18:00 日曜休み" }
+  - { label: "おすすめエリア", value: "大陵苑周辺（菓子店） · 校村（醸造所） · 仏国寺（サムパプ） · 皇理団キル（カフェ）" }
+  - { label: "おすすめ時期", value: "皇南パンは週末午前半ばから行列、早めに · サムパプの店は木・月休みが多い" }
+  - { label: "公式案内", value: "慶州市観光 — 慶州のパン", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4824" }
 draft: false
 ---
 

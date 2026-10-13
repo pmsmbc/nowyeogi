@@ -33,6 +33,14 @@ sources:
   - { title: "축제 공식 — 산천어 맨손잡기", url: "https://www.narafestival.com/01_icenara/?wr_id=19" }
   - { title: "축제 공식 — 축제 히스토리", url: "https://www.narafestival.com/01_icenara/?wr_id=9" }
   - { title: "화천군청 — 시외버스 시간표", url: "https://www.ihc.go.kr/www/contents.do?key=237" }
+glance:
+  - { label: "기간", value: "2027년 일정 미발표(2026년 9월 기준) · 직전 회차는 2026년 1월 10일~2월 1일, 23일간", url: "https://www.narafestival.com/01_icenara/" }
+  - { label: "장소", value: "강원특별자치도 화천군 화천읍, 얼어붙은 화천천 위 축제장" }
+  - { label: "시간", value: "외국인 전용 낚시터 09:00~18:00(매표 17:00까지) · 맨손잡기 10~16시 매시 정각" }
+  - { label: "요금", value: "외국인 낚시터 1인 10,000원(상품권 5,000원 환급) · 여권 소지자는 15,000→10,000원", url: "https://www.narafestival.com/01_icenara/?wr_id=89" }
+  - { label: "교통", value: "동서울터미널 직행 약 2시간 55분, 14,400원 · 춘천 경유 시외버스 5,800원 · 셔틀은 토·일만", url: "https://www.narafestival.com/01_icenara/?wr_id=8" }
+  - { label: "준비물", value: "여권 실물 · 낚싯대·인조미끼·의자(얼음 끌만 현장 비치) · 방한복, 텐트·난로 반입 금지" }
+  - { label: "문의", value: "외국인 낚시터 예약은 화천군 글로벌마케팅팀 033-440-2328", url: "https://www.narafestival.com/ice_en/?wr_id=16" }
 draft: false
 ---
 

@@ -43,6 +43,14 @@ sources:
   - { title: "ソウル観光財団 — ソウルのチムジルバン", url: "https://korean.visitseoul.net/editorspicks/%EC%84%9C%EC%9A%B8-%EC%B0%9C%EC%A7%88%EB%B0%A9/KON042914" }
   - { title: "Visit Seoul — Riverside Spa Land", url: "https://english.visitseoul.net/entertainment/Riverside-Spa-Land-EN/ENP009576" }
   - { title: "Visit Seoul — Park Habio Water Kingdom & Jjimjil Spa", url: "https://english.visitseoul.net/entertainment/ParkHabio-WaterKingdom/ENP0jakmu" }
+glance:
+  - { label: "対象", value: "チムジルバンが初めての旅行者" }
+  - { label: "順序", value: "下駄箱 → カウンターで服とタオル → 脱衣室で脱ぐ → 洗って湯に入る → チムジル服に着替えて共用エリアへ" }
+  - { label: "服装", value: "湯船・脱衣室は男女別で裸（水着不可） · チムジルの区域は男女共用のためチムジル服が必須（法令上の条件）" }
+  - { label: "タトゥー", value: "入場を断る法的根拠はなく、店舗ごとの自主ルール · 事前に電話で確認 · 毛染め直後は不可の店も" }
+  - { label: "料金", value: "入浴とチムジルは別料金（料金表の掲示は法的義務） · 例：サウナ13,000ウォン・チムジルバン15,000ウォン、チムジル服2,000ウォン別の店も" }
+  - { label: "一泊", value: "宿泊業ではなく、寝具は大判タオルと枕まで · 24時間でない店（07:00〜22:00）もあるので事前確認" }
+  - { label: "注意", value: "飲酒後2時間以内の入浴は不可（法令の注意事項） · 浴場の事故の89.3%が滑りと転倒" }
 draft: false
 ---
 

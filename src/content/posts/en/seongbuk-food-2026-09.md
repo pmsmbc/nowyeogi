@@ -35,6 +35,12 @@ sources:
   - { title: "Seoul Future Heritage - Ssangdari Sikdang (2016-034)", url: "https://futureheritage.seoul.go.kr/" }
   - { title: "Gilsangsa Temple official website - temple stay", url: "https://gilsangsa.or.kr/" }
   - { title: "Seoul Metropolitan Government - Oraegage", url: "https://oraegage.co.kr/" }
+glance:
+  - { label: "Key eats", value: "Guksijip · Seongbuk-dongjip · Songane Gom Guksu · Napoleon Confectionery" }
+  - { label: "Budget", value: "Good price shops at the foot of the hill: kalguksu 5,000 won · janchi guksu 3,000 won · americano 1,500 won" }
+  - { label: "Hours", value: "Hongdukkae Son Kalguksu daily 10:00–21:00 · Arirang Sumi Gamjatang 11:00–20:00, closed Sundays" }
+  - { label: "Getting there", value: "Hansung University Station (Line 4) exit 5 for food · exit 6 for village buses Seongbuk 02 and 03" }
+  - { label: "Official info", value: "Seongbuk-gu's 21 certified shops of Seongbuk-dong (30+ years in business, 14 serve food)", url: "https://www.sb.go.kr/tour/contents.do?key=72" }
 draft: false
 ---
 

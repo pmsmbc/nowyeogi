@@ -35,6 +35,12 @@ sources:
   - { title: "서울미래유산 — 쌍다리 식당 (2016-034)", url: "https://futureheritage.seoul.go.kr/" }
   - { title: "길상사 공식 누리집 — 템플스테이", url: "https://gilsangsa.or.kr/" }
   - { title: "서울시 — 오래가게", url: "https://oraegage.co.kr/" }
+glance:
+  - { label: "핵심 가게", value: "국시집 · 성북동집 · 손가네 곰국수 · 나폴레옹 과자점" }
+  - { label: "예산", value: "언덕 아래 착한가격업소 공시가: 칼국수 5,000원 · 잔치국수 3,000원 · 아메리카노 1,500원" }
+  - { label: "시간", value: "홍두깨손칼국수 매일 10:00~21:00 · 아리랑 수미감자탕 11:00~20:00, 일요일 휴무" }
+  - { label: "교통", value: "4호선 한성대입구역 5번 출구(밥집) · 6번 출구에서 마을버스 성북02·03(언덕)" }
+  - { label: "공식 안내", value: "성북구 「성북동 인증가게」 21곳 (30년 이상 영업 기준, 음식점 14곳)", url: "https://www.sb.go.kr/tour/contents.do?key=72" }
 draft: false
 ---
 

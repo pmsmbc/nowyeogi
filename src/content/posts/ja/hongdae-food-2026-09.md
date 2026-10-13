@@ -179,6 +179,13 @@ sources:
   - { title: "다이닝코드 — 옥동식 합정", url: "https://www.diningcode.com/profile.php?rid=4fgdW6Inktww" }
   - { title: "다이닝코드 — 합정옥", url: "https://www.diningcode.com/profile.php?rid=bDlUpVT87aiE" }
   - { title: "다이닝코드 — 오레노라멘 본점", url: "https://www.diningcode.com/profile.php?rid=wJpwvXzEFYVj" }
+glance:
+  - { label: "主な店", value: "オクトンシク · 合井屋 · オレノラーメン本店 · キョウダイヤ（ミシュラン ビブグルマン）" }
+  - { label: "夜の焼肉", value: "朝鮮火炉焼き · 401精肉食堂 · チョニオギョプサル" }
+  - { label: "予算", value: "ビブグルマンは1人45,000ウォン以下 · テジコムタン14,000ウォン · チゲ定食5,500ウォン" }
+  - { label: "行列", value: "合井屋は1日約100人前で終了 · オクトンシクは「並ぶ価値あり」とミシュランが表示" }
+  - { label: "アクセス", value: "合井駅（2・6号線）2・7番出口 · 弘大入口駅（2号線） · 上水駅（6号線）" }
+  - { label: "おすすめ時間帯", value: "ビブグルマンの多くは11:00〜15:00の昼営業 · 焼肉は夜（401精肉食堂は翌2時まで）" }
 draft: false
 ---
 

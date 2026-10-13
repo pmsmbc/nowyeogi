@@ -46,6 +46,14 @@ sources:
   - { title: "釜山花火祭り 公式 — 祭りの概要", url: "https://www.busanfireworks.com/content/overview" }
   - { title: "釜山花火祭り 公式 — チケット予約案内", url: "https://www.busanfireworks.com/reservation" }
   - { title: "インターパークチケット — 第21回釜山花火祭り", url: "https://tickets.interpark.com/goods/26009342" }
+glance:
+  - { label: "期間", value: "2026年11月7日（土）19:00〜20:00（19:15〜19:25インターミッション）" }
+  - { label: "場所", value: "広安里海水浴場（水営区 広安海辺路 219） · 二妓台 · 冬柏島一帯" }
+  - { label: "料金", value: "R席（テーブル＋椅子）100,000ウォン · S席（椅子）70,000ウォン · 砂浜の一般観覧は無料" }
+  - { label: "予約", value: "NOLチケット11月6日17:00まで · 1人最大4枚 · チケットは10月12日一括発送" }
+  - { label: "時間", value: "有料席の入場は15:00から、18:00までに到着できないと入場・払い戻し不可" }
+  - { label: "アクセス", value: "広安駅・金蓮山駅（2号線）から徒歩 · 西面・海雲台から約12分" }
+  - { label: "問い合わせ", value: "051-713-5000 · 釜山花火祭り 公式チケット予約案内", url: "https://www.busanfireworks.com/reservation" }
 draft: false
 ---
 

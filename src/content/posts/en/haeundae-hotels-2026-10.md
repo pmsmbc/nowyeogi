@@ -93,6 +93,13 @@ sources:
   - { title: "Newdaily — Signiel Busan to open in June (2020-04-22)", url: "https://biz.newdaily.co.kr/site/data/html/2020/04/22/2020042200035.html" }
   - { title: "Newdaily — Grand Josun Busan opens on the 7th (2020-10-07)", url: "https://biz.newdaily.co.kr/site/data/html/2020/10/07/2020100700253.html" }
   - { title: "Etoday — Busan's oldest hotel, The Westin Josun Busan, reopens after full renovation (2024-07-10)", url: "https://www.etoday.co.kr/news/view/2378656" }
+glance:
+  - { label: "Best areas", value: "Beachfront five-stars · Marine City · Gunam-ro belt (mid-range) · Dalmaji-gil and Mipo · Centum City" }
+  - { label: "Where to stay", value: "Paradise · Grand Josun · The Westin Josun · Signiel · Park Hyatt (the five five-stars)" }
+  - { label: "Getting there", value: "Haeundae Station (Line 2) for Gunam-ro · Dongbaek for Westin and Marine City · Jung-dong for LCT" }
+  - { label: "Fares", value: "Airport limousine 1 ₩9,500 · subway ₩1,800 by transit card (zone 2)", url: "https://www.busan.go.kr/depart/khairportlm" }
+  - { label: "Time needed", value: "A little over an hour from Gimhae Airport by subway · about 50 minutes from Busan Station" }
+  - { label: "Best time", value: "Book early for the July–August beach season and the film festival, 6–15 October" }
 draft: false
 ---
 

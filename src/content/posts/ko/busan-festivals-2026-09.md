@@ -65,6 +65,14 @@ sources:
   - { title: "Visit Busan — 축제·행사 일정표", url: "https://www.visitbusan.net/schedule/list.do?boardId=BBS_0000009&menuCd=DOM_000000204012000000&year=2026&month=0" }
   - { title: "2026 광안리 M 드론라이트쇼 공식", url: "https://www.gwangallimdrone.co.kr/" }
   - { title: "부산불꽃축제 공식", url: "https://busanfireworks.com/" }
+glance:
+  - { label: "기간", value: "록페스티벌 10월 2~4일 · 영화제 10월 6~15일 · 비엔날레 11월 1일까지" }
+  - { label: "핵심 장소", value: "영화의전당(센텀시티) · 삼락생태공원 · 부산현대미술관(을숙도) · 광안리해수욕장" }
+  - { label: "요금", value: "록페 3일권 212,800원 · 드론쇼 무료 · 비엔날레 상설 무료(일부 전시 유료)" }
+  - { label: "시간", value: "광안리 드론쇼 매주 토요일, 3~9월 20:00·22:00, 10~2월 19:00·21:00" }
+  - { label: "불꽃축제", value: "11월 7일(토) 19:00~20:00, 해변 스탠딩존 무료" }
+  - { label: "교통", value: "2호선 센텀시티역·광안역·금련산역 · 미술관은 1호선 하단역에서 버스 환승" }
+  - { label: "공식 안내", value: "부산국제영화제 공식 홈페이지(예매는 biff.kr에서만)", url: "https://www.biff.kr/kor/" }
 draft: false
 ---
 

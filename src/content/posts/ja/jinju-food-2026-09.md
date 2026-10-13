@@ -43,6 +43,13 @@ sources:
   - { title: "韓国民族文化大百科事典 — ホッチェサパプ", url: "https://encykorea.aks.ac.kr/Article/E0076622" }
   - { title: "デジタル晋州文化大典 — 晋州冷麺", url: "http://jinju.grandculture.net/jinju/toc/GC00402096" }
   - { title: "デジタル晋州文化大典 — 晋州中央市場", url: "http://jinju.grandculture.net/jinju/toc/GC00401966" }
+glance:
+  - { label: "主な料理", value: "晋州冷麺 · 晋州ビビンバ · ホッチェサパプ · 晋州ウナギ · 教坊料理・韓定食（市庁の公式分類5つ）" }
+  - { label: "主なスポット", value: "中央市場（晋陽湖路547番キル8-1、1884年開設） · ロデオ通り · 晋州城周辺のウナギ店" }
+  - { label: "対象", value: "ビビンバも冷麺もベジタリアン不可 · 豚肉だけ避けるなら冷麺・ウナギが可 · ハラール店は未確認" }
+  - { label: "おすすめ時期", value: "冷麺は通年で出す店あり · 五日市はムンサン4・9日、クムゴク・テゴク1・6日、イルバンソン3・8日" }
+  - { label: "問い合わせ", value: "値段・営業時間は非公開のため、行く前に市庁グルメページの電話番号で確認" }
+  - { label: "公式案内", value: "晋州市庁 — 晋州冷麺", url: "https://www.jinju.go.kr/02234/02349/02355.web" }
 draft: false
 ---
 

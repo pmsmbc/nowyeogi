@@ -67,6 +67,12 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "추천 구역", value: "큰 호텔은 광화문·시청 · 저예산 호스텔은 종각 관철동 · 객실 수는 소공동·북창동에 집중" }
+  - { label: "추천 숙소", value: "포시즌스 호텔 서울 · 신라스테이 광화문 · 더 플라자 · 코리아나호텔" }
+  - { label: "교통", value: "1·2호선 시청역 · 5호선 광화문역 · 1호선 종각역 · 공항철도는 서울역에서 1호선 환승" }
+  - { label: "공항버스", value: "6701(막차 18:40~19:00) · 6002(광화문 20:52) · 6005(하루 10회) · 심야 N6002" }
+  - { label: "주의", value: "주말 세종대로 집회 통제가 잦아요 · '명동' 이름 호텔은 북창동·소공동 주소인지 확인" }
 draft: false
 ---
 

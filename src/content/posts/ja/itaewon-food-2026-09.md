@@ -237,6 +237,14 @@ sources:
   - { title: "ソウル特別市 — 서울시, 핫플 '해방촌 신흥시장' 지역경제 이끄는 명소 부활 (2021-03-29)", url: "https://news.seoul.go.kr/citybuild/archives/512062" }
   - { title: "ネソンアネソウル — 해방촌 신흥시장이 새로 쓰는 해방일지 (2023-07-21)", url: "https://mediahub.seoul.go.kr/archives/2008539" }
   - { title: "ネソンアネソウル — '건축상 수상' 해방촌 신흥시장 (2024-09-11)", url: "https://mediahub.seoul.go.kr/archives/2012201" }
+glance:
+  - { label: "主な店", value: "モス · ソウル · アルトエイ · ボグァンジョン梨泰院店" }
+  - { label: "主なスポット", value: "ウサダン路のハラール食堂街（ソウル中央聖院一帯） · 解放村 新興市場" }
+  - { label: "予算", value: "ボグァンジョンのチゲ・カルグクス8,000ウォン · ミョンマルのチェユクポックム8,000ウォン（公示価格）" }
+  - { label: "予約", value: "シェ・ヌー・プライベートキッチンは夜のみ営業、予約必須（ミシュラン）" }
+  - { label: "アクセス", value: "梨泰院駅（6号線）3番出口がウサダン路 · 緑莎坪駅（6号線）が経理団通り・解放村" }
+  - { label: "おすすめ時間帯", value: "早朝はテポム（月〜土07:00〜） · 深夜はクティジャルダン（金土は翌3:00まで）" }
+  - { label: "公式案内", value: "観光公社のムスリムフレンドリー食堂リスト（2021年12月時点）22軒 · 今の認証は店の認証書で確認", url: "https://english.visitkorea.or.kr/svc/thingsToDo/subMuslimFriendly.do" }
 draft: false
 ---
 

@@ -117,6 +117,13 @@ sources:
   - { title: "공항리무진 — 6015번 노선안내 (공항방면, 정류장별 시간표: 로얄호텔 02156, 을지로2가 02159, 국도호텔 02163)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=21" }
   - { title: "공항리무진 — 6015번 노선안내 (시내방면, 로얄호텔·을지로2가·국도호텔 하차 위치)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=47" }
   - { title: "중구 — 맛집거리와 모범음식점 (을지로 골뱅이골목, 을지로3가역 12번 출구)", url: "https://www.junggu.seoul.kr/tour/content.do?cmsid=14934" }
+glance:
+  - { label: "場所", value: "乙支路1〜5街とその裏の路地、鍾路から退渓路まで続く世運商街群（ソウル中区・鍾路区）" }
+  - { label: "アクセス", value: "乙支路3街駅（2・3号線）が横丁へ・乙支路4街駅（2・5号線）が世運商街・乙支路入口駅（2号線）" }
+  - { label: "主なスポット", value: "世運商街3階デッキ・ノガリ横丁・コルベンイ横丁・笠井洞鉄工所路地・印刷路地" }
+  - { label: "料金", value: "路地と商街の通路は無料・空港バス6015は大人17,000ウォン、子ども12,000ウォン" }
+  - { label: "おすすめプラン", value: "平日の昼は世運商街のデッキと工具・印刷の路地、昼食は乙支路3・4街の老舗、夜はノガリ・コルベンイ横丁の屋外席" }
+  - { label: "空港バス", value: "6015番は乙支路入口・乙支路3街駅12番出口・乙支路4街に停車・空港行き最終19:42〜19:50", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=21" }
 draft: false
 ---
 

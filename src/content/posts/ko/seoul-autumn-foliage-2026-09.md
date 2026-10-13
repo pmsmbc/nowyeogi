@@ -75,6 +75,14 @@ sources:
   - { title: "국립공원공단 — 입산시간지정제", url: "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198" }
   - { title: "국립공원공단 — 북한산 요금안내(주차 성수기)", url: "https://www.knps.or.kr/front/portal/visit/visitCourseAmt.do" }
   - { title: "서울관광재단 — 서울 도심 등산관광센터(북한산)", url: "https://korean.visitseoul.net/nature/2024-SHTCbukhansan/KOPmt730g" }
+glance:
+  - { label: "추천 시기", value: "도심 11월 초 · 북한산 10월 28일경 · 서울시가 낙엽을 안 쓰는 기간 10월 24일~11월 중순" }
+  - { label: "핵심 장소", value: "창덕궁 후원 · 덕수궁길 · 성균관 명륜당 은행나무 · 북한산 대남문코스" }
+  - { label: "요금", value: "창덕궁 후원 5,000원+전각 3,000원(최소 8,000원) · 덕수궁길·명륜당 은행나무·북한산 무료" }
+  - { label: "예약", value: "후원 온라인은 관람일 6일 전 오전 10시, 현장은 당일 오전 9시 · 회차당 100명" }
+  - { label: "교통", value: "1·2호선 시청역 1번 출구(덕수궁길) · 4호선 혜화역 4번 출구(명륜당) · 3호선 구파발역→704번 버스(북한산)" }
+  - { label: "시간", value: "북한산 입산 3~11월 04:00~17:00 · 명륜당 3~10월 09:00~18:00, 11~2월 09:00~17:00" }
+  - { label: "공식 안내", value: "궁능유적본부 창덕궁 후원 관람 예약 안내", url: "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=cdg" }
 draft: false
 ---
 

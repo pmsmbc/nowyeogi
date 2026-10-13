@@ -82,6 +82,14 @@ sources:
   - { title: "韓国観光公社 — 石窟庵", url: "https://japanese.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94436" }
   - { title: "国立慶州博物館 — 利用案内", url: "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html" }
   - { title: "良洞民俗村 公式サイト", url: "http://yangdongvillage.or.kr/" }
+glance:
+  - { label: "主なスポット", value: "仏国寺 · 石窟庵 · 大陵苑・天馬塚 · 東宮と月池 · 国立慶州博物館" }
+  - { label: "料金", value: "仏国寺・石窟庵・大陵苑の公園・博物館は無料 · 天馬塚・月池 大人3,000ウォン · 良洞民俗村 大人4,000ウォン" }
+  - { label: "時間", value: "仏国寺・石窟庵 09:00〜18:00 · 大陵苑・月池 09:00〜22:00（最終入場21:30）" }
+  - { label: "アクセス", value: "仏国寺は皇理団キルから10・11番、KTX駅から711番 · 石窟庵は仏国寺から12番（1日10便ほど）" }
+  - { label: "所要時間", value: "旧市街の遺跡は徒歩で1日 · 仏国寺・石窟庵は半日 · 良洞民俗村は3日目が取れる場合に" }
+  - { label: "おすすめ時期", value: "桜は4月1〜7日ごろが見ごろ · 紅葉は10月〜11月初め · 月池は日没の30〜60分前に入場" }
+  - { label: "公式案内", value: "慶州市観光 — 入場料一覧", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4838" }
 draft: false
 ---
 

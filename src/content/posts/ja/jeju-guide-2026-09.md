@@ -37,6 +37,13 @@ sources:
   - { title: "済州特別自治道 — 空港バス路線", url: "https://bus.jeju.go.kr/publicTrafficInformation/airportBusInfo" }
   - { title: "UNESCO — 済州島 生物圏保護区", url: "https://www.unesco.org/en/mab/jeju-island" }
   - { title: "UNESCO — 済州海女の文化", url: "https://ich.unesco.org/en/RL/culture-of-jeju-haenyeo-women-divers-01068" }
+glance:
+  - { label: "アクセス", value: "金浦から飛行機で75〜85分、片道1日115〜125便 · 仁川からは1日1往復のみ" }
+  - { label: "空港から", value: "600番リムジンで中文52分・西帰浦98分、4,500〜5,500ウォン · タクシーは2キロ3,000ウォンから", url: "https://bus.jeju.go.kr/publicTrafficInformation/airportBusInfo" }
+  - { label: "バス運賃", value: "交通カードで一律1,150ウォン、急行は上限3,000ウォン · T-money可、40分以内2回まで乗換無料", url: "https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule" }
+  - { label: "予約", value: "漢拏山の山頂コース（城板岳・観音寺）のみ要予約、毎月第1営業日09:00に翌月分が開く", url: "https://visithalla.jeju.go.kr" }
+  - { label: "おすすめ時期", value: "春（3月下旬〜4月上旬の桜と菜の花） · 台風の9割は7〜9月" }
+  - { label: "おすすめプラン", value: "5泊以上なら北の済州市と南の西帰浦など拠点2〜3か所に分けて宿泊" }
 draft: false
 ---
 

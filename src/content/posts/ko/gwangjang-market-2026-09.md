@@ -52,6 +52,14 @@ sources:
   - { title: "종로구 보도자료 — 전통시장 다국어 QR 확대", url: "https://www.jongno.go.kr/portal/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000001618&menuNo=388338&menuId=388338&nttId=250425" }
   - { title: "내 손안에 서울 — 광장시장 정량표기제 해설", url: "https://mediahub.seoul.go.kr/archives/2009699" }
   - { title: "Netflix — Street Food: Asia", url: "https://www.netflix.com/title/80244996" }
+glance:
+  - { label: "위치", value: "서울특별시 종로구 창경궁로 88" }
+  - { label: "교통", value: "1호선 종로5가역 8번 출구에서 62m · 2·5호선 을지로4가역 4번 출구에서 약 100m" }
+  - { label: "시간", value: "먹자골목 매일 09:00~23:00 연중무휴 · 일반 구역 월~토 09:00~18:00, 일요일 휴무" }
+  - { label: "대표 메뉴", value: "빈대떡 · 육회 · 김밥(꼬마김밥·마약김밥) · 모둠전 · 순대 · 떡볶이" }
+  - { label: "준비물", value: "현금(카드 결제 대행은 노점 77개소만) · 다국어 QR 메뉴(노점 88개소, 20개 언어) · 메뉴판의 정량 표시 확인" }
+  - { label: "문의", value: "가격표와 다르거나 요금표가 없으면 서울시 02-120 또는 관광안내전화 1330" }
+  - { label: "공식 안내", value: "서울관광재단 광장시장 안내", url: "https://korean.visitseoul.net/shopping/%EA%B4%91%EC%9E%A5%EC%8B%9C%EC%9E%A5/KOP000286" }
 draft: false
 ---
 

@@ -52,6 +52,13 @@ sources:
   - { title: "비짓제주 — 애월해안도로", url: "https://www.visitjeju.net/kr" }
   - { title: "비짓제주 — 한담해안산책로", url: "https://www.visitjeju.net/kr" }
   - { title: "한국관광공사 — 관광정보 서비스", url: "https://kto.visitkorea.or.kr/" }
+glance:
+  - { label: "위치", value: "제주 서북쪽 해안, 제주공항에서 10킬로미터쯤" }
+  - { label: "핵심 장소", value: "애월해안도로(9킬로미터) · 한담해안산책로(1.2킬로미터) · 곽지해수욕장 · 구엄리 돌염전" }
+  - { label: "요금", value: "모두 무료, 상시 개방" }
+  - { label: "교통", value: "렌터카로 공항에서 20분 · 버스도 가능하지만 세워 가며 보려면 차가 편함" }
+  - { label: "추천 시기", value: "오전(주말 오후는 주차 어렵고 대기 발생) · 한담 산책로는 일몰 전" }
+  - { label: "추천 일정", value: "오전 10시 공항 출발 → 돌염전 → 해안도로 → 한담 산책로 → 곽지해수욕장, 반나절" }
 draft: false
 ---
 

@@ -41,6 +41,13 @@ sources:
   - { title: "Visit Gangneung — 中央市場", url: "https://visitgangneung.net/pub/traditional_markets.do?mode=v&seq=99" }
   - { title: "Visit Gangneung — 安木コーヒー通り", url: "https://visitgangneung.net/pub/specialized_distance.do?mode=v&seq=93" }
   - { title: "Visit Gangneung — 祭りカレンダー", url: "https://visitgangneung.net/pub/gnfestival.do" }
+glance:
+  - { label: "名物料理", value: "草堂スンドゥブ · コーヒー · カムジャ・オンシミ · ムルフェ" }
+  - { label: "主な店", value: "草堂豆腐村 · 安木コーヒー通り · 屏山オンシミ村 · 沙川ムルフェ村 · 江陵中央市場" }
+  - { label: "時間", value: "豆腐は昼（草堂の店は夕方早く閉店） · 安木は午前 · 市場は昼間" }
+  - { label: "アクセス", value: "中央市場は中心部 · 沙川ムルフェ村はSEA TEAツアーバスが通る" }
+  - { label: "おすすめ時期", value: "10月の食の祭り（パン9〜11日 · 麺15〜18日 · コーヒー21〜25日） · ムルフェは7〜8月", url: "https://visitgangneung.net/pub/gnfestival.do" }
+  - { label: "公式案内", value: "Visit Gangneung 郷土料理", url: "https://visitgangneung.net/pub/tourtheme.do?mode=v&seq=585" }
 draft: false
 ---
 

@@ -72,6 +72,14 @@ sources:
   - { title: "Hankyung — final day of the 2025 festival (2025-10-26)", url: "https://www.hankyung.com/article/2025102622867" }
   - { title: "YTN — how a pun became a festival (2024-10-26)", url: "https://www.ytn.co.kr/_ln/0115_202410261105133083" }
   - { title: "Kyongbuk Maeil — temple admission fees abolished (2023)", url: "https://kbmaeil.com/article/202301160352882" }
+glance:
+  - { label: "Dates", value: "Fri 23 Oct 2026 10:00–18:00 · Sat 24 and Sun 25 Oct 09:00–18:00" }
+  - { label: "Where", value: "118 Jikjisa-gil, Daehang-myeon, Gimcheon (Jikji Culture Park, Samyeong Daesa Park, Eco Park)" }
+  - { label: "Admission", value: "Free; gimbap and merchandise paid per stall, QR ordering via Kakao Pay" }
+  - { label: "Getting there", value: "Shuttles every 20 minutes from Gimcheon (Gumi) KTX Station, Gimcheon Station and Sports Town; Picnic Taxi ₩5,000–8,000" }
+  - { label: "Parking", value: "Park-and-ride at Gimcheon Sports Town; outer car parks not yet announced, check the official site" }
+  - { label: "Best time", value: "Friday at opening (stalls sold out before noon on day one in 2025); main concert 16:00 daily" }
+  - { label: "Contact", value: "Gimcheon City +82-54-420-6714 · gimbapcity.kr (Korean)", url: "https://gimbapcity.kr/" }
 draft: false
 ---
 

@@ -37,6 +37,14 @@ sources:
   - { title: "束草市観光 — 郷土料理", url: "https://www.sokcho.go.kr/ct/tour/pleasure/food" }
   - { title: "束草市観光 — 市場と買い物", url: "https://www.sokcho.go.kr/ct/tour/pleasure/shopping" }
   - { title: "束草市 — 模範・価格優良飲食店", url: "https://www.sokcho.go.kr/ct/tour/pleasure/restaurant/good_price" }
+glance:
+  - { label: "名物料理", value: "ダッカンジョン · イカスンデとアバイスンデ · ムルフェ · 焼き魚 · 紅ズワイガニ · コムチグク" }
+  - { label: "主な店", value: "束草観光水産市場の鶏通り · アバイ村の焼き魚の一角 · 大浦港市場" }
+  - { label: "時間", value: "水産市場の地下刺身売り場は毎月第2水曜休み · 大浦港市場は毎日10:00〜23:00" }
+  - { label: "アクセス", value: "アバイ村へはケッペで片道500ウォン · 束草海水浴場周辺は高速バスターミナルから徒歩5分" }
+  - { label: "駐車場", value: "水産市場は駐車券に確認印で無料 · 大浦港は有料" }
+  - { label: "おすすめ時期", value: "ムルフェは夏 · コムチグクは冬 · 紅ズワイガニ祭りは10月" }
+  - { label: "公式案内", value: "束草市観光 郷土料理", url: "https://www.sokcho.go.kr/ct/tour/pleasure/food" }
 draft: false
 ---
 

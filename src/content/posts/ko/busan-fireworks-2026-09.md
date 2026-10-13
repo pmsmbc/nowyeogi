@@ -46,6 +46,14 @@ sources:
   - { title: "부산불꽃축제 공식 — 축제 개요", url: "https://www.busanfireworks.com/content/overview" }
   - { title: "부산불꽃축제 공식 — 티켓 예매 안내", url: "https://www.busanfireworks.com/reservation" }
   - { title: "인터파크 티켓 — 제21회 부산불꽃축제", url: "https://tickets.interpark.com/goods/26009342" }
+glance:
+  - { label: "기간", value: "2026년 11월 7일(토) 19:00~20:00 (19:15~19:25 인터미션)" }
+  - { label: "위치", value: "광안리해수욕장(수영구 광안해변로 219) · 이기대 · 동백섬 일원" }
+  - { label: "요금", value: "R석(테이블+의자) 100,000원 · S석(의자) 70,000원 · 해변 일반 관람 무료" }
+  - { label: "예약", value: "NOL 티켓 11월 6일 17:00까지 · 1인 최대 4매 · 티켓 10월 12일 일괄 배송" }
+  - { label: "시간", value: "유료석 입장 15:00부터, 18:00까지 도착 못 하면 입장·환불 불가" }
+  - { label: "교통", value: "2호선 광안역·금련산역 도보 · 서면·해운대에서 약 12분" }
+  - { label: "문의", value: "051-713-5000 · 부산불꽃축제 공식 예매 안내", url: "https://www.busanfireworks.com/reservation" }
 draft: false
 ---
 

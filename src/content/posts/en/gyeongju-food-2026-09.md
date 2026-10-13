@@ -43,6 +43,13 @@ sources:
   - { title: "Gyeongju City tourism — Gyeongju Hanwoo", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4814" }
   - { title: "Gyeongju City tourism — local specialities", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4823" }
   - { title: "Hwangnam Bread — official site", url: "https://hwangnam.com/" }
+glance:
+  - { label: "Key eats", value: "Hwangnam Bread main shop · Neulbom (ssambap) · Byeolchaeban soup restaurants · Gyodong Beopju" }
+  - { label: "Budget", value: "Hwangnam bread box of 20 ₩28,000 · ssambap ₩16,000–21,000 a head · Beopju 900 ml ₩35,000–43,500" }
+  - { label: "Hours", value: "Hwangnam Bread 08:00–22:00 daily · Gyodong Beopju 09:30–18:00, closed Sunday" }
+  - { label: "Best areas", value: "Around Daereungwon (bakeries) · Gyochon Village (brewery) · Bulguksa (ssambap) · Hwangnidan-gil (cafés)" }
+  - { label: "Best time", value: "Buy bread early, weekend queues from mid-morning · ssambap houses often close Thursday or Monday" }
+  - { label: "Official info", value: "Gyeongju City tourism — the breads of Gyeongju", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4824" }
 draft: false
 ---
 

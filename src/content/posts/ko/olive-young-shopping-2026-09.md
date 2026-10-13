@@ -41,6 +41,14 @@ sources:
   - { title: "CJ올리브영 보도자료 — 189개 국적 외국인 942만건 결제", url: "https://corp.oliveyoung.com/ko/news/45" }
   - { title: "CJ올리브영 보도자료 — 홍대타운 그랜드 오픈", url: "https://corp.oliveyoung.com/ko/news/6" }
   - { title: "한국세정신문 — 외국인 사후면세 부가세 즉시환급 한도 500만원으로 상향", url: "https://www.taxtimes.co.kr/news/article.html?no=262134" }
+glance:
+  - { label: "대상", value: "한국에서 화장품을 한 번에 사려는 외국인 손님" }
+  - { label: "핵심 장소", value: "명동타운(명동길 53) · 홍대타운(홍대입구역 8번 출구 대로변) · 강남타운(강남대로 429)" }
+  - { label: "시간", value: "명동타운 매일 10:00~22:30 · 타운 매장은 밤 10시 넘어까지, 동네 매장은 더 일찍 닫음" }
+  - { label: "세금 환급", value: "영수증 한 장 1만 5천 원 이상 · 실물 여권 제시 · 1회 100만 원 미만, 체류 중 총 500만 원 · 3개월 안 출국" }
+  - { label: "추천 시기", value: "올영세일 연 4회(대체로 3·6·9·12월) 약 일주일 · 올영데이 매달 25~27일" }
+  - { label: "준비물", value: "실물 여권(사진·사본 불가) · 짐은 지하철역 물품보관함(명동타운은 보관 불가)" }
+  - { label: "공식 안내", value: "올리브영 명동 글로벌 타운 공식 안내", url: "https://myeongdongtown.oliveyoung.com/ko/" }
 draft: false
 ---
 

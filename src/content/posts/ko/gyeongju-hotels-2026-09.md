@@ -28,6 +28,13 @@ sources:
   - { title: "경주시 관광 안내 — 콘도", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4818&code_uid=1028" }
   - { title: "경주시 관광 안내 — 교통", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4847" }
   - { title: "경주시 관광 안내 — 템플스테이", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4762" }
+glance:
+  - { label: "추천 구역", value: "황남동·대릉원 한옥(차 없이 도보 관광) · 보문관광단지(가족·차) · 불국사 쪽(절 먼저)" }
+  - { label: "가격대", value: "라한셀렉트 13만 5천 원~ · 힐튼 24만 원대~ · 코오롱호텔 9만 8천 원~ (공식 사이트 기준)" }
+  - { label: "교통", value: "KTX 경주역은 구도심 밖 건천읍 · 구도심은 고속·시외버스터미널, 기차면 버스·택시 환승" }
+  - { label: "추천 숙소", value: "힐튼 경주 · 라한셀렉트 경주 · 코오롱호텔 경주 · 경주STAY409" }
+  - { label: "예약", value: "한옥은 전화·카카오톡 예약 많음 · 4월 초 벚꽃철 보문은 몇 달 전에 차고 요금 상승" }
+  - { label: "공식 안내", value: "경주시 관광 안내 — 호텔", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4817&code_uid=1027" }
 draft: false
 ---
 

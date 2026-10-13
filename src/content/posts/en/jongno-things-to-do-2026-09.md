@@ -152,6 +152,14 @@ sources:
   - { title: "이코노믹리뷰 — 문체부 10~11월 '대한민국은 공연중'(2026-10-01, 서울국제공연예술제 10.8~25, 공연 할인권 11.30까지)", url: "https://www.econovill.com/news/articleView.html?idxno=752442" }
   - { title: "불교신문 — 조계사에 국화향 만발하는 10월의 멋진 날(국화향기 나눔전, 11월 초까지)", url: "http://www.ibulgyo.com/news/articleView.html?idxno=406761" }
   - { title: "한국관광공사 TourAPI — 창덕궁과 후원·창경궁·창경궁 대온실·종묘·서울 운현궁·조계사·탑골공원·쌈지길·서울공예박물관·마로니에공원 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Key spots", value: "Changdeokgung Secret Garden · Changgyeonggung · Jongmyo · Unhyeongung · Insadong" }
+  - { label: "Hours", value: "Changdeokgung and Changgyeonggung closed Mon, Jongmyo closed Tue · Changgyeonggung open to 21:00 all year", url: "https://royal.khs.go.kr/ROYAL/contents/R702000000.do?schGroupCode=cdg" }
+  - { label: "Admission", value: "Changdeokgung ₩3,000 · Changgyeonggung, Jongmyo ₩1,000 · Secret Garden ₩5,000 plus palace ticket, never free · Unhyeongung free" }
+  - { label: "Booking", value: "Secret Garden guided sessions only · online from 10:00 six days ahead, on site from 09:00", url: "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=cdg" }
+  - { label: "Time needed", value: "Secret Garden about 70 min · Changdeokgung tour about 50 min · Jongmyo timed entry about 50 min" }
+  - { label: "Getting there", value: "Anguk Station (Line 3) · Jongno 3-ga Station (Lines 1, 3, 5) · Hyehwa Station (Line 4)" }
+  - { label: "Best time", value: "Free Wednesdays from 7 Oct at Changdeokgung, Changgyeonggung, Jongmyo · all palaces and Jongmyo free 29 Oct–15 Nov" }
 draft: false
 ---
 

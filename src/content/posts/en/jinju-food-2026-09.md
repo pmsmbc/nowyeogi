@@ -43,6 +43,13 @@ sources:
   - { title: "Encyclopedia of Korean Culture — heot-jesabap", url: "https://encykorea.aks.ac.kr/Article/E0076622" }
   - { title: "Digital Jinju Cultural Encyclopedia — Jinju naengmyeon", url: "http://jinju.grandculture.net/jinju/toc/GC00402096" }
   - { title: "Digital Jinju Cultural Encyclopedia — Jinju Jungang Market", url: "http://jinju.grandculture.net/jinju/toc/GC00401966" }
+glance:
+  - { label: "Key dishes", value: "Jinju naengmyeon · Jinju bibimbap · heot-jesabap · Jinju jangeo (eel) · gyobang cuisine and hanjeongsik" }
+  - { label: "Key spots", value: "Jungang Market (8-1 Jinyangho-ro 547beon-gil, opened 1884) · Rodeo Street · eel houses around the fortress" }
+  - { label: "Who it's for", value: "Neither bibimbap nor naengmyeon is vegetarian · naengmyeon and eel use no pork · no halal restaurant listed" }
+  - { label: "Best time", value: "Some shops sell naengmyeon year-round · five-day markets: Munsan 4th and 9th, Geumgok and Daegok 1st and 6th" }
+  - { label: "Contact", value: "No prices or hours are published; call ahead using the numbers on the City Hall restaurant pages" }
+  - { label: "Official info", value: "Jinju City — Jinju naengmyeon", url: "https://www.jinju.go.kr/02234/02349/02355.web" }
 draft: false
 ---
 

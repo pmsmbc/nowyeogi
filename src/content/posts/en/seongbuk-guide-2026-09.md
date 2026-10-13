@@ -40,6 +40,13 @@ sources:
   - { title: "Seoul Future Heritage - Bukjeong Village (2015-016)", url: "https://futureheritage.seoul.go.kr/" }
   - { title: "Seongbuk-gu - certified shops of Seongbuk-dong", url: "https://www.sb.go.kr/tour/contents.do?key=72" }
   - { title: "Hanyang City Wall - the Baegak section and the Hyehwa-dong area", url: "https://seoulcitywall.seoul.go.kr/" }
+glance:
+  - { label: "Where", value: "Seongbuk-dong, Seongbuk-gu, on the slope outside the Hanyang City Wall (40 ambassadorial residences and Bukjeong Village)" }
+  - { label: "Getting there", value: "Hansung University Station (Line 4) exit 6 → village bus Seongbuk 02 (Gilsangsa) or 03 (Bukjeong Village, Simujang), 1,200 won" }
+  - { label: "Key spots", value: "Gilsangsa Temple · Bukjeong Village and Simujang · Hanyang City Wall" }
+  - { label: "Admission", value: "Gilsangsa Temple free" }
+  - { label: "Suggested plan", value: "Food at the bottom of the hill (exit 5), sights at the top · it is steep, so take the village bus" }
+  - { label: "Best time", value: "Many sights close on Mondays · Bukjeong Village is a residential area facing demolition, pass through quietly" }
 draft: false
 ---
 

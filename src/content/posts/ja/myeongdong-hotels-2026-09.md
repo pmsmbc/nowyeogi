@@ -69,6 +69,13 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "登録数", value: "観光宿泊業69軒6,399室（観光ホテル29・ホステル40）・民泊150か所はすべて南山洞・会賢洞", url: "https://data.seoul.go.kr/dataList/OA-16043/S/1/datasetView.do" }
+  - { label: "おすすめエリア", value: "大型ホテルは商店街・明洞駅前の退渓路・南大門路4街・会賢駅側、ホステル・民泊は南山洞2街・会賢洞" }
+  - { label: "おすすめの宿", value: "ボコ・ソウル明洞 · コートヤード・マリオット・ソウル明洞 · ホテルグレイスリーソウル · 世宗ホテル" }
+  - { label: "アクセス", value: "4号線明洞駅・会賢駅 · 空港鉄道はソウル駅で4号線に乗り換え、明洞までふた駅" }
+  - { label: "空港バス", value: "6001・6015番は明洞駅8番出口前 · 大人17,000ウォン · 終発20:07・20:03 · 深夜バスなし", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=1" }
+  - { label: "注意", value: "ロッテシティ・フォーポイント・ナインツリー明洞Ⅱ・スプラジール明洞は住所が範囲外 · 民泊は韓国人は原則不可" }
 draft: false
 ---
 

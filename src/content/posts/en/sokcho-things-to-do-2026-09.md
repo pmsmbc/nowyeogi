@@ -59,6 +59,13 @@ sources:
   - { title: "Korea National Park Service — live access control notices", url: "https://www.knps.or.kr/front/portal/safe/acsCtrList.do?menuNo=8000340" }
   - { title: "Seorak Cable Car — official site", url: "https://www.sorakcablecar.co.kr/guide" }
   - { title: "Sokcho City tourism — nature attractions", url: "https://www.sokcho.go.kr/ct/tour/attraction/nature" }
+glance:
+  - { label: "Key spots", value: "Seoraksan (Sinheungsa, cable car, Ulsanbawi, Biseondae, Towangseong Falls observatory) · Abai Village · Yeongnangho · Yeonggeumjeong" }
+  - { label: "Admission", value: "Seoraksan free · Seorak Cable Car ₩16,000 return adult, ₩12,000 child · Gaetbae ₩500 one way", url: "https://www.sorakcablecar.co.kr/guide" }
+  - { label: "Hours", value: "Entry window Apr–Oct 03:00–14:00 (Biseondae), Nov–Mar 04:00–12:00 · cable car same-day window sales only", url: "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198" }
+  - { label: "Time needed", value: "Ulsanbawi 4 hours return · Biseondae 1h20 one way · Towangseong observatory 1.5 hours one way" }
+  - { label: "Getting there", value: "City bus 7 or 7-1 to Sogongwon · Gaetbae ferry across to Abai Village" }
+  - { label: "Best time", value: "Foliage mid-October to early November, when the city fills and the cable car queue forms early" }
 draft: false
 ---
 

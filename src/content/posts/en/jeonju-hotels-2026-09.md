@@ -19,6 +19,12 @@ sources:
   - { title: "Jeonju Hanok Village — accommodation", url: "https://hanok.jeonju.go.kr/contents/lodgment" }
   - { title: "Jeonju City tourism — accommodation directory", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104001000000" }
   - { title: "Jeonju City tourism — getting here", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012001000" }
+glance:
+  - { label: "Best areas", value: "Hanok stay inside the village · Jeonju Station (early train, luggage) · Gaeksa (nightlife) · the bus terminal" }
+  - { label: "Where to stay", value: "Gaeunchae · Gallery Stay · Gyodong Myeongga · Gyodong Sallae · Gwigeoraesa · Geumwondang (city hanok stay portal)", url: "https://hanok.jeonju.go.kr/contents/lodgment" }
+  - { label: "Getting there", value: "Station to village 25 min by bus or ₩7,000–8,000 taxi · bus terminal 15 min or ₩5,000–6,000 taxi" }
+  - { label: "Booking", value: "Check bed or floor bedding, private bathroom, phone-only booking · film festival 29 April–8 May fills the city" }
+  - { label: "Official info", value: "Jeonju City accommodation directory — 101 listings", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104001000000" }
 draft: false
 ---
 

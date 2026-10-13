@@ -73,6 +73,12 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "おすすめエリア", value: "体府洞の紫霞門路5ガギル・1ダギル · 樓下洞の弼雲大路の路地（韓屋体験業121か所中66か所）" }
+  - { label: "おすすめの宿", value: "韓屋エッセイ西村 · ヌワ · ソソハウス · アダム韓屋" }
+  - { label: "対象", value: "ホテル・ホステル0軒 · 韓屋体験業は韓国人も可 · 都市民泊116か所は外国人専用" }
+  - { label: "アクセス", value: "景福宮駅（3号線）· 空港リムジン6011は景福宮駅発 終発20:48、大人17,000ウォン" }
+  - { label: "予約", value: "韓屋に24時間フロントの義務なし · 遅い到着ならセルフチェックインを事前確認" }
 draft: false
 ---
 

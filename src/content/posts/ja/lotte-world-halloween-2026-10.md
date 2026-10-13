@@ -71,6 +71,14 @@ sources:
   - { title: "뉴스1 (2026-09-29) — 동심 가득했던 기차의 반전… 롯데월드 '환타지드림'에 무슨 일이", url: "https://www.news1.kr/industry/hotel-tourism/6303962" }
   - { title: "뉴스1 (2026-09-22) — 윤호중 '4년 전과 같은 참사 없도록… 핼러윈 인파 관리 만전'", url: "https://www.news1.kr/local/moi/6298533" }
   - { title: "한국관광공사 TourAPI — 롯데월드 어드벤처 (주소, 운영시간, 입장 마감, 주차)", url: "https://kto.visitkorea.or.kr/" }
+glance:
+  - { label: "期間", value: "2026年9月12日（土）〜11月15日（日） · ハロウィン当日の10月31日（土）も通常営業" }
+  - { label: "場所", value: "ロッテワールド・アドベンチャー（屋内）＋マジックアイランド（屋外）、ソウル 松坡区 オリンピック路240" }
+  - { label: "時間", value: "日〜木10:00〜21:00、金・土10:00〜22:00 · ダークファンタジーフェスティバルは毎日20:20", url: "https://adventure.lotteworld.com/enjoy/performance/list" }
+  - { label: "料金", value: "1Day大人67,000ウォン · After4 55,000ウォン · 鬼談10,000・魔道神堂8,000ウォン別途" }
+  - { label: "アクセス", value: "2号線・8号線 蚕室駅から地下で直結、3・4番出口方面へ" }
+  - { label: "注意", value: "10月16日（金）は全館貸切で一般入場不可 · 奇妙な悪夢は満13歳以上、マジックパス対象外", url: "https://adventure.lotteworld.com/communication/notice/detail?notiSeq=721" }
+  - { label: "問い合わせ", value: "代表電話1661-2000（韓国語） · 公演の問い合わせ02-411-4339（12:00〜20:00）" }
 draft: false
 ---
 

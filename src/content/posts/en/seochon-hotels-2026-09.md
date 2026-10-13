@@ -73,6 +73,12 @@ sources:
   - { title: "공항철도(AREX) — 서울역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/010/0" }
   - { title: "공항철도(AREX) — 인천공항1터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/100/0" }
   - { title: "공항철도(AREX) — 인천공항2터미널역 열차시각표", url: "https://www.airportrailroad.com/train/normal/info/110/0" }
+glance:
+  - { label: "Best areas", value: "Jahamun-ro 5ga-gil and 1da-gil in Chebu-dong · Pirun-daero lanes in Nuha-dong (66 of 121 hanok stays)" }
+  - { label: "Where to stay", value: "Hanok Essay Seochon · Nuwa · Soso House · Adam Hanok" }
+  - { label: "Who it's for", value: "No hotels or hostels · hanok stays take Korean guests too · 116 homestays are foreigners-only" }
+  - { label: "Getting there", value: "Gyeongbokgung Station (Line 3) · airport bus 6011 from Gyeongbokgung Station, last 20:48, ₩17,000" }
+  - { label: "Booking", value: "Hanok stays need no 24-hour desk · arrange self check-in if arriving late" }
 draft: false
 ---
 

@@ -26,6 +26,14 @@ sources:
   - { title: "釜山交通公社 — 運賃と定期券", url: "https://www2.humetro.busan.kr/homepage/default/page/subLocation.do?menu_no=1001010501" }
   - { title: "金海国際空港 — アクセス案内", url: "https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=170" }
   - { title: "釜山広域市 — 空港リムジンバス路線と料金", url: "https://www.busan.go.kr/depart/khairportlm" }
+glance:
+  - { label: "アクセス", value: "ソウル駅→釜山駅 KTX約2時間17分、一般室54,400ウォン · 高速バス約4時間15分、23,600ウォンほど" }
+  - { label: "空港アクセス", value: "金海空港から軽電鉄で沙上乗り換え、西面まで25〜35分 · リムジン1番9,500ウォン、2番6,000ウォン" }
+  - { label: "料金", value: "地下鉄1区間1,600ウォン · 1日券6,000ウォン · 3日券13,000ウォン · ソウルの交通カードも使える" }
+  - { label: "おすすめエリア", value: "海雲台（ビーチ・ホテル） · 西面（交通・食事） · 南浦洞（市場・旧市街） · 広安里（広安大橋の夜景）" }
+  - { label: "おすすめ時期", value: "9月末〜11月初め · 5〜6月も快適 · 7〜8月は暑くて混む" }
+  - { label: "おすすめプラン", value: "最低2泊、できれば3泊 · 交通と食事なら西面、ビーチなら海雲台、市場なら南浦洞に泊まる" }
+  - { label: "公式案内", value: "釜山広域市 公式観光案内 Visit Busan", url: "https://www.visitbusan.net/jp/index.do" }
 draft: false
 ---
 

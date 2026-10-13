@@ -117,6 +117,13 @@ sources:
   - { title: "공항리무진 — 6015번 노선안내 (공항방면, 정류장별 시간표: 로얄호텔 02156, 을지로2가 02159, 국도호텔 02163)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=21" }
   - { title: "공항리무진 — 6015번 노선안내 (시내방면, 로얄호텔·을지로2가·국도호텔 하차 위치)", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=47" }
   - { title: "중구 — 맛집거리와 모범음식점 (을지로 골뱅이골목, 을지로3가역 12번 출구)", url: "https://www.junggu.seoul.kr/tour/content.do?cmsid=14934" }
+glance:
+  - { label: "위치", value: "을지로1~5가와 그 뒤 골목, 종로에서 퇴계로까지 이어진 세운상가군 (서울 중구·종로구)" }
+  - { label: "교통", value: "2·3호선 을지로3가역 (노가리·골뱅이골목) · 2·5호선 을지로4가역 (세운상가) · 2호선 을지로입구역" }
+  - { label: "핵심 장소", value: "세운상가 3층 데크 · 노가리 골목 · 골뱅이골목 · 입정동 철공소 골목 · 인쇄골목" }
+  - { label: "요금", value: "골목과 상가 복도는 무료 · 공항버스 6015 성인 17,000원, 어린이 12,000원" }
+  - { label: "추천 일정", value: "평일 낮 세운상가 데크와 공구·인쇄 골목, 점심은 을지로3·4가 노포, 저녁은 노가리·골뱅이골목 야장" }
+  - { label: "공항버스", value: "6015번 을지로입구·을지로3가역 12번 출구·을지로4가 정류장 · 공항 방면 막차 19:42~19:50", url: "https://www.airportlimousine.co.kr/sub/sub01.php?cat_no=21" }
 draft: false
 ---
 

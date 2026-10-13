@@ -43,6 +43,14 @@ sources:
   - { title: "서울관광재단 — 서울 찜질방", url: "https://korean.visitseoul.net/editorspicks/%EC%84%9C%EC%9A%B8-%EC%B0%9C%EC%A7%88%EB%B0%A9/KON042914" }
   - { title: "Visit Seoul — Riverside Spa Land", url: "https://english.visitseoul.net/entertainment/Riverside-Spa-Land-EN/ENP009576" }
   - { title: "Visit Seoul — Park Habio Water Kingdom & Jjimjil Spa", url: "https://english.visitseoul.net/entertainment/ParkHabio-WaterKingdom/ENP0jakmu" }
+glance:
+  - { label: "대상", value: "찜질방이 처음인 여행자와 외국인 손님" }
+  - { label: "이용 순서", value: "신발장 → 카운터에서 옷·수건 → 탈의실에서 탈의 → 씻고 탕 → 찜질복으로 갈아입고 공용 구역" }
+  - { label: "복장", value: "탕·탈의실은 남녀 분리에 알몸(수영복 안 됨) · 찜질 구역은 남녀 공용이라 찜질복 필수(법령 조건)" }
+  - { label: "문신", value: "출입 거부의 법적 근거 없음, 업소별 자체 규칙 · 미리 전화로 확인 · 염색 직후 출입 불가인 곳도 있음" }
+  - { label: "요금", value: "목욕과 찜질 별도 요금(요금표 게시는 법적 의무) · 예: 사우나 13,000원·찜질방 15,000원, 찜질복 대여 2,000원 별도인 곳도" }
+  - { label: "하룻밤", value: "숙박업 아님, 침구 없이 대형 타월·베개만 · 24시간이 아닌 곳(07:00~22:00)도 있어 확인 필요" }
+  - { label: "주의", value: "음주 후 2시간 이내 입욕 금지(법령 주의사항) · 목욕장 사고의 89.3%가 미끄러짐·넘어짐" }
 draft: false
 ---
 

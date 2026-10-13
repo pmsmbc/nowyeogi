@@ -72,6 +72,14 @@ sources:
   - { title: "전주시 관광 안내 — 남부시장 야시장", url: "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&menuCd=DOM_000000101006003000&paging=ok&startPage=1&dataSid=16085" }
   - { title: "전주한지박물관 공식 사이트", url: "https://hanjimuseum.co.kr/" }
   - { title: "전주한옥마을 — 골목길", url: "https://hanok.jeonju.go.kr/contents/alleyway1" }
+glance:
+  - { label: "핵심 장소", value: "경기전 · 전동성당 · 오목대 · 전주향교 · 남부시장 야시장 · 전주한지박물관 · 덕진공원" }
+  - { label: "요금", value: "경기전 성인 3,000원(마지막 수요일 무료) · 나머지 무료 · 한지 체험 5,000원부터" }
+  - { label: "시간", value: "경기전 09:00~19:00(여름 20시, 겨울 18시) · 향교 월요일 휴관 · 야시장 금·토 17~23시" }
+  - { label: "소요 시간", value: "경기전 한 시간, 전동성당까지 한 시간 반 · 오목대는 마을에서 계단으로 10분" }
+  - { label: "교통", value: "거의 다 한옥마을 안이나 바로 옆이라 도보 · 한지박물관과 덕진공원은 덕진구라 따로 다녀와요" }
+  - { label: "추천 시기", value: "향교 은행나무 11월 · 덕진공원 연꽃 7~8월 · 오목대는 해 질 무렵 · 야시장은 금·토" }
+  - { label: "공식 안내", value: "전주한옥마을 명소", url: "https://hanok.jeonju.go.kr/contents/place" }
 draft: false
 ---
 

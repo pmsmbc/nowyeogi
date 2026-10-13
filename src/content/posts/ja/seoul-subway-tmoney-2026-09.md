@@ -32,6 +32,14 @@ sources:
   - { title: "ソウル特別市 — 気候同行カード（公式）", url: "https://english.seoul.go.kr/policy/transportation/climate-card/" }
   - { title: "Trazy — 韓国の地下鉄とT-moneyカード案内（2026）", url: "https://blog.trazy.com/korea-subway-t-money-card-guide/" }
   - { title: "Unpackorea — ソウルのバス・地下鉄運賃（2026）", url: "https://unpackorea.com/seoul-bus-subway-fares-2026-guide/" }
+glance:
+  - { label: "対象", value: "はじめてソウルの地下鉄に乗る旅行者" }
+  - { label: "運賃", value: "交通カードの基本運賃1,550ウォン（10キロまで） · 1回用の切符1,500ウォン＋保証金500ウォン" }
+  - { label: "購入場所", value: "T-moneyカード代3,000〜5,000ウォン · コンビニ（GS25・CU・セブン-イレブン・emart24）、駅の券売機、観光案内所" }
+  - { label: "気候同行カード", value: "1日5,000ウォン〜7日20,000ウォン＋カード代3,000ウォン · 1日4回以上乗るなら得 · 仁川空港の空港鉄道は不可" }
+  - { label: "乗り換え", value: "タッチして出てから30分以内（21時〜翌7時は60分） · 4回まで · 毎回タッチして乗り降り" }
+  - { label: "時間", value: "運行はおおむね5:30〜24時ごろ · ラッシュは7:30〜9:00と18:00〜19:30" }
+  - { label: "公式案内", value: "ソウル特別市 交通運賃", url: "https://news.seoul.go.kr/traffic/traffic_price" }
 draft: false
 ---
 

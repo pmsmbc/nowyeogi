@@ -62,6 +62,13 @@ sources:
   - { title: "Korea Tourism Organization — VisitKorea", url: "https://english.visitkorea.or.kr/" }
   - { title: "Hotel Price Watch — Seoul hotel prices by neighbourhood (2026)", url: "https://www.hotelpricewatch.com/city/seoul/" }
   - { title: "Travelodge Asia — How much does a hotel in South Korea cost (2026)", url: "https://travelodgehotels.asia/travel-guide/hotel-cost-in-south-korea/" }
+glance:
+  - { label: "Best areas", value: "First trip Myeongdong · nightlife Hongdae · palaces and hanok Jongno/Bukchon · families Jamsil" }
+  - { label: "Price range", value: "Double per night from ₩60,000 in Hongdae and Dongdaemun · Myeongdong ₩90,000–220,000 · Gangnam ₩150,000–500,000" }
+  - { label: "Getting there", value: "Direct AREX from Incheon to Hongik Univ. Station · Myeongdong by bus 6001/6015 or Seoul Station plus 2 stops on Line 4" }
+  - { label: "Best time", value: "Cheaper December–February · April–May and September–October cost 20–40% more and sell out first" }
+  - { label: "Budget", value: "Tight budget: Hongdae guesthouses or Dongdaemun business hotels" }
+  - { label: "Booking", value: "Check the walk to the subway · compare final totals including city tax · check-in usually 15:00, check-out 11:00" }
 draft: false
 ---
 

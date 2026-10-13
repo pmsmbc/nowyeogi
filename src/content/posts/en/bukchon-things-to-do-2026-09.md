@@ -154,6 +154,14 @@ sources:
   - { title: "Segye Ilbo — Seoul Hanok Week on site (3 Oct 2026)", url: "https://www.segye.com/newsView/20261002511966" }
   - { title: "Jeonguk Maeil — Jongno-gu's Bukchon Craft Workshop Festival (6 Oct 2026, craft centre hours)", url: "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298877" }
   - { title: "Korea Tourism Organization TourAPI — Bukchon Hanok Village, Bukchon Eight Views, Bukchon Observatory, Baek In-je House, craft centre, Bae Ryeom House, Seokjeong Boreum Well, Joongang High School, Gahoe-dong Cathedral, Jeongdok Library, Samcheong Park, National Folk Museum, Arario Museum in Space", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "Key spots", value: "Gahoe-dong 31 lanes (Eight Views) · Baek In-je House · MMCA · National Folk Museum · Samcheong Park" }
+  - { label: "Hours", value: "Red zone (Bukchon-ro 11-gil area): tourist visits 10:00-17:00; photos after 17:00 risk a ₩100,000 fine" }
+  - { label: "Admission", value: "Baek In-je House, Ko Hui-dong museum, Folk Museum free · MMCA per show, free Wed & Sat 18:00-21:00" }
+  - { label: "Closed", value: "Baek In-je House, Ko Hui-dong museum, Culture Center closed Mondays · MMCA and Folk Museum open Mondays" }
+  - { label: "Booking", value: "Baek In-je House interior tours via Seoul Public Service Reservation; 16:00 tours Wed Japanese, Thu Chinese, Fri English" }
+  - { label: "Getting there", value: "Anguk Station (Line 3): Exit 2 Gahoe-dong, Exit 3 Gye-dong · village bus Jongno 11 to Samcheong Park" }
+  - { label: "Suggested plan", value: "Before 10:00 and after 17:00 see Wonseo-dong, Gyedong-gil, Jeongdok Library, Samcheong Park, MMCA; Gahoe-dong lanes 10:00-17:00" }
 draft: false
 ---
 

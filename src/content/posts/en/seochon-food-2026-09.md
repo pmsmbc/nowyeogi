@@ -151,6 +151,12 @@ sources:
   - { title: "전남일보 — 삼계탕·냉면에 김밥까지…외식물가 '줄줄이 인상' (2026-08-25)", url: "https://v.daum.net/v/20260825081435222" }
   - { title: "국가법령정보센터 — 여신전문금융업법 제19조(가맹점의 준수사항)", url: "https://www.law.go.kr/법령/여신전문금융업법/제19조" }
   - { title: "다이닝코드 — 토속촌, 체부동잔치집, 원조할머니 떡볶이, 손맛김밥, 효자베이커리, 내자땅콩, 안덕, 용금옥, 호라파, 대성집, 온지음, 물랑, 신안촌, 중국 (2026-10-02 조회)", url: "https://www.diningcode.com/profile.php?rid=WofxzkNtWGj8" }
+glance:
+  - { label: "Key eats", value: "Tongin Market Lunchbox Café · Tosokchon Samgyetang · Andeok · Yonggeumok" }
+  - { label: "Budget", value: "Coin ₩500 (about ₩5,000 per person) · samgyetang ₩20,000 · janchi guksu ₩5,000" }
+  - { label: "Booking", value: "Horapa: reservations essential · Andeok: long lunch queues, arrive at opening" }
+  - { label: "Getting there", value: "Gyeongbokgung Station (Line 3) exit 2; Tosokchon 203 m, Tongin Market 515 m" }
+  - { label: "Best time", value: "MICHELIN places are mostly lunch-only (close by 2–3 p.m.) · many close Mondays" }
 draft: false
 ---
 

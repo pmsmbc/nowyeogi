@@ -152,6 +152,14 @@ sources:
   - { title: "이코노믹리뷰 — 문체부 10~11월 '대한민국은 공연중'(2026-10-01, 서울국제공연예술제 10.8~25, 공연 할인권 11.30까지)", url: "https://www.econovill.com/news/articleView.html?idxno=752442" }
   - { title: "불교신문 — 조계사에 국화향 만발하는 10월의 멋진 날(국화향기 나눔전, 11월 초까지)", url: "http://www.ibulgyo.com/news/articleView.html?idxno=406761" }
   - { title: "한국관광공사 TourAPI — 창덕궁과 후원·창경궁·창경궁 대온실·종묘·서울 운현궁·조계사·탑골공원·쌈지길·서울공예박물관·마로니에공원 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "主なスポット", value: "昌徳宮 後苑 · 昌慶宮 · 宗廟 · 雲峴宮 · 仁寺洞" }
+  - { label: "時間", value: "昌徳宮・昌慶宮は月曜休み、宗廟は火曜休み · 昌慶宮は通年21:00まで（入場20:00まで）", url: "https://royal.khs.go.kr/ROYAL/contents/R702000000.do?schGroupCode=cdg" }
+  - { label: "料金", value: "昌徳宮3,000ウォン · 昌慶宮・宗廟1,000ウォン · 後苑5,000ウォン＋殿閣券（無料日も有料）· 雲峴宮無料" }
+  - { label: "予約", value: "後苑は回ごとの観覧のみ · オンラインは6日前の午前10時、当日券は午前9時から先着順", url: "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=cdg" }
+  - { label: "所要時間", value: "後苑は約70分 · 昌徳宮の殿閣解説は約50分 · 宗廟の時間制観覧は約50分" }
+  - { label: "アクセス", value: "安国駅（3号線） · 鍾路3街駅（1・3・5号線） · 恵化駅（4号線）" }
+  - { label: "おすすめ時期", value: "10月7日から毎週水曜は昌徳宮・昌慶宮・宗廟が無料 · 10月29日〜11月15日は4大宮・宗廟が無料" }
 draft: false
 ---
 

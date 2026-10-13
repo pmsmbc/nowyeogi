@@ -75,6 +75,14 @@ sources:
   - { title: "国立公園公団 — 入山時間指定制", url: "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198" }
   - { title: "国立公園公団 — 北漢山の料金案内（繁忙期の駐車料）", url: "https://www.knps.or.kr/front/portal/visit/visitCourseAmt.do" }
   - { title: "ソウル観光財団 — ソウル都心登山観光センター（北漢山）", url: "https://korean.visitseoul.net/nature/2024-SHTCbukhansan/KOPmt730g" }
+glance:
+  - { label: "おすすめ時期", value: "都心は11月初め · 北漢山は10月28日ごろ · ソウル市が落ち葉を掃かない期間は10月24日〜11月中旬" }
+  - { label: "主なスポット", value: "昌徳宮 後苑 · 徳寿宮石垣道 · 成均館 明倫堂のイチョウ · 北漢山 大南門コース" }
+  - { label: "料金", value: "昌徳宮 後苑5,000ウォン＋殿閣3,000ウォン（最低8,000ウォン） · 徳寿宮石垣道・明倫堂のイチョウ・北漢山は無料" }
+  - { label: "予約", value: "後苑はオンラインが6日前の午前10時、現地が当日の午前9時 · 1回あたり100名" }
+  - { label: "アクセス", value: "市庁駅1番出口（1・2号線） · 恵化駅4番出口（4号線） · 旧把撥駅（3号線）から704番バス" }
+  - { label: "時間", value: "北漢山の入山 3〜11月 04:00〜17:00 · 明倫堂 3〜10月 09:00〜18:00、11〜2月 09:00〜17:00" }
+  - { label: "公式案内", value: "宮陵遺跡本部 昌徳宮 後苑の観覧予約案内", url: "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=cdg" }
 draft: false
 ---
 

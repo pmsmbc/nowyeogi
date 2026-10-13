@@ -62,6 +62,14 @@ sources:
   - { title: "Beyond Seoul — National Museum of Korea Visitor Guide 2026 (published Aug 2026)", url: "https://beyond-seoul.vercel.app/journal/national-museum-of-korea-guide" }
   - { title: "Seoul Metropolitan Government Media Hub — 국립중앙박물관 관람팁 (2023)", url: "https://mediahub.seoul.go.kr/archives/2006826" }
   - { title: "Seoul Metropolitan Government — National Museum of Korea", url: "https://english.seoul.go.kr/national-museum-of-korea/" }
+glance:
+  - { label: "Where", value: "137 Seobinggo-ro, Yongsan-gu, Seoul" }
+  - { label: "Getting there", value: "Ichon Station Exit 2 (Line 4, Gyeongui-Jungang Line), about 5 minutes via the Museum Underpass · Bus 400, 502" }
+  - { label: "Hours", value: "Mon, Tue, Thu, Fri, Sun 09:30–17:30 · Wed, Sat 09:30–21:00 (from March 16, 2026)" }
+  - { label: "Closed", value: "January 1 · Lunar New Year (February 17) · Chuseok (September 25) · Mondays June 1, September 7, December 7" }
+  - { label: "Admission", value: "Permanent exhibition free, no ticket · special exhibitions paid · audio guide ₩1,000" }
+  - { label: "Time needed", value: "Two hours for the highlights · half a day with a special exhibition and the Hangeul Museum" }
+  - { label: "Official info", value: "National Museum of Korea visitor information", url: "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do" }
 ---
 
 The National Museum of Korea is the country's largest museum and one of the most visited museums in the world, and the permanent collection is **free**. It sits in Yongsan, between Itaewon and the Han River, with a subway station wired directly into the building. If you have one museum day in Seoul, this is the one. Hours, directions and fees below are as of September 2026.

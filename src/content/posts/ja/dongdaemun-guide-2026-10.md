@@ -120,6 +120,13 @@ sources:
   - { title: "서울시 내 손안에 서울 — 사람 사는 냄새 물씬~ '동묘 벼룩시장' 나들이! (2023-03-03, 1980년대 말 형성)", url: "https://mediahub.seoul.go.kr/archives/2007137" }
   - { title: "위키백과 — 신당동 (서울) (神堂에서 新堂으로, 광희문 밖 무당촌)", url: "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%8B%B9%EB%8F%99_(%EC%84%9C%EC%9A%B8)" }
   - { title: "중구관광 — 광희동 중앙아시아거리 (1990년대 초 한·러 수교 이후 형성, 몽골타워)", url: "https://www.junggu.seoul.kr/tour/content.do?cmsid=15027&contentId=3512" }
+glance:
+  - { label: "場所", value: "鍾路区（興仁之門・昌信洞・東廟）と中区（DDP・ファッションタウン）、境目は清渓川" }
+  - { label: "アクセス", value: "東大門歴史文化公園駅（2・4・5号線）がDDP側 · 東大門駅（1・4号線）が興仁之門側" }
+  - { label: "主なスポット", value: "DDP · 興仁之門 · 東大門歴史文化公園（二間水門） · 東廟", url: "https://ddp.or.kr/?menuno=307" }
+  - { label: "料金", value: "DDPの建物・広場、興仁之門、東大門歴史館、東廟はすべて無料（展示は別料金）" }
+  - { label: "おすすめプラン", value: "午前 東廟 → 昼ごろ 興仁之門 → 午後 DDP → 夕方 光熙洞・新堂洞 → 夜 ファッションビル" }
+  - { label: "時間", value: "DDP 10:00〜20:00 · 東大門歴史館 10:00〜19:00（月曜休館） · 卸売ビルは夜9時〜朝7時" }
 draft: false
 ---
 

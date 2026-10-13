@@ -114,6 +114,14 @@ sources:
   - { title: "Tripdaum — how to book Haeundae Blue Line Park (October 2026 fare table)", url: "https://www.trvlogue.com/ko/busan-haeundae-blueline-park-booking-guide" }
   - { title: "Busan Metropolitan City events — Busan Cinema Center cinematheque 2026", url: "https://www.busan.go.kr/eng/bsevents/1741418" }
   - { title: "Telltrip — Haeundae Beach 2026 opening (parasol and shower fees)", url: "https://www.telltrip.com/domestic-travel/haeundae-beach-opens-for-2026-summer/" }
+glance:
+  - { label: "Key spots", value: "Dongbaekseom and Nurimaru · Blue Line Park (Sky Capsule) · Cheongsapo Daritdol Observatory · Dalmaji-gil" }
+  - { label: "Admission", value: "Sky Capsule ₩50,000 for 2 per capsule · Beach Train ₩10,000 · X the SKY ₩27,000–29,000", url: "https://www.bluelinepark.com/eng/fare.do" }
+  - { label: "Hours", value: "October: Beach Train 09:00–19:30 · Sky Capsule 08:30–18:30 · Nurimaru 09:00–18:00, closed first Monday" }
+  - { label: "Booking", value: "Sky Capsule online sales open every Tuesday 07:00 KST for the week four weeks ahead" }
+  - { label: "Time needed", value: "Half day 4–5 hours · a full day walking Dongbaekseom to Dalmaji in one line" }
+  - { label: "Getting there", value: "Dongbaek Station (Line 2) for Dongbaekseom · Haeundae for the beach · Jung-dong for X the SKY" }
+  - { label: "Best time", value: "Go up X the SKY an hour before sunset" }
 draft: false
 ---
 

@@ -44,6 +44,13 @@ sources:
   - { title: "경주시 관광 안내 — 경주한우", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4814" }
   - { title: "경주시 관광 안내 — 특산품", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4823" }
   - { title: "황남빵 공식 사이트", url: "https://hwangnam.com/" }
+glance:
+  - { label: "핵심 가게", value: "황남빵 본점 · 늘봄(쌈밥) · 별채반 지정 식당(육부촌육개장) · 교동법주" }
+  - { label: "예산", value: "황남빵 20개 28,000원 · 쌈밥 1인 16,000~21,000원 · 교동법주 35,000~43,500원" }
+  - { label: "시간", value: "황남빵 본점 08:00~22:00 연중무휴 · 교동법주 09:30~18:00 일요일 휴무" }
+  - { label: "추천 구역", value: "대릉원 주변(빵집) · 교촌마을(법주) · 불국사 입구(쌈밥) · 황리단길(카페)" }
+  - { label: "추천 시기", value: "황남빵은 주말 오전 중반부터 줄이 생기니 일찍 · 쌈밥집은 목·월 휴무 많음" }
+  - { label: "공식 안내", value: "경주시 관광 안내 — 경주의 빵", url: "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4824" }
 draft: false
 ---
 

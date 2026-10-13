@@ -174,6 +174,12 @@ sources:
   - { title: "다이닝코드 — 진주회관", url: "https://www.diningcode.com/profile.php?rid=3Iupq3x5RoJ6" }
   - { title: "다이닝코드 — 유림면", url: "https://www.diningcode.com/profile.php?rid=RibyrYTmx3ib" }
   - { title: "다이닝코드 — 고려삼계탕", url: "https://www.diningcode.com/profile.php?rid=3D2EVkSoU9hN" }
+glance:
+  - { label: "Key eats", value: "Cheongjinok · Imun Seolnongtang · Mijin · Yurimmyeon · Nampo Myeonok" }
+  - { label: "Budget", value: "Haejangguk ₩12,000 · seolleongtang ₩15,000 · good price pork bone soup ₩10,000" }
+  - { label: "Getting there", value: "Gwanghwamun Station (Line 5) · Jonggak (Line 1) · City Hall (Lines 1, 2)" }
+  - { label: "Best time", value: "Avoid weekday noon queues · breakfast at Cheongjinok (06:00) or Bugeoguk-jip (07:00)" }
+  - { label: "Hours", value: "Bumin-ok, Gwanghwamun Gukbap, Jinju Hoegwan and Heungjinok close on Sundays" }
 draft: false
 ---
 

@@ -169,6 +169,12 @@ sources:
   - { title: "다이닝코드 — 명동교자 본점 (2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=L4miF0diqkcW" }
   - { title: "다이닝코드 — 백제삼계탕 명동, 개화, 명동돈가스, 원조 남산 왕돈까스 (2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=d5oI3DvmGSrh" }
   - { title: "다이닝코드 — 은호식당, 진주집, 희락갈치, 왕성식당, 남해식당, 가메골 손만두, 남대문 야채호떡, 부원면옥 (2026-10-01 조회)", url: "https://www.diningcode.com/profile.php?rid=8k4cyoKFsFQB" }
+glance:
+  - { label: "主な店", value: "明洞餃子 · 河東館 · 喜楽カルチ · 銀湖食堂" }
+  - { label: "予算", value: "カルグクス12,000 · コムタン18,000 · タチウオ煮付け14,000 · ホットク2,500ウォン" }
+  - { label: "時間", value: "明洞餃子 10:30〜21:00 · 河東館 月〜土 7:00〜16:00（日曜休み）" }
+  - { label: "アクセス", value: "明洞駅（4号線）8番出口 · 乙支路入口駅（2号線） · 会賢駅（4号線、南大門市場）" }
+  - { label: "おすすめ時間帯", value: "昼は明洞餃子・河東館 · おやつは屋台とホットク · 夜は南大門のタチウオ煮付け横丁" }
 draft: false
 ---
 

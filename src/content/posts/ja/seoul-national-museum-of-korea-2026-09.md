@@ -62,6 +62,14 @@ sources:
   - { title: "Beyond Seoul — 国立中央博物館 訪問ガイド 2026（2026年8月公開）", url: "https://beyond-seoul.vercel.app/journal/national-museum-of-korea-guide" }
   - { title: "ソウル市メディアハブ — 国立中央博物館 観覧のコツ（2023）", url: "https://mediahub.seoul.go.kr/archives/2006826" }
   - { title: "ソウル特別市 — 国立中央博物館", url: "https://english.seoul.go.kr/national-museum-of-korea/" }
+glance:
+  - { label: "場所", value: "ソウル特別市龍山区西氷庫路137" }
+  - { label: "アクセス", value: "二村駅2番出口（4号線・京義中央線）から連絡通路「博物館ナドゥルギル」で約5分 · バス400・502" }
+  - { label: "時間", value: "月・火・木・金・日 09:30〜17:30 · 水・土 09:30〜21:00（2026年3月16日から）" }
+  - { label: "休館日", value: "1月1日 · 旧正月（2月17日） · 秋夕（9月25日） · 6月1日・9月7日・12月7日の月曜" }
+  - { label: "料金", value: "常設展は無料・チケット不要 · 特別展は有料 · 音声ガイド1,000ウォン" }
+  - { label: "所要時間", value: "主要な展示だけなら2時間 · 特別展とハングル博物館を足すなら半日" }
+  - { label: "公式案内", value: "国立中央博物館 観覧案内", url: "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do" }
 draft: false
 ---
 

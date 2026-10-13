@@ -74,6 +74,13 @@ sources:
   - { title: "Seogwipo City e-ticket — waterfalls", url: "https://eticket.seogwipo.go.kr/contents?bmcode=cheonjiyeon" }
   - { title: "Visit Jeju — Bijarim", url: "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270" }
   - { title: "Visit Jeju — Saryeoni Forest Path", url: "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500281" }
+glance:
+  - { label: "Key spots", value: "Seongsan Ilchulbong · the three Seogwipo waterfalls (Cheonjiyeon, Jeongbang, Cheonjeyeon) · Bijarim · Saryeoni Forest Path · Udo", url: "https://www.jeju.go.kr/jejuwnh/heritage/seongsan.htm" }
+  - { label: "Admission", value: "Seongsan Ilchulbong ₩5,000 · Cheonjiyeon ₩2,000 · Bijarim ₩3,000 · Saryeoni, Seopjikoji and the beaches free" }
+  - { label: "Closed", value: "Seongsan Ilchulbong the first Monday of each month · Manjanggul the first Wednesday (confirm it has reopened)" }
+  - { label: "Time needed", value: "Seongsan climb 25 minutes · each waterfall an hour · Jusangjeolli 20 minutes · Seopjikoji an hour" }
+  - { label: "Udo", value: "Ferry from Seongsan Port, 10–15 minutes, ₩1,000 fee; visitor vehicles banned 1 August 2026 to 31 July 2029" }
+  - { label: "Best time", value: "Seongsan Ilchulbong at sunrise (opens 04:30 in summer) · Cheonjiyeon at night (open to 22:00, lit)" }
 draft: false
 ---
 

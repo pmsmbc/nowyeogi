@@ -152,6 +152,14 @@ sources:
   - { title: "이코노믹리뷰 — 문체부 10~11월 '대한민국은 공연중'(2026-10-01, 서울국제공연예술제 10.8~25, 공연 할인권 11.30까지)", url: "https://www.econovill.com/news/articleView.html?idxno=752442" }
   - { title: "불교신문 — 조계사에 국화향 만발하는 10월의 멋진 날(국화향기 나눔전, 11월 초까지)", url: "http://www.ibulgyo.com/news/articleView.html?idxno=406761" }
   - { title: "한국관광공사 TourAPI — 창덕궁과 후원·창경궁·창경궁 대온실·종묘·서울 운현궁·조계사·탑골공원·쌈지길·서울공예박물관·마로니에공원 기본 정보", url: "https://api.visitkorea.or.kr/" }
+glance:
+  - { label: "핵심 장소", value: "창덕궁 후원 · 창경궁 · 종묘 · 운현궁 · 인사동" }
+  - { label: "시간", value: "창덕궁·창경궁 월요일 휴궁, 종묘 화요일 휴관 · 창경궁은 연중 21:00까지(입장 20:00)", url: "https://royal.khs.go.kr/ROYAL/contents/R702000000.do?schGroupCode=cdg" }
+  - { label: "요금", value: "창덕궁 3,000원 · 창경궁·종묘 1,000원 · 후원 5,000원+전각권(무료일도 유료) · 운현궁 무료" }
+  - { label: "예약", value: "후원은 회차 관람만 · 온라인 6일 전 오전 10시, 현장 당일 오전 9시 선착순", url: "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=cdg" }
+  - { label: "소요 시간", value: "후원 약 70분 · 창덕궁 전각 해설 약 50분 · 종묘 시간제 관람 약 50분" }
+  - { label: "교통", value: "3호선 안국역 · 1·3·5호선 종로3가역 · 4호선 혜화역" }
+  - { label: "추천 시기", value: "10월 7일부터 매주 수요일 창덕궁·창경궁·종묘 무료 · 10월 29일~11월 15일 4대궁·종묘 무료" }
 draft: false
 ---
 

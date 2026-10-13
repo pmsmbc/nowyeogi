@@ -53,6 +53,14 @@ sources:
   - { title: "Nami Island — zipwire", url: "https://namisum-en.imweb.me/157" }
   - { title: "Nami Island — Hotel Jeonggwanru", url: "https://namisum-en.imweb.me/228" }
   - { title: "Korea Tourism Organization — Nami Island", url: "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=111127" }
+glance:
+  - { label: "Where", value: "Half-moon island in the Bukhangang · five-minute ferry from Gapyeong Wharf, 1024 Bukhangangbyeon-ro" }
+  - { label: "Admission", value: "Adult visa ₩19,000 with round-trip ferry · children ₩13,000 · ₩13,000 before 08:00 or late entry", url: "https://namisum-en.imweb.me/163" }
+  - { label: "Hours", value: "08:00–21:00 daily · last ferry 21:00, back 21:05 · first ferry 07:30 from 18 Sep to 22 Nov", url: "https://namisum-en.imweb.me/165" }
+  - { label: "Getting there", value: "Gapyeong Station to the wharf is 1.5 km: 20 minutes on foot, 5 by taxi, or bus 10-4" }
+  - { label: "Time needed", value: "Two to four hours on foot · about an hour by bicycle (₩5,000 per 30 minutes)" }
+  - { label: "Key spots", value: "Metasequoia Lane · Ginkgo Tree Lane · Korean Pine Tree Lane · First Kiss Bench · zipwire" }
+  - { label: "Best time", value: "Late October (ginkgo) · blossom mid-April to early May · before 09:00 or after 16:00 for photos" }
 draft: false
 ---
 

@@ -179,6 +179,13 @@ sources:
   - { title: "다이닝코드 — 옥동식 합정", url: "https://www.diningcode.com/profile.php?rid=4fgdW6Inktww" }
   - { title: "다이닝코드 — 합정옥", url: "https://www.diningcode.com/profile.php?rid=bDlUpVT87aiE" }
   - { title: "다이닝코드 — 오레노라멘 본점", url: "https://www.diningcode.com/profile.php?rid=wJpwvXzEFYVj" }
+glance:
+  - { label: "Key eats", value: "Okdongsik · Hapjeongok · Oreno Ramen · Kyodaiya (MICHELIN Bib Gourmand)" }
+  - { label: "Dinner BBQ", value: "Joseon Hwaro Gui · 401 Jeongyuk Sikdang · Cheoni Ogyeopsal" }
+  - { label: "Budget", value: "Bib Gourmand under ₩45,000 per person · pork gomtang ₩14,000 · stew set meal ₩5,500" }
+  - { label: "Queues", value: "Hapjeongok closes after about 100 bowls a day · Okdongsik marked worth queueing for" }
+  - { label: "Getting there", value: "Hapjeong Station (Lines 2, 6) Exits 2 and 7 · Hongik Univ. Station (Line 2) · Sangsu Station (Line 6)" }
+  - { label: "Best time", value: "Most Bib Gourmand spots serve lunch 11:00-15:00 · BBQ at dinner (401 open until 02:00)" }
 draft: false
 ---
 

@@ -120,6 +120,14 @@ sources:
   - { title: "KoreaToDo — Skyline Luge Busan 요금·교통 정리", url: "https://koreatodo.com/skyline-luge-busan" }
   - { title: "동해선 오시리아역·기장역·일광역 첫차·막차 (국토교통부 공공데이터 기반)", url: "http://subway.koreatriptips.com/subway-station/PSS6/SUB70835.html" }
   - { title: "나무위키 — 동해선 광역전철·부산 버스 181", url: "https://namu.wiki/w/동해선%20광역전철" }
+glance:
+  - { label: "핵심 장소", value: "해동용궁사 · 롯데월드 어드벤처 부산 · 기장시장 대게 골목 · 죽성성당" }
+  - { label: "요금", value: "용궁사·죽성성당 무료 · 롯데월드 1Day 어른 49,000원 · 스카이라인 루지 2회 27,000원" }
+  - { label: "교통", value: "2호선 벡스코역에서 동해선 환승(오시리아·기장·일광역) · 181번 버스가 해운대역→용궁사→대변항" }
+  - { label: "시간", value: "동해선 낮에는 30분 간격 · 부전 방면 막차 기장역 23:37, 오시리아역 23:41(평일)" }
+  - { label: "소요 시간", value: "반나절 4~5시간(용궁사·루지·기장시장) · 롯데월드까지 넣으면 하루" }
+  - { label: "추천 시기", value: "10월은 갈치 제철 · 대변항 멸치축제는 봄(2026년 4월 24~26일)" }
+  - { label: "공식 안내", value: "롯데월드 어드벤처 부산 공식 사이트(운영시간 캘린더)", url: "https://adventurebusan.lotteworld.com/" }
 draft: false
 ---
 

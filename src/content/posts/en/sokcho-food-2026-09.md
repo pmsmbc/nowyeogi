@@ -37,6 +37,14 @@ sources:
   - { title: "Sokcho City tourism — local food", url: "https://www.sokcho.go.kr/ct/tour/pleasure/food" }
   - { title: "Sokcho City tourism — markets and shopping", url: "https://www.sokcho.go.kr/ct/tour/pleasure/shopping" }
   - { title: "Sokcho City — good value restaurant list", url: "https://www.sokcho.go.kr/ct/tour/pleasure/restaurant/good_price" }
+glance:
+  - { label: "Signature dishes", value: "Dakgangjeong · squid sundae and abai sundae · mulhoe · grilled fish · red snow crab · gomchiguk" }
+  - { label: "Key eats", value: "Chicken alley in the Fishery Market · grilled fish district at Abai Village · Daepohang Port Market" }
+  - { label: "Hours", value: "Market basement fish floor closed on the second Wednesday · Daepohang market 10:00–23:00 daily" }
+  - { label: "Getting there", value: "Abai Village by Gaetbae ferry, ₩500 · Sokcho Beach area five minutes from the express bus terminal" }
+  - { label: "Parking", value: "Free at the fishery market with a validated ticket · charged at Daepohang" }
+  - { label: "Best time", value: "Mulhoe in summer · gomchiguk in winter · red crab festival in October" }
+  - { label: "Official info", value: "Sokcho City tourism, local food", url: "https://www.sokcho.go.kr/ct/tour/pleasure/food" }
 draft: false
 ---
 

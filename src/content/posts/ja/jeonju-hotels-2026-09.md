@@ -19,6 +19,12 @@ sources:
   - { title: "全州韓屋村 — 宿泊", url: "https://hanok.jeonju.go.kr/contents/lodgment" }
   - { title: "全州市観光 — 宿泊施設一覧", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104001000000" }
   - { title: "全州市観光 — 交通案内", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012001000" }
+glance:
+  - { label: "おすすめエリア", value: "韓屋村の韓屋ステイ（村が目的） · 全州駅周辺（早朝の列車・大きな荷物） · 客舎（夜の飲食） · ターミナル周辺" }
+  - { label: "おすすめの宿", value: "ガウンチェ · ギャラリーステイ · 校洞名家 · 校洞サルレ · 帰去来舎 · 錦源堂（市の韓屋ステイ予約サイト）", url: "https://hanok.jeonju.go.kr/contents/lodgment" }
+  - { label: "アクセス", value: "全州駅→村はバス約25分かタクシー7〜8千ウォン · ターミナル→村は約15分かタクシー5〜6千ウォン" }
+  - { label: "予約", value: "韓屋はベッドか布団か、浴室、電話予約のみかを確認 · 映画祭4月29日〜5月8日は街が埋まる" }
+  - { label: "公式案内", value: "全州市 宿泊施設一覧 — 101件", url: "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000104001000000" }
 draft: false
 ---
 

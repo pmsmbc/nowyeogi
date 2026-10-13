@@ -123,6 +123,13 @@ sources:
   - { title: "Trip.com Moments — ハルメ伽倻ミルミョン（営業時間・価格の口コミ）", url: "https://nz.trip.com/moments/poi-halmae-gaya-milmyeon-17199762" }
   - { title: "GQ Korea — 影島のカフェ（無名日記、蓬莱ナル路178）", url: "https://www.gqkorea.co.kr/?p=145667" }
   - { title: "Travel Map Journey — 南浦洞の屋台横丁ガイド、ホットク・トッポッキの価格（2026年1月時点）", url: "https://travelmapjourney.com/busan-nampo-food-alley-guide/" }
+glance:
+  - { label: "主なスポット", value: "チャガルチ市場 · 国際市場 屋台横丁 · BIFF広場 · 富平カントン夜市", url: "https://www.bisco.or.kr/jagalchimarket/" }
+  - { label: "主な店", value: "18番ワンダン店 · 梁山家 · 釜山チョッパル · ハルメ伽倻ミルミョン" }
+  - { label: "予算", value: "チャガルチの席料1人5,000ウォン前後 · 刺身定食20,000ウォン · ミルミョン8,000ウォン" }
+  - { label: "時間", value: "チャガルチ05:00〜22:00（第1・3・5火曜休み）· 夜市19:30〜24:00" }
+  - { label: "アクセス", value: "南浦駅2番出口かチャガルチ駅10番出口（1号線）から徒歩6分" }
+  - { label: "おすすめプラン", value: "昼はチャガルチ2階、おやつはBIFF広場、夜はカントン夜市" }
 draft: false
 ---
 
