@@ -32,3 +32,10 @@ export function responsiveAttrs(src, { width, sizes } = {}) {
 export const SIZES_ARTICLE = '(min-width: 1112px) 1080px, calc(100vw - 2rem)';
 /** 글 카드(목록·홈): 3열 → 2열 → 1열 */
 export const SIZES_CARD = '(min-width: 980px) 344px, (min-width: 640px) calc(50vw - 2rem), calc(100vw - 2rem)';
+
+/** 목록·검색 결과용 작은 썸네일: -w480 축소판이 있으면 그것, 없으면 원본 */
+export function thumbSrc(src) {
+  if (!src || !src.endsWith('.webp')) return src;
+  const v = variantSrc(src, 480);
+  return existsSync(join(PUBLIC_DIR, v)) ? v : src;
+}

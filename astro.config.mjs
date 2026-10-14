@@ -29,7 +29,8 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
-      filter: sitemapFilter,
+      // 검색 페이지는 noindex 라 사이트맵에서도 뺀다
+      filter: (url) => sitemapFilter(url) && !/\/search\/$/.test(url),
       serialize: (item) => { const lm = lastmodFor(item.url); if (lm) item.lastmod = lm; return item; },
       // HTML 의 hreflang(ko/en/ja)과 같은 표기를 쓴다
       i18n: { defaultLocale: 'ko', locales: { ko: 'ko', en: 'en', ja: 'ja' } },

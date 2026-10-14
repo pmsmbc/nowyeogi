@@ -1,0 +1,104 @@
+---
+import type { Lang } from '../site.config';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { t } from '../i18n/ui';
+import { localePath } from '../lib/postUtils';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const indexUrl = localePath(lang, '/search-index.json');
+const path = localePath(lang, '/search/');
+// 검색 결과 페이지는 색인하지 않는다(쿼리마다 다른 내용, 애드센스 정책상 광고도 넣지 않는다).
+const strings = {
+  results: t(lang, 'search.results', { n: '{n}' }),
+  empty: t(lang, 'search.empty'),
+  loading: t(lang, 'search.loading'),
+  error: t(lang, 'search.error'),
+};
+---
+<BaseLayout lang={lang} title={t(lang, 'search.title')} description={t(lang, 'search.placeholder')} path={path} alternates={{ ko: '/search/', en: '/en/search/', ja: '/ja/search/' }} noindex>
+  <section class="section container search">
+    <h1>{t(lang, 'search.title')}</h1>
+    <form class="box" role="search" action={path} method="get" data-search data-index={indexUrl} data-strings={JSON.stringify(strings)}>
+      <label class="visually-hidden" for="q">{t(lang, 'search.label')}</label>
+      <input id="q" name="q" type="search" autocomplete="off" placeholder={t(lang, 'search.placeholder')} enterkeyhint="search" />
+    </form>
+    <p class="small muted hint" data-hint>{t(lang, 'search.hint')}</p>
+    <p class="small muted" data-status aria-live="polite"></p>
+    <div class="results" data-results></div>
+  </section>
+</BaseLayout>
+<script>
+  import { search } from '../lib/searchMatch.mjs';
+
+  const form = document.querySelector<HTMLFormElement>('[data-search]')!;
+  const input = form.querySelector<HTMLInputElement>('input')!;
+  const hint = document.querySelector<HTMLElement>('[data-hint]')!;
+  const status = document.querySelector<HTMLElement>('[data-status]')!;
+  const results = document.querySelector<HTMLElement>('[data-results]')!;
+  const strings = JSON.parse(form.dataset.strings!) as Record<string, string>;
+  type Item = { u: string; t: string; d: string; g: string[]; r: string; p: string; c: string; w?: number; h?: number };
+
+  let items: Item[] | null = null;
+  let loading: Promise<Item[]> | null = null;
+  function load(): Promise<Item[]> {
+    if (items) return Promise.resolve(items);
+    loading ??= fetch(form.dataset.index!).then((r) => r.json()).then((j) => (items = j));
+    return loading;
+  }
+
+  function esc(s: string) { return s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]!)); }
+
+  function render(list: Item[]) {
+    results.innerHTML = list.map((i) => `
+      <article class="result">
+        <a class="thumb" href="${esc(i.u)}" tabindex="-1" aria-hidden="true"><img src="${esc(i.c)}" alt="" loading="lazy" decoding="async" width="${i.w ?? 480}" height="${i.h ?? 300}"></a>
+        <div class="body">
+          <span class="badge">${esc(i.r)}</span>
+          <h2><a href="${esc(i.u)}">${esc(i.t)}</a></h2>
+          <p class="small muted">${esc(i.d)}</p>
+        </div>
+      </article>`).join('');
+  }
+
+  let timer: number | undefined;
+  async function run(q: string, pushUrl = true) {
+    const query = q.trim();
+    if (pushUrl) {
+      const url = new URL(location.href);
+      if (query) url.searchParams.set('q', query); else url.searchParams.delete('q');
+      history.replaceState(null, '', url);
+    }
+    if (!query) { results.innerHTML = ''; status.textContent = ''; hint.hidden = false; return; }
+    hint.hidden = true;
+    if (!items) status.textContent = strings.loading;
+    let list: Item[];
+    try { list = search(await load(), query); } catch { status.textContent = strings.error; return; }
+    if (input.value.trim() !== query) return; // 그 사이 입력이 바뀜
+    render(list);
+    status.textContent = list.length ? strings.results.replace('{n}', String(list.length)) : strings.empty;
+  }
+
+  input.addEventListener('input', () => { clearTimeout(timer); timer = window.setTimeout(() => run(input.value), 150); });
+  form.addEventListener('submit', (e) => { e.preventDefault(); clearTimeout(timer); run(input.value); });
+  input.addEventListener('focus', () => { load().catch(() => {}); }, { once: true });
+
+  const initial = new URLSearchParams(location.search).get('q') ?? '';
+  if (initial) { input.value = initial; run(initial, false); }
+  else input.focus();
+</script>
+<style>
+  .search h1 { margin-bottom: .8em; }
+  .box { max-width: 640px; }
+  .box input { width: 100%; font: inherit; font-size: 1.05rem; padding: .75em 1em; border: 2px solid var(--c-line); border-radius: var(--radius); background: var(--c-surface); color: var(--c-text); }
+  .box input:focus { outline: none; border-color: var(--c-primary); box-shadow: 0 0 0 4px var(--c-primary-soft); }
+  .hint { margin: .6em 0 0; }
+  [data-status] { margin: .6em 0 0; min-height: 1.4em; }
+  .results { display: grid; gap: 1rem; margin-top: 1.2rem; max-width: 760px; }
+  .result { display: grid; grid-template-columns: 128px 1fr; gap: 1rem; align-items: start; background: var(--c-surface); border: 1px solid var(--c-line); border-radius: var(--radius); padding: .8rem; box-shadow: var(--shadow-sm); }
+  .result .thumb img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: var(--radius-sm); display: block; }
+  .result h2 { font-size: 1.05rem; margin: .35em 0 .3em; border: 0; padding: 0; }
+  .result h2 a { color: var(--c-text); }
+  .result p { margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  @media (max-width: 480px) { .result { grid-template-columns: 96px 1fr; gap: .7rem; } }
+</style>
