@@ -3,16 +3,20 @@ import siteConfig, { type Lang } from '../site.config';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import RegionChips from '../components/RegionChips.astro';
+import HubSection from '../components/HubSection.astro';
 import AdSlot from '../components/AdSlot.astro';
 import { getPosts } from '../lib/posts';
 import { t } from '../i18n/ui';
 import { localePath } from '../lib/postUtils';
 import { organizationJsonLd, ORG_ID } from '../lib/jsonld';
+import { resolveHubs } from '../lib/hubs';
 
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const posts = await getPosts(lang);
 const latest = posts.slice(0, 9);
+// 주제 허브(2026-10-14 감사: 홈에 축제·가이드 허브가 없어 검색 의도와 맞지 않았다). 정의는 src/data/hubs.json
+const hubs = resolveHubs(lang, posts);
 const regionKeys = [...new Set(posts.map((p) => p.data.region))];
 // 한/영 상단 이미지는 brand-assets.mjs 에서 같은 캔버스(1200x1314)로 생성하고, 표시 폭(최대 400px)에 맞춰 800px 로 줄여 둔다
 const heroSrc = lang === 'ko' ? '/brand/hero.webp' : '/brand/hero-en.webp';
@@ -44,6 +48,12 @@ const jsonLd = [
       <img class="hero-art" src={heroSrc} alt={siteConfig.name[lang]} width="800" height="876" loading="eager" fetchpriority="high" />
     </div>
   </section>
+
+  {hubs.length > 0 && (
+    <section class="section container hubs-section" aria-label={t(lang, 'home.hubs')}>
+      <HubSection lang={lang} hubs={hubs} />
+    </section>
+  )}
 
   <section class="section container">
     <div class="section-title">
@@ -82,4 +92,5 @@ const jsonLd = [
   /* 모바일: 그림을 줄여 첫 화면에 최신 글이 보이게 한다(2026-10-13 감사: 히어로가 첫 화면을 다 차지했다) */
   @media (max-width: 760px) { .hero { padding: 2rem 0 1.25rem; } .hero-inner { grid-template-columns: minmax(0, 1fr); gap: 1rem; } .hero-art { max-width: min(220px, 100%); margin-inline: auto; } }
   .span-all { grid-column: 1 / -1; }
+  .hubs-section { padding-top: 1.5rem; }
 </style>

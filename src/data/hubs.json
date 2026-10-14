@@ -1,0 +1,102 @@
+{
+  "_comment": "홈 허브 섹션(2026-10-14, SEO 감사 대응). source: events=축제·행사 글(진행·예정 먼저), guides=여행 총정리 글(region 필터), slugs=지정 목록. limit 개까지 표시. 없는 slug 는 건너뛴다. events 는 limit 에서 extraSlugs 수를 뺀 만큼만 가져온다. 링크 글자는 제목의 첫 콜론 앞부분을 쓴다.",
+  "hubs": [
+    {
+      "key": "season",
+      "title": {
+        "ko": "이번 시즌 축제와 단풍",
+        "en": "Festivals and foliage this season",
+        "ja": "今シーズンの祭りと紅葉"
+      },
+      "description": {
+        "ko": "지금 열리는 축제와 가을·겨울 준비 글",
+        "en": "What is on now, plus autumn and winter planning",
+        "ja": "開催中のイベントと秋・冬の準備"
+      },
+      "source": "events",
+      "extraSlugs": [
+        "autumn-foliage-2026-09",
+        "seoul-autumn-foliage-2026-09",
+        "korea-weather-what-to-wear-2026-10",
+        "ski-korea-2026-09"
+      ],
+      "limit": 7,
+      "more": "/domestic/"
+    },
+    {
+      "key": "first-trip",
+      "title": {
+        "ko": "한국 여행이 처음이라면",
+        "en": "First time in Korea",
+        "ja": "初めての韓国旅行"
+      },
+      "description": {
+        "ko": "공항에서 시내까지, 교통카드, 숙소, 첫 식사",
+        "en": "Airport to city, transit card, where to stay, first meals",
+        "ja": "空港から市内へ、交通カード、宿、最初の食事"
+      },
+      "source": "slugs",
+      "slugs": [
+        "incheon-airport-to-seoul-2026-09",
+        "seoul-subway-tmoney-2026-09",
+        "seoul-where-to-stay-2026-09",
+        "seoul-3-day-itinerary-2026-09",
+        "korean-food-for-beginners-2026-09",
+        "hanbok-palace-2026-09"
+      ],
+      "limit": 6
+    },
+    {
+      "key": "cities",
+      "title": {
+        "ko": "도시별 여행 총정리",
+        "en": "City guides",
+        "ja": "都市別ガイド"
+      },
+      "description": {
+        "ko": "가는 법, 시내 교통, 볼거리와 먹거리를 한 글에",
+        "en": "Getting there, local transit, sights and food in one guide",
+        "ja": "行き方、市内交通、見どころとグルメを一本に"
+      },
+      "source": "guides",
+      "regions": [
+        "busan",
+        "jeju",
+        "gyeongju",
+        "gangneung",
+        "sokcho",
+        "jeonju",
+        "jinju",
+        "gapyeong"
+      ],
+      "limit": 8,
+      "more": "/domestic/"
+    },
+    {
+      "key": "seoul",
+      "title": {
+        "ko": "서울 동네별 가이드",
+        "en": "Seoul by neighbourhood",
+        "ja": "ソウルのエリア別ガイド"
+      },
+      "description": {
+        "ko": "명동·홍대·종로부터 성수·연남까지 동네마다 총정리",
+        "en": "From Myeongdong and Hongdae to Seongsu and Yeonnam",
+        "ja": "明洞・弘大・鍾路から聖水・延南まで"
+      },
+      "source": "slugs",
+      "limit": 8,
+      "more": "/regions/seoul/",
+      "slugs": [
+        "myeongdong-guide-2026-09",
+        "hongdae-guide-2026-09",
+        "jongno-guide-2026-09",
+        "gangnam-guide-2026-09",
+        "itaewon-guide-2026-09",
+        "bukchon-guide-2026-09",
+        "seongsu-guide-2026-09",
+        "yeonnam-guide-2026-09"
+      ]
+    }
+  ]
+}
