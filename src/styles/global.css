@@ -77,6 +77,13 @@ p { margin: 0 0 1.2em; }
 /* 일본어 본문은 한자와 가나가 제대로 나오도록 Noto Sans JP 를 앞에 둔다 */
 body.lang-ja { font-family: 'Noto Sans JP', 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic', Meiryo, sans-serif; }
 body.lang-ja h1, body.lang-ja h2, body.lang-ja h3 { font-family: inherit; }
+/* 모바일(760px 미만)은 기기 기본 한글·일본어 글꼴을 쓴다. Pretendard 는 한국어 글 한 편에 19개 파일·약 500KB 가
+   내려가 느린 회선에서 LCP 를 2~3초 늦췄다(2026-10-14 PSI 측정). 웹폰트 이름을 스택에서 빼면 파일을 하나도 받지 않는다.
+   데스크톱·태블릿은 그대로 Pretendard / Noto Sans JP. */
+@media (max-width: 759.98px) {
+  :root { --font-body: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', Roboto, sans-serif; }
+  body.lang-ja { font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic', Meiryo, Roboto, sans-serif; }
+}
 /* 일본어는 띄어쓰기가 없어 keep-all 이면 쉼표에서만 줄이 바뀌어 모바일에서 문장이 들쭉날쭉 내려간다.
    글자 단위 줄바꿈을 허용하고, 줄머리·줄끝 금칙(。、）등)은 strict 로 지킨다. */
 body.lang-ja { word-break: normal; line-break: strict; }
