@@ -42,6 +42,7 @@ const nav = [
     if (!btn || !nav) return;
     function setOpen(open) {
       header.classList.toggle('is-open', open);
+      document.documentElement.classList.toggle('nav-open', open); // 전체 화면 메뉴가 열리면 뒤 페이지 스크롤을 막는다
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
       btn.setAttribute('aria-label', open ? btn.dataset.labelClose : btn.dataset.labelOpen);
     }
@@ -66,32 +67,39 @@ const nav = [
   /* 로고와 메뉴 글자가 한 글자씩 쪼개져 내려가지 않게 한다 */
   .logo, .nav a { white-space: nowrap; }
   .nav-toggle { display: none; }
+  :global(html.nav-open) { overflow: hidden; }
 
   @media (max-width: 640px) {
-    .site-header { position: sticky; }
-    .row { height: 56px; position: relative; }
-    .logo { font-size: 1.05rem; }
-    /* 햄버거 버튼: 44px 터치 영역, 막대 3개가 열리면 X 로 바뀐다 */
-    .nav-toggle { display: inline-flex; flex-direction: column; justify-content: center; gap: 5px; width: 44px; height: 44px; padding: 10px; margin-right: -10px; border: 0; background: transparent; cursor: pointer; border-radius: var(--radius-sm); }
+    .row { height: 56px; }
+    .logo { font-size: 1.05rem; position: relative; z-index: 2; }
+    /* 햄버거 버튼: 44px 터치 영역. 열리면 위·아래 막대가 돌아 X 가 되고 가운데 막대는 사라진다 */
+    .nav-toggle { display: inline-flex; flex-direction: column; justify-content: center; align-items: center; gap: 6px; width: 44px; height: 44px; margin-right: -8px; border: 0; background: transparent; cursor: pointer; border-radius: var(--radius-sm); position: relative; z-index: 2; -webkit-tap-highlight-color: transparent; }
     .nav-toggle:focus-visible { outline: 3px solid var(--c-primary-darker); outline-offset: 2px; }
-    .nav-toggle .bar { display: block; width: 24px; height: 2px; background: var(--c-text); border-radius: 2px; transition: transform .25s ease, opacity .2s ease; transform-origin: center; }
-    .is-open .nav-toggle .bar:nth-child(1) { transform: translateY(7px) rotate(45deg); }
-    .is-open .nav-toggle .bar:nth-child(2) { opacity: 0; transform: scaleX(0); }
-    .is-open .nav-toggle .bar:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
-    /* 메뉴 패널: 헤더 바로 아래에서 내려온다 */
-    .nav { position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; align-items: stretch; gap: 0; background: var(--c-surface); border-bottom: 1px solid var(--c-line); box-shadow: 0 12px 24px -12px rgba(0, 0, 0, .18); padding: .4rem 1rem 1rem; opacity: 0; visibility: hidden; transform: translateY(-8px); transition: opacity .22s ease, transform .22s ease, visibility 0s linear .22s; }
-    .is-open .nav { opacity: 1; visibility: visible; transform: none; transition: opacity .22s ease, transform .22s ease, visibility 0s; }
+    .nav-toggle .bar { display: block; width: 26px; height: 3px; background: var(--c-text); border-radius: 3px; transition: transform .4s cubic-bezier(.68, -.4, .27, 1.4), opacity .25s ease, width .3s ease; transform-origin: center; }
+    .is-open .nav-toggle .bar:nth-child(1) { transform: translateY(9px) rotate(45deg); }
+    .is-open .nav-toggle .bar:nth-child(2) { opacity: 0; width: 0; }
+    .is-open .nav-toggle .bar:nth-child(3) { transform: translateY(-9px) rotate(-45deg); }
+
+    /* 전체 화면 메뉴: 헤더(56px) 아래 화면을 모두 덮는다 */
+    .nav { position: fixed; top: 56px; left: 0; right: 0; bottom: 0; z-index: 1; flex-direction: column; align-items: stretch; justify-content: flex-start; gap: 0; padding: 1.25rem 1.5rem 2rem; background: var(--c-bg); overflow-y: auto; opacity: 0; visibility: hidden; transform: translateY(-14px); transition: opacity .28s ease, transform .32s cubic-bezier(.2, .7, .2, 1), visibility 0s linear .32s; }
+    .is-open .nav { opacity: 1; visibility: visible; transform: none; transition: opacity .28s ease, transform .32s cubic-bezier(.2, .7, .2, 1), visibility 0s; }
     .links { flex-direction: column; align-items: stretch; gap: 0; }
-    .links a { display: block; padding: .85rem .25rem; font-size: 1.05rem; border-bottom: 1px solid var(--c-line); }
-    .nav :global(.lang-switch) { padding-top: .9rem; gap: .5rem; }
-    .nav :global(.lang-switch .chip) { font-size: .9rem; padding: .4em .9em; }
-    .is-open .links a { animation: nav-in .3s ease both; }
-    .is-open .links a:nth-child(2) { animation-delay: .05s; }
-    .is-open .links a:nth-child(3) { animation-delay: .1s; }
-    .is-open .nav :global(.lang-switch) { animation: nav-in .3s ease both; animation-delay: .15s; }
+    .links a { display: flex; align-items: center; justify-content: space-between; padding: 1.1rem .25rem; font-size: 1.45rem; font-weight: 700; font-family: var(--font-head); border-bottom: 1px solid var(--c-line); }
+    .links a::after { content: '→'; color: var(--c-primary-deep); font-weight: 500; font-size: 1.1rem; }
+    .nav :global(.lang-switch) { padding-top: 1.4rem; gap: .6rem; flex-wrap: wrap; }
+    .nav :global(.lang-switch .chip) { font-size: 1rem; padding: .55em 1.1em; }
+    /* 열릴 때 항목이 위에서 차례로 들어온다 */
+    .links a, .nav :global(.lang-switch) { opacity: 0; transform: translateY(14px); }
+    .is-open .links a, .is-open .nav :global(.lang-switch) { animation: nav-in .42s cubic-bezier(.2, .7, .2, 1) both; }
+    .is-open .links a:nth-child(1) { animation-delay: .08s; }
+    .is-open .links a:nth-child(2) { animation-delay: .16s; }
+    .is-open .links a:nth-child(3) { animation-delay: .24s; }
+    .is-open .nav :global(.lang-switch) { animation-delay: .34s; }
   }
-  @keyframes nav-in { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+  @keyframes nav-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
   @media (prefers-reduced-motion: reduce) {
-    .nav, .nav-toggle .bar, .is-open .links a, .is-open .nav :global(.lang-switch) { transition: none; animation: none; }
+    .nav, .nav-toggle .bar { transition: none; }
+    .links a, .nav :global(.lang-switch) { opacity: 1; transform: none; }
+    .is-open .links a, .is-open .nav :global(.lang-switch) { animation: none; }
   }
 </style>
