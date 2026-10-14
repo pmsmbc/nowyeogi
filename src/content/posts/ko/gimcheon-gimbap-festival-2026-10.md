@@ -80,6 +80,15 @@ glance:
   - { label: "주차", value: "자가용은 김천종합스포츠타운에 세우고 셔틀 환승 · 외부 주차장은 공식 공지 확인" }
   - { label: "추천 시기", value: "금요일 개장 시간(지난해 첫날 정오 전 품절 부스 발생) · 메인 공연은 매일 16:00" }
   - { label: "문의", value: "김천시 054-420-6714 · 공식 사이트 gimbapcity.kr", url: "https://gimbapcity.kr/" }
+events:
+  - name: "2026 김천김밥축제"
+    startDate: "2026-10-23T10:00+09:00"
+    endDate: "2026-10-25T18:00+09:00"
+    location: "직지문화공원 일원"
+    address: "경북 김천시 대항면 직지사길 118"
+    url: "https://gimbapcity.kr/"
+    price: 0
+    organizer: "김천시"
 draft: false
 ---
 

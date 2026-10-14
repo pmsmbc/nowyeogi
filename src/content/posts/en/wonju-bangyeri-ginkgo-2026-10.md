@@ -63,6 +63,14 @@ glance:
   - { label: "Getting there", value: "Bus to Munmak-eup Community Service Center, then community bus No. 1; 8 extra weekend trips 17 Oct–8 Nov" }
   - { label: "Parking", value: "170 plaza spaces, temporary lots planned to reach around 500; arrive before 9 am on peak weekends" }
   - { label: "Contact", value: "Wonju tourist information 033-742-2111" }
+events:
+  - name: "Bangyeri Ginkgo Festival 2026, Wonju"
+    startDate: "2026-10-26"
+    endDate: "2026-11-08"
+    location: "Bangyeri Ginkgo Tree plaza"
+    address: "1495-1 Bangye-ri, Munmak-eup, Wonju-si, Gangwon State"
+    url: "https://www.wonju.go.kr/tour/"
+    price: 0
 draft: false
 ---
 

@@ -64,6 +64,14 @@ glance:
   - { label: "駐車場", value: "無料、第1駐車場3,178台（계룡대로 734）など · 第1正門前は進入禁止、ナビは駐車場の住所に" }
   - { label: "おすすめ時期", value: "ブラックイーグルスは10月3日（土）16:30〜16:40の1回だけ · 搭乗体験は午前 · 高高度降下は14:40" }
   - { label: "問い合わせ", value: "プログラム042-550-5311 · 交通042-550-5333（韓国語） · armyfest.or.kr", url: "https://armyfest.or.kr" }
+events:
+  - name: "2026 地上軍フェスティバル・鶏龍軍文化祭"
+    startDate: "2026-10-01T09:00+09:00"
+    endDate: "2026-10-05T17:00+09:00"
+    location: "鶏龍台 滑走路一帯"
+    address: "忠清南道 鶏龍市 神都案面 石渓里"
+    url: "https://armyfest.or.kr"
+    price: 0
 draft: false
 ---
 

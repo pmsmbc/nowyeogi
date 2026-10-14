@@ -79,6 +79,14 @@ glance:
   - { label: "교통", value: "2호선·8호선 잠실역에서 지하로 바로 연결, 3·4번 출구 방향" }
   - { label: "주의", value: "10월 16일(금) 전체 대관으로 일반 입장 제한 · 기묘한 악몽은 만 13세 이상, 매직패스 불가", url: "https://adventure.lotteworld.com/communication/notice/detail?notiSeq=721" }
   - { label: "문의", value: "대표전화 1661-2000 · 공연 문의 02-411-4339(12:00~20:00)" }
+events:
+  - name: "롯데월드 어드벤처 가을 축제 '기묘한 세계의 초대'"
+    startDate: "2026-09-12"
+    endDate: "2026-11-15"
+    location: "롯데월드 어드벤처"
+    address: "서울특별시 송파구 올림픽로 240"
+    url: "https://adventure.lotteworld.com/enjoy/performance/list"
+    price: 67000
 draft: false
 ---
 

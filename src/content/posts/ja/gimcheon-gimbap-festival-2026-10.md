@@ -80,6 +80,15 @@ glance:
   - { label: "駐車場", value: "マイカーは金泉総合スポーツタウンに停めてシャトルに乗り換え · 外部駐車場は公式サイトで確認" }
   - { label: "おすすめ時期", value: "金曜の開場時間（2025年は初日正午前に売り切れたブースあり） · メイン公演は毎日16:00" }
   - { label: "問い合わせ", value: "金泉市 +82-54-420-6714 · 公式サイト gimbapcity.kr（韓国語）", url: "https://gimbapcity.kr/" }
+events:
+  - name: "2026 金泉キンパ祭り"
+    startDate: "2026-10-23T10:00+09:00"
+    endDate: "2026-10-25T18:00+09:00"
+    location: "直指文化公園一帯"
+    address: "慶尚北道 金泉市 大項面 直指寺キル 118"
+    url: "https://gimbapcity.kr/"
+    price: 0
+    organizer: "金泉市"
 draft: false
 ---
 

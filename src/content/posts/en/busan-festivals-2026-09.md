@@ -73,6 +73,32 @@ glance:
   - { label: "Fireworks", value: "Saturday 7 November, 19:00–20:00, beach standing zones free" }
   - { label: "Getting there", value: "Centum City, Gwangan or Geumnyeonsan Station (Line 2) · museum by bus from Hadan Station (Line 1)" }
   - { label: "Official info", value: "Busan International Film Festival (tickets at biff.kr only)", url: "https://www.biff.kr/eng/" }
+events:
+  - name: "31st Busan International Film Festival"
+    startDate: "2026-10-06"
+    endDate: "2026-10-15"
+    location: "Busan Cinema Center"
+    address: "120 Suyeonggangbyeon-daero, Haeundae-gu, Busan"
+    url: "https://www.biff.kr/eng/"
+  - name: "Busan International Rock Festival 2026"
+    startDate: "2026-10-02"
+    endDate: "2026-10-04"
+    location: "Samnak Ecological Park"
+    address: "29-46 Samnak-dong, Sasang-gu, Busan"
+    url: "https://busanrockfestival.com/"
+  - name: "Busan Biennale 2026"
+    startDate: "2026-08-29"
+    endDate: "2026-11-01"
+    location: "Museum of Contemporary Art Busan"
+    address: "1191 Nakdongnam-ro, Saha-gu, Busan"
+    url: "http://www.busan.go.kr/moca/"
+    price: 0
+  - name: "21st Busan Fireworks Festival"
+    startDate: "2026-11-07T19:00+09:00"
+    endDate: "2026-11-07T20:00+09:00"
+    location: "Gwangalli Beach"
+    address: "219 Gwangan-haebyeon-ro, Suyeong-gu, Busan"
+    price: 0
 draft: false
 ---
 

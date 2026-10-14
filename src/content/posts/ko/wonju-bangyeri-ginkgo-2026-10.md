@@ -63,6 +63,14 @@ glance:
   - { label: "교통", value: "문막읍행정복지센터까지 버스 후 공영버스 1번 환승 · 10/17~11/8 주말·공휴일 왕복 8회 증차" }
   - { label: "주차", value: "광장 주차장 170면, 축제 기간 임시주차장 포함 500면대 계획 · 절정기 주말은 9시 전 도착" }
   - { label: "문의", value: "원주 관광 문의 033-742-2111" }
+events:
+  - name: "2026 원주 반계리 은행나무 축제"
+    startDate: "2026-10-26"
+    endDate: "2026-11-08"
+    location: "반계리 은행나무광장"
+    address: "강원특별자치도 원주시 문막읍 반계리 1495-1"
+    url: "https://www.wonju.go.kr/tour/"
+    price: 0
 draft: false
 ---
 

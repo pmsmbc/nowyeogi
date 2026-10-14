@@ -79,6 +79,14 @@ glance:
   - { label: "Getting there", value: "Jamsil Station (Lines 2 and 8), direct underground link, follow signs for exits 3 and 4" }
   - { label: "Watch out", value: "Closed to the public Friday 16 October (private event); Strange Nightmare is 13+, not on Magic Pass", url: "https://adventure.lotteworld.com/communication/notice/detail?notiSeq=721" }
   - { label: "Contact", value: "Call centre 1661-2000 (Korean) · show enquiries 02-411-4339 (12:00–20:00)" }
+events:
+  - name: "Lotte World Adventure autumn festival 'Welcome to Another World'"
+    startDate: "2026-09-12"
+    endDate: "2026-11-15"
+    location: "Lotte World Adventure"
+    address: "240 Olympic-ro, Songpa-gu, Seoul"
+    url: "https://adventure.lotteworld.com/enjoy/performance/list"
+    price: 67000
 draft: false
 ---
 

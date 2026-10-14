@@ -128,6 +128,34 @@ glance:
   - { label: "Best time", value: "Weekdays 12–16 October are quieter: holidays over, Jinju lanterns and BIFF still running" }
   - { label: "Watch out", value: "The Seoul fireworks already happened on 5 September; remaining fireworks are Yeosu (31 Oct) and Busan (7 Nov)" }
   - { label: "Booking", value: "Book holiday-weekend trains and regional hotels early; SRT merged into KTX on 1 September, book on Korail" }
+events:
+  - name: "Jinju Namgang Yudeung (Lantern) Festival"
+    startDate: "2026-10-03"
+    endDate: "2026-10-18"
+    location: "Jinju Fortress and the Namgang River"
+    address: "626 Namgang-ro, Jinju, Gyeongsangnam-do"
+    url: "https://yudeung.com/"
+    price: 0
+  - name: "Andong International Mask Dance Festival"
+    startDate: "2026-09-24"
+    endDate: "2026-10-04"
+    location: "Maskdance Park, Jungangseon 1942 Andong Station and the old town"
+    address: "239 Yuksa-ro, Andong, Gyeongsangbuk-do"
+    url: "https://www.maskdance.com/"
+    price: 0
+  - name: "31st Busan International Film Festival"
+    startDate: "2026-10-06"
+    endDate: "2026-10-15"
+    location: "Busan Cinema Center"
+    address: "120 Suyeonggangbyeon-daero, Haeundae-gu, Busan"
+    url: "https://www.biff.kr/eng/"
+    price: 10000
+  - name: "Royal Culture Festival, autumn 2026"
+    startDate: "2026-10-07"
+    endDate: "2026-10-11"
+    location: "Gyeongbokgung and the other Seoul palaces and Jongmyo"
+    address: "161 Sajik-ro, Jongno-gu, Seoul"
+    url: "https://www.kh.or.kr/fest"
 draft: false
 ---
 

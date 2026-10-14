@@ -73,6 +73,32 @@ glance:
   - { label: "花火祭り", value: "11月7日（土）19:00〜20:00、浜の立ち見エリアは無料" }
   - { label: "アクセス", value: "センタムシティ駅・広安駅・金蓮山駅（2号線） · 美術館は下端駅（1号線）からバス" }
   - { label: "公式案内", value: "釜山国際映画祭 公式（チケットは biff.kr のみ）", url: "https://www.biff.kr/eng/" }
+events:
+  - name: "第31回 釜山国際映画祭"
+    startDate: "2026-10-06"
+    endDate: "2026-10-15"
+    location: "映画の殿堂（釜山シネマセンター）"
+    address: "釜山広域市海雲台区水営江辺大路120"
+    url: "https://www.biff.kr/eng/"
+  - name: "2026 釜山国際ロックフェスティバル"
+    startDate: "2026-10-02"
+    endDate: "2026-10-04"
+    location: "三楽生態公園"
+    address: "釜山広域市沙上区三楽洞29-46"
+    url: "https://busanrockfestival.com/"
+  - name: "2026 釜山ビエンナーレ"
+    startDate: "2026-08-29"
+    endDate: "2026-11-01"
+    location: "釜山現代美術館"
+    address: "釜山広域市沙下区洛東南路1191"
+    url: "http://www.busan.go.kr/moca/"
+    price: 0
+  - name: "第21回釜山花火祭り"
+    startDate: "2026-11-07T19:00+09:00"
+    endDate: "2026-11-07T20:00+09:00"
+    location: "広安里ビーチ"
+    address: "釜山広域市水営区広安海辺路219"
+    price: 0
 draft: false
 ---
 

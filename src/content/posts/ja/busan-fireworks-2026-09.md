@@ -54,6 +54,15 @@ glance:
   - { label: "時間", value: "有料席の入場は15:00から、18:00までに到着できないと入場・払い戻し不可" }
   - { label: "アクセス", value: "広安駅・金蓮山駅（2号線）から徒歩 · 西面・海雲台から約12分" }
   - { label: "問い合わせ", value: "051-713-5000 · 釜山花火祭り 公式チケット予約案内", url: "https://www.busanfireworks.com/reservation" }
+events:
+  - name: "第21回釜山花火祭り"
+    startDate: "2026-11-07T19:00+09:00"
+    endDate: "2026-11-07T20:00+09:00"
+    location: "広安里海水浴場"
+    address: "釜山広域市 水営区 広安海辺路 219"
+    url: "https://www.busanfireworks.com/reservation"
+    price: 0
+    organizer: "釜山広域市・（社）釜山祭り組織委員会"
 draft: false
 ---
 

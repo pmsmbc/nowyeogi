@@ -128,6 +128,34 @@ glance:
   - { label: "おすすめ時期", value: "10月12〜16日の平日は連休明けで人出が落ち着く、晋州の流灯と釜山の映画祭は開催中" }
   - { label: "注意", value: "ソウル世界花火祭りは9月5日に終了済み · 残る花火は麗水10月31日、釜山11月7日" }
   - { label: "予約", value: "連休（10/3〜5、9〜11）の列車と地方の宿は早めに · SRTは9月1日からKTXに編入、予約はKORAILで" }
+events:
+  - name: "晋州南江流灯祭り"
+    startDate: "2026-10-03"
+    endDate: "2026-10-18"
+    location: "晋州城・南江一帯"
+    address: "慶尚南道 晋州市 南江路626"
+    url: "https://yudeung.com/"
+    price: 0
+  - name: "安東国際仮面劇フェスティバル"
+    startDate: "2026-09-24"
+    endDate: "2026-10-04"
+    location: "タルチュム公園・中央線1942安東駅・旧市街"
+    address: "慶尚北道 安東市 陸士路239"
+    url: "https://www.maskdance.com/"
+    price: 0
+  - name: "第31回 釜山国際映画祭"
+    startDate: "2026-10-06"
+    endDate: "2026-10-15"
+    location: "映画の殿堂"
+    address: "釜山 海雲台区 水営江辺大路120"
+    url: "https://www.biff.kr/eng/"
+    price: 10000
+  - name: "2026 秋 宮中文化祝典"
+    startDate: "2026-10-07"
+    endDate: "2026-10-11"
+    location: "景福宮ほか昌徳宮・徳寿宮・昌慶宮・宗廟"
+    address: "ソウル 鍾路区 社稷路161"
+    url: "https://www.kh.or.kr/fest"
 draft: false
 ---
 

@@ -80,6 +80,15 @@ glance:
   - { label: "Parking", value: "Park-and-ride at Gimcheon Sports Town; outer car parks not yet announced, check the official site" }
   - { label: "Best time", value: "Friday at opening (stalls sold out before noon on day one in 2025); main concert 16:00 daily" }
   - { label: "Contact", value: "Gimcheon City +82-54-420-6714 · gimbapcity.kr (Korean)", url: "https://gimbapcity.kr/" }
+events:
+  - name: "Gimcheon Gimbap Festival 2026"
+    startDate: "2026-10-23T10:00+09:00"
+    endDate: "2026-10-25T18:00+09:00"
+    location: "Jikji Culture Park area"
+    address: "118 Jikjisa-gil, Daehang-myeon, Gimcheon, Gyeongsangbuk-do"
+    url: "https://gimbapcity.kr/"
+    price: 0
+    organizer: "Gimcheon City"
 draft: false
 ---
 

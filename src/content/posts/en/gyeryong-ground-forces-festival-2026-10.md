@@ -64,6 +64,14 @@ glance:
   - { label: "Parking", value: "Free; Car Park 1 has 3,178 spaces (734 Gyeryongdae-ro); Gate 1 road closed, navigate to a car park" }
   - { label: "Best time", value: "Black Eagles Sat 3 October 16:30–16:40 only · vehicle rides in the morning · freefall at 14:40" }
   - { label: "Contact", value: "Programme +82-42-550-5311 · transport +82-42-550-5333 (Korean) · armyfest.or.kr", url: "https://armyfest.or.kr" }
+events:
+  - name: "2026 Ground Forces Festival & Gyeryong Military Culture Festival"
+    startDate: "2026-10-01T09:00+09:00"
+    endDate: "2026-10-05T17:00+09:00"
+    location: "Gyeryongdae runway"
+    address: "Seokgye-ri, Sindoan-myeon, Gyeryong-si, Chungcheongnam-do"
+    url: "https://armyfest.or.kr"
+    price: 0
 draft: false
 ---
 

@@ -61,6 +61,14 @@ glance:
   - { label: "교통", value: "1호선 종각역 5번 출구에서 도보 약 2분 · 공항철도 직통열차 이용 시 서울역·인천공항 스탬프도 가능" }
   - { label: "스탬프랠리", value: "스탬프 2개 이상 모으면 포켓몬 30주년 스티커, 1층 안내센터 앞에서 수령 · 건물 안에만 3곳" }
   - { label: "주의", value: "평소 2~4층은 월요일 휴관이라 월요일 운영 여부 확인 · 혼잡하면 입장 제한 가능" }
+events:
+  - name: "피카츄의 가을 나들이"
+    startDate: "2026-09-18"
+    endDate: "2026-10-11"
+    location: "하이커 그라운드 (한국관광공사 서울센터)"
+    address: "서울특별시 중구 청계천로 40"
+    url: "https://pokemonkorea.co.kr/pikachu_9/menu811"
+    price: 0
 draft: false
 ---
 

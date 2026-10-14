@@ -54,6 +54,15 @@ glance:
   - { label: "시간", value: "유료석 입장 15:00부터, 18:00까지 도착 못 하면 입장·환불 불가" }
   - { label: "교통", value: "2호선 광안역·금련산역 도보 · 서면·해운대에서 약 12분" }
   - { label: "문의", value: "051-713-5000 · 부산불꽃축제 공식 예매 안내", url: "https://www.busanfireworks.com/reservation" }
+events:
+  - name: "제21회 부산불꽃축제"
+    startDate: "2026-11-07T19:00+09:00"
+    endDate: "2026-11-07T20:00+09:00"
+    location: "광안리해수욕장"
+    address: "부산광역시 수영구 광안해변로 219"
+    url: "https://www.busanfireworks.com/reservation"
+    price: 0
+    organizer: "부산광역시·(사)부산축제조직위원회"
 draft: false
 ---
 

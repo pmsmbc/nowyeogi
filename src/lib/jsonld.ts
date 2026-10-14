@@ -7,6 +7,7 @@ import { localePath } from './postUtils';
  * 2026-10-13 SEO 감사: author 가 브랜드명 Person 이고 publisher 에 url/logo 가 없어 E-E-A-T 신호가 약했다.
  */
 export const BASE = siteConfig.url.replace(/\/$/, '');
+export const BCP47: Record<Lang, string> = { ko: 'ko-KR', en: 'en-US', ja: 'ja-JP' };
 export const ORG_ID = `${BASE}/#organization`;
 
 export function organizationJsonLd(lang: Lang) {
@@ -46,4 +47,44 @@ export function editorJsonLd(lang: Lang) {
 
 export function editorRef(lang: Lang) {
   return { '@type': 'Person', '@id': EDITOR_ID, name: siteConfig.author[lang], url: `${BASE}${localePath(lang, '/about/')}#editor` };
+}
+
+/** 축제·행사 글의 Event JSON-LD. 글의 frontmatter `events` 한 항목을 schema.org Event 로 바꾼다. */
+export function eventJsonLd(
+  ev: { name: string; startDate: string; endDate?: string; location: string; address: string; url?: string; price?: number; organizer?: string; status: string },
+  opts: { lang: Lang; description: string; image: string; pageUrl: string },
+) {
+  const STATUS: Record<string, string> = {
+    scheduled: 'https://schema.org/EventScheduled',
+    cancelled: 'https://schema.org/EventCancelled',
+    postponed: 'https://schema.org/EventPostponed',
+    rescheduled: 'https://schema.org/EventRescheduled',
+  };
+  return {
+    '@type': 'Event',
+    name: ev.name,
+    description: opts.description,
+    image: opts.image,
+    inLanguage: BCP47[opts.lang],
+    startDate: ev.startDate,
+    ...(ev.endDate && { endDate: ev.endDate }),
+    eventStatus: STATUS[ev.status] ?? STATUS.scheduled,
+    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+    location: {
+      '@type': 'Place',
+      name: ev.location,
+      address: { '@type': 'PostalAddress', streetAddress: ev.address, addressCountry: 'KR' },
+    },
+    url: ev.url ?? opts.pageUrl,
+    ...(ev.price !== undefined && {
+      offers: {
+        '@type': 'Offer',
+        price: ev.price,
+        priceCurrency: 'KRW',
+        url: ev.url ?? opts.pageUrl,
+        availability: 'https://schema.org/InStock',
+      },
+    }),
+    ...(ev.organizer && { organizer: { '@type': 'Organization', name: ev.organizer } }),
+  };
 }

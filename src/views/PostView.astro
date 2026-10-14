@@ -10,7 +10,7 @@ import { getPosts, getTranslations, postPath, type Post } from '../lib/posts';
 import { pickRelated, localePath } from '../lib/postUtils';
 import { regionName } from '../data/regions';
 import { t, formatDate, type UiKey } from '../i18n/ui';
-import { organizationJsonLd, organizationRef, editorJsonLd, editorRef } from '../lib/jsonld';
+import { organizationJsonLd, organizationRef, editorJsonLd, editorRef, eventJsonLd } from '../lib/jsonld';
 
 interface Props { lang: Lang; post: Post }
 const { lang, post } = Astro.props;
@@ -22,6 +22,7 @@ const related = pickRelated(await getPosts(lang), post, 3);
 const cover = post.data.images.find((i) => i.src === post.data.cover);
 const BCP47: Record<Lang, string> = { ko: 'ko-KR', en: 'en-US', ja: 'ja-JP' };
 const base = siteConfig.url.replace(/\/$/, '');
+const pageUrl = `${base}${postPath(post)}`;
 const foodPlaces = post.data.places.filter((p) => p.kind === 'restaurant' || p.kind === 'cafe');
 
 const jsonLd = [
@@ -47,6 +48,11 @@ const jsonLd = [
       })),
     }),
   },
+  // 축제·행사 글: frontmatter events → Event 구조화 데이터(글에 확인된 사실만)
+  ...post.data.events.map((ev) => ({
+    '@context': 'https://schema.org',
+    ...eventJsonLd(ev, { lang, description: post.data.description, image: `${base}${post.data.cover}`, pageUrl }),
+  })),
   { '@context': 'https://schema.org', ...organizationJsonLd(lang) },
   { '@context': 'https://schema.org', ...editorJsonLd(lang) },
   {

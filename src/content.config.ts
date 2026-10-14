@@ -30,6 +30,19 @@ const glanceRow = z.object({
   url: z.string().url().optional(),
 });
 
+// 축제·행사 글의 Event 구조화 데이터. 글 본문에 확인된 사실만 넣는다. 날짜는 ISO(YYYY-MM-DD 또는 YYYY-MM-DDTHH:MM+09:00).
+const event = z.object({
+  name: z.string(),
+  startDate: z.string(),
+  endDate: z.string().optional(),
+  location: z.string(),
+  address: z.string(),
+  url: z.string().url().optional(),
+  price: z.number().nonnegative().optional(),
+  organizer: z.string().optional(),
+  status: z.enum(['scheduled', 'cancelled', 'postponed', 'rescheduled']).default('scheduled'),
+});
+
 const posts = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/posts' }),
   schema: z.object({
@@ -47,6 +60,7 @@ const posts = defineCollection({
     tags: z.array(z.string()).default([]),
     places: z.array(place).default([]),
     glance: z.array(glanceRow).default([]),
+    events: z.array(event).default([]),
     sources: z.array(z.object({ title: z.string().optional(), url: z.string().url().optional() })).default([]),
     draft: z.boolean().default(false),
   }),

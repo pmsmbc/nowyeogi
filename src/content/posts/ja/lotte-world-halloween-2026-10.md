@@ -79,6 +79,14 @@ glance:
   - { label: "アクセス", value: "2号線・8号線 蚕室駅から地下で直結、3・4番出口方面へ" }
   - { label: "注意", value: "10月16日（金）は全館貸切で一般入場不可 · 奇妙な悪夢は満13歳以上、マジックパス対象外", url: "https://adventure.lotteworld.com/communication/notice/detail?notiSeq=721" }
   - { label: "問い合わせ", value: "代表電話1661-2000（韓国語） · 公演の問い合わせ02-411-4339（12:00〜20:00）" }
+events:
+  - name: "ロッテワールド・アドベンチャー秋祭り「奇妙な世界への招待」"
+    startDate: "2026-09-12"
+    endDate: "2026-11-15"
+    location: "ロッテワールド・アドベンチャー"
+    address: "ソウル特別市 松坡区 オリンピック路240"
+    url: "https://adventure.lotteworld.com/enjoy/performance/list"
+    price: 67000
 draft: false
 ---
 

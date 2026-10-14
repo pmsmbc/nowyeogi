@@ -128,6 +128,34 @@ glance:
   - { label: "추천 시기", value: "10월 12~16일 평일은 연휴 뒤라 덜 붐빔, 진주 유등과 부산영화제는 진행 중" }
   - { label: "주의", value: "서울세계불꽃축제는 9월 5일에 이미 끝남 · 남은 불꽃은 여수 10월 31일, 부산 11월 7일" }
   - { label: "예약", value: "연휴 기차표·지방 숙소는 일찍 · SRT는 9월 1일부터 KTX로 편입, 코레일에서 예매" }
+events:
+  - name: "진주남강유등축제"
+    startDate: "2026-10-03"
+    endDate: "2026-10-18"
+    location: "진주성·남강 일원"
+    address: "경상남도 진주시 남강로 626"
+    url: "https://yudeung.com/"
+    price: 0
+  - name: "안동국제탈춤페스티벌"
+    startDate: "2026-09-24"
+    endDate: "2026-10-04"
+    location: "탈춤공원·중앙선1942안동역·원도심"
+    address: "경상북도 안동시 육사로 239"
+    url: "https://www.maskdance.com/"
+    price: 0
+  - name: "제31회 부산국제영화제"
+    startDate: "2026-10-06"
+    endDate: "2026-10-15"
+    location: "영화의전당"
+    address: "부산 해운대구 수영강변대로 120"
+    url: "https://www.biff.kr/kor/"
+    price: 10000
+  - name: "2026 가을 궁중문화축전"
+    startDate: "2026-10-07"
+    endDate: "2026-10-11"
+    location: "경복궁 외 창덕궁·덕수궁·창경궁·종묘"
+    address: "서울 종로구 사직로 161"
+    url: "https://www.kh.or.kr/fest"
 draft: false
 ---
 

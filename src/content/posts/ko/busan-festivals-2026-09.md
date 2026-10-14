@@ -73,6 +73,32 @@ glance:
   - { label: "불꽃축제", value: "11월 7일(토) 19:00~20:00, 해변 스탠딩존 무료" }
   - { label: "교통", value: "2호선 센텀시티역·광안역·금련산역 · 미술관은 1호선 하단역에서 버스 환승" }
   - { label: "공식 안내", value: "부산국제영화제 공식 홈페이지(예매는 biff.kr에서만)", url: "https://www.biff.kr/kor/" }
+events:
+  - name: "제31회 부산국제영화제"
+    startDate: "2026-10-06"
+    endDate: "2026-10-15"
+    location: "영화의전당"
+    address: "부산 해운대구 수영강변대로 120"
+    url: "https://www.biff.kr/kor/"
+  - name: "2026 부산국제록페스티벌"
+    startDate: "2026-10-02"
+    endDate: "2026-10-04"
+    location: "삼락생태공원"
+    address: "부산 사상구 삼락동 29-46"
+    url: "https://busanrockfestival.com/"
+  - name: "2026부산비엔날레"
+    startDate: "2026-08-29"
+    endDate: "2026-11-01"
+    location: "부산현대미술관"
+    address: "부산 사하구 낙동남로 1191"
+    url: "http://www.busan.go.kr/moca/"
+    price: 0
+  - name: "제21회 부산불꽃축제"
+    startDate: "2026-11-07T19:00+09:00"
+    endDate: "2026-11-07T20:00+09:00"
+    location: "광안리해수욕장"
+    address: "부산 수영구 광안해변로 219"
+    price: 0
 draft: false
 ---
 

@@ -54,6 +54,15 @@ glance:
   - { label: "Hours", value: "Paid-seat entry from 15:00; not in your seat by 18:00 means no entry, no refund" }
   - { label: "Getting there", value: "Walk from Gwangan or Geumnyeonsan Station (Line 2) · about 12 min from Seomyeon or Haeundae" }
   - { label: "Contact", value: "051-713-5000 · official ticket booking information", url: "https://www.busanfireworks.com/reservation" }
+events:
+  - name: "21st Busan Fireworks Festival"
+    startDate: "2026-11-07T19:00+09:00"
+    endDate: "2026-11-07T20:00+09:00"
+    location: "Gwangalli Beach"
+    address: "219 Gwanganhaebyeon-ro, Suyeong-gu, Busan"
+    url: "https://www.busanfireworks.com/reservation"
+    price: 0
+    organizer: "Busan Metropolitan City and the Busan Festival Organizing Committee"
 draft: false
 ---
 

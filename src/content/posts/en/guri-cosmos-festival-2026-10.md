@@ -74,6 +74,13 @@ glance:
   - { label: "Parking", value: "About 800 spaces; no temporary car parks announced and 360,000 visitors last year, so take the subway" }
   - { label: "Best time", value: "Morning of 9 October for the flowers; closing night (11 Oct) is busiest after the concert and fireworks" }
   - { label: "Contact", value: "Guri City parks team +82-31-550-2472 (Korean)" }
+events:
+  - name: "2026 Guri Cosmos Festival"
+    startDate: "2026-10-09"
+    endDate: "2026-10-11"
+    location: "Guri Hangang Park"
+    address: "249 Cosmos-gil 14beon-gil, Topyeong-dong, Guri-si, Gyeonggi-do"
+    organizer: "Guri City"
 draft: false
 ---
 

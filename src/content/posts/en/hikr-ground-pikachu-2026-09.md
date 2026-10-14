@@ -61,6 +61,14 @@ glance:
   - { label: "Getting there", value: "Two minutes on foot from Exit 5 of Jonggak Station (Line 1); the AREX express adds airport stamps" }
   - { label: "Stamp rally", value: "Two or more stamps earn a Pokémon 30th-anniversary sticker (1F information centre); three stamps are inside" }
   - { label: "Watch out", value: "2F–4F normally close on Mondays, so check before a Monday visit; entry may be restricted when crowded" }
+events:
+  - name: "Pikachu's Autumn Outing"
+    startDate: "2026-09-18"
+    endDate: "2026-10-11"
+    location: "HiKR Ground (Korea Tourism Organization Seoul Center)"
+    address: "40 Cheonggyecheon-ro, Jung-gu, Seoul"
+    url: "https://pokemonkorea.co.kr/pikachu_9/menu811"
+    price: 0
 draft: false
 ---
 

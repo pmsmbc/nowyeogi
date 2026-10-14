@@ -64,6 +64,14 @@ glance:
   - { label: "주차", value: "1주차장 3,178대(계룡대로 734) 등 무료 · 1정문 앞 도로 진입 차단, 주차장 주소로 내비 설정" }
   - { label: "추천 시기", value: "블랙이글스 10월 3일(토) 16:30~16:40 하루뿐 · 장비 탑승체험은 오전 · 고공강하 14:40" }
   - { label: "문의", value: "프로그램 042-550-5311 · 교통 042-550-5333 · 공식 누리집 armyfest.or.kr", url: "https://armyfest.or.kr" }
+events:
+  - name: "2026 지상군페스티벌 · 계룡軍문화축제"
+    startDate: "2026-10-01T09:00+09:00"
+    endDate: "2026-10-05T17:00+09:00"
+    location: "계룡대 활주로 일원"
+    address: "충청남도 계룡시 신도안면 석계리"
+    url: "https://armyfest.or.kr"
+    price: 0
 draft: false
 ---
 
