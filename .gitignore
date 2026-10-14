@@ -11,3 +11,6 @@ public/robots.txt
 .superpowers/
 이미지/
 .claude/worktrees/
+# 빌드 때 만드는 반응형 이미지 축소판 (scripts/lib/image-variants.mjs)
+public/images/**/*-w[0-9]*.webp
+public/brand/*-w[0-9]*.webp

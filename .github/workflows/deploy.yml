@@ -24,6 +24,13 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # 반응형 이미지 축소판(-w480/-w800/-w1200)은 git 에 없고 prebuild 가 만든다(약 2분). 원본이 바뀌지 않으면 캐시를 쓴다.
+      - uses: actions/cache@v4
+        with:
+          path: |
+            public/images/**/*-w[0-9]*.webp
+            public/brand/*-w[0-9]*.webp
+          key: image-variants-${{ hashFiles('public/images/**/*.webp', 'public/brand/hero*.webp', 'scripts/lib/image-variants.mjs') }}
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:

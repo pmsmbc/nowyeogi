@@ -19,6 +19,9 @@ const lastmodFor = sitemapLastmod(postsRoot);
 
 export default defineConfig({
   site: siteConfig.url,
+  // CSS(글꼴 선언 포함 ~17KB gzip)를 HTML 에 넣어 렌더링을 막는 요청 하나를 없앤다(2026-10-14 모바일 FCP 대응).
+  // GitHub Pages 캐시가 10분이라 외부 CSS 캐시 이점이 거의 없다.
+  build: { inlineStylesheets: 'always' },
   i18n: {
     defaultLocale: 'ko',
     locales: ['ko', 'en', 'ja'],

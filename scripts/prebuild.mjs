@@ -53,3 +53,7 @@ for (const cache of caches) {
     console.log(`prebuild: 렌더 캐시 삭제 (${cache.replace(root + '/', '')}) — 플러그인/데이터가 변경됨`);
   }
 }
+
+// 반응형 이미지 축소판(-w480/-w800/-w1200). src/lib/responsive.mjs 가 존재하는 것만 srcset 에 넣는다.
+import { generateVariants } from './lib/image-variants.mjs';
+await generateVariants(root);

@@ -1,5 +1,6 @@
 import { visit } from 'unist-util-visit';
 import { langFromPath } from './lang.mjs';
+import { responsiveAttrs, SIZES_ARTICLE } from '../responsive.mjs';
 
 const LABELS = {
   ko: { credit: '사진', newWindow: '새 창에서 열림' },
@@ -25,6 +26,9 @@ export function rehypeFigures() {
         img.properties.width = meta.width;
         img.properties.height = meta.height;
       }
+      // 반응형 축소판(srcset). 축소판이 없으면(개발 서버) 원본만 쓴다.
+      const r = responsiveAttrs(img.properties.src, { width: meta?.width, sizes: SIZES_ARTICLE });
+      if (r.srcset) { img.properties.srcSet = r.srcset; img.properties.sizes = r.sizes; }
       const alt = String(img.properties.alt ?? '').trim();
       const children = [img];
       const cap = [];

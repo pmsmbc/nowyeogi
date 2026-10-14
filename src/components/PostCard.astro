@@ -4,15 +4,17 @@ import type { Post } from '../lib/posts';
 import { postPath } from '../lib/posts';
 import { t, formatDate, type UiKey } from '../i18n/ui';
 import { regionName } from '../data/regions';
+import { responsiveAttrs, SIZES_CARD } from '../lib/responsive.mjs';
 
 interface Props { post: Post; lang: Lang; eager?: boolean; headingLevel?: 2 | 3 }
 const { post, lang, eager = false, headingLevel = 3 } = Astro.props;
 const Heading = `h${headingLevel}` as 'h2' | 'h3';
 const cover = post.data.images.find((i) => i.src === post.data.cover);
+const coverAttrs = responsiveAttrs(post.data.cover, { width: cover?.width, sizes: SIZES_CARD });
 ---
 <article class="card">
   <a href={postPath(post)} class="cover">
-    <img src={post.data.cover} alt={cover?.alt ?? ''} width={cover?.width ?? 1600} height={cover?.height ?? 1000} loading={eager ? 'eager' : 'lazy'} decoding="async" />
+    <img {...coverAttrs} alt={cover?.alt ?? ''} width={cover?.width ?? 1600} height={cover?.height ?? 1000} loading={eager ? 'eager' : 'lazy'} decoding="async" />
   </a>
   <div class="body">
     <div class="meta">

@@ -11,6 +11,7 @@ import { pickRelated, localePath } from '../lib/postUtils';
 import { regionName } from '../data/regions';
 import { t, formatDate, type UiKey } from '../i18n/ui';
 import { organizationJsonLd, organizationRef, editorJsonLd, editorRef, eventJsonLd } from '../lib/jsonld';
+import { responsiveAttrs, SIZES_ARTICLE } from '../lib/responsive.mjs';
 
 interface Props { lang: Lang; post: Post }
 const { lang, post } = Astro.props;
@@ -20,6 +21,7 @@ const alternates: Partial<Record<Lang, string>> = { [lang]: postPath(post) };
 for (const [other, p] of Object.entries(translations)) alternates[other as Lang] = postPath(p);
 const related = pickRelated(await getPosts(lang), post, 3);
 const cover = post.data.images.find((i) => i.src === post.data.cover);
+const coverAttrs = responsiveAttrs(post.data.cover, { width: cover?.width, sizes: SIZES_ARTICLE });
 const BCP47: Record<Lang, string> = { ko: 'ko-KR', en: 'en-US', ja: 'ja-JP' };
 const base = siteConfig.url.replace(/\/$/, '');
 const pageUrl = `${base}${postPath(post)}`;
@@ -81,7 +83,7 @@ const jsonLd = [
     </header>
 
     <figure class="cover">
-      <img src={post.data.cover} alt={cover?.alt ?? ''} width={cover?.width ?? 1600} height={cover?.height ?? 1000} loading="eager" fetchpriority="high" />
+      <img {...coverAttrs} alt={cover?.alt ?? ''} width={cover?.width ?? 1600} height={cover?.height ?? 1000} loading="eager" fetchpriority="high" decoding="async" />
     </figure>
 
     {post.data.glance.length > 0 && <GlanceTable rows={post.data.glance} lang={lang} />}

@@ -10,6 +10,7 @@ import { t } from '../i18n/ui';
 import { localePath } from '../lib/postUtils';
 import { organizationJsonLd, ORG_ID } from '../lib/jsonld';
 import { resolveHubs } from '../lib/hubs';
+import { responsiveAttrs } from '../lib/responsive.mjs';
 
 interface Props { lang: Lang }
 const { lang } = Astro.props;
@@ -20,6 +21,8 @@ const hubs = resolveHubs(lang, posts);
 const regionKeys = [...new Set(posts.map((p) => p.data.region))];
 // 한/영 상단 이미지는 brand-assets.mjs 에서 같은 캔버스(1200x1314)로 생성하고, 표시 폭(최대 400px)에 맞춰 800px 로 줄여 둔다
 const heroSrc = lang === 'ko' ? '/brand/hero.webp' : '/brand/hero-en.webp';
+// 모바일 220px·데스크톱 400px 표시이므로 480/800 축소판이면 충분하다
+const heroAttrs = responsiveAttrs(heroSrc, { width: 800, sizes: '(max-width: 760px) 220px, 400px' });
 
 // 구글 검색 결과의 "사이트 이름" 신호. 구글은 도메인당 이름 하나만 고르고 /en/, /ja/ 같은
 // 하위 경로에는 따로 주지 않으므로, 세 홈 모두 같은 마크업을 넣고 한국어 이름을 name 으로,
@@ -45,7 +48,7 @@ const jsonLd = [
         <h1>{siteConfig.name[lang]}</h1>
         <p class="tagline">{siteConfig.tagline[lang]}</p>
       </div>
-      <img class="hero-art" src={heroSrc} alt={siteConfig.name[lang]} width="800" height="876" loading="eager" fetchpriority="high" />
+      <img class="hero-art" {...heroAttrs} alt={siteConfig.name[lang]} width="800" height="876" loading="eager" fetchpriority="high" />
     </div>
   </section>
 
