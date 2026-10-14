@@ -14,31 +14,84 @@ const nav = [
   { href: localePath(lang, '/search/'), label: t(lang, 'nav.search') },
 ];
 ---
-<header class="site-header">
+<header class="site-header" data-header>
   <div class="container row">
     <a class="logo" href={localePath(lang, '/')}>
       <img src="/brand/logo-mark-72.webp" alt="" width="36" height="36" />
       {siteConfig.name[lang]}
     </a>
-    <nav aria-label={t(lang, 'a11y.mainNav')}>
-      {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+    {/* 640px 이하에서만 보이는 햄버거 버튼. 메뉴 글자가 두 줄로 떨어지던 문제 대응(2026-10-14) */}
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label={t(lang, 'a11y.menuOpen')} data-nav-toggle data-label-open={t(lang, 'a11y.menuOpen')} data-label-close={t(lang, 'a11y.menuClose')}>
+      <span class="bar" aria-hidden="true"></span>
+      <span class="bar" aria-hidden="true"></span>
+      <span class="bar" aria-hidden="true"></span>
+    </button>
+    <nav id="site-nav" class="nav" aria-label={t(lang, 'a11y.mainNav')} data-nav>
+      <div class="links">
+        {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+      </div>
       <LangSwitch lang={lang} alternates={alternates} />
     </nav>
   </div>
 </header>
+<script is:inline>
+  (function () {
+    var header = document.querySelector('[data-header]');
+    var btn = header && header.querySelector('[data-nav-toggle]');
+    var nav = header && header.querySelector('[data-nav]');
+    if (!btn || !nav) return;
+    function setOpen(open) {
+      header.classList.toggle('is-open', open);
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      btn.setAttribute('aria-label', open ? btn.dataset.labelClose : btn.dataset.labelOpen);
+    }
+    btn.addEventListener('click', function () { setOpen(btn.getAttribute('aria-expanded') !== 'true'); });
+    nav.addEventListener('click', function (e) { if (e.target.closest('a')) setOpen(false); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && header.classList.contains('is-open')) { setOpen(false); btn.focus(); } });
+    document.addEventListener('click', function (e) { if (header.classList.contains('is-open') && !header.contains(e.target)) setOpen(false); });
+    // 화면이 넓어지면(데스크톱 메뉴로 전환) 열린 상태를 정리한다
+    var mq = window.matchMedia('(min-width: 641px)');
+    var onChange = function () { if (mq.matches) setOpen(false); };
+    if (mq.addEventListener) mq.addEventListener('change', onChange); else mq.addListener(onChange);
+  })();
+</script>
 <style>
   .site-header { position: sticky; top: 0; z-index: 10; background: rgba(251, 250, 247, .85); backdrop-filter: blur(10px); border-bottom: 1px solid var(--c-line); }
   .row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; height: 64px; }
   .logo { font-family: var(--font-head); font-weight: 700; font-size: 1.25rem; color: var(--c-text); display: flex; align-items: center; gap: .5rem; }
   .logo:hover { text-decoration: none; }
   .logo img { width: 36px; height: 36px; }
-  nav { display: flex; align-items: center; gap: 1.1rem; }
-  nav a { color: var(--c-text); font-weight: 500; }
+  .nav, .links { display: flex; align-items: center; gap: 1.1rem; }
+  .nav a { color: var(--c-text); font-weight: 500; }
   /* 로고와 메뉴 글자가 한 글자씩 쪼개져 내려가지 않게 한다 */
-  .logo, nav a { white-space: nowrap; }
+  .logo, .nav a { white-space: nowrap; }
+  .nav-toggle { display: none; }
+
   @media (max-width: 640px) {
-    .row { height: auto; min-height: 56px; flex-wrap: wrap; row-gap: .2rem; padding-block: .45rem; }
-    nav { gap: .7rem; font-size: .92rem; flex-wrap: wrap; }
+    .site-header { position: sticky; }
+    .row { height: 56px; position: relative; }
     .logo { font-size: 1.05rem; }
+    /* 햄버거 버튼: 44px 터치 영역, 막대 3개가 열리면 X 로 바뀐다 */
+    .nav-toggle { display: inline-flex; flex-direction: column; justify-content: center; gap: 5px; width: 44px; height: 44px; padding: 10px; margin-right: -10px; border: 0; background: transparent; cursor: pointer; border-radius: var(--radius-sm); }
+    .nav-toggle:focus-visible { outline: 3px solid var(--c-primary-darker); outline-offset: 2px; }
+    .nav-toggle .bar { display: block; width: 24px; height: 2px; background: var(--c-text); border-radius: 2px; transition: transform .25s ease, opacity .2s ease; transform-origin: center; }
+    .is-open .nav-toggle .bar:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .is-open .nav-toggle .bar:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .is-open .nav-toggle .bar:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    /* 메뉴 패널: 헤더 바로 아래에서 내려온다 */
+    .nav { position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; align-items: stretch; gap: 0; background: var(--c-surface); border-bottom: 1px solid var(--c-line); box-shadow: 0 12px 24px -12px rgba(0, 0, 0, .18); padding: .4rem 1rem 1rem; opacity: 0; visibility: hidden; transform: translateY(-8px); transition: opacity .22s ease, transform .22s ease, visibility 0s linear .22s; }
+    .is-open .nav { opacity: 1; visibility: visible; transform: none; transition: opacity .22s ease, transform .22s ease, visibility 0s; }
+    .links { flex-direction: column; align-items: stretch; gap: 0; }
+    .links a { display: block; padding: .85rem .25rem; font-size: 1.05rem; border-bottom: 1px solid var(--c-line); }
+    .nav :global(.lang-switch) { padding-top: .9rem; gap: .5rem; }
+    .nav :global(.lang-switch .chip) { font-size: .9rem; padding: .4em .9em; }
+    .is-open .links a { animation: nav-in .3s ease both; }
+    .is-open .links a:nth-child(2) { animation-delay: .05s; }
+    .is-open .links a:nth-child(3) { animation-delay: .1s; }
+    .is-open .nav :global(.lang-switch) { animation: nav-in .3s ease both; animation-delay: .15s; }
+  }
+  @keyframes nav-in { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) {
+    .nav, .nav-toggle .bar, .is-open .links a, .is-open .nav :global(.lang-switch) { transition: none; animation: none; }
   }
 </style>
