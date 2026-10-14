@@ -25,7 +25,7 @@ const strings = {
     </form>
     <p class="small muted hint" data-hint>{t(lang, 'search.hint')}</p>
     <p class="small muted" data-status aria-live="polite"></p>
-    <div class="results" data-results></div>
+    <div class="grid results" data-results></div>
   </section>
 </BaseLayout>
 <script>
@@ -37,7 +37,7 @@ const strings = {
   const status = document.querySelector<HTMLElement>('[data-status]')!;
   const results = document.querySelector<HTMLElement>('[data-results]')!;
   const strings = JSON.parse(form.dataset.strings!) as Record<string, string>;
-  type Item = { u: string; t: string; d: string; g: string[]; r: string; p: string; c: string; w?: number; h?: number };
+  type Item = { u: string; t: string; d: string; g: string[]; r: string; p: string; dt: string; k: string; f: boolean; c: string; w?: number; h?: number };
 
   let items: Item[] | null = null;
   let loading: Promise<Item[]> | null = null;
@@ -49,14 +49,16 @@ const strings = {
 
   function esc(s: string) { return s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]!)); }
 
+  // 홈·목록의 PostCard 와 같은 구조·모양으로 그린다(스타일은 아래 .card 에 복제)
   function render(list: Item[]) {
     results.innerHTML = list.map((i) => `
-      <article class="result">
-        <a class="thumb" href="${esc(i.u)}" tabindex="-1" aria-hidden="true"><img src="${esc(i.c)}" alt="" loading="lazy" decoding="async" width="${i.w ?? 480}" height="${i.h ?? 300}"></a>
+      <article class="card">
+        <a href="${esc(i.u)}" class="cover"><img src="${esc(i.c)}" alt="" loading="lazy" decoding="async" width="${i.w ?? 480}" height="${i.h ?? 300}"></a>
         <div class="body">
-          <span class="badge">${esc(i.r)}</span>
-          <h2><a href="${esc(i.u)}">${esc(i.t)}</a></h2>
+          <div class="meta"><span class="badge">${esc(i.r)}</span><span class="badge${i.f ? ' accent' : ''}">${esc(i.k)}</span></div>
+          <h2 class="card-title"><a href="${esc(i.u)}">${esc(i.t)}</a></h2>
           <p class="small muted">${esc(i.d)}</p>
+          <time class="small muted" datetime="${esc(i.p)}">${esc(i.dt)}</time>
         </div>
       </article>`).join('');
   }
@@ -94,11 +96,14 @@ const strings = {
   .box input:focus { outline: none; border-color: var(--c-primary); box-shadow: 0 0 0 4px var(--c-primary-soft); }
   .hint { margin: .6em 0 0; }
   [data-status] { margin: .6em 0 0; min-height: 1.4em; }
-  .results { display: grid; gap: 1rem; margin-top: 1.2rem; max-width: 760px; }
-  .result { display: grid; grid-template-columns: 128px 1fr; gap: 1rem; align-items: start; background: var(--c-surface); border: 1px solid var(--c-line); border-radius: var(--radius); padding: .8rem; box-shadow: var(--shadow-sm); }
-  .result .thumb img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: var(--radius-sm); display: block; }
-  .result h2 { font-size: 1.05rem; margin: .35em 0 .3em; border: 0; padding: 0; }
-  .result h2 a { color: var(--c-text); }
-  .result p { margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-  @media (max-width: 480px) { .result { grid-template-columns: 96px 1fr; gap: .7rem; } }
+  .results { margin-top: 1.2rem; }
+  /* PostCard.astro 와 동일한 카드 스타일. 결과는 JS 로 그리므로 스코프 스타일을 쓸 수 없어 여기에 둔다 */
+  .results :global(.card) { background: var(--c-surface); border-radius: var(--radius); box-shadow: var(--shadow-sm); overflow: hidden; display: flex; flex-direction: column; transition: transform .2s, box-shadow .2s; }
+  .results :global(.card:hover) { transform: translateY(-3px); box-shadow: var(--shadow); }
+  .results :global(.cover img) { aspect-ratio: 16 / 10; object-fit: cover; width: 100%; display: block; }
+  .results :global(.body) { padding: 1.1rem 1.2rem 1.3rem; display: flex; flex-direction: column; gap: .5rem; }
+  .results :global(.meta) { display: flex; gap: .4rem; }
+  .results :global(.card-title) { margin: 0; font-size: 1.1rem; border: 0; padding: 0; }
+  .results :global(.card-title a) { color: var(--c-text); }
+  .results :global(p) { margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 </style>
