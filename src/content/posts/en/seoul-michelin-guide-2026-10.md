@@ -49,12 +49,16 @@ sources:
   - { title: "MICHELIN Guide Seoul — starred restaurants listing (42)", url: "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurants/1-star-michelin/2-stars-michelin/3-stars-michelin" }
   - { title: "MICHELIN Guide restaurant pages (addresses, cuisine, price symbols)", url: "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurants/1-star-michelin/2-stars-michelin/3-stars-michelin" }
   - { title: "Korea Tourism Organization TourAPI — Mingles, Kwonsooksoo (hours, closing days, parking)", url: "https://kto.visitkorea.or.kr/" }
+  - { title: "MICHELIN Guide Seoul listing — price filter labels (On a budget / A moderate spend / Special occasion / Spare no expense)", url: "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurants" }
+  - { title: "MICHELIN Guide help center — price range is the average price of a set menu or one dish per meal, drinks excluded", url: "https://intercom.help/michelin-guide-contact-us/ko" }
+  - { title: "The Edit — Jungsik Seoul feature (lunch ₩230,000, dinner ₩330,000)", url: "https://the-edit.co.kr/77993" }
+  - { title: "The Shilla Seoul — La Yeon (lunch and dinner hours)", url: "https://www.shillahotels.com/en/theshilla/seoul/dining/restaurant/layeon.do" }
 glance:
   - { label: "Edition", value: "MICHELIN Guide Seoul & Busan 2026, announced 5 March 2026, the guide's tenth Korean edition" }
   - { label: "Key numbers", value: "42 starred restaurants in Seoul: 1 three-star, 10 two-star, 31 one-star, plus 3 Green Stars and 51 Bib Gourmands" }
   - { label: "New stars", value: "Two stars: Mosu (new), Sosuheon (promoted) · one star: Collage, GiwaKang, SAN, Sushi Kanesaka (new), GAGGEN, Hakusi, JUEUN (promoted)" }
   - { label: "Best areas", value: "28 of 42 are in Gangnam-gu (Cheongdam, Sinsa, Nonhyeon) · Yongsan 5 · Jung-gu 4 · Jongno 3 · Songpa 1 · Seongdong 1" }
-  - { label: "Price range", value: "Michelin symbols: ₩₩ 1 restaurant, ₩₩₩ 10, ₩₩₩₩ 31; every two- and three-star is ₩₩₩₩ · tasting menus" }
+  - { label: "Price range", value: "Michelin's ₩ marks are four labels, not amounts (₩₩₩₩ = Spare no expense) · Jungsik lunch ₩230,000, dinner ₩330,000 (May 2026 feature)" }
   - { label: "Booking", value: "Reserve buttons on the Michelin pages · Mingles via the CatchTable app · many close on Mondays" }
   - { label: "Official info", value: "MICHELIN Guide Seoul restaurant listing", url: "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurants" }
 draft: false
@@ -77,13 +81,24 @@ The special awards also went to Seoul rooms: the Sommelier Award to Lee Jeong-in
 
 ## Three stars: Mingles
 
-**Mingles** holds Seoul's only three stars for the second year running. Chef Kang Min-goo cooks Korean-rooted dishes built on fermented sauces, vinegars, herbs and seasonal produce, as the Korea Tourism Organization listing describes it. It is at 19 Dosan-daero 67-gil in Gangnam-gu, a short walk from exit 4 of Apgujeong Rodeo Station on the [[line:suinbundang]]. The tourism listing gives hours of 12:00 to 22:00 with a break from 15:00 to 18:00, Monday closing, valet parking and bookings through CatchTable, the reservation app most Seoul tasting-menu restaurants use. Michelin's price symbol is ₩₩₩₩, the top band.
+**Mingles** holds Seoul's only three stars for the second year running. Chef Kang Min-goo cooks Korean-rooted dishes built on fermented sauces, vinegars, herbs and seasonal produce, as the Korea Tourism Organization listing describes it. It is at 19 Dosan-daero 67-gil in Gangnam-gu, a short walk from exit 4 of Apgujeong Rodeo Station on the [[line:suinbundang]]. The tourism listing gives hours of 12:00 to 22:00 with a break from 15:00 to 18:00, Monday closing, valet parking and bookings through CatchTable, the reservation app most Seoul tasting-menu restaurants use. Michelin's price symbol is ₩₩₩₩ ("Spare no expense"), the top of its four-step scale, and the restaurant's website does not list course prices, so confirm them when you book.
 
 ![A brass sinseollo hot pot with tofu, mushrooms, egg strips, meatballs and ginkgo nuts arranged in a ring, a Korean royal court dish](/images/seoul-michelin-guide-2026-10/03.webp)
 
+## What Michelin's ₩ symbols mean
+
+The ₩ symbols in the tables below are Michelin's own four-step scale. According to Michelin's help pages, the symbol reflects **the average price of a set menu or a single dish for one meal (lunch or dinner), drinks excluded**, and Michelin does not publish the won thresholds behind each step. The labels on the Michelin Guide site are:
+
+- ₩ — "On a budget"
+- ₩₩ — "A moderate spend"
+- ₩₩₩ — "Special occasion"
+- ₩₩₩₩ — "Spare no expense"
+
+So ₩₩₩₩ means "among the most expensive in this guide", not a specific amount. Actual tasting-menu prices are published differently by each restaurant: most do not post them on their websites, so you check through booking apps such as CatchTable or by phone. The amounts that could be confirmed from a source at the time of writing are in the practical notes below.
+
 ## Two stars: 10 restaurants
 
-Every two-star is marked ₩₩₩₩ by Michelin. Seven are in Gangnam-gu, two in Jung-gu and one in Yongsan-gu.
+Every two-star is marked ₩₩₩₩ ("Spare no expense") by Michelin. Seven are in Gangnam-gu, two in Jung-gu and one in Yongsan-gu.
 
 | Restaurant | Cuisine | Neighborhood | Notes |
 |---|---|---|---|
@@ -167,7 +182,8 @@ Below the stars, Seoul has 51 **Bib Gourmand** restaurants (good food at moderat
 
 ## Practical notes
 
-- **Price symbols**: Michelin uses four bands from ₩ to ₩₩₩₩ instead of figures. Among Seoul's 42 stars, 1 is ₩₩ (Légume), 10 are ₩₩₩ and 31 are ₩₩₩₩; every two- and three-star is ₩₩₩₩. Actual tasting-menu prices vary, so check before booking.
+- **Price symbols**: Michelin uses four bands from ₩ to ₩₩₩₩ instead of figures (see the explanation above). Among Seoul's 42 stars, 1 is ₩₩ (Légume), 10 are ₩₩₩ and 31 are ₩₩₩₩; every two- and three-star is ₩₩₩₩.
+- **Actual prices (confirmed only)**: Jungsik is listed at ₩230,000 (about $172) for lunch and ₩330,000 for dinner in a May 2026 magazine feature. The Shilla Hotel's official La Yeon page gives lunch 12:00–14:30 (last order 13:00) and dinner 17:30–21:30 (last order 19:30) but no prices. The other restaurants do not publish prices on their official sites, so none are given here. All figures are as of the time of writing and change with the menu.
 - **Booking**: Most Michelin restaurant pages carry a reserve button. Mingles takes bookings through CatchTable, according to the tourism listing. Eight-seat counters such as Sosuheon, Goryori Ken and Sushi Kanesaka fill early.
 - **Closing days**: The tourism listings give Monday closing for Mingles and Sunday–Monday for Kwonsooksoo. Monday closing is common elsewhere too, so check the day first. Hours are as of the time of writing.
 - **Getting around**: Cheongdam, Sinsa and Nonhyeon are close enough to walk between. Mingles is a walk from Apgujeong Rodeo Station on the [[line:suinbundang]]. The hotel dining rooms in Jung-gu and Jongno pair well with Gwanghwamun or Myeongdong hotels.
