@@ -9,8 +9,9 @@ const adsTxt = client
   : '';
 writeFileSync(new URL('../public/ads.txt', import.meta.url), adsTxt);
 
-const robots = `User-agent: *\nAllow: /\n\nSitemap: ${config.url.replace(/\/$/, '')}/sitemap-index.xml\n`;
-writeFileSync(new URL('../public/robots.txt', import.meta.url), robots);
+// 검색·광고·AI 검색 봇은 허용, 유입 없는 수집 봇은 차단(scripts/lib/robots.mjs)
+import { buildRobotsTxt } from './lib/robots.mjs';
+writeFileSync(new URL('../public/robots.txt', import.meta.url), buildRobotsTxt(config.url));
 
 console.log(`prebuild: ads.txt ${client ? '생성' : '(비어 있음)'}, robots.txt 생성`);
 
