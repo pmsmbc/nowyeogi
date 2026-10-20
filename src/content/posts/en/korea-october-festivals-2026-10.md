@@ -159,6 +159,7 @@ events:
     location: "Gyeongbokgung and the other Seoul palaces and Jongmyo"
     address: "161 Sajik-ro, Jongno-gu, Seoul"
     url: "https://www.kh.or.kr/fest"
+    price: 3000
     organizer: "Royal Palaces and Tombs Center, Korea Heritage Service"
 draft: false
 ---

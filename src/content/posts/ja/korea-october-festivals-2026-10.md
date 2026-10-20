@@ -159,6 +159,7 @@ events:
     location: "景福宮ほか昌徳宮・徳寿宮・昌慶宮・宗廟"
     address: "ソウル 鍾路区 社稷路161"
     url: "https://www.kh.or.kr/fest"
+    price: 3000
     organizer: "国家遺産庁 宮陵遺跡本部"
 draft: false
 ---

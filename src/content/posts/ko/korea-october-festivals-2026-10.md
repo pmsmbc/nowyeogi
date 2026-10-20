@@ -159,6 +159,7 @@ events:
     location: "경복궁 외 창덕궁·덕수궁·창경궁·종묘"
     address: "서울 종로구 사직로 161"
     url: "https://www.kh.or.kr/fest"
+    price: 3000
     organizer: "국가유산청 궁능유적본부"
 draft: false
 ---
