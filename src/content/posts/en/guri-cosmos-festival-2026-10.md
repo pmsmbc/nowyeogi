@@ -43,7 +43,7 @@ places:
     kind: spot
     address: "249 Cosmos-gil 14beon-gil, Topyeong-dong, Guri-si, Gyeonggi-do"
     menu:
-      - { name: "Park entry", price: "Open all year (no 2026 festival fee notice found)" }
+      - { name: "Park entry", price: "Free (no admission fee)" }
       - { name: "Festival village buses", price: "9–11 Oct, 09:00–23:00, 4 routes, 36 buses" }
       - { name: "Park car park", price: "About 800 spaces (KTO)" }
     hours: "9 (Fri, Hangul Day) to 11 (Sun) October 2026; daily schedule not yet published"
@@ -103,7 +103,7 @@ To be clear, the photo above is a cosmos field at Haneul Park in Seoul (October 
 - **Slogan** — roughly "Come to Guri to flower-gaze" (Kkotmeong-hareo Guri-ro on)
 - **Edition** — the **18th**, according to Yonhap
 - **Flower field** — **79,620㎡**, 11,940㎡ larger than last year
-- **Cost** — the park is open year-round; no 2026 entry fee notice was found
+- **Cost** — free, no admission fee; the park is open year-round
 - **Park enquiries** — Guri City parks team, +82-31-550-2472 (Korean)
 
 "Kkotmeong" is a playful Korean word for zoning out while looking at flowers, on the model of "bulmeong" (staring into a campfire). Because 9 October is a Friday holiday, **the whole three-day weekend is festival time**. On 8 October the city also holds its 41st Citizens' Day event in the same park area.
