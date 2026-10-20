@@ -87,6 +87,7 @@ events:
     address: "240 Olympic-ro, Songpa-gu, Seoul"
     url: "https://adventure.lotteworld.com/enjoy/performance/list"
     price: 67000
+    organizer: "Lotte World"
 draft: false
 ---
 

@@ -51,7 +51,7 @@ export function editorRef(lang: Lang) {
 
 /** 축제·행사 글의 Event JSON-LD. 글의 frontmatter `events` 한 항목을 schema.org Event 로 바꾼다. */
 export function eventJsonLd(
-  ev: { name: string; startDate: string; endDate?: string; location: string; address: string; url?: string; price?: number; organizer?: string; status: string },
+  ev: { name: string; startDate: string; endDate?: string; location: string; address: string; url?: string; price?: number; organizer?: string; organizerUrl?: string; performer?: string; status: string },
   opts: { lang: Lang; description: string; image: string; pageUrl: string },
 ) {
   const STATUS: Record<string, string> = {
@@ -60,6 +60,9 @@ export function eventJsonLd(
     postponed: 'https://schema.org/EventPostponed',
     rescheduled: 'https://schema.org/EventRescheduled',
   };
+  // 주최측 홈페이지: 따로 적은 값이 없으면 행사 공식 페이지(ev.url)를 쓴다(대개 주최측 사이트다).
+  const organizerUrl = ev.organizerUrl ?? ev.url;
+  const organizer = ev.organizer && { '@type': 'Organization', name: ev.organizer, ...(organizerUrl && { url: organizerUrl }) };
   return {
     '@type': 'Event',
     name: ev.name,
@@ -85,6 +88,8 @@ export function eventJsonLd(
         availability: 'https://schema.org/InStock',
       },
     }),
-    ...(ev.organizer && { organizer: { '@type': 'Organization', name: ev.organizer } }),
+    ...(organizer && { organizer }),
+    // 축제는 특정 출연자가 없는 경우가 많아, 출연자를 따로 적지 않았으면 주최측을 performer 로 쓴다.
+    ...(ev.performer ? { performer: { '@type': 'PerformingGroup', name: ev.performer } } : organizer && { performer: organizer }),
   };
 }

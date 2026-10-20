@@ -136,6 +136,7 @@ events:
     address: "626 Namgang-ro, Jinju, Gyeongsangnam-do"
     url: "https://yudeung.com/"
     price: 0
+    organizer: "Jinju City"
   - name: "Andong International Mask Dance Festival"
     startDate: "2026-09-24"
     endDate: "2026-10-04"
@@ -150,12 +151,14 @@ events:
     address: "120 Suyeonggangbyeon-daero, Haeundae-gu, Busan"
     url: "https://www.biff.kr/eng/"
     price: 10000
+    organizer: "Busan International Film Festival"
   - name: "Royal Culture Festival, autumn 2026"
     startDate: "2026-10-07"
     endDate: "2026-10-11"
     location: "Gyeongbokgung and the other Seoul palaces and Jongmyo"
     address: "161 Sajik-ro, Jongno-gu, Seoul"
     url: "https://www.kh.or.kr/fest"
+    organizer: "Royal Palaces and Tombs Center, Korea Heritage Service"
 draft: false
 ---
 

@@ -136,6 +136,7 @@ events:
     address: "慶尚南道 晋州市 南江路626"
     url: "https://yudeung.com/"
     price: 0
+    organizer: "晋州市"
   - name: "安東国際仮面劇フェスティバル"
     startDate: "2026-09-24"
     endDate: "2026-10-04"
@@ -150,12 +151,14 @@ events:
     address: "釜山 海雲台区 水営江辺大路120"
     url: "https://www.biff.kr/eng/"
     price: 10000
+    organizer: "釜山国際映画祭"
   - name: "2026 秋 宮中文化祝典"
     startDate: "2026-10-07"
     endDate: "2026-10-11"
     location: "景福宮ほか昌徳宮・徳寿宮・昌慶宮・宗廟"
     address: "ソウル 鍾路区 社稷路161"
     url: "https://www.kh.or.kr/fest"
+    organizer: "国家遺産庁 宮陵遺跡本部"
 draft: false
 ---
 

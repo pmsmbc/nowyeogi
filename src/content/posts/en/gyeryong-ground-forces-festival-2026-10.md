@@ -72,6 +72,7 @@ events:
     address: "Seokgye-ri, Sindoan-myeon, Gyeryong-si, Chungcheongnam-do"
     url: "https://armyfest.or.kr"
     price: 0
+    organizer: "Republic of Korea Army Headquarters (Ground Forces Festival Planning Group)"
 draft: false
 ---
 

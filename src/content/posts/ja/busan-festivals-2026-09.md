@@ -80,12 +80,16 @@ events:
     location: "映画の殿堂（釜山シネマセンター）"
     address: "釜山広域市海雲台区水営江辺大路120"
     url: "https://www.biff.kr/eng/"
+    organizer: "釜山国際映画祭"
+    price: 10000
   - name: "2026 釜山国際ロックフェスティバル"
     startDate: "2026-10-02"
     endDate: "2026-10-04"
     location: "三楽生態公園"
     address: "釜山広域市沙上区三楽洞29-46"
     url: "https://busanrockfestival.com/"
+    organizer: "釜山広域市"
+    price: 212800
   - name: "2026 釜山ビエンナーレ"
     startDate: "2026-08-29"
     endDate: "2026-11-01"
@@ -93,12 +97,15 @@ events:
     address: "釜山広域市沙下区洛東南路1191"
     url: "http://www.busan.go.kr/moca/"
     price: 0
+    organizer: "（社）釜山ビエンナーレ組織委員会"
   - name: "第21回釜山花火祭り"
     startDate: "2026-11-07T19:00+09:00"
     endDate: "2026-11-07T20:00+09:00"
     location: "広安里ビーチ"
     address: "釜山広域市水営区広安海辺路219"
     price: 0
+    organizer: "釜山広域市・（社）釜山祭り組織委員会"
+    url: "https://www.busanfireworks.com/reservation"
 draft: false
 ---
 

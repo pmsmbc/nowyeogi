@@ -80,12 +80,16 @@ events:
     location: "Busan Cinema Center"
     address: "120 Suyeonggangbyeon-daero, Haeundae-gu, Busan"
     url: "https://www.biff.kr/eng/"
+    organizer: "Busan International Film Festival"
+    price: 10000
   - name: "Busan International Rock Festival 2026"
     startDate: "2026-10-02"
     endDate: "2026-10-04"
     location: "Samnak Ecological Park"
     address: "29-46 Samnak-dong, Sasang-gu, Busan"
     url: "https://busanrockfestival.com/"
+    organizer: "Busan Metropolitan City"
+    price: 212800
   - name: "Busan Biennale 2026"
     startDate: "2026-08-29"
     endDate: "2026-11-01"
@@ -93,12 +97,15 @@ events:
     address: "1191 Nakdongnam-ro, Saha-gu, Busan"
     url: "http://www.busan.go.kr/moca/"
     price: 0
+    organizer: "Busan Biennale Organizing Committee"
   - name: "21st Busan Fireworks Festival"
     startDate: "2026-11-07T19:00+09:00"
     endDate: "2026-11-07T20:00+09:00"
     location: "Gwangalli Beach"
     address: "219 Gwangan-haebyeon-ro, Suyeong-gu, Busan"
     price: 0
+    organizer: "Busan Metropolitan City and the Busan Festival Organizing Committee"
+    url: "https://www.busanfireworks.com/reservation"
 draft: false
 ---
 

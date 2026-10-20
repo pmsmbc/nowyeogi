@@ -136,6 +136,7 @@ events:
     address: "경상남도 진주시 남강로 626"
     url: "https://yudeung.com/"
     price: 0
+    organizer: "진주시"
   - name: "안동국제탈춤페스티벌"
     startDate: "2026-09-24"
     endDate: "2026-10-04"
@@ -150,12 +151,14 @@ events:
     address: "부산 해운대구 수영강변대로 120"
     url: "https://www.biff.kr/kor/"
     price: 10000
+    organizer: "부산국제영화제"
   - name: "2026 가을 궁중문화축전"
     startDate: "2026-10-07"
     endDate: "2026-10-11"
     location: "경복궁 외 창덕궁·덕수궁·창경궁·종묘"
     address: "서울 종로구 사직로 161"
     url: "https://www.kh.or.kr/fest"
+    organizer: "국가유산청 궁능유적본부"
 draft: false
 ---
 

@@ -87,6 +87,7 @@ events:
     address: "ソウル特別市 松坡区 オリンピック路240"
     url: "https://adventure.lotteworld.com/enjoy/performance/list"
     price: 67000
+    organizer: "ロッテワールド"
 draft: false
 ---
 

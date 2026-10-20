@@ -81,6 +81,7 @@ events:
     location: "Guri Hangang Park"
     address: "249 Cosmos-gil 14beon-gil, Topyeong-dong, Guri-si, Gyeonggi-do"
     organizer: "Guri City"
+    organizerUrl: "https://www.guri.go.kr/"
 draft: false
 ---
 

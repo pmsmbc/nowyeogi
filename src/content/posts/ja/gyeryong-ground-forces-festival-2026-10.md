@@ -72,6 +72,7 @@ events:
     address: "忠清南道 鶏龍市 神都案面 石渓里"
     url: "https://armyfest.or.kr"
     price: 0
+    organizer: "韓国陸軍本部・地上軍フェスティバル企画団"
 draft: false
 ---
 

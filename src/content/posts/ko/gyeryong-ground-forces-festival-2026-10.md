@@ -72,6 +72,7 @@ events:
     address: "충청남도 계룡시 신도안면 석계리"
     url: "https://armyfest.or.kr"
     price: 0
+    organizer: "육군본부·지상군페스티벌기획단"
 draft: false
 ---
 

@@ -80,12 +80,16 @@ events:
     location: "영화의전당"
     address: "부산 해운대구 수영강변대로 120"
     url: "https://www.biff.kr/kor/"
+    organizer: "부산국제영화제"
+    price: 10000
   - name: "2026 부산국제록페스티벌"
     startDate: "2026-10-02"
     endDate: "2026-10-04"
     location: "삼락생태공원"
     address: "부산 사상구 삼락동 29-46"
     url: "https://busanrockfestival.com/"
+    organizer: "부산광역시"
+    price: 212800
   - name: "2026부산비엔날레"
     startDate: "2026-08-29"
     endDate: "2026-11-01"
@@ -93,12 +97,15 @@ events:
     address: "부산 사하구 낙동남로 1191"
     url: "http://www.busan.go.kr/moca/"
     price: 0
+    organizer: "(사)부산비엔날레조직위원회"
   - name: "제21회 부산불꽃축제"
     startDate: "2026-11-07T19:00+09:00"
     endDate: "2026-11-07T20:00+09:00"
     location: "광안리해수욕장"
     address: "부산 수영구 광안해변로 219"
     price: 0
+    organizer: "부산광역시·(사)부산축제조직위원회"
+    url: "https://www.busanfireworks.com/reservation"
 draft: false
 ---
 

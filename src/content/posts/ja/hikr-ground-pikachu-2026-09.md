@@ -69,6 +69,7 @@ events:
     address: "ソウル特別市中区清渓川路40"
     url: "https://pokemonkorea.co.kr/pikachu_9/menu811"
     price: 0
+    organizer: "ポケモンコリア"
 draft: false
 ---
 

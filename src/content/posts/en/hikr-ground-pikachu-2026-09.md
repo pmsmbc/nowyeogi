@@ -69,6 +69,7 @@ events:
     address: "40 Cheonggyecheon-ro, Jung-gu, Seoul"
     url: "https://pokemonkorea.co.kr/pikachu_9/menu811"
     price: 0
+    organizer: "The Pokémon Company Korea"
 draft: false
 ---
 

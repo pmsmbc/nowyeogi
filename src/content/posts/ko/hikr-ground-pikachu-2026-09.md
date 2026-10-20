@@ -69,6 +69,7 @@ events:
     address: "서울특별시 중구 청계천로 40"
     url: "https://pokemonkorea.co.kr/pikachu_9/menu811"
     price: 0
+    organizer: "포켓몬코리아"
 draft: false
 ---
 

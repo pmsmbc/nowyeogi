@@ -87,6 +87,7 @@ events:
     address: "서울특별시 송파구 올림픽로 240"
     url: "https://adventure.lotteworld.com/enjoy/performance/list"
     price: 67000
+    organizer: "롯데월드"
 draft: false
 ---
 

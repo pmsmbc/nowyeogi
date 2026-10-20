@@ -40,6 +40,8 @@ const event = z.object({
   url: z.string().url().optional(),
   price: z.number().nonnegative().optional(),
   organizer: z.string().optional(),
+  organizerUrl: z.string().url().optional(),
+  performer: z.string().optional(),
   status: z.enum(['scheduled', 'cancelled', 'postponed', 'rescheduled']).default('scheduled'),
 });
 
