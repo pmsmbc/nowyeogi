@@ -70,6 +70,7 @@ events:
     location: "盤渓里イチョウ広場"
     address: "江原特別自治道 原州市 文幕邑 盤渓里 1495-1"
     url: "https://www.wonju.go.kr/tour/"
+    organizer: "原州市"
     price: 0
 draft: false
 ---

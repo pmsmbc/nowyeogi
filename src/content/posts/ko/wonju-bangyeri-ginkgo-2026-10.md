@@ -70,6 +70,7 @@ events:
     location: "반계리 은행나무광장"
     address: "강원특별자치도 원주시 문막읍 반계리 1495-1"
     url: "https://www.wonju.go.kr/tour/"
+    organizer: "원주시"
     price: 0
 draft: false
 ---

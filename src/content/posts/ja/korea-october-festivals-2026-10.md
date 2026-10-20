@@ -143,6 +143,7 @@ events:
     location: "タルチュム公園・中央線1942安東駅・旧市街"
     address: "慶尚北道 安東市 陸士路239"
     url: "https://www.maskdance.com/"
+    organizer: "安東市"
     price: 0
   - name: "第31回 釜山国際映画祭"
     startDate: "2026-10-06"

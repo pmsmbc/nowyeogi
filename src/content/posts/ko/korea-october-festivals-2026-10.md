@@ -143,6 +143,7 @@ events:
     location: "탈춤공원·중앙선1942안동역·원도심"
     address: "경상북도 안동시 육사로 239"
     url: "https://www.maskdance.com/"
+    organizer: "안동시"
     price: 0
   - name: "제31회 부산국제영화제"
     startDate: "2026-10-06"

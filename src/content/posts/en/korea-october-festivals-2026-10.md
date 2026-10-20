@@ -143,6 +143,7 @@ events:
     location: "Maskdance Park, Jungangseon 1942 Andong Station and the old town"
     address: "239 Yuksa-ro, Andong, Gyeongsangbuk-do"
     url: "https://www.maskdance.com/"
+    organizer: "Andong City"
     price: 0
   - name: "31st Busan International Film Festival"
     startDate: "2026-10-06"

@@ -70,6 +70,7 @@ events:
     location: "Bangyeri Ginkgo Tree plaza"
     address: "1495-1 Bangye-ri, Munmak-eup, Wonju-si, Gangwon State"
     url: "https://www.wonju.go.kr/tour/"
+    organizer: "Wonju City"
     price: 0
 draft: false
 ---
