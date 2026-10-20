@@ -82,6 +82,7 @@ events:
     address: "경기도 구리시 코스모스길14번길 249"
     organizer: "구리시"
     organizerUrl: "https://www.guri.go.kr/"
+    price: 0
 draft: false
 ---
 

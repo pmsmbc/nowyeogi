@@ -82,6 +82,7 @@ events:
     address: "京畿道 九里市 コスモス路14番キル249（土坪洞）"
     organizer: "九里市"
     organizerUrl: "https://www.guri.go.kr/"
+    price: 0
 draft: false
 ---
 
