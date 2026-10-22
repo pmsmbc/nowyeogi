@@ -31,4 +31,11 @@ const { lang, hubs } = Astro.props;
   .hub li a { color: var(--c-text); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
   .hub li a:hover { color: var(--c-primary-deep); }
   .more { margin-top: auto; padding-top: .9em; align-self: flex-start; }
+  /* 좁은 화면에서는 목록 한 줄의 터치 영역을 32px 이상으로 넓힌다 (2026-10-22) */
+  @media (max-width: 640px) {
+    .hub ul { gap: .1rem; }
+    .hub li a { padding: .32rem 0; }
+    .hub li::before { top: .32rem; }
+    .more { padding: .3rem 0; }
+  }
 </style>

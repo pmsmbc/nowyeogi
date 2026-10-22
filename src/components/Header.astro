@@ -42,6 +42,7 @@ const nav = [
     if (!btn || !nav) return;
     function setOpen(open) {
       header.classList.toggle('is-open', open);
+      if (open) header.classList.remove('is-hidden');
       document.documentElement.classList.toggle('nav-open', open); // 전체 화면 메뉴가 열리면 뒤 페이지 스크롤을 막는다
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
       btn.setAttribute('aria-label', open ? btn.dataset.labelClose : btn.dataset.labelOpen);
@@ -54,6 +55,20 @@ const nav = [
     var mq = window.matchMedia('(min-width: 641px)');
     var onChange = function () { if (mq.matches) setOpen(false); };
     if (mq.addEventListener) mq.addEventListener('change', onChange); else mq.addListener(onChange);
+    // 좁은 화면: 아래로 스크롤하면 헤더를 감추고 위로 올리면 다시 보여 준다. 메뉴가 열려 있거나 맨 위 근처면 늘 보인다 (2026-10-22)
+    var mobile = window.matchMedia('(max-width: 640px)');
+    var lastY = window.scrollY;
+    var hidden = false;
+    function show() { if (hidden) { hidden = false; header.classList.remove('is-hidden'); } }
+    function onScroll() {
+      var y = window.scrollY;
+      var dy = y - lastY;
+      lastY = y;
+      if (!mobile.matches || header.classList.contains('is-open') || y < 80) { show(); return; }
+      if (dy > 6 && !hidden) { hidden = true; header.classList.add('is-hidden'); }
+      else if (dy < -6) show();
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
   })();
 </script>
 <style>
@@ -74,6 +89,9 @@ const nav = [
 
   @media (max-width: 640px) {
     .row { height: 56px; }
+    /* 스크롤 방향에 따라 헤더를 감춘다. transform 은 감출 때만 걸리므로(평소 none) fixed 메뉴의 기준이 되지 않는다 */
+    .site-header { transition: transform .22s ease; }
+    .site-header.is-hidden { transform: translateY(-100%); }
     .logo { font-size: 1.05rem; position: relative; z-index: 2; }
     /* 햄버거 버튼: 44px 터치 영역. 열리면 위·아래 막대가 돌아 X 가 되고 가운데 막대는 사라진다 */
     .nav-toggle { display: inline-flex; flex-direction: column; justify-content: center; align-items: center; gap: 6px; width: 44px; height: 44px; margin-right: -8px; border: 0; background: transparent; cursor: pointer; border-radius: var(--radius-sm); position: relative; z-index: 2; -webkit-tap-highlight-color: transparent; }
