@@ -53,7 +53,7 @@ const jsonLd = [
   // 축제·행사 글: frontmatter events → Event 구조화 데이터(글에 확인된 사실만)
   ...post.data.events.map((ev) => ({
     '@context': 'https://schema.org',
-    ...eventJsonLd(ev, { lang, description: post.data.description, image: `${base}${post.data.cover}`, pageUrl }),
+    ...eventJsonLd(ev, { lang, description: post.data.description, image: `${base}${post.data.cover}`, pageUrl, pubDate: post.data.pubDate.toISOString().slice(0, 10) }),
   })),
   { '@context': 'https://schema.org', ...organizationJsonLd(lang) },
   { '@context': 'https://schema.org', ...editorJsonLd(lang) },

@@ -39,6 +39,7 @@ const event = z.object({
   address: z.string(),
   url: z.string().url().optional(),
   price: z.number().nonnegative().optional(),
+  validFrom: z.string().optional(), // 티켓 판매 시작일(ISO). 없으면 글 pubDate 를 offers.validFrom 으로 쓴다.
   organizer: z.string().optional(),
   organizerUrl: z.string().url().optional(),
   performer: z.string().optional(),

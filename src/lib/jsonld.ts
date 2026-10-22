@@ -51,8 +51,8 @@ export function editorRef(lang: Lang) {
 
 /** 축제·행사 글의 Event JSON-LD. 글의 frontmatter `events` 한 항목을 schema.org Event 로 바꾼다. */
 export function eventJsonLd(
-  ev: { name: string; startDate: string; endDate?: string; location: string; address: string; url?: string; price?: number; organizer?: string; organizerUrl?: string; performer?: string; status: string },
-  opts: { lang: Lang; description: string; image: string; pageUrl: string },
+  ev: { name: string; startDate: string; endDate?: string; location: string; address: string; url?: string; price?: number; validFrom?: string; organizer?: string; organizerUrl?: string; performer?: string; status: string },
+  opts: { lang: Lang; description: string; image: string; pageUrl: string; pubDate: string },
 ) {
   const STATUS: Record<string, string> = {
     scheduled: 'https://schema.org/EventScheduled',
@@ -86,6 +86,8 @@ export function eventJsonLd(
         priceCurrency: 'KRW',
         url: ev.url ?? opts.pageUrl,
         availability: 'https://schema.org/InStock',
+        // 서치콘솔이 권장하는 판매 시작일. 티켓 판매일을 따로 적지 않았으면 글 게시일(요금을 안내한 날)을 쓴다.
+        validFrom: ev.validFrom ?? opts.pubDate,
       },
     }),
     ...(organizer && { organizer }),
