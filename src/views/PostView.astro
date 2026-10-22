@@ -91,10 +91,21 @@ const jsonLd = [
     <div class="prose"><AdSlot lang={lang} slot="top" /></div>
 
     {post.data.places.length > 0 && (
-      <section class="places prose">
-        <h2 class="places-title">{t(lang, 'post.places')}</h2>
-        <div class="place-list">{post.data.places.map((p) => <PlaceCard place={p} lang={lang} />)}</div>
-      </section>
+      <>
+        {/* 장소 카드는 본문 앞에 오므로, 좁은 화면에서는 접어 두어 본문이 먼저 보이게 한다. 넓은 화면은 아래 스크립트가 펼친다 (2026-10-22) */}
+        <details class="places prose" data-places-fold>
+          <summary class="places-summary">
+            <h2 class="places-title">{t(lang, 'post.places')}</h2>
+            <span class="places-count">{post.data.places.length === 1 ? t(lang, 'post.placesCountOne') : t(lang, 'post.placesCount', { n: String(post.data.places.length) })}</span>
+            <span class="places-hint places-hint-open" aria-hidden="true">{t(lang, 'post.placesOpen')}</span>
+            <span class="places-hint places-hint-close" aria-hidden="true">{t(lang, 'post.placesClose')}</span>
+          </summary>
+          <div class="place-list">{post.data.places.map((p) => <PlaceCard place={p} lang={lang} />)}</div>
+        </details>
+        <script is:inline>
+          (function () { var d = document.querySelector('[data-places-fold]'); if (d && window.matchMedia('(min-width: 641px)').matches) d.open = true; })();
+        </script>
+      </>
     )}
 
     <div class="prose body"><Content /></div>
@@ -133,8 +144,18 @@ const jsonLd = [
   .lead { font-size: 1.05rem; }
   .cover { margin: 1.5rem auto 2rem; max-width: var(--max); }
   .cover img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--radius); box-shadow: var(--shadow); }
-  .places-title { border: 0; margin-top: 0; font-size: 1.2rem; }
-  .place-list { display: grid; gap: .8rem; margin-bottom: 2rem; }
+  .places { margin-bottom: 2rem; }
+  .places-summary { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; cursor: pointer; list-style: none; padding: .2rem 0; }
+  .places-summary::-webkit-details-marker { display: none; }
+  .places-title { border: 0; margin: 0; font-size: 1.2rem; }
+  .places-count { color: var(--c-muted); font-size: .95rem; }
+  .places-hint { margin-left: auto; color: var(--c-primary-deep); font-weight: 500; font-size: .95rem; }
+  .places-hint::after { content: ' ▾'; display: inline-block; transition: transform .2s ease; }
+  .places[open] .places-hint::after { transform: rotate(180deg); }
+  .places[open] .places-hint-open, .places:not([open]) .places-hint-close { display: none; }
+  .place-list { display: grid; gap: .8rem; margin-top: .9rem; }
+  /* 넓은 화면은 늘 펼쳐 두므로 접기 안내를 숨긴다(스크립트가 못 돌아 닫혀 있으면 '펼쳐 보기'는 보인다) */
+  @media (min-width: 641px) { .places[open] .places-hint { display: none; } .places[open] .places-summary { cursor: default; } }
   .tags { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 2rem; }
   .notice { margin-top: 2.5rem; padding: 1rem 1.2rem; background: var(--c-primary-soft); border-radius: var(--radius); }
   .notice p { margin: 0 0 .5em; }

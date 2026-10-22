@@ -57,7 +57,10 @@ const nav = [
   })();
 </script>
 <style>
-  .site-header { position: sticky; top: 0; z-index: 10; background: rgba(251, 250, 247, .85); backdrop-filter: blur(10px); border-bottom: 1px solid var(--c-line); }
+  .site-header { position: sticky; top: 0; z-index: 10; border-bottom: 1px solid var(--c-line); }
+  /* 반투명 블러는 가상 요소에 둔다. 헤더 자체에 backdrop-filter 가 있으면 그 헤더가 position: fixed 의 기준이 되어
+     모바일 전체 화면 메뉴(.nav)가 헤더 높이(56px) 안에 갇혀 보이지 않았다 (2026-10-22). */
+  .site-header::before { content: ''; position: absolute; inset: 0; z-index: -1; background: rgba(251, 250, 247, .85); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); }
   .row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; height: 64px; }
   .logo { font-family: var(--font-head); font-weight: 700; font-size: 1.25rem; color: var(--c-text); display: flex; align-items: center; gap: .5rem; }
   .logo:hover { text-decoration: none; }
