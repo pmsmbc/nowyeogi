@@ -62,6 +62,7 @@ p { margin: 0 0 1.2em; }
 .badge.accent { background: var(--c-accent-2); color: #96374f; }
 .chip { display: inline-block; padding: .35em 1em; border-radius: 999px; background: var(--c-surface); border: 1px solid var(--c-line); color: var(--c-text); font-size: .9rem; box-shadow: var(--shadow-sm); }
 .chip:hover { border-color: var(--c-primary); text-decoration: none; }
+.chip-plain { color: var(--c-muted); background: transparent; box-shadow: none; }
 .btn { display: inline-block; padding: .6em 1.4em; border-radius: 999px; background: var(--c-primary-deep); color: #fff; font-weight: 600; box-shadow: var(--shadow-sm); }
 .btn:hover { background: var(--c-primary-darker); text-decoration: none; }
 .muted { color: var(--c-muted); }

@@ -7,7 +7,8 @@ import PlaceCard from '../components/PlaceCard.astro';
 import GlanceTable from '../components/GlanceTable.astro';
 import { render } from 'astro:content';
 import { getPosts, getTranslations, postPath, type Post } from '../lib/posts';
-import { pickRelated, localePath } from '../lib/postUtils';
+import { pickRelated, localePath, collectTags } from '../lib/postUtils';
+import { isThinTag } from '../../scripts/lib/thin-tags.mjs';
 import { regionName } from '../data/regions';
 import { t, formatDate, type UiKey } from '../i18n/ui';
 import { organizationJsonLd, organizationRef, editorJsonLd, editorRef, eventJsonLd } from '../lib/jsonld';
@@ -17,6 +18,9 @@ interface Props { lang: Lang; post: Post }
 const { lang, post } = Astro.props;
 const { Content } = await render(post);
 const translations = await getTranslations(post);
+// 글이 1편뿐인 태그는 목록 페이지에 그 글 하나만 있어서 링크하지 않는다(2026-10-23, 애드센스 '가치가 별로 없는 콘텐츠' 대응).
+const tagCounts = new Map(collectTags(await getPosts(lang)).map(({ tag, count }) => [tag, count]));
+const hasTagPage = (tag: string) => !isThinTag(tagCounts.get(tag) ?? 0);
 const alternates: Partial<Record<Lang, string>> = { [lang]: postPath(post) };
 for (const [other, p] of Object.entries(translations)) alternates[other as Lang] = postPath(p);
 const related = pickRelated(await getPosts(lang), post, 3);
@@ -123,7 +127,9 @@ const jsonLd = [
 
     {post.data.tags.length > 0 && (
       <div class="prose tags">
-        {post.data.tags.map((tag) => <a class="chip" href={localePath(lang, `/tags/${encodeURIComponent(tag)}/`)}>#{tag}</a>)}
+        {post.data.tags.map((tag) => hasTagPage(tag)
+          ? <a class="chip" href={localePath(lang, `/tags/${encodeURIComponent(tag)}/`)}>#{tag}</a>
+          : <span class="chip chip-plain">#{tag}</span>)}
       </div>
     )}
 
