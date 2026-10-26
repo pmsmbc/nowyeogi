@@ -21,7 +21,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 26
+          check-latest: true
           cache: npm
       - run: npm ci
       # 반응형 이미지 축소판(-w480/-w800/-w1200)은 git 에 없고 prebuild 가 만든다(약 2분). 원본이 바뀌지 않으면 캐시를 쓴다.
