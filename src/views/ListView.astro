@@ -5,6 +5,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import AdSlot from '../components/AdSlot.astro';
 import Pagination from '../components/Pagination.astro';
+import RegionChips from '../components/RegionChips.astro';
 import type { Post } from '../lib/posts';
 import { t } from '../i18n/ui';
 import { localePath, listAlternates, pageSuffix } from '../lib/postUtils';
@@ -17,8 +18,10 @@ interface Props {
   basePath: string;
   alternates?: Partial<Record<Lang, string>>;
   noindex?: boolean;
+  /** 목록 위에 보여 줄 지역 칩(regions.json 키). 해외 목록에서 도시별로 들어가는 길(2026-10-27). */
+  chips?: string[];
 }
-const { lang, title, description, page, basePath, alternates: alternatesProp, noindex = false } = Astro.props;
+const { lang, title, description, page, basePath, alternates: alternatesProp, noindex = false, chips = [] } = Astro.props;
 const suffix = pageSuffix(page.currentPage);
 const path = localePath(lang, `${basePath}${suffix}`);
 const alternates = alternatesProp ?? listAlternates(basePath, suffix, LANGS);
@@ -35,6 +38,7 @@ const robotsNoindex = noindex || page.data.length === 0;
     <header class="list-head">
       <h1>{title}{pageLabel && <span class="muted page-label"> · {pageLabel}</span>}</h1>
       <p class="muted">{description}</p>
+      {chips.length > 0 && <div class="list-chips"><RegionChips lang={lang} keys={chips} /></div>}
     </header>
     {page.data.length === 0 ? (
       <p class="muted">{t(lang, 'list.empty')}</p>
@@ -54,6 +58,7 @@ const robotsNoindex = noindex || page.data.length === 0;
 <style>
   .list-head { margin-bottom: 1.5rem; }
   .list-head p { margin: 0; }
+  .list-chips { margin-top: 1rem; }
   .page-label { font-size: .6em; font-weight: 500; }
   .span-all { grid-column: 1 / -1; }
 </style>

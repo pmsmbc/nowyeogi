@@ -8,8 +8,8 @@ interface Props { lang: Lang; alternates?: Partial<Record<Lang, string>> }
 const { lang, alternates } = Astro.props;
 const nav = [
   { href: localePath(lang, '/domestic/'), label: t(lang, 'nav.domestic') },
-  // 해외 글이 쌓이기 전까지 탭을 숨긴다. /overseas/ 페이지는 그대로 둔다.
-  // { href: localePath(lang, '/overseas/'), label: t(lang, 'nav.overseas') },
+  // 2026-10-27 첫 해외 글(도쿄)과 함께 탭을 켰다. 글이 없는 동안은 ListView 가 /overseas/ 를 noindex 로 둔다.
+  { href: localePath(lang, '/overseas/'), label: t(lang, 'nav.overseas') },
   { href: localePath(lang, '/about/'), label: t(lang, 'nav.about') },
   { href: localePath(lang, '/search/'), label: t(lang, 'nav.search') },
 ];

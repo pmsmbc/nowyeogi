@@ -7,9 +7,11 @@ import { t } from '../../../i18n/ui';
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = (await getPosts('en')).filter((p) => p.data.scope === 'overseas');
-  return paginate(posts, { pageSize: siteConfig.postsPerPage });
+  // 해외 목록 위에 도시 칩을 둔다(도쿄 등). 글이 있는 지역만, 글 순서대로.
+  const chips = [...new Set(posts.map((p) => p.data.region))];
+  return paginate(posts, { pageSize: siteConfig.postsPerPage, props: { chips } });
 }) satisfies GetStaticPaths;
 
-const { page } = Astro.props;
+const { page, chips } = Astro.props;
 ---
-<ListView lang="en" title={t('en', 'scope.overseas')} description={`${page.total} travel guides abroad: hotels, food, sights and transport by city, compiled from official sources.`} page={page} basePath="/overseas/" />
+<ListView lang="en" title={t('en', 'scope.overseas')} description={`${page.total} travel guides abroad: hotels, food, sights and transport by city, compiled from official sources.`} page={page} basePath="/overseas/" chips={chips} />
