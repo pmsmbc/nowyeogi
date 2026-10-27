@@ -67,9 +67,10 @@
         "sokcho",
         "jeonju",
         "jinju",
-        "gapyeong"
+        "gapyeong",
+        "tokyo"
       ],
-      "limit": 8,
+      "limit": 9,
       "more": "/domestic/"
     },
     {

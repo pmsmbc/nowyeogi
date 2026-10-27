@@ -160,5 +160,107 @@
     "en": "Busan-Gimhae LRT",
     "ja": "釜山金海軽電鉄",
     "color": "#8451A0"
+  },
+  "yamanote": {
+    "ko": "JR 야마노테선",
+    "en": "JR Yamanote Line",
+    "ja": "JR山手線",
+    "color": "#B1CB39"
+  },
+  "chuo": {
+    "ko": "JR 주오선 쾌속",
+    "en": "JR Chuo Line (Rapid)",
+    "ja": "JR中央線快速",
+    "color": "#DD6935"
+  },
+  "keihintohoku": {
+    "ko": "JR 게이힌토호쿠선",
+    "en": "JR Keihin-Tohoku Line",
+    "ja": "JR京浜東北線",
+    "color": "#1DAED1"
+  },
+  "chuosobu": {
+    "ko": "JR 주오·소부선 각역정차",
+    "en": "JR Chuo-Sobu Line",
+    "ja": "JR中央・総武線各駅停車",
+    "color": "#F2D01F"
+  },
+  "ginza": {
+    "ko": "긴자선",
+    "en": "Ginza Line",
+    "ja": "銀座線",
+    "color": "#FF9500"
+  },
+  "marunouchi": {
+    "ko": "마루노우치선",
+    "en": "Marunouchi Line",
+    "ja": "丸ノ内線",
+    "color": "#DD2B33"
+  },
+  "hibiya": {
+    "ko": "히비야선",
+    "en": "Hibiya Line",
+    "ja": "日比谷線",
+    "color": "#B5B5AC"
+  },
+  "tozai": {
+    "ko": "도자이선",
+    "en": "Tozai Line",
+    "ja": "東西線",
+    "color": "#009BBF"
+  },
+  "chiyoda": {
+    "ko": "지요다선",
+    "en": "Chiyoda Line",
+    "ja": "千代田線",
+    "color": "#00BB85"
+  },
+  "yurakucho": {
+    "ko": "유라쿠초선",
+    "en": "Yurakucho Line",
+    "ja": "有楽町線",
+    "color": "#C1A470"
+  },
+  "hanzomon": {
+    "ko": "한조몬선",
+    "en": "Hanzomon Line",
+    "ja": "半蔵門線",
+    "color": "#8F76D6"
+  },
+  "namboku": {
+    "ko": "난보쿠선",
+    "en": "Namboku Line",
+    "ja": "南北線",
+    "color": "#00AC9B"
+  },
+  "fukutoshin": {
+    "ko": "후쿠토신선",
+    "en": "Fukutoshin Line",
+    "ja": "副都心線",
+    "color": "#9C5E31"
+  },
+  "toeiasakusa": {
+    "ko": "도에이 아사쿠사선",
+    "en": "Toei Asakusa Line",
+    "ja": "都営浅草線",
+    "color": "#EC6E65"
+  },
+  "mita": {
+    "ko": "도에이 미타선",
+    "en": "Toei Mita Line",
+    "ja": "都営三田線",
+    "color": "#006CB6"
+  },
+  "toeishinjuku": {
+    "ko": "도에이 신주쿠선",
+    "en": "Toei Shinjuku Line",
+    "ja": "都営新宿線",
+    "color": "#B0C124"
+  },
+  "oedo": {
+    "ko": "도에이 오에도선",
+    "en": "Toei Oedo Line",
+    "ja": "都営大江戸線",
+    "color": "#CE045B"
   }
 }
