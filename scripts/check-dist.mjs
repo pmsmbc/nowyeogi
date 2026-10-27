@@ -104,6 +104,18 @@ if (existsSync(sitemapPath)) {
   const postsWithout = entries.filter((e) => /<loc>[^<]*\/posts\/[^<]*<\/loc>/.test(e) && !e.includes('<lastmod>'));
   if (entries.length && !xml.includes('<lastmod>')) errors.push('사이트맵에 lastmod 가 하나도 없습니다 (astro.config.mjs 의 sitemap serialize 확인)');
   else if (postsWithout.length) errors.push(`글 URL ${postsWithout.length}개에 lastmod 가 없습니다: ${postsWithout[0].match(/<loc>([^<]*)/)[1]} 등`);
+
+  // 사이트맵 URL 이 noindex 페이지를 가리키면 안 된다(구글이 사이트맵을 따라 들어와 Soft 404·noindex 제외로 쌓인다).
+  // 페이지 쪽 noindex(ListView·태그 페이지)와 사이트맵 filter(scripts/lib/thin-tags.mjs)가 어긋나면 여기서 잡힌다.
+  const noindexed = [];
+  for (const m of xml.matchAll(/<loc>([^<]*)<\/loc>/g)) {
+    let path;
+    try { path = decodeURIComponent(new URL(m[1]).pathname); } catch { continue; }
+    const file = join(dist, path.replace(/^\//, ''), 'index.html');
+    if (!existsSync(file)) { errors.push(`사이트맵 URL 에 해당하는 파일이 없습니다: ${path}`); continue; }
+    if (/<meta name="robots" content="noindex/.test(readFileSync(file, 'utf8'))) noindexed.push(path);
+  }
+  if (noindexed.length) errors.push(`noindex 페이지 ${noindexed.length}개가 사이트맵에 들어 있습니다: ${noindexed.slice(0, 3).join(', ')}${noindexed.length > 3 ? ' 등' : ''}`);
 }
 
 for (const w of warnings) console.warn(`⚠ ${w}`);

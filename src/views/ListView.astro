@@ -26,8 +26,11 @@ const alternates = alternatesProp ?? listAlternates(basePath, suffix, LANGS);
 const pageLabel = page.currentPage > 1 ? t(lang, 'list.pageN', { n: String(page.currentPage) }) : '';
 const seoTitle = pageLabel ? `${title} – ${pageLabel}` : title;
 const seoDescription = pageLabel ? `${description} (${pageLabel})` : description;
+// 글이 0편인 목록 페이지는 "아직 글이 없어요" 한 줄뿐이라 서치콘솔이 Soft 404 로 판정한다(2026-10-27 /en/overseas/).
+// 글이 생길 때까지 noindex 로 두고, 사이트맵에서는 scripts/lib/thin-tags.mjs 의 emptyScopePaths 가 같은 기준으로 뺀다.
+const robotsNoindex = noindex || page.data.length === 0;
 ---
-<BaseLayout lang={lang} title={seoTitle} description={seoDescription} path={path} alternates={alternates} noindex={noindex}>
+<BaseLayout lang={lang} title={seoTitle} description={seoDescription} path={path} alternates={alternates} noindex={robotsNoindex}>
   <section class="section container">
     <header class="list-head">
       <h1>{title}{pageLabel && <span class="muted page-label"> · {pageLabel}</span>}</h1>

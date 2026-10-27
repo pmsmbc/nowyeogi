@@ -8,12 +8,13 @@ import { rehypeTables } from './src/lib/markdown/rehypeTables.mjs';
 import { rehypeAdSlot } from './src/lib/markdown/rehypeAdSlot.mjs';
 import { rehypeTransitBadges } from './src/lib/markdown/rehypeTransitBadges.mjs';
 import { fileURLToPath } from 'node:url';
-import { thinTagPaths } from './scripts/lib/thin-tags.mjs';
+import { sitemapExcludedPaths } from './scripts/lib/thin-tags.mjs';
 import { sitemapLastmod } from './scripts/lib/posts-meta.mjs';
 
-// 글이 적은 태그 페이지는 사이트맵에서 뺀다(페이지 쪽 noindex 와 같은 기준). 서치콘솔 색인 제외 대응.
+// 글이 적은 태그 페이지와 글이 0편인 범위 목록 페이지(/overseas/ 등)는 사이트맵에서 뺀다(페이지 쪽 noindex 와 같은 기준).
+// 서치콘솔 색인 제외·Soft 404 대응. 빈 목록 페이지는 scripts/check-dist.mjs 가 사이트맵과 noindex 의 일치를 검사한다.
 const postsRoot = fileURLToPath(new URL('./src/content/posts', import.meta.url));
-const { sitemapFilter } = thinTagPaths(postsRoot, { withFilter: true });
+const { sitemapFilter } = sitemapExcludedPaths(postsRoot);
 // 사이트맵 lastmod: 글은 updatedDate ?? pubDate, 목록 페이지는 포함된 글 중 최신. 바뀐 글부터 다시 크롤하라는 신호.
 const lastmodFor = sitemapLastmod(postsRoot);
 
