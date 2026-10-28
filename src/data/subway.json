@@ -262,5 +262,71 @@
     "en": "Toei Oedo Line",
     "ja": "都営大江戸線",
     "color": "#CE045B"
+  },
+  "midosuji": {
+    "ko": "미도스지선",
+    "en": "Midosuji Line",
+    "ja": "御堂筋線",
+    "color": "#E5171F"
+  },
+  "tanimachi": {
+    "ko": "다니마치선",
+    "en": "Tanimachi Line",
+    "ja": "谷町線",
+    "color": "#522886"
+  },
+  "yotsubashi": {
+    "ko": "요츠바시선",
+    "en": "Yotsubashi Line",
+    "ja": "四つ橋線",
+    "color": "#0078BE"
+  },
+  "osakachuo": {
+    "ko": "오사카메트로 주오선",
+    "en": "Osaka Metro Chuo Line",
+    "ja": "Osaka Metro 中央線",
+    "color": "#019A66"
+  },
+  "sennichimae": {
+    "ko": "센니치마에선",
+    "en": "Sennichimae Line",
+    "ja": "千日前線",
+    "color": "#E44D93"
+  },
+  "sakaisuji": {
+    "ko": "사카이스지선",
+    "en": "Sakaisuji Line",
+    "ja": "堺筋線",
+    "color": "#814721"
+  },
+  "nagahori": {
+    "ko": "나가호리츠루미료쿠치선",
+    "en": "Nagahori Tsurumi-ryokuchi Line",
+    "ja": "長堀鶴見緑地線",
+    "color": "#A9CC51"
+  },
+  "osakaloop": {
+    "ko": "JR 오사카 순환선",
+    "en": "JR Osaka Loop Line",
+    "ja": "JR大阪環状線",
+    "color": "#E80000"
+  },
+  "yumesaki": {
+    "ko": "JR 유메사키선",
+    "en": "JR Yumesaki Line",
+    "ja": "JRゆめ咲線",
+    "color": "#003C88"
+  },
+  "jrkyoto": {
+    "ko": "JR 교토선",
+    "en": "JR Kyoto Line",
+    "ja": "JR京都線",
+    "color": "#0072BC"
+  },
+  "jrkobe": {
+    "ko": "JR 고베선",
+    "en": "JR Kobe Line",
+    "ja": "JR神戸線",
+    "color": "#0072BC"
   }
 }
