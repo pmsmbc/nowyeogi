@@ -328,5 +328,47 @@
     "en": "JR Kobe Line",
     "ja": "JR神戸線",
     "color": "#0072BC"
+  },
+  "karasuma": {
+    "ko": "가라스마선",
+    "en": "Karasuma Line",
+    "ja": "烏丸線",
+    "color": "#3CB371"
+  },
+  "kyototozai": {
+    "ko": "교토 지하철 도자이선",
+    "en": "Kyoto Subway Tozai Line",
+    "ja": "京都市営 東西線",
+    "color": "#FF4500"
+  },
+  "keihan": {
+    "ko": "게이한 본선",
+    "en": "Keihan Main Line",
+    "ja": "京阪本線",
+    "color": "#1D2088"
+  },
+  "hankyukyoto": {
+    "ko": "한큐 교토선",
+    "en": "Hankyu Kyoto Line",
+    "ja": "阪急京都線",
+    "color": "#34B580"
+  },
+  "jrnara": {
+    "ko": "JR 나라선",
+    "en": "JR Nara Line",
+    "ja": "JR奈良線",
+    "color": "#B67C2B"
+  },
+  "sagano": {
+    "ko": "JR 사가노선",
+    "en": "JR Sagano Line",
+    "ja": "JR嵯峨野線",
+    "color": "#878DDC"
+  },
+  "kintetsukyoto": {
+    "ko": "긴테쓰 교토선",
+    "en": "Kintetsu Kyoto Line",
+    "ja": "近鉄京都線",
+    "color": "#E7A61A"
   }
 }

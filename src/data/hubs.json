@@ -69,9 +69,10 @@
         "jinju",
         "gapyeong",
         "tokyo",
-        "osaka"
+        "osaka",
+        "kyoto"
       ],
-      "limit": 10,
+      "limit": 11,
       "more": "/domestic/"
     },
     {
