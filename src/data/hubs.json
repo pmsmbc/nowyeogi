@@ -70,9 +70,10 @@
         "gapyeong",
         "tokyo",
         "osaka",
-        "kyoto"
+        "kyoto",
+        "matsuyama"
       ],
-      "limit": 11,
+      "limit": 12,
       "more": "/domestic/"
     },
     {

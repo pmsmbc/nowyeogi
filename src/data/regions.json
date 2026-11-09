@@ -392,5 +392,15 @@
       "전국구",
       "단풍"
     ]
+  },
+  "matsuyama": {
+    "ko": "마쓰야마",
+    "en": "Matsuyama",
+    "ja": "松山",
+    "scope": "overseas",
+    "country": "JP",
+    "aliases": [
+      "마츠야마"
+    ]
   }
 }
