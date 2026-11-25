@@ -402,5 +402,16 @@
     "aliases": [
       "마츠야마"
     ]
+  },
+  "gwangju": {
+    "ko": "광주",
+    "en": "Gwangju",
+    "ja": "光州",
+    "scope": "domestic",
+    "country": "KR",
+    "aliases": [
+      "광주광역시",
+      "광주시"
+    ]
   }
 }
